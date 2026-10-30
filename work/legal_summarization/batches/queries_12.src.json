@@ -1,0 +1,75 @@
+[
+ {
+  "_id": "00275",
+  "title": "",
+  "text": "facebook uses cookies.",
+  "context": [
+   "we use cookies if you have a facebook account use the facebook products including our website and apps or visit other websites and apps that use the facebook products including the like button or other facebook technologies."
+  ]
+ },
+ {
+  "_id": "00276",
+  "title": "",
+  "text": "facebook give personal details to 3rd party by default.",
+  "context": [
+   "sharing with third party partners we work with third party partners who help us provide and improve our products or who use facebook business tools to grow their businesses which makes it possible to operate our companies and provide free services to people around the world. we don t sell any of your information to anyone and we never will. we also impose strict restrictions on how our partners can use and disclose the data we provide. here are the types of third parties we share information with partners who use our analytics services. we provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts listings pages videos and other content on and off the facebook products. for example page admins and instagram business profiles receive information about the number of people or accounts who viewed reacted to or commented on their posts as well as aggregate demographic and other information that helps them understand interactions with their page or account. advertisers. we provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing but we don t share information that personally identifies you information such as your name or email address that by itself can be used to contact you or identifies who you are unless you give us permission. for example we provide general demographic and interest information to advertisers for example that an ad was seen by a woman between the ages of 25 and 34 who lives in madrid and likes software engineering to help them better understand their audience. we also confirm which facebook ads led you to make a purchase or take an action with an advertiser. measurement partners. we share information about you with companies that aggregate it to provide analytics and measurement reports to our partners. partners offering goods and services in our products. when you subscribe to receive premium content or buy something from a seller in our products the content creator or seller can receive your public information and other information you share with them as well as the information needed to complete the transaction including shipping and contact details. vendors and service providers. we provide information and content to vendors and service providers who support our business such as by providing technical infrastructure services analyzing how our products are used providing customer service facilitating payments or conducting surveys. researchers and academics. we also provide information and content to research partners and academics to conduct research that advances scholarship and innovation that support our business or mission and enhances discovery and innovation on topics of general social welfare technological advancement public interest health and well being. law enforcement or legal requests. we share information with law enforcement or in response to legal requests in the circumstances outlined below. learn more about how you can control the information about you that you or others share with third party partners in the facebook settings and instagram settings."
+  ]
+ },
+ {
+  "_id": "00277",
+  "title": "",
+  "text": "the scope of the copyright license granted to facebook includes the rights to transfer and sublicense. this means your content can be licensed by facebook to third parties.",
+  "context": [
+   "when you share post or upload content that is covered by intellectual property rights like photos or videos on or in connection with our products you grant us a non exclusive transferable sub licensable royalty free and worldwide license to host use distribute modify run copy publicly perform or display translate and create derivative works of your content consistent with your privacy and application settings."
+  ]
+ },
+ {
+  "_id": "00278",
+  "title": "",
+  "text": "facebook uses your data for many purposes.",
+  "context": [
+   "product research and development we use the information we have to develop test and improve our products including by conducting surveys and research and testing and troubleshooting new products and features."
+  ]
+ },
+ {
+  "_id": "00279",
+  "title": "",
+  "text": "your data may be processed and stored anywhere in the world.",
+  "context": [
+   "because our services are used by people all over the world personal information that we collect may be stored and processed in the united states of america or any other country in which we or our agents maintain facilities.",
+   "please be aware that we may transfer your information to israel the european union and other countries through certain third parties that we use to operate and manage the site and services including amazon web services aws or google cloud services."
+  ]
+ },
+ {
+  "_id": "00280",
+  "title": "",
+  "text": "collects all data you send username email credit card number any kind of info other put about you as well. plus all info about your device.",
+  "context": [
+   "device information as described below we collect information from and about the computers phones connected tvs and other web connected devices you use that integrate with our products and we combine this information across different devices you use. for example we use information collected about your use of our products on your phone to better personalize the content including ads or features you see when you use our products on another device such as your laptop or tablet or to measure whether you took an action in response to an ad we showed you on your phone on a different device. information we obtain from these devices includes device attributes information such as the operating system hardware and software versions battery level signal strength available storage space browser type app and file names and types and plugins. device operations information about operations and behaviors performed on the device such as whether a window is foregrounded or backgrounded or mouse movements which can help distinguish humans from bots. identifiers unique identifiers device ids and other identifiers such as from games apps or accounts you use and family device ids or other identifiers unique to facebook company products associated with the same device or account. device signals bluetooth signals and information about nearby wi fi access points beacons and cell towers. data from device settings information you allow us to receive through device settings you turn on such as access to your gps location camera or photos. network and connections information such as the name of your mobile operator or isp language time zone mobile phone number ip address connection speed and in some cases information about other devices that are nearby or on your network so we can do things like help you stream a video from your phone to your tv. cookie data data from cookies stored on your device including cookie ids and settings. learn more about how we use cookies in the facebook cookies policy and instagram cookies policy."
+  ]
+ },
+ {
+  "_id": "00281",
+  "title": "",
+  "text": "your identity is used in ads that are shown to other users.",
+  "context": [
+   "you give us permission to use your name and profile picture and information about actions you have taken on facebook next to or in connection with ads offers and other sponsored content that we display across our products without any compensation to you."
+  ]
+ },
+ {
+  "_id": "00282",
+  "title": "",
+  "text": "users are responsible for charges even if device is lost.",
+  "context": [
+   "call us immediately if your device is lost or stolen because you may be responsible for usage charges before you notify us of the alleged loss or theft. a lost or stolen device does not affect your term commitment and you will still be responsible for an early termination fee if you terminate services early. you will still be responsible for any lease or installment billing obligations as well as any monthly recurring charges associated with the service on your device after you notify us of the alleged loss or theft. you agree to cooperate if we choose to investigate the matter provide facts sworn statements etc."
+  ]
+ },
+ {
+  "_id": "00283",
+  "title": "",
+  "text": "they can delete any of your data files music messages etc. at any time and without notice.",
+  "context": [
+   "removal of content you acknowledge that apple is not responsible or liable in any way for any content provided by others and has no duty to pre screen such content. however apple reserves the right at all times to determine whether content is appropriate and in compliance with this agreement and may pre screen move refuse modify and or remove content at any time without prior notice and in its sole discretion if such content is found to be in violation of this agreement or is otherwise objectionable."
+  ]
+ }
+]

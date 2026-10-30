@@ -1,0 +1,43 @@
+{
+ "batch": "corpus_105",
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "2BGCSzOjD8#1",
+   "severity": "minor",
+   "type": "terminologija/gramatika",
+   "description": "U pasusu 27 (citat Guruvayoor): 'only because floodgates of cases will be opened' preneseno kao 'samo to što će se otvoriti brana za priliv predmeta' - 'brana' u nominativu jednine uz 'otvoriti' je gramatički i leksički nepravilno (floodgates = ustave/brane).",
+   "suggestion": "'samo zato što će se otvoriti brane za priliv predmeta' (ili 'otvoriti ustave')."
+  },
+  {
+   "id": "2BGCSzOjD8#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "U pasusu 24: 'V.N. Khare, CJI' preneseno kao 'predsjednik Vrhovnog suda (CJI)' - gubi se 'Indije' i ustaljeni naziv funkcije.",
+   "suggestion": "'V.N. Khare, glavni sudija Indije (CJI)' (ili 'predsjednik Vrhovnog suda Indije (CJI)')."
+  },
+  {
+   "id": "2BGCSzOjD8#1",
+   "severity": "minor",
+   "type": "citati",
+   "description": "U pasusu 28 datum unutar citata '(Court of Session, Times, 8 August 2002)' preveden kao '8. avgust 2002. godine'. Citati ostaju doslovno (dio 9); takođe je 'godine' dodato u citatu.",
+   "suggestion": "Ostaviti '(Court of Session, Times, 8 August 2002)' doslovno."
+  },
+  {
+   "id": "2BGCSzOjD8#1",
+   "severity": "minor",
+   "type": "stil/nejasnoća",
+   "description": "Pasus 23: 'glavni komesar, Hyderabad' (izvor: 'Chief Commissioner, Hyderabad') je nepravilna konstrukcija; pasus 18: 'G. Anoop G. Choudhary' - skraćenica 'G.' (gospodin) se miješa sa inicijalom.",
+   "suggestion": "'glavni komesar u Hyderabadu'; 'gospodin Anoop G. Choudhary' ili 'g. Anoop G. Choudhary' bez dvosmislenosti (npr. 'gosp. Anoop G. Choudhary')."
+  },
+  {
+   "id": "2BGCSzOjD8#1",
+   "severity": "minor",
+   "type": "izostavljanje (neznatno)",
+   "description": "Pasus 21: 'affidavits of the parties as also that of the appellant' preneseno kao 'izjave strana date pod zakletvom, kao i izjavu žalioca' - u drugom dijelu izostaje 'pod zakletvom' (izjavu žalioca date pod zakletvom).",
+   "suggestion": "'...kao i izjavu žalioca datu pod zakletvom'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 14 numerisanih pasusa (17-30) i uvodni citat su prisutni, broj novih redova je isti (32), odnos riječi 0,91, brojevi, citati sudske prakse i datumi (osim formata dd.mm.yyyy u crnogorski oblik) su očuvani, stranke su dosljedno označene (žalilac, protivna strana br. 8, podnosilac ustavne tužbe), a nema ekavskih ni hrvatskih oblika. Registar je primjeren obrazloženju presude i glosaru (nalog (writ), vijeće (Division Bench), Indijska Unija, država X, odbijena); jedine primjedbe su manje stilske i terminološke."
+}

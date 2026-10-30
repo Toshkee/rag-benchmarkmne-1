@@ -1,0 +1,64 @@
+{
+ "batch": "corpus_128",
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Red 43: 'trade, commerce and intercourse' preveden kao 'trgovinu, privredu i promet'; 'commerce' nije 'privreda' (širi, pogrešan pojam).",
+   "suggestion": "'slobodnu trgovinu, poslovanje (commerce) i saobraćaj/promet' ili 'trgovinu, privredne djelatnosti i promet'."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "jasnoća",
+   "description": "Red 43, posljednja rečenica: 'it should be strictly construed' -> 'on se mora strogo tumačiti'; zamjenica 'on' nema jasan antecedent (u izvoru 'it' = Act).",
+   "suggestion": "'S jedne strane, budući da se njime oduzima nečija sloboda, zakon se mora strogo tumačiti, a s druge strane ...'."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "citat predmeta",
+   "description": "Red 47: naziv predmeta preveden/preoblikovan: izvor 'through his sister Km. Archana Chelawat' -> 'koga zastupa sestra Km. Archana Chelawat' i 'koga zastupa kćerka'. Naslov predmeta treba da ostane doslovan kao citat.",
+   "suggestion": "'Dharmendra Suganchand Chelawat through his sister Km. Archana Chelawat & Suganchand Kan-naiyyalal Chelawat through his daughter Km. Archana Chelawat protiv Indijske Unije i drugih' (zadržati 'through his sister/daughter' ili 'preko sestre/kćerke' dosljedno)."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "Red 52: 'Government of Tamil Nadu' -> 'Vlada Tamil Nadua'; glosar traži 'Vlada države' (State Government), a u zaglavlju je 'State of Tamil Nadu' -> država Tamil Nadu. Takođe 'Public Department' -> 'Odjeljenje za javne poslove' je izbor prevodioca (prihvatljiv).",
+   "suggestion": "'Vlada države Tamil Nadu'."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "puni naziv zakona",
+   "description": "Red 55: 'Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974' -> 'Zakon o očuvanju deviza i sprječavanju krijumčarenja iz 1974. godine'; izostavljena riječ 'Activities'.",
+   "suggestion": "'Zakon o očuvanju deviza i sprječavanju krijumčarskih djelatnosti iz 1974. godine'."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "nepravilna rečenica",
+   "description": "Red 55: 'The petitioner be released from jail forthwith' -> 'Podnosilac zahtjeva da se odmah pusti iz zatvora' je gramatički nepotpuna/nenormativna konstrukcija.",
+   "suggestion": "'Podnosilac zahtjeva se ima odmah pustiti iz zatvora, osim ako je potreban u vezi sa nekim drugim predmetom.'"
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Red 55 vs. posljednji red: 'The writ petition is accordingly allowed' -> 'Ustavna tužba (writ petition) se ... usvaja', a 'Petition allowed.' -> 'Zahtjev usvojen.' Isti podnesak je označen različito (tužba / zahtjev); glosar (dio 6) traži 'nalog (writ)', dio 3 'ustavna tužba (writ petition)'.",
+   "suggestion": "Posljednji red: 'Ustavna tužba usvojena.' (ili dosljedno 'Zahtjev (writ petition) usvojen' na oba mjesta)."
+  },
+  {
+   "id": "OjkeaBKsoR#2",
+   "severity": "minor",
+   "type": "stil/terminologija",
+   "description": "Red 'vitiates': 'the detention ... vitiates' -> 'pritvor ... je manjkav'; 'manjkav' nije ustaljeni pravni izraz. Takođe 'non-application of mind' -> 'nije savjesno razmotrio stvar' (blago parafrazirano).",
+   "suggestion": "'pritvor ... je zahvaćen nezakonitošću (ništav)'; 'nije primijenio svoju prosudbu / nije samostalno ocijenio stvar'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 26 redova (25 novih redova) je prisutno, brojevi, citati (SCC, Indlaw), datumi i članovi su doslovni, tokeni se poklapaju, bez ekavizama i hrvatizama, odnos riječi 0,94. Registar je pravilan obrazloženju presude sa ustaljenim glosarom (organ koji određuje pritvor, pušten uz jemstvo, osporeno rješenje); nađene su samo manje terminološke i stilske nepreciznosti, bez izostavljanja ili promjene značenja."
+}

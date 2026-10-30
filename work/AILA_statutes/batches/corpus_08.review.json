@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"Revenue-officer\" i \"Civil or Revenue-officer\" prevedeno kao \"službenik poreske uprave\" / \"službenika građanske ili poreske uprave\". U indijskom pravu Revenue-officer je službenik zemljišne/prihodne uprave (ne poreski organ), pa \"poreske\" blago pomjera značenje.",
+      "suggestion": "Npr. \"službenik uprave prihoda\" (ili \"službenik za zemljišne prihode\") dosljedno na oba mjesta (tačke (viii) i (xii))."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "izostavljena razlika / dodatak",
+      "description": "U tački (iii) \"mortgaged, conveyed or otherwise transferred\" -> \"založilo, prenijelo ili na drugi način prenijelo\": \"conveyed\" i \"transferred\" su oba \"prenijelo\". Takođe je u zagradi dodato \"povjerenike (trustees)\" koje nije u izvoru.",
+      "suggestion": "\"založilo, preneslo (conveyed) ili na drugi način prenijelo\" ili \"založilo, ustupilo ili na drugi način prenijelo\"; ukloniti dopisano \"(trustees)\" ili ostaviti samo \"povjerenike\"."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "terminološka nedosljednost",
+      "description": "Nazivi indijskih zakona nisu usklađeni: \"Indijski zakon o registraciji iz 1866. godine\" (Indian Registration Act) naspram \"Zakon o taksama Indije iz 1899. godine\" (Indian Stamp Act). Glosar za Indian Evidence Act koristi \"Zakon o dokazima\" bez \"Indijski\", pa je prefiks nedosljedan.",
+      "suggestion": "Ujednačiti oblik, npr. \"Zakon o taksama Indije\" i \"Zakon o registraciji Indije iz 1866. godine\" ili obrnuto, kroz cijeli tekst."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "sintaksa / registar",
+      "description": "Uvodna rečenica prati izvornu (već oštećenu) sintaksu pa je nategnuta: \"u okrugu u kojem je, i ako su sačinjene na dan ili nakon dana kada je, Zakon br. XVI iz 1864, ... ili ovaj zakon stupio ili stupi na snagu\" (izvor: \"in which, and if they ... have been executed on or after the date on which, Act No. XVI ... came or comes into force\"). Takođe \"Zakon br. XVI iz 1864\" bez \"godine\" za razliku od ostalih.",
+      "suggestion": "\"... u okrugu u kojem je, i ako su sačinjene na dan ili nakon dana kada je stupio na snagu, Zakon br. XVI iz 1864. godine, ili ... ili ovaj zakon (stupio ili stupi na snagu), i to:\" (bez promjene sadržaja)."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "glosar / terminologija",
+      "description": "\"title\" (right, title or interest) prevedeno kao \"pravni osnov\" (npr. \"bilo kakvog prava, pravnog osnova ili interesa\"), što pravno znači \"causa\", a ne \"title\"; \"State Government\" -> \"Vlada savezne države\" i \"STATE AMENDMENTS\" -> \"IZMJENE U SAVEZNIM DRŽAVAMA\" odstupaju od glosara (the State -> Država); \"Provided that\" -> \"Izuzetno,\" dok se kasnije koristi \"odredba o izuzetku\".",
+      "suggestion": "\"prava, svojine (titulara) ili interesa\" ili \"prava, pravnog naslova ili interesa\"; razmotriti \"Vlada Države\"/\"Izmjene po državama\" ili zadržati \"savezne države\" dosljedno; \"Pod uslovom da\" / \"Uz izuzetak da\" umjesto \"Izuzetno,\"."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "format datuma",
+      "description": "U fusnotama: \"stupilo na snagu 24. 09. 2001. godine\" (dvaput) nije u istom formatu kao ostali datumi u tekstu (\"1. 4. 1999.\", \"22. 2. 1968.\"). Stilski vodič propisuje oblik \"1. 1. 1956.\".",
+      "suggestion": "\"stupilo na snagu 24. 9. 2001. godine\"."
+    },
+    {
+      "id": "3npgW2zMj5",
+      "severity": "minor",
+      "type": "stil",
+      "description": "\"Zakona Bombaja o zajmovima licima koja nijesu poljoprivrednici\" (Bombay Non-Agriculturists' Loans Act) je nezgrapno, a \"Tamil Nadua\"/\"Maharaštre\" u genitivu nije dosljedno (npr. \"Zakon Kerale\" vs \"Zakon Maharaštre\"). \"imaju za cilj ili za dejstvo\" je ponovljeno doslovno za \"purport or operate\", prihvatljivo ali stilski teško.",
+      "suggestion": "\"Zakona Bombaja o zajmovima za lica koja se ne bave poljoprivredom iz 1928. godine\"; ujednačiti padeže naziva država; eventualno \"kojima se nastoji ili koje proizvode dejstvo\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: skup _id-ova je identičan, svi brojevi (uključujući članove, stavove, godine i datume) poklapaju se po broju pojavljivanja, odnos riječi je 1.06, nema ekavskih ni hrvatskih oblika, počinje sa \"Naslov:\" i sadrži \"Opis:\", a nijedna odredba, državna izmjena niti fusnota nije izostavljena ni dodata. Registar je pravnički i blizak jeziku crnogorskih propisa (ijekavica, nijesu, saglasnost, shodno), a nađena odstupanja su isključivo manja terminološka i stilska (Revenue-officer, title, nedosljedni nazivi zakona, format datuma)."
+}

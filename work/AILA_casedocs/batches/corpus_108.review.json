@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "FVr9Qh8yXv#0",
+   "severity": "minor",
+   "type": "dodat sadržaj (glosa)",
+   "description": "Prevod dodaje englesku glosu u zagradi koje u izvoru nema: „izjavom (declaration) datom i objavljenom prema članu 6“ (izvor: „a declaration made and published u/s. 6“) i „gubitaka zbog parcelacije (lay-out losses)“ (izvor: „40% area towards lay-out losses“). Glosa se po vodiču dodaje samo za pojmove predviđene glosarom.",
+   "suggestion": "Ukloniti „(declaration)“ i prvu zagradu „(lay-out losses)“ u dijelu o odbijanju 40%; ostaviti npr. „izjavom datom i objavljenom prema članu 6“."
+  },
+  {
+   "id": "FVr9Qh8yXv#0",
+   "severity": "minor",
+   "type": "neprirodan termin",
+   "description": "„Sudu podređenog sudije (Subordinate Judge)“ za „Court of the Subordinate Judge“ je nezgrapno i sa dodatnom glosom; „protivčinidba“ za „consideration“ („iznosa protivčinidbe navedene u kupoprodajnim ugovorima“) je rijedak obligacionopravni izraz u kontekstu kupoprodaje.",
+   "suggestion": "„Sudu podređenog sudije, okrug Ranga Reddy“ (bez glose) i „iznosa naknade/cijene navedenih u kupoprodajnim ugovorima“ (npr. „iznosa kupoprodajne cijene i protivvrijednosti“); dosljedno u cijelom itemu."
+  },
+  {
+   "id": "FVr9Qh8yXv#0",
+   "severity": "minor",
+   "type": "terminološka nedosljednost/glosar",
+   "description": "„claimant“ je preveden kao „tražilac naknade“ (nije u glosaru, ali je dosljedan u cijelom itemu); „Senior Counsel“ je preveden „uvaženi viši zastupnik (Senior Counsel)“ umjesto glosarskog „uvaženi zastupnik“ sa dodatnom glosom. Zakon „Land Acquisition Act“ preveden je „Zakon o eksproprijaciji“ (skraćeni oblik iz definicije) bez punog naziva pri prvom pomenu u tekstu.",
+   "suggestion": "Zadržati „tražilac naknade“ kroz cijeli dokument (i u narednim dijelovima #1–#3); uskladiti „Senior Counsel“ sa ostalim dijelovima; pri prvom pomenu navesti puni naziv „Zakon o eksproprijaciji zemljišta iz 1894. godine“ (već je dat) – prihvatljivo kako jeste."
+  },
+  {
+   "id": "FVr9Qh8yXv#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Zaglavlje: „Presudu je izrekao: uvaženi sudija N. Venkatachala“ — izvor „Hon'ble Justice“; vodič propisuje „sudija X“. Takođe „Sada ćemo redom razmotriti“ i „Povodom pitanja (1)“ su prihvatljivi, ali „pitanja koja nam sada preostaju ... jesu za koje bi se eksproprisano zemljište moglo smatrati“ je gramatički teško čitljivo.",
+   "suggestion": "Zaglavlje: „Presudu je izrekao: sudija N. Venkatachala“ (ili zadržati „uvaženi“ dosljedno u svim dijelovima). Zadnju rečenicu preformulisati: „...preostaje da razmotrimo koje se eksproprisano zemljište može smatrati zemljištem sa građevinskim potencijalom i kako treba izmjeriti ili utvrditi tržišnu vrijednost takvog zemljišta.“"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svi pasusi i rečenice (1–18, uključujući pitanja 8–15 i obje alineje o potencijalu) su prisutni, broj novih redova (24) je isti, svi tokeni (Rs. x23, A2, A6), brojevi (uključujući OCR greške IO, II, 1336263/93), datumi, iznosi, citati i brojevi članova su doslovno očuvani, bez ekavizama i hrvatizama. Strane su dosljedno označene (žalilac, protivna strana, tražilac naknade, LAO), a registar je primjeren sudskom obrazloženju, uz nekoliko sitnih stilskih nedostataka (suvišne glose, rijetka riječ „protivčinidba“)."
+}

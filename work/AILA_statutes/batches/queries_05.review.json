@@ -1,0 +1,51 @@
+{
+ "batch": "queries_05",
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00016",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Additional Chief Metropolitan Magistrate' preveden kao 'pomoćni glavni gradski magistrat' (dvaput). 'Additional' nije 'pomoćni'.",
+   "suggestion": "'dopunski (dodatni) glavni gradski magistrat'; ostaviti dosljedno na oba mjesta."
+  },
+  {
+   "id": "00016",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'the petitioner is presently confined in Central Prison'; prevod: 'zadržan u Centralnom zatvoru'. 'Zadržan/zadržavanje' u glosaru označava remand, pa dolazi do pomutnje s 'detention/pritvor'. Takođe 'stale' (charges/incident) -> 'zastario/zastarjele' sugeriše zastarjelost u pravnom smislu.",
+   "suggestion": "'nalazi se u Centralnom zatvoru' (ili 'u pritvoru u Centralnom zatvoru'); 'stale' -> 'prevaziđen po proteku vremena / suviše davan'."
+  },
+  {
+   "id": "00016",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'learned advocate appearing in support of the petition' -> 'uvaženi advokat koji je zastupao zahtjev' - 'zastupao zahtjev' nije pravnički izraz. Izvorna greška datuma '1.3.2000' (uz '1st March, 2001') vjerno je preslikana ('1. marta 2000. godine') - u redu, ali ne ispravljati.",
+   "suggestion": "'uvaženi advokat koji je istupao u prilog zahtjevu'."
+  },
+  {
+   "id": "00017",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'Odluka je osporena prigovorima koje su po osnovu podnijeli neki od ortaka' - viseće 'po osnovu' (izvor ima isti prazan 'filed under by'). Takođe 'misconduct' -> 'nedozvoljeno postupanje' a 'inadmissible' -> 'nedopuštena' (nedosljedno nedozvoljeno/nedopušteno).",
+   "suggestion": "'misconduct' -> 'nepropisno postupanje arbitara'; zadržati prazninu iz izvora ili 'podnijeli su neki od ortaka' bez dodavanja sadržaja."
+  },
+  {
+   "id": "00018",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'rigorous imprisonment for life' prevedeno kao 'strogi doživotni zatvor' (dvaput), dok je u 00019 'imprisonment for life' -> 'kazna doživotnog zatvora'. Glosar: 'kazna doživotnog zatvora'; 'strogi doživotni zatvor' je neprirodan. Takođe 'novčanu kaznu od Rs.10,000/- svakog' i nepodudaranje roda 'presude i rješenja ... koje je donio ..., kojom je'.",
+   "suggestion": "'osudio ih na kaznu doživotnog zatvora (strogi zatvor) i novčanu kaznu od Rs.10,000/- svakome'; 'presude i rješenja ... koje je donio Visoki sud, kojim je'."
+  },
+  {
+   "id": "00018",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "'accused persons' -> 'okrivljeni' u 'okrivljeni su obrazovali nedozvoljeno okupljanje', a drugdje 'optuženi P5 i P6', 'okrivljeni u predmetu ubistva'; unutar iste presude miješaju se okrivljeni/optuženi bez jasne granice (prije/poslije optužnice).",
+   "suggestion": "Za optužene tokom suđenja dosljedno 'optuženi'; 'okrivljeni' samo za fazu prije optužnice."
+  }
+ ],
+ "auto_checks": "Isti skup _id (00016-00019); tokeni P*/Rs. i brojevi se poklapaju (razlike samo zbog formata datuma); odnos riječi 0.82-0.95; nema ekavice ni hrvatskih oblika.",
+ "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, tokeni, iznosi, brojevi i datumi su očuvani, a ijekavica i datumski format su ispravni. Registar je uglavnom primjeren pravnom jeziku Crne Gore; preostala odstupanja su manja terminološka (Additional, rigorous imprisonment for life, okrivljeni/optuženi) i stilska."
+}

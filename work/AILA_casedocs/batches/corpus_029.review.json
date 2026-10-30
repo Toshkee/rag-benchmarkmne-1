@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "typo/ortografija",
+      "description": "Para 16: \"u svim ostalim djelovima ostaje nepromijenjeno\" (izvor: \"in all other respects\"). Oblik \"djelovima\" je pogrešan (ijekavski dio -> dijelovi).",
+      "suggestion": "\"u svim ostalim dijelovima\" (ili \"u svim ostalim pogledima\")."
+    },
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Para 9: \"mogućeg kvarnog uticaja zatvora\" (izvor: \"possible contamination of prison\") i para 8/7 \"da diramo u oslobađanje\" (izvor: \"disturb the acquittal\") su neprirodni/kolokvijalni za registar presude.",
+      "suggestion": "\"mogućeg štetnog uticaja zatvora\"; \"da mijenjamo oslobađanje\" / \"da dovodimo u pitanje oslobađanje\"."
+    },
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 10, citat člana 357(1)(b): \"naknada može biti dosuđena pred parničnim sudom\" za \"recoverable by such person in a civil Court\" blago pomjera smisao (recoverable = može se naplatiti/potraživati).",
+      "suggestion": "\"kada ta lica, po mišljenju suda, mogu potraživati naknadu pred parničnim sudom\"."
+    },
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "dodavanje/preciziranje",
+      "description": "Para 6: \"is nephew of Hari Kishan\" -> \"sinovac Hari Kishana\" sužava značenje (izvor ne kaže da je sin brata); para 2: \"giving them the benefit of doubt\" -> \"primjenjujući u njihovu korist pravilo o sumnji (benefit of doubt)\" dodaje glosu u zagradi koja nije u izvoru.",
+      "suggestion": "\"nećak (sinovac ili sestrić) Hari Kishana\" ili neutralno \"nećak\"; \"davanjem prednosti sumnje u njihovu korist\" bez zagrade."
+    },
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "formulacija",
+      "description": "Zaglavlje: \"Presudu je izrekao: sudija K. J. Shetty\" je u skladu sa vodičem. Završna linija \"Appeal disposed of\" -> \"Po žalbi je odlučeno\" je u jednini, a predmet obuhvata dvije žalbe; para 7 \"da bi postojalo' ubistvo\" za \"necessary constitute' murder\" (stilski: \"da bi predstavljali ubistvo\").",
+      "suggestion": "\"Žalbe riješene\"; \"kakvi su potrebni da bi radnja predstavljala ubistvo\"."
+    },
+    {
+      "id": "PNLbWphJeV#0",
+      "severity": "minor",
+      "type": "sintaksa",
+      "description": "Para 1: \"Protiv lica koja su zajednička protivna strana u žalbama. vođen je krivični postupak\" - nezgrapna konstrukcija (izvor: \"The common respondents in the appeals were prosecuted\"); \"zajednička protivna strana\" u jednini za više lica, a u paragrafu 5 isto \"protivna strana nije kriva\".",
+      "suggestion": "\"Zajednička protivna strana u žalbama (tj. lica) krivično je gonjena...\" ili \"Lica koja su protivna strana u žalbama vođena su u krivičnom postupku...\" uz dosljednu upotrebu u cijelom dokumentu."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (38), identični tokeni (Rs. x3) i svi brojevi/članovi/citati (307/149, 148, 325, 323, 357, 360), bez ekavskih i hrvatskih oblika, odnos riječi 0.93. Nijedna rečenica nije izostavljena, strane su dosljedno označene (optuženi/protivna strana/žalioci), a registar je primjeren obrazloženju presude uz svega nekoliko stilskih nezgrapnosti i jedan pravopisni lapsus (djelovima)."
+}

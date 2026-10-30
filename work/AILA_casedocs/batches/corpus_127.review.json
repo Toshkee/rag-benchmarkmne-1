@@ -1,0 +1,42 @@
+{
+ "n_blocking": 1,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "OjkeaBKsoR#1",
+   "severity": "blocking",
+   "type": "izmijenjeno ime",
+   "description": "Ime zastupnika izmijenjeno u uvodu pasusa 26: izvor 'Mr. R. Mohan learned counsel for the detenu', prevod 'G. R. Mohan, uvaženi zastupnik pritvorenika'. Dodato je slovo 'G.' kojeg nema u izvoru.",
+   "suggestion": "Zamijeniti sa 'R. Mohan, uvaženi zastupnik pritvorenika' (ili 'g. R. Mohan')."
+  },
+  {
+   "id": "OjkeaBKsoR#1",
+   "severity": "minor",
+   "type": "terminologija/dodavanje",
+   "description": "Izvor 'to the Secretary Public' preveden kao 'sekretaru Odjeljenja za javne poslove' (dodata riječ 'Odjeljenja' / protumačen naziv).",
+   "suggestion": "'sekretaru za javne poslove (Secretary Public)' ili 'sekretaru Odjeljenja za javne poslove' uz isti naziv svuda; zadržati bliže izvoru."
+  },
+  {
+   "id": "OjkeaBKsoR#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'constitution bench' prevedeno 'Ustavno vijeće (constitution bench)' - nije u glosaru, a 'vijeće' je rezervisano za Division Bench; 'vitiates' se različito prevodi: 'učinilo manjkavim' (citat Ashadevi) naspram 'postaje nezakonito' (pasus 31) i 'čini pritvor nezakonitim'.",
+   "suggestion": "'Ustavni sastav suda (constitution bench)'; ujednačiti prevod 'vitiate' (npr. 'čini nezakonitim') kroz cio dio."
+  },
+  {
+   "id": "OjkeaBKsoR#1",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "'public employment' -> 'zapošljavanje u javnom sektoru' (izvor: public employment; uže/šire značenje); 'speed post' -> 'ekspresnom poštom'.",
+   "suggestion": "'zapošljavanje u javnoj službi'; 'brzom poštom (speed post)'."
+  },
+  {
+   "id": "OjkeaBKsoR#1",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "'oko 3.00 časa po podne' / 'u 1745 časova' - nedosljedan i neprirodan zapis časova; 'Tačno je da je stav protivne strane da je ...' - nezgrapna rečenica (pasus 35).",
+   "suggestion": "'oko 15.00 časova' ili 'oko 3.00 po podne'; 'Tačno je da protivna strana tvrdi da je pritvorenik ovu robu unio ...'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id, isti broj novih redova (27), svi brojevi i datumi se podudaraju, nijedan pasus nije izostavljen, citati i brojevi članova su doslovni, nema ekavizama ni hrvatizama. Glosar je uglavnom dosljedno primijenjen (protivna strana, pritvorenik, organ koji je odredio pritvor, nijesu). Registar je prirodan i pravnički; jedina ozbiljnija greška je izmijenjeno ime zastupnika, ostalo su manje stilske i terminološke stavke."
+}

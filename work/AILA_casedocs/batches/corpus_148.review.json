@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "logika/veznik",
+      "description": "Stav 17: 'Iako nije bilo nikakvih zakonitih i dozvoljenih dokaza, ali pod uticajem nalaza nekih povreda' vs izvor 'Without there being any legal and admissible evidence but swayed by finding some injuries'. Koncesivno 'Iako' mijenja logiku i pravi 'iako...ali' konstrukciju.",
+      "suggestion": "'Bez ikakvih zakonitih i dozvoljenih dokaza, a pod uticajem nalaza nekih povreda na tijelima optuženih, ...'"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "izostavljanje nijanse",
+      "description": "Stav 3: 'Između obje strane vodio se sudski postupak' vs 'Litigation was pending between both the parties' - izgubljeno 'pending' (bio u toku).",
+      "suggestion": "'Između obje strane bio je u toku sudski postupak'"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Stav 2: 'u vezi sa glavom (Order) XXI' - dodat gloss '(Order)' kojeg nema u izvoru; 'glava' je slobodan izbor.",
+      "suggestion": "'u vezi sa Order XXI, pravila 12 do 29' ili 'Naredbom XXI'; ukloniti dodatak u zagradi"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Stav 22 (Mukesh): 'Jedan kamen me pogodio u desno rame' - nedostaje pomoćni glagol (izvor: 'One stone hit me on my right shoulder').",
+      "suggestion": "'Jedan kamen me je pogodio u desno rame'"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "vjernost/lice",
+      "description": "Stav 22 (Kiran): unutar citata u prvom licu 'Kada je ugledala optuženog Chheetera, rekla je da je i on bio tamo' - prelazak na treće lice; izvor 'On seeing the accused Chheeter said that he was also there'.",
+      "suggestion": "'Kada sam ugledala optuženog Chheetera, rekao je da je i on bio tamo i da su to svi optuženi koji su tukli' (ili ostaviti neutralno kao u izvoru)"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "leksika",
+      "description": "'forest guard Gajra' -> 'šumar Gajra' (šumar = forester); 'cart' -> 'kola' (motorna asocijacija).",
+      "suggestion": "'šumski čuvar Gajra'; 'zaprežna kola/kolica' umjesto 'kola'"
+    },
+    {
+      "id": "YUPnmbpD0e#0",
+      "severity": "minor",
+      "type": "registar/dosljednost",
+      "description": "Nedosljedno prenošenje lokalnih termina: 'lathis' -> 'lathijima' (deklinirano), a 'khirale', 'pattee', 'dharia' ostavljeni; 'respondents' -> 'protivne strane' za osobe koje su u istom pasusu 'optuženi' (izvor ima istu nedosljednost, ali čitaocu treba biti jasno).",
+      "suggestion": "Ujednačiti (npr. svuda ostaviti lathi/lathijima kao u izvoru); razmotriti 'protivne strane (optuženi)' samo ako ne dodaje sadržaj - inače ostaviti."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (26), svi brojevi, tokeni (A1, A2, A7, A8, A12, Rs. 5, 000/-, PW/P.W. oznake, Ex./Exhibit), citati i datumi sačuvani; nijedan pasus ni rečenica nijesu izostavljeni, odnos riječi 0.875, bez ekavizama i hrvatizama. Registar je prirodan sudski (ijekavica, 'nijesu', 'žalilac', 'uvaženi zastupnik', 'Visoki sud', 'prvostepeni sud'), terminologija dosljedna glosaru; nađene su samo manje stilske i leksičke nepreciznosti."
+}

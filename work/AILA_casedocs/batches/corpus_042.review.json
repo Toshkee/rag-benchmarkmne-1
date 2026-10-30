@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "rsK9EjHvIH#0:p2",
+   "severity": "minor",
+   "type": "stil/pravni_registar",
+   "description": "Izvor: 'At questioned P.W.3 how he dared...' (tipfeler za 'A1 questioned'); prevod 'Tada je upitao P.W.3 kako se usudio' nema jasan subjekt pa čitalac ne zna ko pita.",
+   "suggestion": "Ostaviti vjerno izvoru, ili 'Tada je (A1) upitao P.W.3'; ne dodavati token A1 bez odluke jer mijenja broj pojavljivanja."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p2b",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "Izvor 'stabbed, stabbed' (uzvik); prevod 'ubo me, ubo me' znači 'on me ubo' i uvodi jedninu/aorist.",
+   "suggestion": "'uboden sam, uboden sam' ili 'ubodoše me, ubodoše me'."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p2c",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "'several persons had gathered' -> 'veći broj lica okupio se'; 'P.W. 3 was arranging to have' -> 'P.W. 3 je organizovao' (svršeni vid umjesto radnje u toku).",
+   "suggestion": "'nekoliko lica se okupilo'; 'P.W. 3 je organizovao/pripremao'."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Exhibit P-1/P-5/P-6' prevedeno 'dokaz P-1', a 'evidence' takođe 'dokaz' pa je oznaka priloga dvosmislena (npr. 'dokaz P-5' = zahtjev, 'Dokaz P-1').",
+   "suggestion": "Uvesti dosljedno 'dokazni predmet P-1' ili 'izvod P-1' kroz sve dijelove korpusa (odluka za cijeli dataset); u okviru batcha je bar dosljedno."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p3b",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'optužni akt protiv lica: Sadhanantham, ...' — dodato 'lica:' koje u izvoru ne postoji; 'jeep requisitioned' -> 'rekvirirala' (kalk); 'Government Headquarters Hospital' -> 'Vladinu centralnu bolnicu'.",
+   "suggestion": "'optužni akt protiv Sadhananthama, Nithiyananthama, ...'; 'koji je policija zatražila na korišćenje'; 'Vladinu bolnicu sjedišta okruga' (neobavezno)."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'order of acquittal by a Subordinate Court' -> 'rješenje o oslobađanju koje je donio niži sud'; 'intervenisao u oslobađajuću presudu' je nezgrapno.",
+   "suggestion": "'oslobađajuće presude nižeg suda' (ili 'rješenja o oslobađanju'); 'intervenisao povodom oslobađajuće presude Visokog suda'."
+  },
+  {
+   "id": "rsK9EjHvIH#0:reg",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Nedosljedna velika/mala slova: 'navela je Sud', 'nadležnost Suda' naspram 'ovaj sud'; 'apelaciono ovlašćenje/apelacioni sudovi' umjesto uobičajenijeg 'žalbeno'.",
+   "suggestion": "Ujednačiti ('ovaj sud'/'Sud' isto u cijelom dijelu); 'žalbena nadležnost', 'žalbeni sudovi i žalbeni tribunali'."
+  },
+  {
+   "id": "rsK9EjHvIH#0:p8",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "'rejecting the entire case of the prosecution' -> 'odbacio cjelokupne navode optužbe' (case = predmet/slučaj, ne navodi); 'prosecution party' -> 'strana optužbe' nejasno.",
+   "suggestion": "'odbacio cjelokupnu tezu optužbe'; 'strana koja je podnijela prijavu / strana optužbe' (ostaviti ako je cilj doslovnost)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj redova (16), nijedan pasus (1-10) ni rečenica nije izostavljen, svi tokeni (A1-A5, P.W., Exhibit oznake), brojevi, citati sudske prakse (Indlaw SC 550/134/473), datumi i mjere ostali su doslovni; nema ekavskih ni hrvatskih oblika, glosar (žalilac, Visoki sud, Sesijski sud, posebna dozvola za žalbu, krivična prijava (FIR), službenik koji vodi istragu) primijenjen dosljedno. Registar je prirodan sudski, a nalazi su isključivo manji stilski i terminološki (dvosmislenost 'dokaz' za Exhibit, nekoliko slobodnijih izbora)."
+}

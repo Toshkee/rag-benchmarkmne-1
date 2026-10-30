@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "Y7gbtP7ySe#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Isti procesni akter različito imenovan: 'the appellant or his counsel' -> 'žalioca ili njegovog zastupnika', 'the appellant or his pleader' -> 'žaliocu ili njegovom punomoćniku', 'his lawyer' -> 'njegov advokat'. Izvor (čl. 385/386) govori o istoj osobi, pa čitalac može pomisliti da su to različite uloge.",
+      "suggestion": "Uskladiti: 'pleader' i 'lawyer' dosljedno 'advokat' (ili 'pleader' -> 'punomoćnik' svuda, uz napomenu u glosaru); 'counsel' -> 'zastupnik' ostaviti."
+    },
+    {
+      "id": "Y7gbtP7ySe#1",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "'non-prosecution simplicitor' preveden kao 'nepreduzimanje radnji u postupku (non-prosecution) simplicitor' - dodat prevodilački gloss u zagradi koji u izvoru ne postoji i miješa prevod i original.",
+      "suggestion": "'zbog nepreduzimanja radnji u postupku (non-prosecution simplicitor)' ili 'zbog nevođenja žalbe (non-prosecution)', bez dupliranja riječi."
+    },
+    {
+      "id": "SstzyshA6P#0",
+      "severity": "minor",
+      "type": "format/terminologija",
+      "description": "U zaglavlju 'Appeal (crl.) 447 iz 2002. godine' ostalo je neprevedeno 'Appeal (crl.)', dok se u trećem itemu 'C.A. No.' pravilno daje kao 'C.A. br.'. Takođe 'rješenje na četiri strane' (order in four pages): 'strane' je po glosaru i 'party', pa je dvosmisleno.",
+      "suggestion": "'Krivična žalba br. 447 iz 2002. godine' (ili 'Appeal (crl.) br. 447 ...'); 'rješenje na četiri stranice'."
+    },
+    {
+      "id": "xavU07zUHL#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'The State had filed an affidavit' -> 'Država je ... podnijela izjavu' (veliko slovo), a 'State Government' -> 'Vlada države'. Po glosaru (dio 6) veliko 'Država' je samo za 'the State' u Ustavu; ovdje je riječ o saveznoj jedinici. Takođe 'Urban Ceiling Act' -> 'Zakon o ograničenju gradskog zemljišta (Urban Ceiling Act)' unosi dodatni gloss, iako je Zakon već definisan kao 'Zakon'.",
+      "suggestion": "'država je 30. marta 1990. godine podnijela izjavu...' (malo slovo); 'Zakon o ograničenju gradskog zemljišta' bez zagrade ili samo 'Zakon'."
+    },
+    {
+      "id": "xavU07zUHL#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "'Rest of the matters are adjourned' -> 'Ostala pitanja odlažu se' (matters su predmeti, ne pitanja); 'since the same has already been delayed' -> 'budući da je ono već odloženo' (nejasan referent 'ono'); 'scheme' -> 'šema' je kalk, u propisima je uobičajenije 'program/plan'.",
+      "suggestion": "'Ostali predmeti odlažu se za sljedeću sedmicu'; 'budući da je to obrazovanje već kasnilo više od pet godina'; 'šema' -> 'program' (dosljedno u cijelom itemu)."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je isti, tokeni (nema ih u ovom batchu) i svi brojevi članova, godina, citata (SCC/Indlaw) se poklapaju, broj novih redova je identičan, odnos riječi je 0.83-0.87, nema ekavskih ni hrvatskih oblika, a nijedna rečenica nije izostavljena. Strane su dosljedno označene (žalilac, protivna strana, Visoki sud, vijeće (Division Bench)), a registar je prirodan sudski, ijekavski, sa 'nijesu/ovlašćenje' normom gdje je potrebno. Pronađena su samo manja stilska i terminološka odstupanja."
+}

@@ -1,0 +1,63 @@
+{
+ "n_blocking": 2,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "blocking",
+   "type": "promijenjeno značenje (negacija)",
+   "description": "Pasus 37, dvije rečenice: izvor „unless he is guilty of misconduct, negligence, inefficiency or other disqualifications and appropriate proceedings are taken under the service rules“ (i drugi put „unless he has been guilty of some misconduct ... and appropriate proceedings are taken“) preveden je „osim ako samo radno mjesto ne bude ukinuto ili ako nije krivo za nedolično ponašanje, nemar, neefikasnost ... i ako se ne sprovede odgovarajući postupak“ i „osim ako nije krivo za neko nedolično ponašanje ... i ako se ne sprovede odgovarajući postupak“. „ako nije krivo“ doslovno znači „ako nije kriv“ (obrnuto od izvora), a „ako se ne sprovede“ takođe nosi negaciju; uslovi su time obrnuti/dvosmisleni.",
+   "suggestion": "„... osim ako samo radno mjesto ne bude ukinuto ili ako je krivo za nedolično ponašanje, nemar, neefikasnost ili druge nedostatke i ako se sprovede odgovarajući postupak prema pravilima o službi u vezi sa članom 311(2).“ Isto za drugu rečenicu: „osim ako je krivo za neko nedolično ponašanje ... i ako se sprovede odgovarajući postupak ...“."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "blocking",
+   "type": "pogrešno značenje",
+   "description": "Pasus 37: izvor „the termination of the service of such a servant or his reduction to a lower post is by itself and prima facie a punishment“ preveden je „prestanak službe takvog službenika ili njegovo premještanje na niže radno mjesto je samo po sebi i prima facie kazna“. „Reduction“ (snižavanje) je preveden kao „premještanje“ (transfer), što mijenja pojam kazne.",
+   "suggestion": "„... ili njegovo snižavanje na niže radno mjesto je samo po sebi i prima facie kazna“."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 36: „u st. (1) i (2) člana 240“ za „sub-ss. (1) and (2) of s. 240“ — skraćenica „st.“ nije u skladu sa glosarom (sub-section → stav).",
+   "suggestion": "„u stavovima (1) i (2) člana 240“."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 39: „predsjednik suda Chagla“ za „Chagla C.J.“ (Chief Justice) — neprecizno; „predsjednik suda“ ne odgovara ustaljenom nazivu.",
+   "suggestion": "„glavni sudija Chagla“ (ili „predsjednik Visokog suda Chagla“ ako je potrebno pojašnjenje)."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Pasus 37: „substantively“ je preveden „kao titular“ (npr. „postavljeno kao titular na stalno radno mjesto“, „bilo kao titular, bilo na probnom radu“) — neuobičajeno u pravnom registru CG; „titularni niži rang“ u pasusu 40 takođe.",
+   "suggestion": "„u stalnom svojstvu“ / „kao stalno postavljeno lice“; „stalni (titularni) rang“ uz dosljednu upotrebu."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Pasus 35: „three major punishments“ preveden „tri najteže kazne“ — „major“ znači „glavne/veće“, ne nužno „najteže“.",
+   "suggestion": "„tri glavne kazne“."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "registar/nazivi",
+   "description": "Nazivi: „R. Venkata Rao protiv državnog sekretara za Indiju“ (malo slovo, naziv funkcije u nazivu predmeta); „predsjednika, odnosno guvernera“ (President/Governor kao nosioci funkcije u Ustavu).",
+   "suggestion": "„protiv Državnog sekretara za Indiju“; „Predsjednika, odnosno Guvernera“."
+  },
+  {
+   "id": "YqWg21nYCs#3",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 39: „Svaki i bilo koji prestanak službe nije otpuštanje“ za „Any and every termination of service is not a dismissal“ — dvosmislena negacija (može se čitati kao „nijedan prestanak“).",
+   "suggestion": "„Nije svaki prestanak službe otpuštanje, razrješenje ili snižavanje u rangu.“"
+  }
+ ],
+ "overall_quality": "Prevod je potpun: broj novih redova (5), brojevi, citati sudske prakse, nazivi pravila i članova poklapaju se sa izvorom, nema ekavizama ni hrvatizama, odnos riječi 0,87. Registar je uglavnom prirodan i pravnički, uz dosljedne termine (državni službenik, otpuštanje/razrješenje, Indijska Unija, Utar Pradeš), ali su u pasusu 37 uočene dvije značajne greške (obrnuta negacija uslova i „premještanje“ umjesto „snižavanje“) koje treba ispraviti prije prihvatanja."
+}

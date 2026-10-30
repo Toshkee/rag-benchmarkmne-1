@@ -1,0 +1,51 @@
+{
+ "batch": "corpus_072",
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "semantika/pravnicki izraz",
+   "description": "Pasus 3.: izvor 'unless he is proved to be guilty by a competent court of law' preveden kao 'dok nadležni sud ne dokaže da je krivo'. Sud ne 'dokazuje' krivicu, nego je utvrđuje; blago pomjeren smisao i neprirodna formulacija.",
+   "suggestion": "'dok se pred nadležnim sudom ne dokaže da je kriv' ili 'dok ga nadležni sud ne oglasi krivim'."
+  },
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "'order of conviction' prevedeno kao 'rješenje o osudi' (uvodni pasus, 'rješenjem o osudi i kazni'), a u pasusu 5. kao 'osuđujuću presudu'; 'order of acquittal' dosljedno 'oslobađajuća presuda', ali 'order dated July 14, 1999' / 'the order of the trial court' kao 'rješenje'. Isti akt se naizmjenično zove presuda i rješenje.",
+   "suggestion": "Ujednačiti: 'order of acquittal/conviction' -> 'oslobađajuća/osuđujuća presuda' svuda (ili svuda 'rješenje'), uključujući 'presude i rješenja o osudi' i 'rješenjem o osudi i kazni'."
+  },
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodate riječi kojih nema u izvoru: 'u prodavnici svjedoka PW 8 Krishnaiah' (izvor: 'in the shop of PW 8 Krishnaiah') i 'nož oduzet kao predmet dokaza (mudamal)' (izvor: 'mudamal knife').",
+   "suggestion": "'u prodavnici PW 8 Krishnaiaha'; 'mudamal nož' ili 'nož (mudamal)'."
+  },
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "odstupanje od glosara",
+   "description": "'reversed the order' / 'preinačio' ('Visoki sud je preinačio rješenje prvostepenog suda') nije u glosaru; glosar daje 'ukinuti / staviti van snage' (u istom pasusu kasnije korišćeno 'stavio van snage').",
+   "suggestion": "'Visoki sud je ukinuo odluku/presudu prvostepenog suda' ili 'stavio van snage'."
+  },
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Though several authorities were cited' -> 'citirano nekoliko izvora'; 'authorities' su ovdje presedani/sudska praksa. Takođe 'PSI' -> 'pomoćnik inspektora policije' (Police Sub-Inspector) nije u glosaru; 'st. (3) i (5)' skraćenica umjesto 'stavova (3) i (5)'.",
+   "suggestion": "'citirano je nekoliko odluka'; 'podinspektor policije (PSI)'; 'stavova (3) i (5)'."
+  },
+  {
+   "id": "TtLFxJpRa5#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Doslovne, pomalo nategnute formulacije: 'uzdržanost žalbenog suda' za 'slowness of an appellate Court', 'zauzet je drugačiji ton' za 'a different note was struck', 'nepravde' za 'miscarriage of justice', 'stvarnost u pogledu mogućnosti protivrječnosti' za 'ground reality as to possibility of contradictions'.",
+   "suggestion": "'oklijevanje/suzdržanost žalbenog suda da mijenja'; 'zauzeto je drukčije stanovište'; 'sudske zablude/pogrešne presude'; 'stvarno stanje u pogledu mogućih protivrječnosti'."
+  }
+ ],
+ "auto_checks": "Isti skup _id (1/1); tokeni P\\d+/A\\d+/S\\d+/W\\d+/Section S/Rs. isti broj; brojevi isti osim formata datuma '07'->'7' (u redu, 7. avgusta); odnos riječi 0.88; broj novih redova 43=43; nema ekavskih ni hrvatskih oblika. Ručno poređenje svih 44 pasusa: nema izostavljenih ni dodatih rečenica, članovi, citati (AIR/IA), Ex. P-1, PW oznake i brojevi predmeta doslovni, strane dosljedno (žalilac/protivna strana-država/optuženi).",
+ "overall_quality": "Prevod je potpun i vjeran: svih 44 pasusa je prisutno, brojevi članova, citati, datumi i tokeni sačuvani, strane postupka pravilno i dosljedno označene. Registar je prirodan pravni crnogorski (ijekavica, 'nijesu', 'shodno', 'služebno lice'), uz manje nedosljednosti u terminima za presudu/rješenje i par sitnih dodavanja. Nema blokirajućih problema."
+}

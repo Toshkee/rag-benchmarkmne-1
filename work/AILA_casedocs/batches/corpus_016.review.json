@@ -1,0 +1,72 @@
+{
+ "batch": "corpus_016",
+ "automatic_checks": {
+  "ids_match": true,
+  "newline_count": "28 = 28",
+  "word_ratio": 0.924,
+  "token_counts": "Rs. 1=1; svi brojevi (\\d+) identični (multiskup jednak); P/A/S/W tokena nema",
+  "ekavski_hrvatski_oblici": "nema",
+  "nisu/osoba/stranka/savezn/dopušt": "nema"
+ },
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "terminologija (discharge vs acquittal)",
+   "description": "Izvor: 'discharged all, the accused of the offences' (Chief Judicial Magistrate) i 'The order of discharge'. Prevod: 'oslobodio sve okrivljene od optužbi' i 'Rješenje o oslobađanju od optužbi'. 'Oslobađanje' odgovara acquittal (oslobađajuća presuda), a discharge je obustava/odbacivanje prije suđenja.",
+   "suggestion": "'obustavio postupak protiv svih okrivljenih' / 'rješenje o obustavi postupka' (ili 'razriješio optužbe')."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "glosar (set aside)",
+   "description": "Izvor: 'The order of discharge, therefore, was set aside'. Prevod: 'stavljeno van snage'. Dio 9 propisuje set aside -> ukinuta.",
+   "suggestion": "'Rješenje o obustavi postupka je, stoga, ukinuto'."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "terminologija (proper situs)",
+   "description": "Izvor: 'the proper and ordinary situs for the trial of a crime'. Prevod: 'pravo i redovno mjesto suđenja'. 'Pravo' ne prenosi značenje 'proper'.",
+   "suggestion": "'odgovarajuće i redovno mjesto suđenja' (ili 'mjesto koje je po pravilu nadležno')."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "glosar (accused)",
+   "description": "Dio 6: okrivljeni dok nema optužnice, optuženi nakon podizanja optužnice. Izvor navodi 'charge sheet was laid against the appellant and others', a prevod i dalje svuda (10 puta) ima 'okrivljeni' (npr. 'Svi okrivljeni su preduzeli radnje', 'sude okrivljenom'). Termin je dosljedan, ali odstupa od pravila.",
+   "suggestion": "Zadržati dosljednost; po strogoj normi, poslije 'optužni akt je podnesen' koristiti 'optuženi' (ili ostaviti 'okrivljeni' kao svjesnu odluku za cijeli dio)."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "glosar (senior counsel)",
+   "description": "Izvor: 'learned senior counsel'. Prevod: 'uvaženi stariji zastupnik' (dvaput). 'Stariji' nije ustaljen pravnički izraz za 'senior'.",
+   "suggestion": "'uvaženi viši zastupnik' ili 'uvaženi zastupnik (senior counsel)'."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "dosljednost imena / toponimi",
+   "description": "'Pandžab' (transliterisano po vodiču) uz 'Haryane' (izvorni oblik, 'Visokog suda Pandžaba i Haryane'); 'Nju Delhi' uz 'Delhi' i 'Uprave Delhija' (izvor: 'The Delhi Administration'); 'Chandigarhu' netranskribovano. Nedosljedna transkripcija/deklinacija.",
+   "suggestion": "Ujednačiti: 'Pandžaba i Harijane' ili ostaviti oba izvorno; 'Uprave Delhija' -> 'Uprave Delhi'."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "glosar (revision)",
+   "description": "Prvi pomen 'Criminal Revision No. 443' u zaglavlju prevedeno je samo kao 'krivičnoj reviziji', a puni oblik 'zahtjev za preispitivanje (revizija)' dat je tek u stavu 1 ('Povodom zahtjeva za preispitivanje (revizije)').",
+   "suggestion": "U zaglavlju: 'u krivičnom zahtjevu za preispitivanje (reviziji) br. 443 iz 1990. godine', dalje 'revizija'."
+  },
+  {
+   "id": "ZDYUvh7i71#0",
+   "severity": "minor",
+   "type": "register",
+   "description": "Izvor: 'Manager of P.N.B.' - prevod 'rukovodilac u P.N.B.' (manje precizno za bankarski položaj); 'Fakhrulla khan and Ors. v. Emperor' -> 'protiv Cara' (dvosmisleno); 'credit facility' -> 'kreditni aranžman'.",
+   "suggestion": "'direktor/rukovodilac filijale PNB' (ili 'menadžer'); 'protiv Krune/Cara' uz zadržan izvorni naziv; 'kreditna linija/olakšica'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedan pasus ni rečenica nijesu izostavljeni ni dodati, brojevi, citati sudske prakse, članovi i datumi su doslovni, a strane su (žalilac / protivna strana / okrivljeni) dosljedno označene. Registar je prirodan obrazloženju presude, ijekavski, bez ekavizama i hrvatizama; uočena su samo manja terminološka odstupanja (discharge/oslobađanje, 'pravo mjesto', 'stariji zastupnik', transkripcija toponima)."
+}

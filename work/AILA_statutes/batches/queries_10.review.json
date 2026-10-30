@@ -1,0 +1,70 @@
+{
+  "n_blocking": 0,
+  "n_minor": 9,
+  "issues": [
+    {
+      "id": "00032",
+      "severity": "minor",
+      "type": "terminologija / nedosljednost",
+      "description": "Izvor: \"in conspiracy with two other persons\" preveden kao \"u dogovoru sa još dva lica\", a nekoliko rečenica dalje \"offence of conspiracy\" kao \"zločinačkog udruživanja\". Isti pojam (conspiracy) ima dva prevoda unutar istog teksta.",
+      "suggestion": "Ujednačiti: \"u zločinačkom dogovoru sa još dva lica\" / \"krivično djelo zločinačkog udruživanja (dogovora)\"."
+    },
+    {
+      "id": "00032",
+      "severity": "minor",
+      "type": "registar / terminologija",
+      "description": "\"criminal misconduct\" preveden kao \"krivično nedozvoljeno postupanje u službi\" — neprirodna sintagma, nije uobičajena u pravnom jeziku.",
+      "suggestion": "\"krivično djelo nesavjesnog/protivpravnog postupanja u službi\" ili \"zloupotreba službenog položaja\"."
+    },
+    {
+      "id": "00032",
+      "severity": "minor",
+      "type": "dodavanje (engleski izrazi u zagradi)",
+      "description": "Dodati su engleski izrazi koji nijesu u izvoru: \"policajac (constable)\", \"starijeg policajca (Head constable)\", \"podinspektora (Sub-Inspector)\". Stilski vodič zabranjuje dodavanje objašnjenja u tekst.",
+      "suggestion": "Ukloniti zagrade ili ostaviti samo izvorne nazive bez prevoda (npr. \"Head constable\" kao titulu)."
+    },
+    {
+      "id": "00032",
+      "severity": "minor",
+      "type": "vjernost izvoru (nejasan izvor)",
+      "description": "Izvor \"Hon'ble Justice could not be convicted\" (očigledno pogrešan/anonimizovan izraz) preveden je doslovno \"uvaženi sudija ne može biti osuđen\". Doslovno je, ali kontekstualno besmisleno.",
+      "suggestion": "Zadržati doslovno radi vjernosti benchmarku; po potrebi \"Njegova Visost sudija\". Bez izmjene značenja."
+    },
+    {
+      "id": "00033",
+      "severity": "minor",
+      "type": "dodavanje (engleski izrazi u zagradi)",
+      "description": "Dodato \"(Public Interest Litigation)\", \"glavni ministri (Chief Ministers)\" i \"Centralnom istražnom birou (Central Bureau of Investigation)\" — izvor ove dopune nema (\"writ petitions\" u zagradi je dozvoljeno glosarom).",
+      "suggestion": "Ukloniti zagrade za Chief Ministers i Central Bureau of Investigation; CBI ostaviti kao skraćenicu."
+    },
+    {
+      "id": "00033",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"the State Government\" preveden \"Vlada države\", a \"Government in the Centre\" kao \"Vlada u centru\"; neprirodno i neusklađeno sa glosarom (State → Država). Takođe \"okrivljeni\" za \"accused\" nakon podnijetog optužnog akta (\"Protivna strana br. 5 je okrivljeni\").",
+      "suggestion": "\"Vlada Države\" / \"nakon promjene centralne Vlade\"; za osobu protiv koje je podnijet optužni akt koristiti \"optuženi\"."
+    },
+    {
+      "id": "00033",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"convenient prosecutor\" → \"podoban tužilac\" i \"fodder scam\" → \"prevare sa stočnom hranom\" su prihvatljivi, ali \"podoban\" je arhaičan/dvosmislen; mješavina \"ustavne tužbe\" i \"zahtjeva\" za isti pojam (petition) u prvoj rečenici.",
+      "suggestion": "\"pogodan tužilac\" (ili \"tužilac po njihovoj mjeri\"); uskladiti \"podnosioci ustavnih tužbi\" ili dosljedno \"podnosioci zahtjeva\" prema glosaru."
+    },
+    {
+      "id": "00034",
+      "severity": "minor",
+      "type": "dodavanje sadržaja",
+      "description": "Izvor: \"a wet underwear drying-up on the roof flew away\"; prevod: \"vjetar je odnio mokre gaće\". Riječ \"vjetar\" (uzrok) nije u izvoru. Takođe \"bazar\" → \"pijaca\" (moguće i \"čaršija\") pomjera značenje.",
+      "suggestion": "\"mokre gaće koje su se sušile na krovu odletjele su, a podigao ih je prvi žalilac P3\"; \"bazar\" ostaviti kao \"bazar\"."
+    },
+    {
+      "id": "00034",
+      "severity": "minor",
+      "type": "gramatika / vjernost izvoru",
+      "description": "Izvor je neuredan: \"raised an alarm and the rickshaws to the hospital where...\". Prevod \"podigao uzbunu i rikšama do bolnice, gdje je ...\" je negramatičan (bez glagola). Takođe \"order of the Sessions Judge\" → \"rješenjem sudije Sesijskog suda\" (u izvoru je u pitanju presuda), te \"accused\" → \"okrivljenog\" nakon presude.",
+      "suggestion": "\"podigao uzbunu, a rikšama [su prevezeni] do bolnice\" ili ostaviti doslovno uz interpunkciju koja ukazuje na prazninu; \"presudom\" umjesto \"rješenjem\"; \"optuženog\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, svi tokeni (P1-P7, Rs.), brojevi, datumi i iznosi su identični izvoru, ijekavica je dosljedna, bez ekavizama i hrvatskih oblika, a svi _id-ovi se poklapaju. Registar odgovara sudskoj naraciji propisanoj stilskim vodičem (žalilac, protivna strana, Visoki sud, uvaženi sudija), uz manja odstupanja: engleski izrazi u zagradama, nekoliko neprirodnih sintagmi i nedosljednost conspiracy/zločinačko udruživanje. Nema blokirajućih grešaka."
+}

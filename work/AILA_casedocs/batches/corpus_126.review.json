@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 17: 'The requirement, however, is that there should not be supine indifference' preveden kao 'Zahtjev je, međutim, da ne smije postojati pasivna ravnodušnost'. Po glosaru 'zahtjev' = petition/application, pa u sudskom tekstu nastaje dvosmislenost.",
+   "suggestion": "'Uslov je, međutim, da ne smije postojati pasivna ravnodušnost, nemarnost ili bezosjećajan odnos...'"
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 12: 'the detention order is liable to be set aside' -> 'rješenje o pritvoru treba staviti van snage'. Zadati glosar za set aside je 'ukinuti'.",
+   "suggestion": "'rješenje o pritvoru podliježe ukidanju' ili 'treba ga ukinuti'."
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "značenje (blago odstupanje)",
+   "description": "Par. 14: 'there was no compelling reason to detain' -> 'nije postojao nijedan neodložan razlog'. 'Neodložan' znači 'hitan', a ne 'ubjedljiv/nužan'.",
+   "suggestion": "'nije postojao nijedan ubjedljiv (nužan) razlog da se pritvorenik zadrži u pritvoru prema COFEPOSA'."
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "registar/prirodnost",
+   "description": "Par. 13: 'non-applying of mind by the detaining authority' -> 'nije savjesno razmotrio stvar' udaljava se od ustaljenog pravnog pojma (neprimjena misli/nepostojanje samostalne ocjene). Takođe 'zahtjev podnosioca zahtjeva za jemstvo' je nezgrapno ponavljanje.",
+   "suggestion": "'što pokazuje da organ koji je odredio pritvor nije samostalno primijenio svoju procjenu (non-application of mind)'; 'zahtjev za jemstvo koji je podnio podnosilac zahtjeva'."
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Par. 15: 'a longer delay may still be held to be for valid reasons' -> 'može smatrati opravdanim valjanim razlozima' (pleonazam, neprirodno).",
+   "suggestion": "'duže kašnjenje se i dalje može smatrati opravdanim iz valjanih razloga'."
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 10 i 13: 'Additional Chief Metropolitan Magistrate' -> 'dodatnog glavnog gradskog magistrata' (glosar: magistrat / sudski magistrat); naziv funkcije je preveden doslovno bez glose, dok se npr. 'Deputy Secretary' prevodi 'zamjenik sekretara'.",
+   "suggestion": "Zadržati dosljedno: 'dodatni glavni metropolitanski magistrat' ili 'dodatni glavni gradski magistrat' uz isti oblik u par. 10 i 13 (trenutno dosljedno, samo razmotriti glosu)."
+  },
+  {
+   "id": "OjkeaBKsoR#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Par. 12(b): 'putem 'FAX' ili 'E- Mail' poruke' - dodato 'poruke' kojeg nema u izvoru; navodnici 'FAX'/'E- Mail' zadržani u izvornom obliku (prihvatljivo).",
+   "suggestion": "'putem 'FAX'-a ili 'E- Mail'-a' (bez dodate riječi) radi doslovnosti."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (40), svi pasusi 1-25 prisutni, tokeni Rs. (4) i svi brojevi (datumi, članovi, citati SCC/Indlaw) identični izvoru, odnos riječi 0,93, bez ekavizama i hrvatizama. Registar je primjeren obrazloženju presude, strane su dosljedno označene (podnosilac zahtjeva/pritvorenik/protivna strana), glosar uglavnom poštovan; nađena su samo sitna terminološka i stilska odstupanja."
+}

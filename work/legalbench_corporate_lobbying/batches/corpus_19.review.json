@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "bQknlr2cMp, aVNqTIAae2, q0Zf2pCLxb, 7EgEKG895i",
+   "severity": "minor",
+   "type": "naslov/format",
+   "description": "Skraćenica u naslovu je data kao „ili (PARTNERS Act)“, „ili (CHOICE Act)“, „ili (FAMILY Act)“, „ili (LEVEL Act)“ (izvor: „or the PARTNERS Act“). Zagrada poslije „ili“ je neprirodna i odstupa od obrasca iz vodiča („Zakon ... (ANTIQUITIES Act)“).",
+   "suggestion": "Zamijeniti sa „... iz 2019. godine (PARTNERS Act)“ odnosno „... (CHOICE Act)“; ili „ili Zakon PARTNERS“ ako se želi zadržati veznik."
+  },
+  {
+   "id": "SF8dBZvV7y",
+   "severity": "minor",
+   "type": "terminološka nedosljednost",
+   "description": "„in-demand“ je u bQknlr2cMp preveden „za kojima postoji potražnja“, a ovdje „tražena zanimanja u kojima nedostaje primjena šegrtovanja“ („in-demand occupations that lack the use of apprenticeships“).",
+   "suggestion": "„zanimanja za kojima postoji potražnja, a u kojima se šegrtovanje ne primjenjuje“."
+  },
+  {
+   "id": "7EgEKG895i",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„prije donošenja ovog zakona“ za „before this bill's enactment“; u sažetku se „bill“ dosljedno prevodi „predlog zakona“.",
+   "suggestion": "„prije stupanja na snagu ovog predloga zakona“ (ili „prije donošenja ovog zakona“ ako se želi naglasiti ishod)."
+  },
+  {
+   "id": "jQzW52Tdim",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„naredbe USDA“ za „a USDA order“; glosar (dio 6) propisuje „rješenje“ za order u smislu akta organa. Takođe „odobrenih zakonom“ za „authorized by law“.",
+   "suggestion": "„rješenja USDA donijetog u okviru programa“; „dozvoljenih zakonom“."
+  },
+  {
+   "id": "RzhbuXMZ5f",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„viškova odbrambenih sredstava“ za „excess defense articles“ je dvosmisleno (sredstva = funds, a u istoj stavci „Sredstva se ne mogu koristiti“ znači funds). Takođe „Sredstva se ne mogu koristiti“ za „No funds may be used“ gubi „nikakva“.",
+   "suggestion": "„viškova odbrambene opreme“; „Nikakva sredstva ne mogu se koristiti za povlačenje ...“."
+  },
+  {
+   "id": "SstzyshA6P",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Demonstracionom programu preraspodjele „Novac prati lice““ za „Rebalancing Demonstration Program“ (preraspodjela ne odražava „rebalancing“); „zdravstvenog doma“ za „health home“ u CG se poistovjećuje sa domom zdravlja.",
+   "suggestion": "„Demonstracionom programu ponovnog uravnoteženja „Novac prati lice““; „zdravstvenog doma (health home)“ pri prvom pomenu."
+  },
+  {
+   "id": "Vbq9Ew6AQO",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "„sprovođenje od strane FTC-a i država“ je kalk („by the FTC and by states“); „povjerenju“ u nazivu je nejasno.",
+   "suggestion": "„uređuje se i njegovo sprovođenje koje obezbjeđuju FTC i države“; naziv „Zakon o odgovornosti i povjerenju u vezi sa podacima“."
+  },
+  {
+   "id": "0lnXv2Rra6",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "„saveznim službenicima ili zaposlenima“ za „federal officers or employees“ (redundantno, „zaposlenima“ bez imenice); „ocjenjivanja“ za „assessments“.",
+   "suggestion": "„saveznim funkcionerima ili zaposlenim licima“; „provjere znanja“ umjesto „ocjenjivanja“ (opciono)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 16 _id-ova je očuvano, tokeni i brojevi se poklapaju, broj novih redova je isti kao u izvoru, nema ekavskih ni hrvatskih oblika, omjeri dužine su 0,90-1,19. Registar je primjeren obrazloženju predloga zakona (Ovim predlogom zakona..., normativni prezent), glosar (predlog zakona, grant, GAO, USDA, CMS, država) uglavnom poštovan; nađena su samo manja stilska i terminološka odstupanja."
+}

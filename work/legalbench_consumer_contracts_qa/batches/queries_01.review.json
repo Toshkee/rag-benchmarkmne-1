@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00004",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"as a consequence of the law of a local jurisdiction\"; prevod: \"usljed prava lokalne nadležnosti\" — nespretno, pravo nadležnosti nije prirodan pojam.",
+   "suggestion": "\"usljed propisa lokalne jurisdikcije (nadležnosti)\" ili \"usljed zakona lokalne nadležnosti\"."
+  },
+  {
+   "id": "00017",
+   "severity": "minor",
+   "type": "glossary/consistency",
+   "description": "Izvor: \"reimburse a customer in respect of a purchase\"; prevod: \"izvršiti nadoknadu kupcu po osnovu kupovine\". Parni upit 00016 koristi \"povraćaj sredstava\" za refund; za potrebe retrievala (isti odlomak) poželjan je isti termin.",
+   "suggestion": "\"izvršiti povraćaj sredstava kupcu za kupovinu\"."
+  },
+  {
+   "id": "00019",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"legal action against Amazon must take place by way of arbitration proceedings\"; prevod: \"pravni zahtjevi protiv Amazona se moraju ostvarivati u arbitražnom postupku\" — legal action preveden kao \"pravni zahtjevi\" (claims), a u 00004 kao \"sudski postupak\".",
+   "suggestion": "\"pravni postupak protiv Amazona mora voditi putem arbitraže\" ili \"tužbe protiv Amazona moraju podnositi u arbitražnom postupku\"."
+  },
+  {
+   "id": "00004,00006,00008,00009,00010,00012-00019",
+   "severity": "minor",
+   "type": "style/consistency",
+   "description": "Nedosljedno sklanjanje stranih imena: \"Google-a\", \"YouTube-a\" sa crticom, a \"Amazona\" bez crtice.",
+   "suggestion": "Ujednačiti (npr. \"Googlea\", \"YouTubea\", \"Amazona\" ili sve sa crticom)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova, format (_id/title/text) i brojevi (18, 13) se poklapaju, nema ekavizama ni hrvatskih oblika, a laička pitanja su ostala razgovorna a formalna formalna, bez sadržaja iz polja context. Glosar je uglavnom poštovan (korisnički sadržaj, treće lice, nalog, podlicenca, arbitraža, nadležnost). Preostale primjedbe su manje terminološke i stilske."
+}

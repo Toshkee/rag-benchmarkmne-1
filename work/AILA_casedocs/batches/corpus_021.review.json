@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "m1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "[tST18iwItC#2] pasus 52, 'Krivičnog zakonika (IPC)': izvor 'Section 304 Part II IPC framed against the appellant' ne sadrži dodatak '(IPC)', a pri prvom pomenu glosar traži 'Krivični zakonik Indije'.",
+   "suggestion": "Ukloniti '(IPC)' ili pri prvom pomenu u itemu pisati 'Krivičnog zakonika Indije'; dalje 'Krivičnog zakonika'."
+  },
+  {
+   "id": "m2",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "[tST18iwItC#2] pasus 55 (Meenakashi Patil): 'inspektoru policije (PI) Phulsunder' – izvor samo 'PI Phulsunder'; dodato razvijanje skraćenice.",
+   "suggestion": "Ostaviti 'PI Phulsunder' kao u izvoru."
+  },
+  {
+   "id": "m3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "[tST18iwItC#2] 'rash and negligent driving' prevedeno kao 'bezobzirna i nemarna vožnja' (pasusi 55, 56, 61 – dosljedno). 'Bezobzirna' znači nepažljiva prema drugima/bezobzirna, a ne 'rash'.",
+   "suggestion": "Dosljedno 'nepromišljena (neoprezna) i nemarna vožnja'."
+  },
+  {
+   "id": "m4",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "[tST18iwItC#2] pasus 59 (Asraf Ali): 'the matter is remanded to the trial court, with a direction to retry' → 'predmet se vraća prvostepenom sudu, sa nalogom da se ponovo sudi'. Glosar: remanded → vraćeno na ponovni postupak; 'nalog' je rezervisan za writ.",
+   "suggestion": "'predmet se vraća prvostepenom sudu na ponovni postupak, uz uputstvo da se ponovo sudi od faze...'."
+  },
+  {
+   "id": "m5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "[tST18iwItC#2] pasus 58 (Shivaji Bobade): 'the prisoner's attention' → 'pažnja zatvorenika'; u cijelom tekstu isto lice je 'optuženi'.",
+   "suggestion": "'pažnja optuženog' (ili 'lica u pritvoru') radi dosljednosti."
+  },
+  {
+   "id": "m6",
+   "severity": "minor",
+   "type": "stil",
+   "description": "[tST18iwItC#2] pasus 're: question (iii )' → 'u vezi s pitanjem (iii )'; ostatak teksta i vodič koriste 'sa'. Takođe 'enquiry' → 'u istrazi ili na suđenju' (pasus 59) – u CrPC to je inquiry (postupak prije suđenja).",
+   "suggestion": "'u vezi sa pitanjem (iii )'; 'u postupku ispitivanja (inquiry) ili na suđenju'."
+  },
+  {
+   "id": "m7",
+   "severity": "minor",
+   "type": "stil",
+   "description": "[tST18iwItC#2] pasus 62 (citat Visokog suda): 'salutary provision' → 'Korisna odredba'; manje prirodno za pravnički registar.",
+   "suggestion": "'Svrsishodna/blagotvorna odredba člana 313 Zakonika'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (32), svih 33 pasusa/redova prisutno bez izostavljanja i dodavanja sadržaja, tokeni i brojevi (PW-1..PW-18, članovi, citati AIR/SCC/Indlaw, datumi) identični izvoru, odnos riječi 0.87, nema ekavizama ni kroatizama. Stranke su dosljedno označene (žalilac/optuženi), registar je pravilan sudski, uz samo manja terminološka i stilska odstupanja."
+}

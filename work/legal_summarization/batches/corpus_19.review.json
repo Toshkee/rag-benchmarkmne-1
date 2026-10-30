@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "NJOVzNEMr7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"no trackers\" je preveden kao \"nema uređaja za praćenje\", a \"tracking device\" (kasnije u istom itemu) kao \"uređaj za praćenje\"; tako su dva različita izvorna pojma spojena u jedan i \"trackers\" dobija pogrešno značenje (fizički uređaj).",
+   "suggestion": "\"nema alata za praćenje\" (ili \"nema trackera\") za \"no trackers\"; \"uređaj za praćenje\" ostaviti samo za \"tracking device\"."
+  },
+  {
+   "id": "48JkxisEdA",
+   "severity": "minor",
+   "type": "izostavljanje",
+   "description": "\"you must keep your account password secure\" prevedeno kao \"morate čuvati lozinku svog naloga\"; izostavljena odrednica \"secure\".",
+   "suggestion": "\"morate lozinku svog naloga čuvati na bezbjedan način\" (ili \"u tajnosti\")."
+  },
+  {
+   "id": "8Y7XsrSvBp",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Doslovno preneseno \"user name s or password s\" kao \"korisničkog imena, odnosno korisničkih imena, ili lozinke, odnosno lozinki, ako postoje\" - nezgrapno i neprirodno za ugovorni registar.",
+   "suggestion": "\"korisničkog imena ili lozinke (odnosno korisničkih imena ili lozinki), ako ih ima\"."
+  },
+  {
+   "id": "FzixlNQO9I",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"bilo kakvo pravo na bilo koja i sva moralna prava autora na bilo kojem korisničkom sadržaju\" - redundantno i nezgrapno (pravo na prava, trostruko \"bilo\").",
+   "suggestion": "\"Trajno se odričete svih moralnih prava autora na korisničkom sadržaju i saglasni ste da nećete isticati nikakav zahtjev po tom osnovu.\""
+  },
+  {
+   "id": "t6mt78sREJ",
+   "severity": "minor",
+   "type": "stil/struktura",
+   "description": "Tri nabrojane zabranjene aktivnosti prenesene su kao fragmenti u instrumentalu (\"Zloupotrebom usluga distribuiranjem...\", \"Doprinošenjem zlostavljanju...\") koji se samostalno čitaju kao nepotpune rečenice; takođe \"Nalog je učestvovao u ... aktivnostima\" je neprirodno.",
+   "suggestion": "Zadržati dvotačku i nabrajanje kao dio jedne rečenice ili dodati glagol (\"Zabranjena je zloupotreba usluga...\"); \"Nalog je upotrijebljen za jednu ili više zabranjenih aktivnosti navedenih iznad.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova je isto i u istom redoslijedu, nema izostavljenih rečenica, izmijenjenih brojeva (10, 14, 11, 12) niti ekavskih i hrvatskih oblika, a odnos riječi je u dozvoljenom rasponu. Korpus je dosljedno u formalnom ugovornom registru uz glosar (uslovi korišćenja, nalog, korisnički sadržaj, treće lice, isključiva procjena, ukinuti), vi/mi obraćanje i normalnu ortografiju; nalazi su samo manja stilska i terminološka odstupanja."
+}

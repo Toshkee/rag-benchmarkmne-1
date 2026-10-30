@@ -1,0 +1,70 @@
+{
+ "n_blocking": 0,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "TP9gyv1plB",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Provided that ... shall not, in the first instance, exceed three months\" prevedeno kao \"ne smije, u prvom slučaju, biti duži od tri mjeseca\"; \"in the first instance\" znači \"inicijalno / u prvom navratu\", a ne \"u prvom slučaju\".",
+   "suggestion": "\"ne smije, u prvom navratu, biti duži od tri mjeseca\" (ili \"prvobitno\")."
+  },
+  {
+   "id": "TP9gyv1plB",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"zajedno sa razlozima po kojima je rješenje doneseno\" (izvor: \"the grounds on which the order has been made\") - neprirodna veza u pravnom registru; ponavlja se u stavovima (4) i (5).",
+   "suggestion": "\"zajedno sa razlozima na osnovu kojih je rješenje doneseno\"."
+  },
+  {
+   "id": "zKG5mSoyPs",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"kazniće se 1 [kaznom doživotnog zatvora]\" - tautologija (kazniće se kaznom); izvor: \"punished with 1 [imprisonment for life]\".",
+   "suggestion": "\"kazniće se 1 [doživotnim zatvorom] ili strogim zatvorom u trajanju do deset godina, i novčanom kaznom\" (marker fusnote 1 ostaje)."
+  },
+  {
+   "id": "YTH8xIZM1J",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "Naslov: \"pokušaj lišenja života\", tijelo: \"pokuša da ... prouzrokuje smrt\" (izvor oba puta: \"attempt to cause death\"). Isti pojam dva različita prevoda.",
+   "suggestion": "Ujednačiti, npr. \"pokušaj prouzrokovanja smrti\" u naslovu ili \"pokuša da liši života\" u tijelu."
+  },
+  {
+   "id": "u8zF9OHzlw",
+   "severity": "minor",
+   "type": "dodavanje/stil",
+   "description": "\"u skladu sa opštim aktima o radu (standing orders)\" - u zagradi je dodan engleski izraz kojeg u izvoru nema u tom obliku (izvor: \"in accordance with standing orders\"); stilski vodič zabranjuje prevodilačke dodatke u tekstu. Ponovljeno i u \"takvi opšti akti o radu\".",
+   "suggestion": "Izostaviti zagradu: \"u skladu sa opštim aktima o radu koji se primjenjuju na radnika...\"."
+  },
+  {
+   "id": "u8zF9OHzlw",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"discharge or punish, whether by dismissal or otherwise\" -> \"dati otkaz ili kazniti, bilo otpuštanjem ili na drugi način\"; \"dati otkaz\" sugeriše otkaz od strane poslodavca uz otkazni rok i pravno se razlikuje od \"discharge\"; u proviso \"ne može dati otkaz niti on može biti otpušten\" je nespretno. Takođe \"hear such application\" -> \"razmotri taj zahtjev\" (pomjereno značenje: saslušati/razmotriti).",
+   "suggestion": "\"discharge\" -> \"razriješiti\"/\"otpustiti iz službe\" dosljedno kroz cijeli član; \"da nijedan takav radnik ne može biti razriješen niti otpušten\"; \"hear\" -> \"sasluša i razmotri taj zahtjev\"."
+  },
+  {
+   "id": "u8zF9OHzlw",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "\"Provided that\" je svuda \"Pod uslovom da\", ali u stavu (5) \"under the proviso to subsection (2)\" je \"na osnovu odredbe o izuzetku iz stava (2)\"; isti pojam (proviso) dva termina, a \"uslov\" može zbuniti (u (2) isti stav počinje \"Pod uslovom da\").",
+   "suggestion": "Ujednačiti: \"na osnovu odredbe koja počinje riječima ‘Pod uslovom da’ iz stava (2)\" ili dosljedno koristiti \"izuzetak\" iz glosara."
+  },
+  {
+   "id": "Is9hVLXnGB",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"holds a civil post under the Union or a State\" -> \"obavlja civilnu funkciju u Uniji ili državi\"; \"post\" je radno mjesto (u 8IRh1E2JDB isti pojam: \"radna mjesta\"), \"funkcija\" je neprecizna i nedosljedna unutar batcha.",
+   "suggestion": "\"zauzima civilno radno mjesto u Uniji ili državi\"."
+  },
+  {
+   "id": "8IRh1E2JDB",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "\"Pod uslovom da je predsjednik ili lice koje on odredi ... i guverner ... ili lice koje on odredi ... nadležan da donosi pravila\" - složeni subjekat, a predikat \"nadležan\" je u jednini muškog roda (izvor: \"it shall be competent for the President or such person ...\").",
+   "suggestion": "\"Pod uslovom da su predsjednik ili lice koje on odredi ... i guverner ... ili lice koje on odredi ... nadležni da donose pravila\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: automatska provjera nije našla razlike u skupu _id-ova, tokenima, brojevima i datumima, odnos riječi je 0.87-1.08, nema ekavskih ni hrvatskih oblika, a svi prevodi počinju sa \"Naslov:\" i sadrže \"Opis:\". Ručnim poređenjem nijesu nađeni izostavljeni ili dodani sadržaji, izmijenjeni rokovi ni iznosi, niti pogrešna značenja, a fusnote i markeri su očuvani. Registar je uglavnom odgovarajući zakonski (\"Pod uslovom da\", \"rješenje\", \"ovlašćenje\"), a preostala odstupanja su sitne terminološke i stilske prirode."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "6jOSL0IZbc#1",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "Isti pojam ('order of acquittal' / 'judgment of acquittal' / 'acquittal') prevodi se naizmjenično kao 'rješenje o oslobađanju' (npr. 'rješenje o oslobađanju koje je donio niži sud', 'preinačila rješenje o oslobađanju u rješenje o osudi'), 'oslobađajuća presuda' i 'oslobađanje'. Glosar: acquittal -> oslobađajuća presuda; conviction -> osuđujuća presuda. Presuda se u izvoru izričito naziva 'judgment of acquittal', a 'order of acquittal' je ovdje sinonim.",
+   "suggestion": "Ujednačiti na 'oslobađajuća presuda' za 'order/judgment of acquittal' kroz cio item; 'to alter an order of acquittal to one of conviction' -> 'preinačio oslobađajuću presudu u osuđujuću'."
+  },
+  {
+   "id": "6jOSL0IZbc#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'compelling' ('sufficient and compelling reasons', 'substantial and compelling reasons') preveden kao 'uvjerljivi' ('dovoljni i uvjerljivi razlozi', 'suštinski i uvjerljivi razlozi'), što znači 'convincing'; time se gubi značenje 'nužni/prinudni'. U istom citatu 'cogent' je 'ubjedljivi'.",
+   "suggestion": "Zamijeniti 'uvjerljivi' sa 'ubjedljivi/snažni' ('dovoljno snažni razlozi') ili 'neodoljivi', dosljedno za 'compelling' u pasusima 6, 20, 26 i 32/33."
+  },
+  {
+   "id": "6jOSL0IZbc#1",
+   "severity": "minor",
+   "type": "register",
+   "description": "Kalk 'bi bio opravdan da interveniše' / 'Visoki sud ne bi bio opravdan da interveniše' (pasusi 14, 33, 34) za 'would be justified in interfering' - neprirodno u srpsko-crnogorskom pravnom jeziku.",
+   "suggestion": "'Ovaj sud bi imao osnova da interveniše' / 'bilo bi opravdano da Visoki sud interveniše'."
+  },
+  {
+   "id": "6jOSL0IZbc#1",
+   "severity": "minor",
+   "type": "style",
+   "description": "Skraćenica 'prema čl. 378 i 386 Zakonika o krivičnom postupku iz 1973. godine' (izvor: 'u/ss. 378 and 386'); vodič traži 'član' / 'prema članu'. Takođe 'sudska greška' za 'miscarriage of justice' je doslovni kalk.",
+   "suggestion": "'prema članovima 378 i 386 Zakonika ...'; 'miscarriage of justice' -> 'sudska zabluda' ili 'pogrešna presuda / nepravda' (dosljedno u pasusima 10 i 37)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti broj redova (44), svi pasusi, citati sudske prakse, brojevi (1987, 529, 1973, 378, 386...) i numeracija (40-52, (i)-(vi)) su doslovno očuvani, nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika, a strane (država UP, Visoki sud, Sesijski sud, Sud) su dosljedne. Registar je uglavnom primjeren sudskoj naraciji; preostali nedostaci su terminološka nedosljednost za 'acquittal' (rješenje o oslobađanju / oslobađajuća presuda) i nekoliko kalkova."
+}

@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "NbrnTP3fAb",
+   "severity": "minor",
+   "type": "grammar/terminology",
+   "description": "Tačka (2): \"u nadležnosti (nadležnostima) koja se primjenjuje smatraćete se organizatorom\" za \"in the applicable jurisdiction(s)\" je gramatički nezgrapno (neslaganje broja, nema \"mjerodavn-\").",
+   "suggestion": "\"u mjerodavnoj nadležnosti (mjerodavnim nadležnostima) smatraćete se organizatorom svoje Promocije\"."
+  },
+  {
+   "id": "NbrnTP3fAb",
+   "severity": "minor",
+   "type": "omission (minor)",
+   "description": "\"display or read out\" prevedeno \"prikazaćete ili pročitati\" – izgubljeno \"naglas\" i pomiješani oblici glagola.",
+   "suggestion": "\"prikazati ili pročitati naglas sljedeće odricanje od odgovornosti\" (npr. \"morate prikazati ili naglas pročitati\")."
+  },
+  {
+   "id": "NbrnTP3fAb",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"filing any and all necessary registrations and bonds\" -> \"podnošenje svih potrebnih prijava i polaganje svih potrebnih garancija\": \"registrations\" i \"bonds\" nijesu precizno prenijeti.",
+   "suggestion": "\"podnošenje svih potrebnih registracija i davanje svih potrebnih jemstava (kaucija)\"."
+  },
+  {
+   "id": "NbrnTP3fAb",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"discussing or promoting a product\" -> \"predstavljanje ili promovisanje\"; \"discuss\" nije \"predstavljati\". Takođe \"internet stranici\" (f.) naspram \"sajt/internet sajt\" u itemima B19sMLT6mn i BaepZITGgr – nedosljedno za \"website\".",
+   "suggestion": "\"govorenje o ... ili promovisanje\"; ujednačiti \"web site\" kroz batch (npr. uvijek \"internet sajt\")."
+  },
+  {
+   "id": "O4ZektUJrh",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "\"assumes no liability\" -> \"snosi bilo kakvu obavezu\"; liability treba biti \"odgovornost\" po glosaru (\"preuzima odgovornost\" već pokriva \"responsibility\").",
+   "suggestion": "\"Twitch ne preuzima nikakvu odgovornost niti snosi bilo kakvu odgovornost po osnovu vašeg korišćenja Soundtracka\" ili \"...niti prihvata bilo kakvu pravnu odgovornost\"."
+  },
+  {
+   "id": "B19sMLT6mn",
+   "severity": "minor",
+   "type": "addition/register",
+   "description": "\"propisima o zaštiti poslovnog izgleda (trade dress)\" dodaje englesku glosu u zagradi koju izvor nema; \"privilege\" -> \"ovlašćenje\" blago netačno; \"Vaše nastavljeno korišćenje\" je kalk.",
+   "suggestion": "Izbaciti \"(trade dress)\" ili ostaviti samo ako je nužno; \"ograničeno pravo (povlasticu) da pristupate\"; \"Vaše dalje korišćenje Sajta\"."
+  },
+  {
+   "id": "BaepZITGgr",
+   "severity": "minor",
+   "type": "register",
+   "description": "\"Moraćete sami nezavisno da procijenite\" i \"obezbijeđeni su isključivo radi pogodnosti\" zvuče kalkirano za \"provided solely as a convenience\" / \"make your own independent judgment\".",
+   "suggestion": "\"dati su isključivo radi lakšeg korišćenja naših posjetilaca\"; \"Dužni ste da sami, samostalno procijenite...\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj novih redova, svi pasusi i naslovi prenijeti, bez izostavljenog ili dodatog sadržaja, bez promjene značenja; automatske provjere (tokeni, brojevi, omjer riječi 0.88-1.01, ekavizmi/hrvatizmi) bez nalaza. Registar je dosljedno formalan ugovorni, ijekavica i glosar (uslovi korišćenja, nalog, korisnički sadržaj, treće lice, ukinuti/privremeno ukinuti, nijesu) uglavnom poštovani; preostale su sitne stilske i terminološke nezgrapnosti."
+}

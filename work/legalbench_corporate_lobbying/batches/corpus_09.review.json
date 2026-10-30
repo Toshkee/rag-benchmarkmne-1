@@ -1,0 +1,91 @@
+{
+ "n_blocking": 1,
+ "n_minor": 11,
+ "issues": [
+  {
+   "id": "Y7gbtP7ySe",
+   "severity": "blocking",
+   "type": "pogrešno značenje / gramatika",
+   "description": "Izvor: \"DOE must expand the scope ... to (1) include smart manufacturing technologies and practices, and (2) equip the centers' directors with the training and tools\". Prevod: \"tako da se (1) obuhvate tehnologije i prakse pametne proizvodnje i (2) direktori centara opreme obukom i alatima\" - glagol je izgubljen, pa \"direktori centara opreme\" čita kao \"direktori centara za opremu\"; značenje (opremiti direktore obukom i alatima) je narušeno.",
+   "suggestion": "\"...tako da se (1) obuhvate tehnologije i prakse pametne proizvodnje i (2) direktori centara opreme obukom i alatima potrebnim za pružanje tehničke pomoći\" -> \"...i da (2) direktorima centara obezbijede obuka i alati potrebni za pružanje tehničke pomoći u oblasti tehnologija i praksi pametne proizvodnje\" (ili \"DOE proširuje obim ... da (1) obuhvati ... i (2) opremi direktore centara obukom i alatima ...\")."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "\"FTC may enforce this bill\" prevedeno \"može sprovoditi ovaj zakon\"; glosar: bill -> predlog zakona. Takođe \"enforcement authority\" -> \"izvršnih ovlašćenja\" je nejasno, a \"common carriers\" -> \"javni operateri\" nije ustaljen termin.",
+   "suggestion": "\"može sprovoditi ovaj predlog zakona\"; \"izuzeti od ovlašćenja FTC-a za sprovođenje propisa\"; razmotriti \"javni prenosioci (common carriers)\"."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"privacy preferences\" -> \"podešavanja privatnosti\" (tehnički kalk, gubi se značenje želja korisnika).",
+   "suggestion": "\"željene postavke privatnosti\" ili \"da navede svoje preferencije u pogledu privatnosti\"."
+  },
+  {
+   "id": "xNNKqYbd3B",
+   "severity": "minor",
+   "type": "stil / gramatika",
+   "description": "Nedosljedan oblik glagola u nizu: \"nalaže se ... da (1) dodjeljuje ... (2) dodjeljuje ... i (3) dozvoli grantove\" (prezent pa svršeni oblik).",
+   "suggestion": "\"(3) dozvoljava grantove\" ili sve u istom obliku."
+  },
+  {
+   "id": "xNNKqYbd3B",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"istorijski crnačkim koledžima i univerzitetima\" (izvor: historically black colleges and universities) - \"crnačkim\" je neutralno/arhaično i može zvučati uvredljivo u formalnom tekstu.",
+   "suggestion": "\"istorijski afroameričkim koledžima i univerzitetima (historically black colleges and universities)\"."
+  },
+  {
+   "id": "Xv00kKXR4b",
+   "severity": "minor",
+   "type": "naslov",
+   "description": "\"Kids to College Act\" -> \"Zakon o upisu djece na fakultet\"; \"upisu\" nije u izvoru, naslov je preinačen.",
+   "suggestion": "\"Zakon o djeci na fakultet (Kids to College Act)\" ili \"Zakon \"Djeca na fakultet\"\"."
+  },
+  {
+   "id": "SkhWq2VbYq",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "\"ponovo se odobravaju do fiskalne 2024. godine i mijenjaju se nekoliko programa\" - slaganje glagola sa \"nekoliko programa\" nije pravilno; \"reauthorizes\" je prevedeno nejasno (nije rečeno šta se odobrava).",
+   "suggestion": "\"ponovo se odobrava, do fiskalne 2024. godine, i mijenja nekoliko programa koji se odnose na ...\" (ili \"produžava se važenje i mijenja se nekoliko programa\")."
+  },
+  {
+   "id": "DXQsedBEmL",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Office of the Secretary\" -> \"Kabinet ministra\"; glosar Secretary -> ministar, a \"Office\" je dosljedno \"Kancelarija\" (Kancelarija generalnog inspektora).",
+   "suggestion": "\"Kancelariju ministra\"."
+  },
+  {
+   "id": "nFbmOHnKYa",
+   "severity": "minor",
+   "type": "naslov",
+   "description": "\"Kleptocracy Asset Recovery Rewards Act\" -> \"nagradama za povraćaj imovine stečene kleptokratijom\"; \"stečene\" je dodato, izvorni naziv ne sadrži taj atribut.",
+   "suggestion": "\"Zakon o nagradama za povraćaj imovine kleptokratije\"."
+  },
+  {
+   "id": "JLQ6xVJGyO",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Office on Violence Against Women\" -> \"Kancelariji za borbu protiv nasilja nad ženama\" (dodato \"borbu protiv\"); \"competitive grants\" -> \"konkurentske grantove\" (kalk).",
+   "suggestion": "\"Kancelariji za nasilje nad ženama\"; \"konkursne grantove\" (ili \"grantove na osnovu konkursa\")."
+  },
+  {
+   "id": "g00rVq4jB6",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "\"preschool programs for low- to moderate-income children\" -> \"za djecu iz porodica sa niskim do srednjim prihodima\"; dodato \"iz porodica\" (izvor se odnosi na djecu sa niskim do umjerenim prihodima).",
+   "suggestion": "\"za djecu sa niskim do umjerenim prihodima\" ili zadržati \"iz porodica\" dosljedno sa prvim pasusom (tamo izvor izričito kaže families)."
+  },
+  {
+   "id": "Y7gbtP7ySe",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"This bill addresses the productivity and energy efficiency\" -> \"uređuju se produktivnost i energetska efikasnost\"; \"addresses\" nije \"uređuje\", pomalo mijenja ton.",
+   "suggestion": "\"Ovim predlogom zakona obrađuju se / razmatraju se produktivnost i energetska efikasnost ...\""
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 14 _id-ova je na mjestu, brojevi i tokeni se poklapaju, broj novih redova je isti, nema ekavizama ni kroatizama, a registar obrazloženja predloga zakona (\"Ovim predlogom zakona...\", \"Predlogom zakona se...\") je dosljedan i prirodan. Jedini suštinski problem je izgubljen glagol u drugoj tački stavke o centrima za industrijsku procjenu (Y7gbtP7ySe); ostalo su manje terminološke i stilske primjedbe."
+}

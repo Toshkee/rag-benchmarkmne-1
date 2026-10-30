@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "00180",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"nijesam zaštitio svoj Google Account\" - glosar: account → nalog; izvor: \"my Google account\".",
+   "suggestion": "\"...nijesam zaštitio svoj Google nalog?\""
+  },
+  {
+   "id": "00182",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"od lica koje je taj sadržaj napravilo\" - nespretno (srednji rod uz \"lice\"), neprirodno za laički upit; izvor: \"the person who created that content\".",
+   "suggestion": "\"od osobe/lica koje je kreiralo taj sadržaj\" ili \"od onoga ko je taj sadržaj napravio\"."
+  },
+  {
+   "id": "00184",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"druge troškove\" za \"other charges\" (naplata, ne troškovi); \"na osnovu ovih uslova\" za \"hereunder\" je prihvatljivo, ali \"troškove\" mijenja značenje u pravcu izdataka.",
+   "suggestion": "\"naplaćuje naknade ili druge dažbine/iznose u vezi sa licencom datom ovim uslovima\"."
+  },
+  {
+   "id": "00189",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"automatski izvlačim podatke o videima\" za \"automatically scrape video data\" - gubi se pojam scraping-a koji korpus koristi (\"scrapers\"); \"videima\" je neuobičajeno.",
+   "suggestion": "\"automatski prikupljam (skrejpujem) podatke o video-snimcima sa Youtube-a\"."
+  },
+  {
+   "id": "00190",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"drugih sličnih postupaka\" za \"other similar processes\"; \"postupak\" ima procesnopravno značenje.",
+   "suggestion": "\"drugih sličnih procesa/sredstava\"."
+  },
+  {
+   "id": "00191",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"videe\" - rijedak oblik; \"strimujem\" kalk.",
+   "suggestion": "\"Smijem li da prenosim video-snimke uživo (strimujem) na Youtube-u za svoj biznis?\""
+  },
+  {
+   "id": "00193",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "\"koristim sadržaj koji sam postavio na Youtube van Youtube-a\" - Youtube bez deklinacije i sa deklinacijom u istoj rečenici; u ostalim itemima \"na Youtube-u\".",
+   "suggestion": "\"...postavio na Youtube-u van Youtube-a?\""
+  },
+  {
+   "id": "00199",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"određena jemstva\" za \"certain assurances\" - u glosaru jemstvo = bail; mijenja pravni registar.",
+   "suggestion": "\"određene garancije\" ili \"određena uvjeravanja\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: 20 upita, isti _id-ovi, nema izostavljenja, dodavanja ni promjene značenja, pitanja su ostala pitanja, nema sadržaja iz polja context, ijekavica i \"nijesam\" dosljedni, bez ekavizama i kroatizama. Registar odgovara izvoru: laički upiti su razgovorni (\"Smijem li\", \"biznis\"), formalni upiti pravnički (\"snositi odgovornost\", \"obavezuje\"). Preostale su samo sitne terminološke i stilske primjedbe."
+}

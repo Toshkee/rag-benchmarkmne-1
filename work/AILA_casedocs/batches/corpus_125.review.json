@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "r9HE60Dlgk#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„struck down an order of detention“ preveden kao „poništilo rješenje o pritvoru“; glosar (quash/set aside) predviđa „ukinuti / staviti van snage“, a u istom pasusu se „set aside“ prevodi „ukida“ pa je termin nedosljedan.",
+   "suggestion": "„ukinulo rješenje o pritvoru“ ili „stavilo van snage rješenje o pritvoru“."
+  },
+  {
+   "id": "r9HE60Dlgk#1",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„priznanje koje je prethodno dalo“ — izvor kaže samo „confession made by him“; „prethodno“ je dodato.",
+   "suggestion": "„opozvalo priznanje koje je dalo“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: jedan item, isti _id, isti brojevi/citati (20, 2005 (9) SCALE 534, 2005 Indlaw SC 748, 1990 Indlaw SC 636), isti broj novih redova, odnos riječi 0.95, bez ekavizama i kroatizama. Procesni ishod (žalba usvojena, osporeno rješenje ukinuto) i uloge su tačni, registar je prirodan sudski; postoje samo dvije sitne stilske primjedbe."
+}

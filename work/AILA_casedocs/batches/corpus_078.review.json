@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "08YMNb5Zql#1",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "Kalk 'slučaj optužbe' (za 'case of the prosecution', npr. stav 20, 23, 28, 31: 'ni na koji način nije oslabilo slučaj optužbe', 'obesnažuje i obara slučaj optužbe') nije uobičajen pravnički izraz; u stavu 31 se miješa sa 'teza optužbe' za isti izvorni pojam ('the case of the prosecution').",
+   "suggestion": "Ujednačiti na jedan termin, npr. 'optužna teza' / 'navodi optužbe' (ili 'predmet optužbe') kroz cijeli item."
+  },
+  {
+   "id": "08YMNb5Zql#1",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Stav 28: 'Nesporna je činjenica...'/'obesnažuje i obara slučaj optužbe' dodaje 'i obara' koje nema u izvoru ('vitiating factor to defeat the case of the prosecution' – dva glagola, ali 'obesnažuje i obara' je pleonazam). Stav 9: 'undue pressure' preveden kao 'nedozvoljenog pritiska' (bolje 'neprimjerenog/nedozvoljenog uticaja' – blago odstupanje).",
+   "suggestion": "'činilac koji obesnažuje slučaj optužbe ili ga obara' → 'činilac koji bi obesnažio optužnu tezu'; 'undue pressure' → 'neprimjerenog pritiska'."
+  },
+  {
+   "id": "08YMNb5Zql#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav 20 (Applying the principles ... 'no scope to interfere with the orders impugned'): 'nema prostora za mijenjanje rješenja' – 'interfere' je preciznije 'miješanje u / preinačenje'; 'decisions' dosljedno 'odluka', a 'order' → 'rješenje' (u skladu sa glosarom).",
+   "suggestion": "'nema prostora za preinačenje osporenih rješenja'."
+  },
+  {
+   "id": "08YMNb5Zql#1",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Stav 7: 'Inquest-Report [Panchaytnama]' preveden 'izvještaj o uviđaju'; 'leaflet No.1' → 'list br. 1' – prihvatljivo, ali inquest je pregled tijela (zapisnik o uviđaju/pregledu leša). Stav 23: 'communal hatred as between those witnesses' prevedeno kao 'mržnja između zajednica u odnosu na svjedoke' – blago nejasno.",
+   "suggestion": "'zapisnik o uviđaju (Panchaytnama)'; '...da je postojala mržnja između zajednica kojima pripadaju svjedoci saslušani u prilog optužbi'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 27 redova kao u izvoru, svi pasusi i rečenice prisutni, tokeni (A1, A-4, PW-n), brojevi članova, citati (AIR/SCC/Indlaw) i vremena doslovno očuvani (21.11.2001 → 21. novembra 2001. godine); automatska provjera ne nalazi ekavizme ni hrvatizme (odnos riječi 0,83). Glosar je dosljedan (žalilac, Visoki sud, uvaženi zastupnik, država X, službenik koji vodi istragu, nijesu); registar je prirodan sudski, uz manje kalkove ('slučaj optužbe')."
+}

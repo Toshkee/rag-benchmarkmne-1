@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "aVNqTIAae2",
+   "severity": "minor",
+   "type": "gramatika/značenje",
+   "description": "'kao da ju je izvršilo samo' (izvor: 'as if it were done by him alone') je nejasno; 'samo' nema nosioca radnje.",
+   "suggestion": "'kao da ju je izvršilo samo to lice' (ili 'kao da ju je to lice samo izvršilo')."
+  },
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'accused' u istrazi (inquiry) preveden 'optuženi' kroz cijeli tekst; glosar traži 'okrivljeni' prije optuženja. Takođe 'Provided that' → 'Izuzetno' umjesto 'izuzetak/odredba o izuzetku'.",
+   "suggestion": "Dosljedno 'okrivljeni' (ili obrazložiti 'optuženi' zbog trial konteksta); 'Izuzetak:' umjesto 'Izuzetno,'."
+  },
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "'ili što na njih da lažne odgovore' – zamjenica 'njih' ne slaže se sa 'na takvo pitanje' (jednina).",
+   "suggestion": "'ili što na ta pitanja da lažne odgovore' / uskladiti broj."
+  },
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'kao dovoljno postupanje u skladu sa ovim članom' (izvor: 'sufficient compliance of this section') je nezgrapno; 'summons-case' ostavljen u zagradi bez prevoda.",
+   "suggestion": "'kao dovoljno za ispunjenje obaveze iz ovog člana'; 'predmet po pozivu (summons-case)' je prihvatljivo."
+  },
+  {
+   "id": "f7ZJ69PqcU",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'first paragraph' preveden 'prvog stava' – 'stav' je u glosaru rezervisan za sub-section; 'paragraph' nije sub-section. Takođe 'A odgovara za kaznu iz ovog člana' za 'liable to punishment under this section' je kalk.",
+   "suggestion": "'prvog pasusa' ; 'A podliježe kažnjavanju po ovom članu'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 8 _id-ova se poklapa, svi tokeni i brojevi (uključujući fusnote, 'Act 26 of 1955', datume i OCR artefakt '10') su očuvani, odnos riječi 0.76–1.02, nema ekavizama ni kroatizama, format 'Naslov:/Opis:' ispravan. Registar je prikladan zakonskom jeziku Crne Gore ('Ko ... kazniće se', 'zatvor (strogi ili obični)'), glosar uglavnom dosljedan; nađene su samo manje stilske i terminološke nepreciznosti."
+}

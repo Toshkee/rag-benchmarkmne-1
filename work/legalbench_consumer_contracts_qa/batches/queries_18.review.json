@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "00344",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"scrape articles from NYT\"; prevod: \"automatski prikupljam članke\". Gubi se termin \"scrape\" (korpus: \"data mine or scrape\"), što može oslabiti retrieval podudaranje.",
+   "suggestion": "Da li smijem da skrejpujem (automatski prikupljam) članke sa NYT?"
+  },
+  {
+   "id": "00346",
+   "severity": "minor",
+   "type": "word choice",
+   "description": "Izvor: \"provide their NYT username and password to their respective employers\"; prevod: \"ustupe\". \"Ustupiti\" znači prepustiti/ustupiti pravo, neprecizno za \"provide/give\".",
+   "suggestion": "Da li je pretplatnicima dozvoljeno da svoje korisničko ime i lozinku za NYT daju svojim poslodavcima?"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, nema izostavljenog ni dodatog sadržaja, brojevi (18 mjeseci, 12-godišnjaci) i negacije su očuvani, a automatske provjere (ekavizmi, hrvatizmi, odnos riječi) nijesu našle ništa. Registar je odgovarajući: laička pitanja ostala su razgovorna (\"Mogu li da dam...\"), a formalna formalna (\"Da li uslovi korišćenja dozvoljavaju...\"), uz dosljedne glosarske termine (uslovi korišćenja, saglasnost, korisnički sadržaj)."
+}

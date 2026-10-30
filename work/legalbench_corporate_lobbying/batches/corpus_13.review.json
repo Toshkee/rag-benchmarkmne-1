@@ -1,0 +1,84 @@
+{
+ "n_blocking": 0,
+ "n_minor": 11,
+ "issues": [
+  {
+   "id": "30pNIhsHFk",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Posljednja rečenica: „ispituje sprovođenje ovog zakona“ za izvorno „the implementation of this bill“. Glosar (dio 8) traži „predlog zakona“ za bill.",
+   "suggestion": "„ispituje sprovođenje ovog predloga zakona“."
+  },
+  {
+   "id": "30pNIhsHFk",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„savezna naknada za povrede na radu i profesionalne bolesti“ za „federal worker's compensation“; „profesionalne bolesti“ nema u izvoru.",
+   "suggestion": "„savezna naknada za povrede na radu“ (ili „savezna naknada radnicima“)."
+  },
+  {
+   "id": "U7sSaOQdht",
+   "severity": "minor",
+   "type": "naziv zakona",
+   "description": "„Zakon Robert Levinson o oslobađanju talaca...“ je nezgrapno i bez padeža imena.",
+   "suggestion": "„Zakon o oslobađanju talaca Roberta Levinsona i odgovornosti za uzimanje talaca“."
+  },
+  {
+   "id": "hT66y97cL5",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„bitno (prema važećem rješenju: značajno)“ za „materially (currently, substantially)“; „rješenje“ u glosaru znači odluku (order), pa je izraz dvosmislen.",
+   "suggestion": "„bitno (trenutno: značajno)“ ili „(prema važećem zakonu: značajno)“."
+  },
+  {
+   "id": "hPInRVkLUh",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„zakonodavni akti u bilo kojem domu kojima se povećavaju prihodi“ za „legislation ... that increases revenue“; „zakonodavni akti“ je neprecizno.",
+   "suggestion": "„propisi o povećanju prihoda koji se razmatraju u bilo kojem domu...“ ili „zakonodavni predlozi“."
+  },
+  {
+   "id": "CtlRJoWcUR",
+   "severity": "minor",
+   "type": "naziv zakona",
+   "description": "„krivičnom gonjenju“ za „Criminal Enforcement“; enforcement je sprovođenje/izvršenje, ne gonjenje.",
+   "suggestion": "„Zakon o krivičnopravnom sprovođenju propisa i odvraćanju od zloupotrebe automatizovanih telefonskih poziva, odnosno TRACED Act“."
+  },
+  {
+   "id": "gJSoFc1pDx",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„u skladu sa propisanim uslovima“ za „specified requirements“; requirements je zahtjevi. Naziv „plaćeno pristupanje“ za buy-in je slobodan prevod (dosljedan, ali pogledati).",
+   "suggestion": "„u skladu sa propisanim zahtjevima“; zadržati buy-in u zagradi pri prvom pomenu u naslovu ako je moguće."
+  },
+  {
+   "id": "HSUPwePut0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„behavioral health“ preneseno kao „mentalno zdravlje“; „Overcome“ preneseno kao „prevaziđu posljedice“ (dodato „posljedice“).",
+   "suggestion": "„bihevioralno zdravlje (mentalno zdravlje i ponašanje)“ ili „zdravlje u vezi sa ponašanjem“; naslov „...da prevaziđu“ bez „posljedice“."
+  },
+  {
+   "id": "fGcn13Dce5",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Naslov „Zakon o bezbjednim i pristupačnim ljekovima iz Kanade iz 2019. godine“ ima dvostruko „iz“; izvorni naslov ima i zaostali razmak prije novog reda. Takođe „izdao farmaceut“ i „izdat na osnovu ... recepta“ za dispensed/filled — isti glagol u dva značenja.",
+   "suggestion": "„Zakon o bezbjednim i pristupačnim ljekovima iz Kanade, 2019. godine“ (ili „...ljekovima iz Kanade iz 2019.“ sa drugačijim redom); „izdat“ → „ispunjen/izdat po važećem receptu“."
+  },
+  {
+   "id": "JXke1Mo4iC",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„Komisije za hartije od vrijednosti i berze (SEC)“: skraćenica SEC ne postoji u izvoru. „Job Creators“ preneseno kao „poslodavce“.",
+   "suggestion": "Izostaviti „(SEC)“ ili ostaviti samo ako se doda kao glosa; „stvaraoce radnih mjesta“ umjesto „poslodavce“."
+  },
+  {
+   "id": "8EE5GXTeLY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„posebnu tehnološku usmjerenost“ za „unique technological concentration“; „unique“ je izgubljeno.",
+   "suggestion": "„jedinstvenu tehnološku usmjerenost“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 14 _id-ova se podudara, brojevi, datumi, iznosi ($1, 18%, 16. aprila) i broj novih redova isti su kao u izvoru, nema ekavskih ni hrvatskih oblika, a odnos riječi je 0.95–1.29. Registar je dosljedno obrazloženje predloga zakona („Ovim predlogom zakona nalaže se...“, „Predlogom zakona propisuje se...“), ijekavski i terminološki usklađen sa glosarom (Ministarstvo, grant, država, FY → fiskalna godina). Preostale primjedbe su manje: nekoliko slobodnih izbora u nazivima zakona, jedno „ovog zakona“ umjesto „ovog predloga zakona“ i nekoliko sitnih dodavanja."
+}

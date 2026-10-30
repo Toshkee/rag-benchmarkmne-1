@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 16: 'brain was congested' preveden kao 'mozak je bio zakrvljen' — neprirodan medicinski izraz.",
+   "suggestion": "'mozak je bio prekrvljen (hiperemičan)'."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 6: 'ten times land revenue' preveden 'desetostruki iznos zemljišne rente', a 'revenue court' kasnije 'sud za zemljišne prihode'; 'renta' (rent) nije 'land revenue' i unosi nedosljednost.",
+   "suggestion": "'desetostruki iznos zemljišnog prihoda (land revenue)'."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Pasus 6: 'mutation of this order' → 'na osnovu ovog rješenja', iako se odnosi na presudu u parnici (dekret) iz prethodne rečenice; izvor kaže 'order', ali kontekst je dekret.",
+   "suggestion": "Ostaviti 'rješenja' (doslovno) ili uskladiti: 'na osnovu ove presude u parnici'."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 35: 'Kania, C.J.' → 'Kania, predsjednik Vrhovnog suda (C.J.)' — dodato tumačenje titule; ustaljenije 'glavni sudija Kania'.",
+   "suggestion": "'glavni sudija Kania (C.J.)'."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 37: 'the slowness of an appellate court in disturbing a finding of fact' → 'uzdržanost žalbenog suda' — blago pomjera značenje (slowness = oprez/sporost u mijenjanju).",
+   "suggestion": "'oprez žalbenog suda pri mijenjanju činjeničnog nalaza'."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "izostavljanje",
+   "description": "Pasus 1: 'High Court of Judicature at Allahabad' → 'Visoki sud u Allahabadu' — izostavljeno 'of Judicature' (nazivni dio).",
+   "suggestion": "'Visoki sud pravosuđa u Allahabadu' ili ostaviti kao jeste (prihvatljivo)."
+  },
+  {
+   "id": "6jOSL0IZbc#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 32: 'documentary evidence' → 'pisane dokaze'; preciznije je 'dokumentarne dokaze / isprave'.",
+   "suggestion": "'dokumentarne dokaze'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (51), identični tokeni i svi brojevi, nijedan pasus ni rečenica nijesu izostavljeni, citati sudske prakse doslovni, nema ekavizama ni kroatizama. Registar je prirodan i pravnički, glosar (žalilac, Visoki sud, član, oslobađajuća presuda, nijesu) dosljedno primijenjen; preostaju samo sitne terminološke primjedbe."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00255",
+   "severity": "minor",
+   "type": "register/terminology",
+   "description": "Prevod \"nadživljavaju raskid\" (izvor: \"survives termination\") je doslovan i neprirodan u pravnom/razgovornom registru; \"Odbrana\" za \"defend\" je takođe uže od pravnog značenja (preuzimanje odbrane/zastupanja).",
+   "suggestion": "\"Obaveza odbrane, obeštećenja i zaštite od odgovornosti ostaje na snazi i nakon raskida.\""
+  },
+  {
+   "id": "00260",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "\"mogu vam odmah zatvoriti nalog\" (izvor: \"close your account\") odstupa od glosara (terminate/ban -> ukinuti/blokirati nalog) i od 00253 gdje je \"ukine nalog\"; \"klijente\" (izvor: \"customers\") nije u skladu sa terminom \"korisnik\" u ostatku batcha.",
+   "suggestion": "\"mogu vam odmah ukinuti nalog bez prethodnog obavještenja\"; \"za sve korisnike/kupce\" umjesto \"za sve klijente\"."
+  },
+  {
+   "id": "00263",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"izričitu saglasnost\" prevodi \"specific consent\" (izvor: \"only when given specific consent\"); \"izričit\" (express) blago pomjera značenje u odnosu na \"konkretan/određen\".",
+   "suggestion": "\"samo kada za to dobije konkretnu saglasnost\" (ili \"posebnu saglasnost\")."
+  },
+  {
+   "id": "00269",
+   "severity": "minor",
+   "type": "register",
+   "description": "\"preispituje u redovnim vremenskim razmacima\" (izvor: \"reviews ... on a regular basis\") je prekrut za upit koji treba da ostane razgovoran i kratak; \"preispituje\" je jače od \"reviews\".",
+   "suggestion": "\"Usluga redovno pregleda svoju politiku privatnosti.\""
+  },
+  {
+   "id": "00270",
+   "severity": "minor",
+   "type": "fidelity",
+   "description": "\"u skladu sa standardima EU\" (množina) za \"to an eu standard\" (jednina) - sitno odstupanje.",
+   "suggestion": "\"oni se obrađuju prema standardu EU\" / \"u skladu sa standardom EU\"."
+  },
+  {
+   "id": "00252",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "\"Privremeno isključenje korisnika iz usluge\" (izvor: \"user suspension from the service\") - glosar za suspend je \"privremeno ukinuti (nalog)\"; prevod je prihvatljiv ali ne prati glosar i ne spominje nalog/pristup.",
+   "suggestion": "\"Privremeno ukidanje korisnika/pristupa usluzi biće pravično i srazmjerno.\" (opciono)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se poklapa, nema izostavljenih ili dodatih rečenica, brojevi (13, 14, 30, 3.0, 2018, 12) i imena su očuvani, nema ekavskih ni hrvatskih oblika, a odnos riječi je u granicama. Upiti su uglavnom kratki i dovoljno razgovorni uz normalnu ortografiju i dosljedne termine (nalog, usluga, treće lice, politika privatnosti); preostali nalazi su samo sitna stilska i glosarska odstupanja."
+}

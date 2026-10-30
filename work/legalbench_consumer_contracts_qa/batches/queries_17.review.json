@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00324",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "Uvodna partikula \"Je li u redu da koristim botove\" razlikuje se od \"Da li\" koje se dosljedno koristi u ostalim upitima batcha (npr. 00325, 00332).",
+   "suggestion": "Da li je u redu da koristim botove da posjećuju veb-stranice na koje šaljem priloge, da bi izgledale popularnije?"
+  },
+  {
+   "id": "00326",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"sadržaj koji su sami napravili\" (izvor: content they created) je preneseno kolokvijalno, dok isti pojam u 00327 glasi \"stvorili\"; nedosljedno unutar para upita (laički upit smije biti razgovoran, ali glagol bi trebalo uskladiti).",
+   "suggestion": "Mogu li korisnici povući prava koja daju CNN-u na sadržaj koji su sami stvorili?"
+  },
+  {
+   "id": "00323",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"sajt\" (izvor: site) u 00323 naspram \"veb-stranice\" (webpages) u 00324; prihvatljivo, ali je preporučljivo ujednačiti kolokvijalni termin za web lokaciju ili ga zadržati samo za 'site'.",
+   "suggestion": "Zadržati \"sajt\" za site i \"veb-stranica\" za webpage (trenutno stanje je ispravno; samo provjeriti dosljednost u cijelom datasetu)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, nema izostavljenih ni dodatih sadržaja, brojevi (90%) i ostali tokeni su očuvani, a nema ni ekavskih ni hrvatskih oblika. Registar je odgovarajući za upite (laička pitanja ostala laička, formalna formalna), glosar (uslovi korišćenja, usluge, nalog, treća lica, strane) se dosljedno primjenjuje, bez sadržaja iz polja context. Preostale primjedbe su isključivo stilske."
+}

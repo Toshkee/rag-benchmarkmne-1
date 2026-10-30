@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "CtlRJoWcUR",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'designated topic or theme of any Interactive Area' preveden kao 'određenu temu ili oblast bilo koje interaktivne oblasti'; 'theme' je preveden kao 'oblast', što je zbunjujuće jer 'oblast' označava i samu Interactive Area.",
+   "suggestion": "'se uglavnom ne odnosi na određenu temu ili tematsku cjelinu bilo koje interaktivne oblasti.'"
+  },
+  {
+   "id": "CtlRJoWcUR",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'does not take any responsibility or assume any liability' -> 'ne preuzima nikakvu odgovornost niti snosi bilo kakvu odgovornost': ponovljena ista imenica, a razlika responsibility/liability se gubi.",
+   "suggestion": "'ne preuzima nikakvu odgovornost niti prihvata bilo kakvu pravnu odgovornost'."
+  },
+  {
+   "id": "JLQ6xVJGyO",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'common law' ostavljeno neprevedeno u 'bilo koje pravo po common law'.",
+   "suggestion": "'bilo koje pravilo običajnog (common law) prava'."
+  },
+  {
+   "id": "JLQ6xVJGyO",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'license provided for herein' -> 'licencu predviđenu ovim dokumentom': 'herein' preveden kao 'ovim dokumentom', a slično 'rights granted herein' -> 'datih ovim dokumentom'; u ugovornom registru prirodnije je 'ovim uslovima'.",
+   "suggestion": "'licencu predviđenu ovim uslovima' / 'prava data ovim uslovima'."
+  },
+  {
+   "id": "YUPnmbpD0e",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'publisher or creator' -> 'izdavač ili autor': 'creator' kao 'autor' sužava značenje (stvaralac sadržaja).",
+   "suggestion": "'izdavač ili stvaralac'."
+  },
+  {
+   "id": "YUPnmbpD0e",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'guarantees' -> 'garantuje', dok je u item-u CtlRJoWcUR 'vouch' -> 'jemči'; nedosljedan izbor glagola za sličnu garantnu formulaciju (jemči je ustavni/zakonski registar, nije u glosaru).",
+   "suggestion": "U CtlRJoWcUR: 'CNN ne garantuje tačnost ili vjerodostojnost...'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova, isti brojevi (13, 18, 6), isti broj novih redova, nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika. Registar je formalan ugovorni uz vi/vaš malim slovom, glosar (nalog, uslovi korišćenja, korisnički sadržaj, treće lice, odgovornost, ukinuti, privremeno) dosljedno primijenjen. Preostala odstupanja su isključivo manja terminološka i stilska."
+}

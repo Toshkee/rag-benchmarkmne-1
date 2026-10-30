@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00211",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"Senior Scams Prevention Advisory Council\" prevedeno kao \"Savjetodavni savjet\" (\"Advisory\" + \"Council\" -> tautologija).",
+   "suggestion": "\"Savjetodavno vijeće za sprječavanje prevara nad starijim licima\" ili \"Savjetodavni savjet\" uz \"Savjet\" velikim slovom ako je naziv tijela."
+  },
+  {
+   "id": "00212",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"Commissioned Officer Corps\" prevedeno kao \"Korpus oficira\" (izostavljeno \"commissioned\"); u drugom pomenu \"korpusu oficira\" malim slovom, što je nedosljedno sa nazivom zakona.",
+   "suggestion": "\"Zakon o Korpusu komisionisanih oficira Nacionalne uprave za okeane i atmosferu iz 2002. godine\"; dalje dosljedno \"korpusu komisionisanih oficira\"."
+  },
+  {
+   "id": "00213",
+   "severity": "minor",
+   "type": "register",
+   "description": "\"procurement power\" -> \"nabavna moć savezne vlade\" je neprirodno u pravnom registru.",
+   "suggestion": "\"koristi moć javnih nabavki savezne vlade\"."
+  },
+  {
+   "id": "00201",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"State manufacturing extension partnerships\" -> \"partnerstvima država za unapređenje proizvodnje\" gubi \"extension\" (program savjetodavne podrške proizvođačima).",
+   "suggestion": "\"državnim partnerstvima za proširenje (podršku) proizvodnje (manufacturing extension partnerships)\"."
+  },
+  {
+   "id": "00200",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"health home\" -> \"zdravstveni dom\" se u CG poklapa sa postojećom ustanovom (dom zdravlja), pa može zavarati.",
+   "suggestion": "\"zdravstveni dom (health home)\" pri prvom pomenu radi jasnoće."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: 20 od 20 stavki, isti _id-ovi, nema izostavljenih ni dodatih dijelova, brojevi (XIX, 301, 14(c), 1938, 1974, 2002) očuvani, ijekavica bez ekavizama i kroatizama. Obrasci \"Predlog zakona kojim se...\" / \"Kojim se...\" i \"i uređuju druga pitanja\" primijenjeni su dosljedno, uz jednu rečenicu po stavci i bez sadržaja iz context polja; registar je primjeren, a preostale primjedbe su sitne terminološke."
+}

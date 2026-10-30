@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00147",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"legal name\" preneseno kao \"zvanično ime\" ('Ne morate da navodite svoje zvanično ime'); bliže je pravno/puno ime.",
+   "suggestion": "\"Ne morate da navodite svoje pravno (puno) ime, osim kod plaćenih naloga u svrhu naplate...\""
+  },
+  {
+   "id": "00143",
+   "severity": "minor",
+   "type": "glosar/registar",
+   "description": "\"users agree not to submit\" -> \"Korisnici pristaju da neće postavljati\"; glosar za \"you agree that\" je \"saglasni ste da\", a \"pristaju da neće\" je malo nezgrapno.",
+   "suggestion": "\"Korisnici su saglasni da neće postavljati klevetnički, uznemiravajući ili prijeteći sadržaj.\""
+  },
+  {
+   "id": "00148",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "\"other parties web sites\" -> \"drugim stranama, veb-sajtovima\"; \"parties\" je ovdje treća lica, a u 00129 se koristi \"sajtovima\" (bez \"veb-\"), što je nedosljednost unutar batcha.",
+   "suggestion": "\"...dalju distribuciju drugim licima, veb-sajtovima, aplikacijama...\"; u 00129 \"na drugim veb-sajtovima\" (ili svuda \"sajtovi\")."
+  },
+  {
+   "id": "00129",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "\"drugim sajtovima\" vs \"veb-sajtovima\" u 00148; takođe \"Pinterest prikuplja ... Takođe prikupljaju\" prebacuje jedninu/množinu, što prati izvor (pinterest ... they) i prihvatljivo je.",
+   "suggestion": "Ujednačiti \"veb-sajtovima\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: 25 stavki, identični _id-ovi i redoslijed, nema izostavljenja, dodavanja ni promjene značenja (bez tokena/brojeva osim 500px koji je sačuvan; odnos riječi 0.81-1.29). Nema ekavskih ni hrvatskih oblika. Registar upita je razgovoran i kratak, ortografija je normalna, glosar se poštuje (kolačići, treće lice, nalog, kolektivna tužba, privremeno ukinuti, uslovi korišćenja); preostale su samo sitne stilske nedosljednosti."
+}

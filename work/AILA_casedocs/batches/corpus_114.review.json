@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "SmNqE40fAr#2",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Isti pojam 'deed of reference' / 'order of reference' prevodi se nedosljedno: 'ispravu o upućivanju na arbitražu' (par. 38) naspram 'akt o upućivanju' (par. 43-46). Isto: 'revoking the award' -> 'Opozivajući arbitražnu odluku' (par. 36) dok se 'set aside' svuda drugdje prevodi 'staviti van snage'.",
+   "suggestion": "Ujednačiti: 'isprava o upućivanju na arbitražu' u cijelom itemu; 'Stavljajući van snage arbitražnu odluku, Visoki sud je...'."
+  },
+  {
+   "id": "SmNqE40fAr#2",
+   "severity": "minor",
+   "type": "tačnost termina",
+   "description": "'debts due to the firm were to be taken ... at 85 % of that value' prevedeno 'dugovanja prema firmi trebalo je uzeti' (par. 46) — dvosmisleno, može se pročitati kao dugovanja firme.",
+   "suggestion": "'potraživanja firme trebalo je uzeti ne po njihovoj knjigovodstvenoj vrijednosti, već po 85 % te vrijednosti'."
+  },
+  {
+   "id": "SmNqE40fAr#2",
+   "severity": "minor",
+   "type": "gramatika/dosljednost imena",
+   "description": "Nedosljedna deklinacija imena: 'Chintamanraoa' (par. 36, 46) i tipfeler 'naložio Chintamanraou da ga podnese' (par. 46). Takođe 'dvije preostale protivne strane, koji su braća' (par. 36) — nesaglasnost roda/broja.",
+   "suggestion": "Ispraviti 'naložio Chintamanraou' u 'naložio Chintamanraou'->'naložio Chintamanrau/Chintamanraoa' (jedan oblik u cijelom itemu); 'dvije preostale protivne strane, koji su braća' -> 'dvojica preostalih protivnih strana, koji su braća'."
+  },
+  {
+   "id": "SmNqE40fAr#2",
+   "severity": "minor",
+   "type": "stil/terminologija",
+   "description": "'written down value' -> 'otpisana vrijednost' (par. 46) je netačan računovodstveni termin; 'dismissed with costs in one set' -> 'uz troškove postupka u jednom iznosu' (par. 35) gubi značenje jedinstvenog skupa troškova; 'supersession of the arbitration agreement' -> 'stavljanju van snage arbitražnog sporazuma' (par. 34) zamagljuje razliku prema 'set aside'.",
+   "suggestion": "'knjigovodstveno umanjena (amortizovana) vrijednost'; 'uz troškove postupka, zajednički za jedan set zastupnika/u jednom setu'; 'rješenje o prestanku važenja (zamjeni) arbitražnog sporazuma'."
+  },
+  {
+   "id": "SmNqE40fAr#2",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Zaglavlje 'HIDAYATULLAH, J.-' prevedeno kao 'HIDAYATULLAH, sudija -'; zadržan je pogrešan razmak u citatu ('nijesu .vezali') i nepotpuna interpunkcija iz izvora. Izraz 'Uvjerio bih se da u ovo pitanje treba ući dublje' (par. 47) je kruta kalka za 'I would have persuaded myself to go into this matter more deeply'.",
+   "suggestion": "'HIDAYATULLAH, sudija:'; u par. 47 'Bio bih sklon da se dublje upustim u ovo pitanje da nije činjenice da...'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (27), svi brojevi, iznosi (Rs.), citati i numeracija pasusa 32-47 identični izvoru, bez izostavljenih ili dodatih rečenica, bez ekavskih ili hrvatskih oblika. Registar je pravnički i u skladu sa glosarom (žalilac, protivna strana, Visoki sud, prvostepeni sud, član, tačka, 'nijesu'); preostali nedostaci su manje terminološke nedosljednosti i stilski detalji."
+}

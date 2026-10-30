@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "QbD7WWJSKk",
+      "severity": "minor",
+      "type": "terminologija / pogrešna konotacija",
+      "description": "Prevod: „rok zastarjelosti za gonjenje kršenja propisa o automatizovanim pozivima“ i „da goni kršenja pravila o automatizovanim pozivima“. Izvor: „statute of limitations for enforcing robocall violations“ i „to pursue violations of robocall rules“. „Gonjenje“ upućuje na krivično gonjenje, a FCC sprovodi propise upravnim putem. Takođe se „robocall violations“ prevodi kao „kršenja propisa“, a „violations of robocall rules“ kao „kršenja pravila“, pa je termin nedosljedan. U naslovu se „(robocalls)“ ne ponavlja, a u tekstu je dodato kao gloss.",
+      "suggestion": "„produžava se rok zastarjelosti za sprovođenje propisa kojima se uređuju automatizovani pozivi (robocalls) ...“ i „ovlašćuje se Savezna komisija za komunikacije da pokrene postupak zbog kršenja pravila o automatizovanim pozivima bez prethodnog izdavanja upozorenja“."
+    },
+    {
+      "id": "L2lVSID1u7",
+      "severity": "minor",
+      "type": "terminologija / dodavanje",
+      "description": "Naslov: „Zakon o pristupu preživjelih žrtava podržavajućoj zaštiti“. Izvor: „Survivors' Access to Supportive Care Act“. „Žrtava“ je dodato (izvor kaže samo „survivors“), a „care“ je preneseno kao „zaštita“ umjesto njega ili zbrinjavanje. U tekstu „to address the adequacy of access“ je preneseno kao „radi obezbjeđivanja odgovarajućeg pristupa“, što blago mijenja nijansu (rješavanje pitanja adekvatnosti, a ne obezbjeđivanje).",
+      "suggestion": "„Zakon o pristupu preživjelih podržavajućoj njezi, odnosno SASCA“; „radi rješavanja pitanja adekvatnosti pristupa pregledima nakon seksualnog napada“."
+    },
+    {
+      "id": "2qFl41sNLj",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Prevod: „planovi zdravstvenog osiguranja, pružaoci zdravstvenih usluga ili klirinške kuće“. Izvor: „health care plans, providers, or clearinghouses“. „Klirinške kuće“ je doslovan i nejasan prevod za health care clearinghouses.",
+      "suggestion": "„... ili posredničke ustanove za obradu zdravstvenih podataka (clearinghouses)“."
+    },
+    {
+      "id": "aSQHqNgAC7",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Prevod: „Ministarstvu finansija“. Izvor: „Department of the Treasury“. Glosar propisuje obrazac „Department of X → Ministarstvo X“. Prevod je prirodan, ali odstupa od doslovnog obrasca i u glosaru nije izričito naveden.",
+      "suggestion": "Zadržati „Ministarstvu finansija“ uz dopunu glosara (Department of the Treasury → Ministarstvo finansija), ili „Ministarstvu riznice SAD-a“ ako se traži doslovnost."
+    },
+    {
+      "id": "2qFl41sNLj; EOfHl2wBqC; dSJeCwEJwp",
+      "severity": "minor",
+      "type": "nedosljednost unutar batcha",
+      "description": "„Ministarstvo zdravlja i socijalnih usluga (HHS)“ se u stavkama 2qFl41sNLj i EOfHl2wBqC dodaje skraćenica (HHS), iako je izvor nema, dok je u dSJeCwEJwp (dva puta) i u naslovu nema. Skraćenica se tako dodaje bez uporišta u izvoru.",
+      "suggestion": "Ujednačiti: skraćenicu davati pri prvom pomenu u svakom itemu (kako propisuje glosar), uključujući dSJeCwEJwp."
+    },
+    {
+      "id": "3bYsrERg1i; OwOc8QyU7A; YTH8xIZM1J",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "„Working group“ (3bYsrERg1i) i „task force“ (2qFl41sNLj, YTH8xIZM1J) se oba prevode kao „radna grupa“, pa se razlika gubi. „Collate“ u OwOc8QyU7A prevedeno je kao „prikupi“, a izvor kaže „collate, organize, and publicly share“, odnosno sastavi ili objedini.",
+      "suggestion": "Za task force koristiti npr. „radni tim“ ili „operativna grupa“, a „working group“ zadržati kao „radna grupa“. Za collate: „sastavi, organizuje i javno objavi“."
+    },
+    {
+      "id": "EOfHl2wBqC",
+      "severity": "minor",
+      "type": "stil",
+      "description": "„Program za NTDs“ i „u vezi sa NTDs“ ostavlja englesku množinsku skraćenicu u padežnoj konstrukciji. „Dengu groznicu“ je neuobičajen oblik. „Obrazovanje panela“ za „establishing a panel“ je manje prirodno.",
+      "suggestion": "„Program za NTD“ / „u vezi sa NTD“ (ili „zanemarene tropske bolesti“); „groznicu denga“; „osnivanje panela“."
+    },
+    {
+      "id": "ZESFqZ8pIx; Q0OsGFUsd3",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "ZESFqZ8pIx: „particularized local content“ → „posebnog lokalnog sadržaja“ gubi nijansu (sadržaj prilagođen konkretnoj lokalnoj zajednici), a „community“ → „zajednica“ je u kontekstu licenciranog područja emitovanja neprecizno. Q0OsGFUsd3: „Civilian Establishments“ → „civilnim objektima“; „establishments“ je pomalo slobodno preneseno.",
+      "suggestion": "„konkretnog lokalnog sadržaja“, „u lokalnoj zajednici (mjestu) u kojoj se stanica nalazi“; „u civilnim ustanovama“."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 19 _id-ova se poklapa, tokeni i brojevi su identični izvoru, broj novih redova je isti u svakom itemu, nema ekavskih ni hrvatskih oblika, a odnos broja riječi je 0.97–1.29. Registar odgovara obrazloženju predloga zakona („Ovim predlogom zakona...“, „Predlogom zakona se nalaže...“), a glosar (budžetska sredstva, fiskalna godina, Ministarstvo X, država, indijansko pleme, GAO/FCC/OSTP skraćenice) se dosljedno primjenjuje. Nema blokirajućih grešaka. Preostaju sitna terminološka odstupanja (gonjenje u QbD7WWJSKk, njega/zaštita u L2lVSID1u7, klirinške kuće) i nedosljednost oko skraćenice (HHS)."
+}

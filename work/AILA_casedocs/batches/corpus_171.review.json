@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#10",
+   "severity": "minor",
+   "type": "terminologija/značenje",
+   "description": "Pasus 180: \"to them Manju's case should be an eye-opener\" preveden kao \"slučaj Manju trebalo da posluži kao opomena\"; 'eye-opener' znači otkriće/otvaranje očiju, a ne opomena.",
+   "suggestion": "\"...za njih bi slučaj Manju trebalo da bude otvaranje očiju (pouka).\""
+  },
+  {
+   "id": "sUkiH8G4Zp#10",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Pasus 187: \"everybody was loving\" prevedeno kao \"svi su je voljeli\"; izvor kaže da su svi bili puni ljubavi/ljubazni, ne da su nju voljeli.",
+   "suggestion": "\"...i svi su bili pažljivi i puni ljubavi\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#10",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 184: \"Commercial Tax\" prevedeno kao \"porez na promet\" (sales tax) - sužavanje značenja; takođe nejasna referenca \"prijateljica Manju, koja je 1980... položila B.Sc.\" (u izvoru je to Manju).",
+   "suggestion": "\"savjetnik za privredne (komercijalne) poreze i porez na dohodak\"; \"Manju, koja je 1980... položila ispit B.Sc., dok je P.W. 5...\" radi jasnoće."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 18 novih redova kao u izvoru, svi pasusi i rečenice prisutni, tokeni, brojevi, datumi i iznosi (Rs. 2, 000/-) identični, odnos riječi 0.95, bez ekavizama i kroatizama. Glosar (žalilac, vijeće (Division Bench), prvostepeni sud, član ... Krivičnog zakonika) primijenjen dosljedno, strane dosljedno označene (prvo-/drugo-/trećeoptuženi); registar je prirodan sudski. Preostala su samo tri manja stilska/terminološka odstupanja."
+}

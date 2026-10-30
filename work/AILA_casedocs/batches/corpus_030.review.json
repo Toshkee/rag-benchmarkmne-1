@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "terminologija/skraćenica",
+      "description": "Red 12: izvor 'Ss. 60(3) and 63 of the Act' preveden kao 'čl. 60(3) i 63 Zakona', dok se svuda drugdje u dijelu koristi puni oblik 'član'. Nedosljedno skraćivanje.",
+      "suggestion": "'... kako je predviđeno odredbama člana 60(3) i člana 63 Zakona.'"
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "nijansa značenja",
+      "description": "Stav (ii): izvor 'that vitiates the conviction' preveden 'i to osuđujuću presudu čini nezakonitom'. 'Vitiates' znači narušava/čini manjkavom, ne nužno 'nezakonitom'.",
+      "suggestion": "'i to dovodi u pitanje valjanost osuđujuće presude' (ili 'čini osuđujuću presudu manjkavom')."
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "nedosljednost naziva zakona",
+      "description": "Isti zakon se naziva na više načina: 'Zakon' (the Act), 'Zakon o opojnim drogama i psihotropnim supstancama iz 1985.', 'Zakon NDPS iz 1985. godine' (u citatu), a izmjenjujući zakon: 'Zakon o izmjenama' i 'Zakon o izmjenama i dopunama Zakona o opojnim drogama ... iz 2001. godine'. Citati imaju 'Amending Act' pa 'Zakon o izmjenama' nije pogrešan, ali nema glosa pri prvom pomenu.",
+      "suggestion": "U citatu zadržati 'NDPS' uz puni naziv pri prvom pomenu (npr. 'Zakon o opojnim drogama i psihotropnim supstancama iz 1985. godine (NDPS)'), a 'Amending Act' dosljedno 'Zakon o izmjenama'."
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "format broja",
+      "description": "Izvor '1.66%' preveden '1,66%' (decimalni zarez); stilski vodič traži da brojevi ostanu kao u izvoru. Ponavlja se u tačkama 6 i (iii). Cifre se poklapaju, pa je odstupanje samo u formatu.",
+      "suggestion": "Prihvatljivo prema crnogorskoj normi; ako se traži doslovnost brojeva za benchmark, ostaviti '1.66%'."
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "termin okrivljeni/optuženi",
+      "description": "Glosar traži 'okrivljeni' do podizanja optužnice. U tački 2 ('Optuženi je uhapšen', 'primijećen je optuženi') radi se o događajima prije optužnice, a koristi se 'optuženi'. Termin je barem dosljedan kroz cijeli dio.",
+      "suggestion": "Ostaviti dosljedno 'optuženi' ili u tački 2 (i 3) koristiti 'okrivljeni'; ne miješati."
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "kalk/registar",
+      "description": "'uvaženi sudija pojedinac' (learned Single Judge) i 'dodatni sudija Sesijskog suda' (Additional Sessions Judge) su pomalo nezgrapni kalkovi; 'nije ni izdaleka uspjela' za 'miserably failed' dodaje malo drugačiju nijansu.",
+      "suggestion": "'uvaženi sudija pojedinac' ostaviti ili 'sudija pojedinac'; 'dodatni sudija Sesijskog suda' prihvatljivo; 'nije uspjela da dokaže optužbu' sa 'potpuno'/'očigledno' umjesto 'ni izdaleka'."
+    },
+    {
+      "id": "QR6FEecAtp#0",
+      "severity": "minor",
+      "type": "transkripcija imena",
+      "description": "Mješoviti oblici toponima: 'Visoki sud Pandžaba i Haryane u Chandigarhu' (Pandžab transkribovan po vodiču, Haryana/Chandigarh zadržani i deklinirani). Vodič dozvoljava zadržavanje manje poznatih mjesta, pa je to prihvatljivo, ali je mješavina vidljiva.",
+      "suggestion": "Prihvatljivo; po želji dosljedno 'Pandžaba i Hariane u Čandigaru' ili sve izvorno."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 37 redova je očuvano, nijedan pasus ni rečenica nijesu izostavljeni ni dodati, brojevi, datumi, iznos Rs.1,00,000/-, citati (SCC, Indlaw, SCALE) i izvorne greške (23.12.2992, 19.10.2011) preneseni su doslovno, a stranke su dosljedno označene (žalilac, uvaženi zastupnik žalioca/države, optuženi). Registar je pravnički i prirodan, ijekavica bez ekavizama i hrvatskizama, glosar poštovan (Visoki sud, Sesijski sud, odbijena, ukinuti, službeni list); preostali nalazi su samo stilske i terminološke sitnice."
+}

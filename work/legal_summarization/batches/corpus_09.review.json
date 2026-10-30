@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "O6UjCufdXI",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pogrešan oblik: \"posrednikom podacima\" (izvor: \"data broker\"); nije gramatički ispravno.",
+   "suggestion": "\"brokerom podataka\" ili \"posrednikom za podatke\"."
+  },
+  {
+   "id": "O6UjCufdXI",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "\"ukidanje naloga lica koja ponovljeno krše prava\" dodaje \"naloga\" (izvor: \"terminating repeat infringers\"); i \"aplikaciju za programere\" za \"developer application\" je neprecizno.",
+   "suggestion": "\"prekid saradnje sa licima koja ponovljeno krše prava\" ili zadržati \"ukidanje naloga\" dosljedno; \"developer application\" → \"prijava aplikacije za programere\"."
+  },
+  {
+   "id": "hDiLZ3WOGw",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"we will disable your account\" → \"blokiraćemo vaš nalog\", dok je u aIaGr8bYPX \"disable your account\" → \"onemogućimo vaš nalog\"; nedosljedno unutar batcha. Takođe \"appeal\" → \"uložite prigovor\" umjesto glosarskog \"žalba\".",
+   "suggestion": "Ujednačiti (npr. \"onemogućimo/onemogućićemo vaš nalog\" na oba mjesta) i \"izjavite žalbu\"."
+  },
+  {
+   "id": "aIaGr8bYPX",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"osuđeni za seksualni delikt\" za \"convicted sex offender\" — \"delikt\" nije uobičajen u crnogorskom krivičnom registru.",
+   "suggestion": "\"osuđeni za krivično djelo protiv polne slobode\" ili \"osuđeno lice za seksualno krivično djelo\"."
+  },
+  {
+   "id": "xavU07zUHL",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"podlicencirajuću\" (za \"sub licensable\") je neprirodan oblik.",
+   "suggestion": "\"koja se može dalje licencirati (podlicenca)\"."
+  },
+  {
+   "id": "ijULzIDHPn",
+   "severity": "minor",
+   "type": "vjernost/ortografija",
+   "description": "Dodate definicije (\"Uslovi\"), (\"Usluge\") koje izvor nema doslovno (normalizacijski artefakt \"terms of service terms\"); prihvatljivo kao rekonstrukcija, ali je \"Politika privatnosti\" velikim slovom nedosljedno sa \"politiku privatnosti\" malim slovom u O6UjCufdXI.",
+   "suggestion": "Ujednačiti pisanje (malo slovo za generičku politiku privatnosti); definicije zadržati samo ako je namjerna rekonstrukcija."
+  },
+  {
+   "id": "RNsPPqLiZg",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "\"putem servisa Google Play Games\" — riječ \"servisa\" ne postoji u izvoru (\"using google play games\").",
+   "suggestion": "\"putem usluge Google Play Games\" ili \"pomoću Google Play Games\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup i redoslijed _id-ova, nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika, odnos riječi 0.88-1.01. Korpus je u formalnom ugovornom registru (vi/naš, uslovi korišćenja, politika privatnosti, nalog, treće lice) sa normalnom ortografijom; nađeno je samo nekoliko manjih stilskih i terminoloških nedosljednosti (batch nema upita)."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "08YMNb5Zql#3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'learned senior counsel for the appellants' prevedeno kao 'uvaženog višeg zastupnika žalilaca'; 'viši' zvuči kao hijerarhija/instanca, nije ustaljeno.",
+   "suggestion": "'uvaženog starijeg zastupnika žalilaca' ili 'uvaženog zastupnika žalilaca (senior counsel)'."
+  },
+  {
+   "id": "08YMNb5Zql#3",
+   "severity": "minor",
+   "type": "dodavanje/skraćenica",
+   "description": "U 'navedenom glavnom sudskom magistratu (CJM)' skraćenica je dodata u zagradi; izvor ('the said CJM') koristi skraćenicu bez prethodnog uvođenja, pa prevod uvodi (CJM) tek na kraju, poslije punog naziva iz prethodne rečenice bez skraćenice.",
+   "suggestion": "Dosljedno: u prvom pomenu 'glavni sudski magistrat u Haridwaru (CJM)', dalje samo 'CJM'; ili ostaviti 'navedenom CJM-u'."
+  },
+  {
+   "id": "08YMNb5Zql#3",
+   "severity": "minor",
+   "type": "deklinacija/ime",
+   "description": "'Žaliocu Soma u krivičnoj žalbi br. 1158/2008' – ime Soma nedeklinirano uz dativ ('Appellant Soma ... is directed to surrender'); takođe 'žalilac' u dativu je 'žaliocu', ali glosar daje 'žalilac'.",
+   "suggestion": "'Žaliocu Somi' ili 'Žaliocu (Soma) u krivičnoj žalbi br. 1158/2008'."
+  },
+  {
+   "id": "08YMNb5Zql#3",
+   "severity": "minor",
+   "type": "registar/terminologija",
+   "description": "'sub-cl.'/'sub-cls.' prevedeno kao 'podtačka' (glosar: clause→tačka, sub-section→stav; 'podtačka' nije u glosaru); 'the Court below' → 'niži sud' umjesto 'prvostepeni sud' (Trial Court) – ovdje je zapravo Visoki sud, pa 'niži sud' je prihvatljiv, ali odstupa od glosara; izvorni jednostruki navodnici 'treće' ostali ravni dok su dvostruki prevedeni u „...“ (nedosljedan stil navodnika).",
+   "suggestion": "Ujednačiti: 'tačka 3 člana 40' ili dosljedno 'podtačka'; navodnike 'treće' pretvoriti u „treće“ ili dokumentovati zadržavanje jednostrukih."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih pet novih redova, brojevi pasusa (45–47), brojevi članova (40, 141, 149, 302, 307, 147, 148), broj predmeta 1158/2008 i citati su očuvani, bez izostavljenih ili dodatih rečenica, bez ekavskih i hrvatskih oblika; značenje i procesne strane (žalioci, odbijene žalbe, obaveza predaje magistratu) tačni. Registar je prirodan i pravnički, sa manjim terminološkim i tipografskim nedosljednostima."
+}

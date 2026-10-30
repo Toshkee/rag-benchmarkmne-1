@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "JLQ6xVJGyO#1",
+   "severity": "minor",
+   "type": "terminologija/značenje",
+   "description": "Para 10: 'the improved version now before the court' prevedeno kao 'izmijenjena verzija'. 'Improved' ovdje znači doterana/dopunjena verzija; 'izmijenjena' gubi nijansu.",
+   "suggestion": "'doterana verzija' (ili 'dopunjena verzija')."
+  },
+  {
+   "id": "JLQ6xVJGyO#1",
+   "severity": "minor",
+   "type": "stil/redundancija",
+   "description": "Para 11: 'whether the prosecution had made out the charge against the accused' -> 'da li je optužba dokazala optužbu koja se stavlja na teret optuženom' (optužba dokazala optužbu; optužba dokazuje optužbu).",
+   "suggestion": "'da li je tužilaštvo dokazalo optužbu protiv optuženog'."
+  },
+  {
+   "id": "JLQ6xVJGyO#1",
+   "severity": "minor",
+   "type": "nejasna referenca",
+   "description": "Para 16: 'falsifies all the versions given by her' -> 'pokazuje da su sve verzije koje je ona dala lažne'; zamjenica 'ona' je nejasna jer je prethodno pomenuta Shilavati (pismo napisano na njen zahtjev), a riječ je o verzijama Yamunabai.",
+   "suggestion": "'pokazuje da su sve verzije koje je dala Yamunabai lažne'."
+  },
+  {
+   "id": "JLQ6xVJGyO#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Para 17: 'unsophisticated girl having no knowledge of the world' -> 'nevješta djevojka'; 'nevješta' znači 'nespretna', ne 'neiskusna/naivna'.",
+   "suggestion": "'neiskusna djevojka bez ikakvog poznavanja svijeta'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 10 pasusa (10-19) i svih 13 novih redova je prisutno, tokeni, brojevi, datumi, vremena, iznos Rs. 5, citati (A.I.R. 1946 P.C. 821, 1946 Indlaw PC 13) i brojevi članova (366, 637 (d), 136) su doslovni, uloge stranaka (žalilac, optuženi, Visoki sud, Vrhovni/ovaj sud) su dosljedne i bez ekavizama/kroatizama. Registar je primjeren obrazloženju presude i u skladu sa glosarom (zahtjev za posebnu dozvolu za žalbu, kolektor (Collector), Zakonik o krivičnom postupku, 'nijesmo'). Nema blokirajućih grešaka, samo četiri sitna stilska/terminološka odstupanja."
+}

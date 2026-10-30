@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "5QHXw3HNfV",
+   "severity": "minor",
+   "type": "izvor_vs_prevod",
+   "description": "Izvor: \"feesour responsibility to pay any aaa ...\"; prevod: \"Vaša obaveza plaćanja bilo kojih naknada AAA\". Literalno izvor kaže \"our\" (artefakt normalizacije, original je \"Your\"); prevod je ispravio u \"Vaša\". Smisao ugovora je tačan i konzistentan sa ostatkom (Niantic plaća naknade), ali odstupa od doslovnog izvora.",
+   "suggestion": "Zadržati \"Vaša obaveza ...\" (ispravno smisaono) ili, ako se traži doslovnost, \"Naša obaveza plaćanja ...\"; odluka na nivou pipeline-a."
+  },
+  {
+   "id": "5QHXw3HNfV",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "\"the aaa provides a general demand for arbitration\" -> \"AAA pruža opšti obrazac zahtjeva za arbitražu\"; riječ \"obrazac\" ne postoji u izvoru.",
+   "suggestion": "\"AAA pruža opšti zahtjev za arbitražu.\" (ili ostaviti kao jeste ako se prihvata prirodniji smisao)."
+  },
+  {
+   "id": "5QHXw3HNfV",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"judgment on the arbitration award may be entered in any court\" -> \"Presuda ... može biti donijeta pred bilo kojim sudom koji je za to nadležan\"; \"entered\" nije \"donijeta\" (sud ne donosi novu presudu, već se presuda upisuje/registruje).",
+   "suggestion": "\"Presuda na osnovu arbitražne odluke može biti upisana kod bilo kog nadležnog suda.\""
+  },
+  {
+   "id": "5QHXw3HNfV",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"this specific paragraph\" -> \"ovaj konkretni stav\"; u glosaru \"stav\" je sub-section, a ovdje je riječ o pasusu ugovora.",
+   "suggestion": "\"ovaj konkretni pasus\"."
+  },
+  {
+   "id": "5QHXw3HNfV",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "\"svaki spor, zahtjev ili nesuglasica koji proizlazi\" - nesaglasnost roda/broja u nizu.",
+   "suggestion": "\"svaki spor, zahtjev ili nesuglasica koji proizlaze iz ovih uslova ili se odnose na njih\" ili \"svaki spor, zahtjev ili nesuglasica koja proizlazi...\"."
+  },
+  {
+   "id": "zgEz6cwB61",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"course of dealing or usage of trade\" -> \"ustaljene poslovne prakse ili trgovačkih običaja\"; \"course of dealing\" je ranija praksa poslovanja među stranama, ne opšta praksa.",
+   "suggestion": "\"ranije prakse poslovanja između strana ili trgovačkih običaja\"."
+  },
+  {
+   "id": "uJJEvQdgWC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"held invalid or unenforceable\" -> \"proglasi ništavom ili neizvršivom\"; \"ništav\" je jače od \"invalid\" (isto \"will be null\" -> \"biće ništav\" je tačno).",
+   "suggestion": "\"proglasi nevažećom ili neizvršivom\"."
+  },
+  {
+   "id": "uJJEvQdgWC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"permitted assigns\" -> \"dozvoljeni prijemnici ustupanja\" je nepravnički i nejasno.",
+   "suggestion": "\"dozvoljene sticaoce prava (cesionare)\" ili \"njihove pravne sljedbenike i ovlašćene sticaoce\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi i redoslijed, svi brojevi (30, 7, 10 000, 75 000, 94105, 1 800 778 7879, 11 b) i adrese očuvani, bez ekavizama i kroatizama, omjer riječi 0.90-1.00. Registar korpusa je formalan ugovorni, ortografija normalna (velika slova, interpunkcija, URL-ovi i e-mail adrese rekonstruisani), glosar (uslovi, nalog, treće lice, odgovornost, mjerodavno pravo, odustati od arbitraže, saglasni ste) dosljedno primijenjen. Preostala su samo manja terminološka i gramatička odstupanja; batch je spreman za upotrebu bez ponovnog prevođenja."
+}

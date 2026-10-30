@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "rsK9EjHvIH",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljedno 'cancel': 'otkažete narudžbinu' / 'Otkazivanje pretplata' naspram 'pravo na odustanak' / 'odustanete od ugovora' za isti pojam 'right of cancellation' / 'cancel our contract'. Takođe 'Disney Proizvod' (veliko P unutar sklona) djeluje neprirodno.",
+   "suggestion": "Ujednačiti: 'pravo na otkazivanje/odustanak' dosljedno; 'Disney proizvod' ili zadržati 'Disney Product' uz dosljednost kroz cijeli batch."
+  },
+  {
+   "id": "rsK9EjHvIH",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'where the seal is broken' prevedeno kao 'ako je pečat oštećen' (izvor: slomljen/probijen, ne samo oštećen); 'importer of record' -> 'evidentirani uvoznik' (uobičajeno 'uvoznik u carinskoj evidenciji'/'uvoznik na carinskoj deklaraciji'); 'redeemed' -> 'iskorišćavanje' (bolje 'unovčavanje/iskorišćenje').",
+   "suggestion": "'ako je pečat probijen/uklonjen'; 'uvoznik naveden u carinskoj dokumentaciji'; 'unovčavanje'."
+  },
+  {
+   "id": "sUkiH8G4Zp",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'User Generated Content' -> 'Sadržaj koji generišu korisnici' odstupa od glosara 'korisnički sadržaj'; 'govern and control' -> 'uređuju ... i mjerodavna su' je stilski glomazno.",
+   "suggestion": "'Korisnički sadržaj'; '... imaju prednost i uređuju Disney Promociju'."
+  },
+  {
+   "id": "RBT7qYHDBT",
+   "severity": "minor",
+   "type": "stil/terminologija",
+   "description": "'dajete arbitru isključivo ovlašćenje' (izvor: exclusive authority) je dvosmislen prilog/pridjev; 'borough of Manhattan' -> 'opštini Menhetn' (borough nije opština); 'Streamlined ... Procedures' -> 'procedurama' umjesto 'postupcima'; 'ROČIŠTE'/'arbitar' naizmjenično 'arbitru/arbitar' ok, ali 'PRED SUDOM, PRED SUDIJOM ILI POROTOM' redundantno za 'in court before a judge or jury'.",
+   "suggestion": "'dajete arbitru isključivo ovlašćenje' -> 'dajete arbitru isključiva ovlašćenja'; 'okrugu Menhetn'; 'pravilima i postupcima'; 'PRED SUDOM, SUDIJOM ILI POROTOM'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi (3/3), isti broj novih redova, svi brojevi (30, 500, 91521, 7620, 60, 1-800-352-5267) i adrese očuvani, bez izostavljanja, dodavanja ili promjene značenja; nema ekavizama ni hrvatskih oblika; odnos riječi 0.93-1.02. Registar je formalan, ugovorni, sa 'vi/mi' i 'nijesu', u skladu sa vodičem; preostala odstupanja su isključivo terminološka/stilska."
+}

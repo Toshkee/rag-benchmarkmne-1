@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "terminologija/preciznost",
+   "description": "Stav 4: 'odstupajući od stava 1. žalbenog suda' za izvorno 'differing from the 1st appellate court'. 'Stav' je u glosaru 'sub-section', pa se fraza čita kao 'paragraf 1' i dovodi u zabludu; sud je samo 'prvi žalbeni sud'.",
+   "suggestion": "'Visoki sud je, za razliku od prvog žalbenog suda, zaključio ...' (i 'nalazom prvog žalbenog suda'; slično u stavu 7: 'prvi žalbeni sud odbio')."
+  },
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "preciznost značenja",
+   "description": "Stav 5: 'ukoliko njegova odluka ne bi mogla dovesti do teške nepravde' za izvorno 'his decision is likely to result in grave injustice'. Izgubljeno je 'likely' (vjerovatnoća), a veznik 'odnosno' ublažava 'or'.",
+   "suggestion": "'... ili ukoliko nije vjerovatno da će njegova odluka dovesti do teške nepravde, Visoki sud treba da bude uzdržan ...'"
+  },
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "odstupanje od glosara",
+   "description": "Stav 5: 'order of acquittal' preveden kao 'rješenje o oslobađanju'; glosar za acquittal je 'oslobađajuća presuda' (u stavu 1 je pravilno 'oslobađajuća presuda').",
+   "suggestion": "'... nije dovoljna da bi se mijenjala oslobađajuća presuda.'"
+  },
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav 10: 'abate/abatement' dosljedno je preveden 'obustaviti/obustavljanje' (npr. 'žalbeni postupak je obustavljen', 'obustavlja se smrću žalioca'). Dosljedno je, ali 'obustavljen' više upućuje na odluku suda nego na prestanak žalbe po sili zakona; term nije u glosaru.",
+   "suggestion": "Razmotriti 'prestaje/gasi se' (npr. 'žalba prestaje smrću žalioca'); u svakom slučaju dosljedno zadržati izabrani termin u cijelom batchu."
+  },
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav 11: 'Their bail bonds do stand cancelled' -> 'Njihova jemstva se poništavaju'. Glosar za 'quash/set aside' je 'ukinuti/staviti van snage', a 'bail bond' je instrument jemstva pa je 'poništavaju' neprirodno.",
+   "suggestion": "'Njihove obaveze po osnovu jemstva stavljaju se van snage.' ili 'Jemstvo se ukida.'"
+  },
+  {
+   "id": "MM0jQb6gbt#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Stav 2: 'paddy crop' -> 'usjev pirinča'; 'paddy' je neoljuštena riža, a 'usjev pirinča' (oljušteno zrno) nije najpreciznije; u stavu 3 izvor pominje 'rice crop' pa je razlika izgubljena.",
+   "suggestion": "Stav 2: 'usjev neoljuštene riže (paddy)'; stav 3: 'usjev riže'. Ostalo (žnjeti/odnijeti) je u redu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 11 pasusa i završna rečenica su prisutni, broj novih redova (19) je isti, svi brojevi, članovi, citati (A.I.R. 1925 All. 620, A.I.R. 1958 Mad 624, Indlaw oznake) i P.W. oznake poklapaju se sa izvorom, nema ekavizama ni hrvatizama, a glosar (žalilac, Visoki sud, uvaženi zastupnik, država Bihar, član/stav) primijenjen je dosljedno. Registar je prirodan i odgovara obrazloženju presude; nađene su samo manje terminološke i stilske nepreciznosti, bez blokirajućih grešaka."
+}

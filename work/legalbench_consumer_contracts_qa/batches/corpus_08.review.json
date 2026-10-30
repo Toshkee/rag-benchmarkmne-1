@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "W1GC7dDyQE",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"we have no responsibility or liability for the deletion of...\". Prevod: \"nemamo nikakvu odgovornost niti obavezu za brisanje\". \"liability\" je preveden kao \"obavezu\", suprotno glosaru (liability -> odgovornost).",
+   "suggestion": "\"nemamo nikakvu odgovornost niti pravnu odgovornost\" ili \"ne snosimo nikakvu odgovornost za brisanje, odnosno za propust čuvanja ili prenosa...\""
+  },
+  {
+   "id": "W1GC7dDyQE",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"exemplary damages\". Prevod: \"primjernu štetu\". \"Primjerna\" znači \"prikladna\", ne odgovara pojmu kaznene/egzemplarne štete.",
+   "suggestion": "\"kaznenu (egzemplarnu) štetu\" ili \"šteta radi kažnjavanja (exemplary damages)\""
+  },
+  {
+   "id": "W1GC7dDyQE",
+   "severity": "minor",
+   "type": "register",
+   "description": "Izvor: \"our directors, officers, employees, and agents\". Prevod: \"direktore, službenike, zaposlene i zastupnike\"; \"službenici\" i \"zaposleni\" se preklapaju, a \"officers\" su ovdje rukovodioci. Takođe \"San Francisko\" je neustaljen oblik.",
+   "suggestion": "\"direktore, rukovodioce, zaposlene i zastupnike\"; \"San Francisko\" zadržati dosljedno ili ostaviti \"San Francisco\"."
+  },
+  {
+   "id": "Is9hVLXnGB",
+   "severity": "minor",
+   "type": "register",
+   "description": "Izvor: \"content that we host\". Prevod: \"sadržaj koji hostujemo\" je anglicizam; i \"sadržaj čiji je doprinos dat po osnovu 'fer upotrebe'\" je nespretno.",
+   "suggestion": "\"sadržaj koji mi čuvamo/objavljujemo na našim serverima\"; \"sadržaj dat na osnovu izuzetka 'fer upotrebe'\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj novih redova (44 i 21), svi brojevi i oznake poklapaju se, odnos riječi 0.99, nema ekavizama ni hrvatizama. Registar je dosljedno formalan (vi/mi, \"saglasni ste\", \"Uslovi korišćenja\", \"nijesmo\"), u skladu sa glosarom; naslovi sekcija i oznake \"Istaknuto radi naglašavanja\" su prevedeni. Postoje samo manje terminološke nepreciznosti (liability, exemplary)."
+}

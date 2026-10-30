@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "00261",
+   "severity": "minor",
+   "type": "stil/leksika",
+   "description": "\"da na svojoj korisničkoj stranici to objelodane\" (izvor: \"make disclosures in their user page\") - \"objelodaniti\" je knjiški/arhaičan za ovaj kontekst; \"objelodane\" se ne uklapa u glosar (disclosure).",
+   "suggestion": "Da li su saradnici koji su primili naknadu obavezni da na svojoj korisničkoj stranici objave tu informaciju (otkriju da su plaćeni)?  Kraće: \"...obavezni da to navedu na svojoj korisničkoj stranici?\""
+  },
+  {
+   "id": "00266",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"odluke o pravilima\" / \"odlukama koje se tiču pravila\" (00267) za \"policy decisions\" / \"decisions concerning policy\" - \"policy\" u kontekstu zajednice je politika/smjernice; \"pravila\" sužava značenje (rules). Dosljedno je u 00266 i 00267, ali odstupa od preciznog termina.",
+   "suggestion": "Da li se Wikimedia često uključuje u odluke o politikama? / ...interveniše u odlukama koje se tiču politika i sličnih pitanja? (primijeniti isto u 00267)"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova (20), brojevi 18/20 očuvani, nema ekavskih ni hrvatskih oblika, sva pitanja su ostala pitanja. Registar je prirodan - laička pitanja (00270, 00272, 00274, 00276) ostala su razgovorna, a formalna (00271, 00273, 00275, 00277, 00279) formalna, uz doslednu glosarsku terminologiju (uslovi korišćenja, usluge, prava intelektualne svojine). Nađena su samo dva manja stilska/terminološka odstupanja."
+}

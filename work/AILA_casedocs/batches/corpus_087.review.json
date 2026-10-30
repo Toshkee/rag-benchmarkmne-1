@@ -1,0 +1,70 @@
+{
+  "n_blocking": 0,
+  "n_minor": 9,
+  "issues": [
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "gramatika/značenje",
+      "description": "Red 1 (prvi pasus): izvor 'if it is held that Section 8-A kept applying' preveden kao 'da se član 8-A i dalje primjenjivao' - nedostaje pomoćni glagol, rečenica je negramatična. Takođe 'the stance of the Government' -> 'stav Vlade' (riječ 'stav' je u glosaru rezervisana za sub-section).",
+      "suggestion": "'da se član 8-A i dalje primjenjivao' -> 'da se član 8-A i dalje primjenjuje'; 'stav Vlade prema članu 8-A' -> 'stanovište Vlade prema članu 8-A'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus o maksimama ('right of pre-entry on the property resumed'): prevod 'pravo ponovnog ulaska (pre-entry)' - prefiks 'ponovnog' odgovara 're-entry', a u zagradi je ostalo 'pre-entry', pa je glosa u unutrašnjoj kontradikciji. Isti pojam je u citatu o Solicitor General-u preveden 'pravo na ponovni ulazak u posjed' (re-entry).",
+      "suggestion": "Prevesti doslovno izvoru: 'pravo prethodnog ulaska (pre-entry) u posjed imovine koja je vraćena u posjed', ili ukloniti nedosljednost i zadržati samo 'pre-entry' u zagradi."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "nejasan prevod",
+      "description": "Isti pasus: 'as was done in Amrit Sagar Kashyap's case ... settled the term' preveden kao 'kao što je učinjeno u predmetu ..., sveo bih termin' - subjekt radnje (sud u predmetu Amrit Sagar Kashyap, 'settled' u prošlom vremenu) pomiješan je sa kondicionalom autora ('sveo bih'), što blago mijenja ko je sveo termin.",
+      "suggestion": "'...i, kao što je u predmetu Amrit Sagar Kashyap (...) (supra) utvrđeno, sveo bih termin ...' ili: 'a kao što je u predmetu Amrit Sagar Kashyap ... određeno da termin ... označava pravo ...'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 22: 'The revisional order dated 17.5.1995' -> 'Rješenjem revizionog organa od 17. 5. 1995.' (dodata imenica 'organ' koje nema u izvoru; glosar: revizija/revizioni sud). 'review application' -> 'zahtjev za ponovno razmatranje' ne prati glosarsku liniju (zahtjev za preispitivanje).",
+      "suggestion": "'Rješenjem u reviziji od 17. 5. 1995. godine ...'; 'review application' -> 'zahtjev za preispitivanje (review)'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "gramatika/značenje",
+      "description": "Pasus 28: 'V.N. Khare, J. (as the CJI then was, was a Member)' -> 'sudija V.N. Khare (kao što je tada bio predsjednik Vrhovnog suda (CJI), bio član)' - dvostruko 'bio', rečenica nejasna; CJI je glavni sudija Indije, a ne 'predsjednik Vrhovnog suda'.",
+      "suggestion": "'sudija V.N. Khare (koji je tada bio glavni sudija Indije, CJI, bio je član tog vijeća)' - ili: 'čiji je član bio i jedan od nas, sudija V.N. Khare (tadašnji glavni sudija Indije - CJI)'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "Pasus 24/18: 'Being a public body' -> 'Kao javno tijelo', dok se na drugim mjestima (pasus 17 - 'public authorities') koristi 'javni organi'. Nedosljedno 'tijelo'/'organ' u istom dijelu.",
+      "suggestion": "'Kao javni organ, čak i u pogledu postupanja prema svom zakupcu, ...'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Pasus 37 (citat C.B.S.E.): 'students of an unaffiliated institution' -> 'studentima nepridružene ustanove' i 'this Court will not be justified to sustain' -> 'ovaj sud ne bi bio opravdan da održi na snazi' - neprirodno, kalk. 'directions' -> 'uputstva' umjesto 'naloga'.",
+      "suggestion": "'studentima ustanove koja nije pridružena (afilirana) Odboru'; 'ne bi bilo opravdano da ovaj sud održi na snazi rješenja ...'; 'osporene naloge Visokog suda'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 22-23: 'dok je djelimično plaćanje ... trebalo izvršiti tog dana' i 'ne radi se o slučaju u kojem će sud morati da zauzme jedan ili drugi stav' su razumljivi, ali 'držao je spreman bankarski platni nalog' za 'pay order' je opisno; 'platni nalog' u CG kontekstu označava drugi instrument, a 'nalog' bez odrednice je rizičan prema glosaru.",
+      "suggestion": "'pay order' -> 'bankarski račun-ček/pay order (bankarski instrument plaćanja)' ili zadržati 'pay order' u zagradi: 'bankarski instrument plaćanja (pay order) na iznos Rs. 13,00,000'."
+    },
+    {
+      "id": "BnD3XkfFNu#1",
+      "severity": "minor",
+      "type": "zadržavanje izvornika",
+      "description": "Naslovi stranaka su nedosljedno prevođeni: 'Municipal Corpn. of Greater Bombay' i 'Board of Trustees of the Port of Bombay' ostaju na engleskom (i 'protiv' prevedeno), dok se 'Chandigarh Admn.' -> 'Uprava Chandigarha', 'Union Territory' -> 'teritorija Unije'. Nema izostavljanja, ali je nedosljedno.",
+      "suggestion": "Ujednačiti: ili ostaviti sve nazive institucija u izvornom obliku, ili prevoditi dosljedno (npr. 'Opštinska korporacija Većeg Bombaja (Municipal Corpn. of Greater Bombay)')."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (46), nijedan pasus ni rečenica nijesu izostavljeni ni dodati, svi brojevi, citati sudske prakse (AIR/SCC/Indlaw), iznosi (Rs. 13,00,000; 31,400; 83,912; 24,90,000), datumi i brojevi članova doslovni; nema ekavizama ni hrvatskih oblika, strane su dosljedno označene (žalilac/protivna strana). Registar je uglavnom prirodan i pravnički (ijekavica, 'nijesu', datumi 'd. m. gggg. godine'); preostali problemi su sitne gramatičke/stilske i terminološke nedosljednosti (npr. pre-entry/ponovni ulazak, 'CJI' rečenica, tijelo/organ)."
+}

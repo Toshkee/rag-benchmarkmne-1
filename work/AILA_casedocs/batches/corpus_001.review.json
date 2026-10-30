@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Navodi 17 i 30/43: \"Chairman-cum-Managing Director\" je jedna funkcija, a prevedeno je kao dvije: \"uz prethodnu saglasnost predsjednika i izvršnog direktora i Upravnog odbora\" i \"potpisao predsjednik i izvršni direktor Korporacije\". Uz to je \"predsjednik\" istovremeno President of India i Chairman, pa je u pasusu 4/Pravilu 10 nejasno ko je ko.",
+   "suggestion": "\"predsjednik-izvršni direktor\" (jedna funkcija), npr. \"uz prethodnu saglasnost predsjednika-izvršnog direktora i Upravnog odbora\"; dosljedno \"predsjednik Indije\" za President kad je moguća zabuna."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "znacenje/terminologija",
+   "description": "Pasus 4: \"vacancy ... caused by retirement, removal, resignation, death\" prevedeno \"usljed penzionisanja\"; u istom pasusu je \"retire\" direktora na skupštini ispravno prevedeno \"prestaje mandat\", pa \"penzionisanje\" navodi na pogrešan smisao.",
+   "suggestion": "\"nastalo usljed prestanka mandata, razrješenja, ostavke, smrti ili na drugi način\"."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Pravilo 37(iii): \"the Board\" prevedeno \"Odbor\", dok je svuda drugdje \"Upravni odbor\" (\"Board of Directors\").",
+   "suggestion": "\"kada se Upravni odbor uvjeri ...\"."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 1/Pravilo: \"unconscionable term\" -> \"nesavjesna odredba\"; \"nesavjesna\" odnosi se na subjekta, a ne na nepravičnu odredbu. Takođe \"advice of the Comptroller\" -> \"na preporuku\" (blaže od \"savjet\").",
+   "suggestion": "\"nepravična (nesavjesna – unconscionable) odredba\" ili \"neprihvatljivo nepravična odredba\"; \"na savjet Glavnog kontrolora i revizora\"."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Pasus 2: \"was incorporated on February 22, 1967\" -> \"osnovan je kao privredno društvo 22. februara 1967. godine\" (dodato \"kao privredno društvo\"). Pasus 10: \"So far as Ganguly\" -> \"g. Ganguly\" (dodato \"g.\"; izvor kasnije koristi \"Ganguli\", prevod preuzima oba oblika).",
+   "suggestion": "\"osnovana je 22. februara 1967. godine\" (Korporacija je ženskog roda, pa i \"osnovan\" -> \"osnovana\" radi slaganja sa \"Korporacija\"); ujednačiti pisanje Ganguly/Ganguli ili zadržati izvor bez \"g.\"."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "slaganje",
+   "description": "Pasus 2: \"Korporacija ... osnovan je\" - subjekt je Korporacija (ž. rod), a glagol je u muškom rodu.",
+   "suggestion": "\"osnovana je\"."
+  },
+  {
+   "id": "FCIX3BYOtD#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Pasus 4/Pravilo 38: \"Ne dirajući u opšte značenje pojma\" i \"Bez obzira na bilo šta što je sadržano u pravilu\" su kalkovi; \"okonča službu\" i \"naknada za izdržavanje\" (subsistence allowance) nisu uobičajeni u crnogorskim propisima.",
+   "suggestion": "\"Ne dovodeći u pitanje opšte značenje pojma\"; \"Bez obzira na odredbe pravila 38, 39 ili 40\"; \"prekine radni odnos\"; \"naknada za izdržavanje\" prihvatljivo, razmotriti \"naknada za vrijeme suspenzije\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 43 reda i svi pasusi (1-10) su prisutni, brojevi, citati, članovi, pravila i datumi su identični izvoru, tokeni (npr. \"H\", \"1\") sačuvani, uloge stranaka (žalilac/protivna strana) dosljedne i u skladu sa glosarom, bez ekavizama i hrvatizama. Registar je primjeren obrazloženju presude, uz nekoliko manjih terminoloških i stilskih nedosljednosti (predsjednik/Chairman-cum-Managing Director, Odbor/Upravni odbor, penzionisanje)."
+}

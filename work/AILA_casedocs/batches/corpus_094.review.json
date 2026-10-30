@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "9s8OrJQUdL#0",
+      "severity": "minor",
+      "type": "gramatika/rod",
+      "description": "Para 3: 'tvrdeći da imaju pravo da budu stalno zaposlene (regularizovane) na svojim mjestima predavača' - protivne strane su muškog roda (izvor: 'he could be relieved', 'entitled to be regularised'); oblik 'zaposlene' je ženski, treba 'zaposleni'.",
+      "suggestion": "'da budu stalno zaposleni na svojim mjestima predavača'"
+    },
+    {
+      "id": "9s8OrJQUdL#0",
+      "severity": "minor",
+      "type": "dodato objašnjenje",
+      "description": "Dodate zagrade '(regularizovane)' (para 3) i '(regularizuje)' (para 5) za 'regularised' - glosa koju izvor nema; stilski vodič zabranjuje dodavanje objašnjenja (osim propisanih glosa poput (writ petition), (revizija)).",
+      "suggestion": "Para 3: 'da budu regularizovani na svojim mjestima predavača'; para 5: 'da se privremeni zaposleni regularizuje u službi' - bez zagrada."
+    },
+    {
+      "id": "9s8OrJQUdL#0",
+      "severity": "minor",
+      "type": "stranke (izvor)",
+      "description": "Para 4: izvor kaže 'The respondents also detailed relevant facts which clearly distinguish...' (očigledno greška izvora, jer odgovor podnosi država), a dalje 'raised by the appellants' -> 'žalioci'. Prevod vjerno prenosi 'Protivne strane su takođe detaljno izložile...' pa unutar istog pasusa isto lice (država) nosi dvije oznake. Ne mijenjati zbog vjernosti izvoru.",
+      "suggestion": "Zadržati kao u izvoru (vjernost); eventualno samo zabilježiti anomaliju izvora."
+    },
+    {
+      "id": "9s8OrJQUdL#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 4: 'it should be open to the High Courts as well' -> 'i visoki sudovi bi trebalo da imaju mogućnost' - glosar propisuje 'Visoki sud' (velikim slovom).",
+      "suggestion": "'i Visoki sudovi bi trebalo da imaju mogućnost'"
+    },
+    {
+      "id": "9s8OrJQUdL#0",
+      "severity": "minor",
+      "type": "preciznost značenja",
+      "description": "Para 5: 'the requirement is not imperative' -> 'taj zahtjev nije obavezujući' (imperative = obavezan, nužan); para 3: 'specific condition/terms' -> 'izričitim uslovom/izričiti uslovi' (specific = određeni/konkretni, ne 'izričit').",
+      "suggestion": "'taj zahtjev nije obavezan u slučaju ovog suda'; 'pod određenim uslovom' / 'određeni uslovi pod kojima su postavljenja izvršena'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, 14 novih redova u izvoru i prevodu, svi brojevi i citati (P-1, P-2, CWP br. 3150, član 142, datumi) podudarni, odnos riječi 0,94, bez ekavizama i hrvatskih oblika. Glosar se dosljedno primjenjuje (žalilac, protivna strana, podnosilac zahtjeva, Visoki sud, ukinuti osporeno rješenje, usvojiti žalbu, ustavna tužba (writ petition)), a registar je prirodan i pravnički. Uočene su samo sitne stilske i gramatičke stvari."
+}

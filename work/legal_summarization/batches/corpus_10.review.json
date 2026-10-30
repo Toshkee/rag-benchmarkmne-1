@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "aSQHqNgAC7",
+   "severity": "minor",
+   "type": "grammar/structure",
+   "description": "Nabrajanje a)-e): poslije 'kako bi odražavali:' stavke a)-d) su akuzativ ('izmjene...', 'zahtjeve...'), a e) je 'i e) radi poboljšanja jasnoće i dosljednosti' - sintaksički se ne uklapa (izvor: 'and e to improve clarity and consistency').",
+   "suggestion": "'...; d) tehničke izmjene Jagex proizvoda; i e) potrebu da se poboljšaju jasnoća i dosljednost.' ili 'Ove uslove možemo izmijeniti radi: a) usklađivanja sa izmjenama važećih zakona; ... e) poboljšanja jasnoće i dosljednosti.'"
+  },
+  {
+   "id": "QMgV0Lh8Wv",
+   "severity": "minor",
+   "type": "source-artifact",
+   "description": "Izvor počinje odsječenim fragmentom 'rvices you grant oath...'; prevod počinje 'uslugama, dajete kompaniji Oath' - dopunjuje odsječeni početak i dodaje zarez. Takođe 'royalty free' → 'besplatnu' (preciznije: bez naknade/autorskih naknada).",
+   "suggestion": "Dozvoljeno zadržati; razmotriti 'bez naknade (royalty-free)' → '...svjetsku, neisključivu licencu bez naknade ('licenca')...'."
+  },
+  {
+   "id": "NkNaqVkVEV",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'downgrades.' preveden kao 'Prelazak na niži paket.' - uvodi pojam 'paket' koji ne postoji u izvoru (izvor govori o trajanju plaćenog naloga i smanjenju prostora).",
+   "suggestion": "'Prelazak na niži nivo.' ili 'Smanjenje paketa/usluge.' - ili neutralno 'Niži nivo usluge.'"
+  },
+  {
+   "id": "xNNKqYbd3B",
+   "severity": "minor",
+   "type": "ambiguity/word-order",
+   "description": "'Ne čuvam nikakve lične podatke o vama kao mom posjetiocu koji omogućavaju identifikaciju.' - relativna klauza 'koji omogućavaju identifikaciju' se vezuje za 'posjetiocu', a ne za 'podatke'.",
+   "suggestion": "'Ne čuvam nikakve lične podatke koji omogućavaju identifikaciju vas kao mog posjetioca.'"
+  },
+  {
+   "id": "xG7YXipN2I",
+   "severity": "minor",
+   "type": "style",
+   "description": "'ukinemo naloge lica koja ponovljeno vrše povrede' - nezgrabno za 'repeat infringers'; 'ponovljeno vrše' nije uobičajeno.",
+   "suggestion": "'...naloge lica koja ponavljaju povrede (ponovljeni prekršioci)'."
+  },
+  {
+   "id": "FEQz0EfbVs",
+   "severity": "minor",
+   "type": "style/meaning",
+   "description": "'koje nijesmo dužni da čuvamo iz nužde' - doslovan prevod 'not required by necessity to maintain', nejasan u ugovornom registru.",
+   "suggestion": "'koje nijesmo dužni da čuvamo iz razloga neophodnosti' ili 'koje nije neophodno da čuvamo'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 25 _id-ova, nijedan izostavljen ni dodat sadržaj, brojevi (12, 13, 14, 3.0) i tokeni očuvani, bez ekavizama i hrvatskih oblika, ortografija normalna. Registar je dosljedan formalni ugovorni (korpus), glosar poštovan (uslovi korišćenja, politika privatnosti, nalog, treće lice, obeštetiti i zaštititi od odgovornosti, nijesmo/nijesu). Nema blokirajućih problema, samo nekoliko manjih stilskih nezgrapnosti."
+}

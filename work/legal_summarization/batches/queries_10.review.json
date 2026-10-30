@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "00241",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Izvor: \"assumes no responsibility and liability\". Prevod: \"ne preuzima nikakvu odgovornost niti obavezu\". \"Obaveza\" znači obligation, a ne liability; glosar: liability -> odgovornost. Takođe \"linkova ka\" je srbizam, uobičajeno \"prema/na\".",
+      "suggestion": "Ovaj servis ne preuzima nikakvu odgovornost i ne odgovara za sadržaj linkova prema drugim veb-sajtovima."
+    },
+    {
+      "id": "00244",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Izvor: \"full legal name\". Prevod: \"puno zvanično ime\". \"Zvanično ime\" je neprecizno; \"legal name\" je ime kako je u ličnim ispravama.",
+      "suggestion": "Saglasni ste da ćete pri registraciji na servis navesti svoje puno pravno ime. To vas ne sprječava da koristite pseudonim."
+    },
+    {
+      "id": "00231",
+      "severity": "minor",
+      "type": "glossary",
+      "description": "Izvor: \"limit restrict suspend services\". Prevod: \"ograničiti, suziti ili privremeno obustaviti usluge\". Glosar za suspend: privremeno ukinuti; \"obustaviti\" je blago odstupanje.",
+      "suggestion": "Tumblr može ograničiti, suziti ili privremeno ukinuti usluge u bilo kom trenutku, bez prethodnog obavještenja."
+    },
+    {
+      "id": "00228",
+      "severity": "minor",
+      "type": "addition",
+      "description": "Izvor: \"lawful interception requests\". Prevod: \"zahtjevima za presretanje komunikacija\" dodaje riječ \"komunikacija\" koje nema u izvoru (i \"po zakonitim zahtjevima\" je nespretno).",
+      "suggestion": "Kolabnow je veoma strog kada odobrava pristup po zahtjevima za zakonito presretanje."
+    },
+    {
+      "id": "BATCH",
+      "severity": "minor",
+      "type": "consistency",
+      "description": "Nedosljednost: \"the service\" je u cijelom batchu \"servis\" (00226, 00227, 00232 i dr.), a \"services\" u 00231 \"usluge\" (glosar: services -> usluge). Takođe 00236 \"are subject to\" prevedeno kao \"moraju da poštuju\" (blaži pomak od \"podliježu\"). Fajl sadrži samo _id/title/text bez polja context, što je ispravno ako se korpus prevodi odvojeno.",
+      "suggestion": "Odlučiti jedan termin za singular \"the service\" (preporuka: ostaviti \"servis\" za singular, \"usluge\" za plural) i dokumentovati; 00236: \"Korisnici podliježu politikama i smjernicama ovog servisa.\" (opciono)."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se podudara, brojevi (13, 18) i imena su očuvani, nema ekavizama ni hrvatizama, a omjer dužine je u granicama. Upiti su kratki i neutralno-razgovorni, sa normalnom ortografijom i ijekavicom; nema izostavljenih ni dodatih sadržaja koji mijenjaju značenje. Preostale primjedbe su sitne terminološke (liability, legal name, suspend)."
+}

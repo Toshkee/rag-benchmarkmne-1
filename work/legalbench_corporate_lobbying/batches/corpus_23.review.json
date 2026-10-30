@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "P9K63LSFZH",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Posljednja rečenica je gramatički neispravna: „ili koje je odobreno ispitivanje novog lijeka“ (izvor: „or is an authorized new drug trial“).",
+   "suggestion": "„...ili koje je odobreno kao ispitivanje novog lijeka“ ili „...ili je odobreno ispitivanje novog lijeka“."
+  },
+  {
+   "id": "18Y2bTu5X1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„poreski oslobođeno finansiranje“ / „poreski oslobođenih obveznica“ (izvor: „tax-exempt financing“, „tax-exempt ... bonds“) je nepravnički i gramatički neprirodno (prilog umjesto dopune).",
+   "suggestion": "„finansiranje oslobođeno poreza“, „obveznica oslobođenih poreza“ (isto i u mRtv5XqhPx)."
+  },
+  {
+   "id": "mRtv5XqhPx",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„poreski oslobođenih obveznica“ (tax-exempt) i „objekte za pretovar površinskog tereta“ (surface freight transfer facility) su doslovni i neprirodni; „samoodrživ subjekat“ je srpski oblik.",
+   "suggestion": "„obveznica oslobođenih poreza“; „objekte za pretovar tereta u kopnenom saobraćaju“; „samoodrživ subjekt“."
+  },
+  {
+   "id": "fMXSfjSNTt",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Abusive“ preveden kao „zlonamjernog“ (znači malicious); u kontekstu govora mržnje tačnije je „uvredljivog/zlostavljačkog“.",
+   "suggestion": "„Zakon o sprečavanju štetnog i uvredljivog izražavanja putem telekomunikacija iz 2019. godine (Stop HATE Act of 2019)“."
+  },
+  {
+   "id": "YUPnmbpD0e",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Naslov: „reklame za ljekove“ (Drug Ads), tijelo: „oglašavanje ... lijeka“; mješavina „ljekove/lijeka“ i „reklame/oglašavanje“ u istom itemu. Takođe „poreski odbici“ (glosar: poreski odbitak), „širu javnost“ za „general public“.",
+   "suggestion": "„Zakon o ukidanju subvencija poreskih obveznika za oglase za lijekove“; „poreski odbici“ → „poreski odbitak/odbici“ dosljedno; „opštu javnost“."
+  },
+  {
+   "id": "UnAvwSWJfd",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Championing“ preveden kao „zastupanju“ („Zakon o zastupanju američkog biznisa“) – pomjera značenje u pravno zastupanje; „Department of State“ → „Ministarstvo spoljnih poslova“ nije u glosaru, uz „državni sekretar“ za Secretary of State.",
+   "suggestion": "„Zakon o zagovaranju/promovisanju američkog biznisa putem diplomatije iz 2019. godine“; provjeriti da se „Ministarstvo spoljnih poslova“ dosljedno koristi kroz cijeli korpus."
+  },
+  {
+   "id": "LFuMk9TsuZ",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„modela domova za zdravstvenu zaštitu majki“ (maternity care homes) može se pročitati kao ustanove/domovi; „produžava se period ispunjavanja uslova za pokriće“ dodaje „period“ (izvor: expands eligibility ... from 60 days to one year).",
+   "suggestion": "„modela medicinskih domova za zaštitu majčinstva (maternity care homes)“; „proširuje se ispunjavanje uslova za pokriće sa 60 dana na jednu godinu“."
+  },
+  {
+   "id": "9s8OrJQUdL",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Naslov „Zakon o potpuno američkoj zastavi“ je nezgrapan; u tekstu se u istoj rečenici miješaju „SAD-a“ i „Sjedinjenim Državama“.",
+   "suggestion": "„Zakon o zastavi u cijelosti američke proizvodnje (All-American Flag Act)“; ujednačiti „SAD“."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 15 _id-ova, brojevi, iznosi, godine, novi redovi i rečenična struktura odgovaraju izvoru, nema ekavizama ni kroatizama, a glosar (predlog zakona, ministarstvo, GAO, fiskalna godina, država) se dosljedno primjenjuje. Registar je odgovarajući obrazloženju predloga zakona; nalazi su samo manje terminološke i stilske prirode (npr. „poreski oslobođeno“, jedna negramatična rečenica u P9K63LSFZH)."
+}

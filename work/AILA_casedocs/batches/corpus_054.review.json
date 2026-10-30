@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "8EE5GXTeLY#1",
+   "severity": "minor",
+   "type": "consistency/register",
+   "description": "Pasus 14: 'Mr. Jethmalani' preveden kao 'G. Jethmalani' (veliko G, čita se kao inicijal), a u pasusu 16 kao 'g. Jethmalani'. Nedosljedno i dvosmisleno.",
+   "suggestion": "Svuda 'g. Jethmalani' (malo slovo): '14. G. Jethmalani je...' ili 'Advokat Jethmalani'; ujednačiti sa pasusom 16."
+  },
+  {
+   "id": "8EE5GXTeLY#1",
+   "severity": "minor",
+   "type": "added_glosses",
+   "description": "Dodate zagrade '(Jailer)' (dvaput) i '(Collector of Customs)' uz prevedene izraze: 'zatvorski službenik (Jailer)', 'carinskom kolektoru (Collector of Customs)'. Stilski vodič zabranjuje prevodilačke napomene u tekstu.",
+   "suggestion": "Ukloniti zagrade: 'zatvorski službenik B. B. Mulay', 'carinskom kolektoru'."
+  },
+  {
+   "id": "ILft9SGVZe#0",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Pasus 4: 'iz razloga i na način navedene u protivizjavi' – nepodudaranje roda/broja uz 'razloga i način'.",
+   "suggestion": "'iz razloga i na način navedenih u protivizjavi datoj pod zakletvom'."
+  },
+  {
+   "id": "ILft9SGVZe#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 37: 'was bad' preveden kao 'bilo nezakonito'; 'bad' ovdje znači pravno neosnovano/nevaljano, 'nezakonito' sužava/mijenja nijansu. Takođe 'continued detention' – 'dalje zadržavanje u pritvoru'.",
+   "suggestion": "'bilo pravno neosnovano (nevaljano)'; zadržati 'vitiated' = 'pravno manjkavo'."
+  },
+  {
+   "id": "ILft9SGVZe#0",
+   "severity": "minor",
+   "type": "style/tautology",
+   "description": "Pasus 25: 'organu koji je odredio pritvor dozvoljeno je da ga zastupa zastupnik' (izvor: 'represented by counsel') – tautologija. Pasus 20: 'pravo da kao svoje pravo zahtijeva' za 'claiming as of right' – nespretno.",
+   "suggestion": "P25: 'da ga zastupa advokat/uvaženi zastupnik'; P20: 'pravo da kao pravo zahtijeva da ga zastupa advokat'."
+  },
+  {
+   "id": "ILft9SGVZe#0",
+   "severity": "minor",
+   "type": "style/literal",
+   "description": "Pasus 22: 'Češće nego ne' za 'As often than not' – doslovno i neprirodno. Pasus 10 (P10): 'customs department' preveden 'carinskoj službi' dok se 'Customs Department' u item 1 prevodi 'Carinska uprava'.",
+   "suggestion": "P22: 'Često je'/'Najčešće'; 'carinskoj upravi' radi dosljednosti terminologije batcha."
+  },
+  {
+   "id": "ILft9SGVZe#0",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "Nedosljedno pisanje: 'Savjetodavni odbor' vs. 'savjetodavnim odborima' (pasusi 29-30) i 'Ustavno vijeće (Constitution Bench)' sa glosom u zagradi (nije u glosaru, glosa je dodatak). Takođe 'odluku ovog suda' (P19) – prihvatljivo, ali 'presudu' bi bilo preciznije za case decision.",
+   "suggestion": "Ujednačiti velika/mala slova za Advisory Board; razmotriti 'Ustavno vijeće' bez zagrade ili ostaviti dosljedno; po potrebi 'presudu ovog suda'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova (7 i 39), svi brojevi i citati (SCR, Indlaw SC, članovi 8(e), 11(4), 14, 21, 22(4)(b)) doslovni, nijedan pasus ni rečenica nije izostavljen, a stranke (žalilac/protivna strana, podnosilac zahtjeva) su dosljedne i pravilno raspoređene. Ijekavica i glosar (Visoki sud, ustavna tužba (writ petition), posebna dozvola za žalbu, uvaženi zastupnik, ukinuto, usvojena) poštovani, bez ekavizama i hrvatskih oblika. Registar je prirodan sudski; preostale primjedbe su kosmetičke (nedosljedno 'G./g.', dodate glose u zagradi, jedna gramatička greška, par doslovnih fraza)."
+}

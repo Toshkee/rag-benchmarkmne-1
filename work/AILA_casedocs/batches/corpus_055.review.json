@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "stil/negacija",
+   "description": "Para 8, posljednja rečenica: izvor 'This circular does not appear to be inconsistent with any provision' preveden kao 'Ne izgleda da ovaj cirkular nije u skladu sa bilo kojom odredbom' - dvostruka negacija, neprirodna i lako se pogrešno pročita.",
+   "suggestion": "'Čini se da ovaj cirkular nije u suprotnosti ni sa jednom odredbom arbitražne odluke ili odluke, pa se na njega ne može staviti nikakav ozbiljan prigovor.'"
+  },
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 9: 'službenik I razreda, koja počinje od Rs. 225' - pogrešan rod (platna skala/službenik).",
+   "suggestion": "'službenik I razreda, koji počinje od Rs. 225' ili 'sa platnom skalom koja počinje od Rs. 225'."
+  },
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "'scales of pay' prevedeno različito: 'platnih razreda' (stavka 7, citirano pitanje) naspram 'platne skale' (para 11, 13) i 'platne skale banke'. Takođe 'grade' = 'razred' a 'scale' = 'razred' u istoj rečenici.",
+   "suggestion": "Dosljedno 'platne skale' za scales of pay, 'razred' samo za grade."
+  },
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'assistant managers' prevedeno 'pomoćnika direktora' (para 9) i 'branch managers' 'direktorima filijala' (para 10) - 'direktor' se miješa sa 'board of directors' (odbor direktora) i sa 'superintendents' (upravnika).",
+   "suggestion": "Koristiti 'rukovodilac/upravnik filijale' i 'pomoćnika upravnika', a 'direktor' rezervisati za 'director'."
+  },
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Nedosljedno pisanje: 'Centralna Vlada' (para 1, 4 prvi put) naspram 'centralna Vlada' (para 4: 'centralna Vlada je izvršila određene izmjene'); u naslovu 'njenih radnika' (Their Workmen) naspram 'njegovih radnika' (its workmen) u tekstu.",
+   "suggestion": "Ujednačiti: 'Centralna Vlada' svuda; naslov 'protiv njegovih radnika' ili 'protiv svojih radnika'."
+  },
+  {
+   "id": "GCLgR0OVSn#0",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "Para 11: 'u jednu od dvije platne skale navedene u cirkularu' - izvor 'in the two scales mentioned by circular no. 249' (nema 'one of'). Takođe 'na koju zaštitu ta lica imaju pravo' za 'to what relief are such persons entitled' - 'zaštita' je preusko za 'relief'.",
+   "suggestion": "'rasporedi u dvije platne skale navedene u cirkularu br. 249' (ili 'u odgovarajuću od dvije'); 'na koju pravnu zaštitu (olakšicu)'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id i broj novih redova (26), svi tokeni (Rs.), brojevi, datumi, citati cirkulara i brojevi članova identični izvoru, nema izostavljenih ni dodatih rečenica, odnos riječi 0.89, bez ekavizama i hrvatizama. Strane su dosljedno žalilac/protivna strana, tribunal malim slovom, 'nijesu', 'arbitražna odluka' za award. Registar je prirodan sudski, uz nekoliko sitnih stilskih i terminoloških nedosljednosti."
+}

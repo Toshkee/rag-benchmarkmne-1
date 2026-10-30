@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "terminologija / dosljednost",
+      "description": "Izvor: \"the Committee reiterated the above view in Sheo Swarup\". Prevod: \"Komitet je ponovio navedeno stanovište\". Isti organ se kasnije dosljedno prevodi kao \"Tajni savjet\" (Privy Council), pa \"Komitet\" djeluje kao zaseban organ.",
+      "suggestion": "\"Komitet Tajnog savjeta je ponovio navedeno stanovište...\" ili \"Tajni savjet je ponovio...\"."
+    },
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "skraćenice odredbi",
+      "description": "Izvor: \"Sections 302 and 323 IPC\" i \"Sections 302 and 447 IPC\". Prevod: \"čl. 302 i 323 Krivičnog zakonika Indije (IPC)\" i \"čl. 302 i 447 Krivičnog zakonika (IPC)\". Vodič (dio 9) propisuje \"član\", a u ostatku teksta se piše \"članu 417\" i \"članu 378\", pa je \"čl.\" nedosljedno. Brojevi su tačni.",
+      "suggestion": "\"članovima 302 i 323 Krivičnog zakonika Indije (IPC)\" i \"članovima 302 i 447 Krivičnog zakonika (IPC)\"."
+    },
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "blago dodavanje",
+      "description": "Izvor: \"placed reliance on certain eye-witnesses\". Prevod: \"oslonio na iskaze određenih svjedoka očevidaca\". Dodato je \"iskaze\", kojeg u izvoru nema.",
+      "suggestion": "\"oslonio na određene svjedoke očevidce\"."
+    },
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "terminologija (perverse)",
+      "description": "Izvor: \"unless the judgment is perverse\" / \"was perverse\" / \"characterise the findings ... as perverse\". Prevod: \"očigledno nerazumna\" (tri puta). Dodaje se \"očigledno\" (manifestly), a taj prilog prevodi i izraz \"manifestly illegal\" (\"očigledno nezakonito\"). Time se brišu razlika između \"perverse\" i \"manifestly\".",
+      "suggestion": "Dosljedno \"nerazumna (perverse)\" pri prvom pomenu, dalje \"nerazumna\", bez priloga \"očigledno\"."
+    },
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "registar / nejasan prevod",
+      "description": "Izvor: \"Subba Rao, J., (as His Lordship then was)\" i \"Gajendragadkar, J. (as His Lordship then was)\". Prevod: \"kako je tada glasila njegova funkcija\". Formulacija je neprirodna i ne prenosi značenje (tada je bio sudija, kasnije je napredovao).",
+      "suggestion": "\"(kako je tada bio)\" ili \"(tada još sudija tog suda)\", dosljedno na oba mjesta."
+    },
+    {
+      "id": "TtLFxJpRa5#1",
+      "severity": "minor",
+      "type": "preciznost u citatu (Krishna Iyer)",
+      "description": "Izvor: \"chasing chance possibilities as good enough to set the delinquent free and chopping the logic of preponderant probability\". Prevod: \"prihvatanja slučajnih mogućnosti kao dovoljnih ... i odbacivanja logike pretežne vjerovatnoće\". \"Chasing\" je prevedeno kao \"prihvatanje\", a \"chopping\" kao \"odbacivanje\", pa se gubi slikovitost. Smisao ostaje uglavnom isti.",
+      "suggestion": "\"jurenja slučajnih mogućnosti kao dovoljnih da se učinilac oslobodi i sječenja logike pretežne vjerovatnoće kako bi se kaznili marginalno nevini\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: skup _id-ova je isti, broj novih redova je 36 u izvoru i u prevodu, svi brojevi i citati (AIR, SCR, SCC, Indlaw) su očuvani, a odnos broja riječi je 0.89. Nema ekavskih ni hrvatskih oblika. Nijedna rečenica nije izostavljena ni sadržajno izmijenjena, a procesne uloge (država, Visoki sud, žalbeni i prvostepeni sud) su dosljedne i u skladu sa glosarom. Registar je prirodan i pravnički, uz nekoliko manjih stilskih i terminoloških odstupanja navedenih iznad."
+}

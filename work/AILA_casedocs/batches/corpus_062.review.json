@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "YqWg21nYCs#4",
+      "severity": "minor",
+      "type": "pravopis",
+      "description": "Pasus 44: \"drugi djelovi Ustava\" (izvor: \"other parts of the Constitution\"). Ijekavski oblik za \"dio\" je \"dijelovi\"; \"djelovi\" je pogrešan oblik (od \"djelo\").",
+      "suggestion": "\"član 311 i drugi dijelovi Ustava\""
+    },
+    {
+      "id": "YqWg21nYCs#4",
+      "severity": "minor",
+      "type": "dosljednost stranaka",
+      "description": "Pasus 42 označava isto lice kao \"podnosilac zahtjeva\" (\"the petitioner before us\" u izvoru), a pasusi 56-64 kao \"žalilac\" (\"the appellant\"). Izvor je i sam nedosljedan, pa je prevod vjeran, ali je predmet Civil Appeal i unutar dijela se isto lice vodi pod dva termina (stil. vodič dio 9: dosljednost stranke).",
+      "suggestion": "Ako se želi dosljednost unutar itema, u pasusu 42 koristiti \"žalilac\" (head: Civil Appeal No. 65 of 1957, Dhingra je žalilac); u suprotnom ostaviti kao u izvoru."
+    },
+    {
+      "id": "YqWg21nYCs#4",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 41: \"The use of the expression 'terminate' or 'discharge'\" prevedeno \"okončati\" ili \"razriješiti\". \"Razriješiti\" je u istom pasusu/itemu glosarski prevod za \"removal\" (razrješenje), pa se \"discharge\" i \"removal\" ne razlikuju. Takođe \"visits the servant with any penal consequences\" -> \"nanose i bilo kakve kaznene posljedice\" (suvišno \"i\" mijenja nijansu).",
+      "suggestion": "\"discharge\" -> \"otpustiti\"/\"prekinuti službu\" (npr. izraza „okončati“ ili „otpustiti“); \"nanose i bilo kakve\" -> \"nanose bilo kakve kaznene posljedice\"."
+    },
+    {
+      "id": "YqWg21nYCs#4",
+      "severity": "minor",
+      "type": "terminologija / značenje nijanse",
+      "description": "Pasus 60: \"the order of reversion ... is non-committal\" prevedeno \"je neodređeno\"; \"non-committal\" znači da rješenje ne sadrži nikakvu ocjenu ili osnov (neutralno), a ne neodređeno. Isto \"neodređeno rješenje\" / \"neodređenog rješenja\" kasnije u pasusu. Pasus 41: \"seniority\" -> \"staž\" (bliže: starješinstvo/prvenstvo u službi).",
+      "suggestion": "\"non-committal\" -> \"neutralno\" / \"bez ikakvog opredjeljenja\"; \"seniority\" -> \"starješinstvo u rangu\" ili \"prvenstvo u službi\"."
+    },
+    {
+      "id": "YqWg21nYCs#4",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Pasus 41 i 42: \"Government servant\" i \"servant\" naizmjenično \"službenik\"/\"državni službenik\"; pasus 57 \"received to his substantive post\" -> \"vraćen na stalno radno mjesto\" (dobro), ali \"postavljenju III klase\" i \"civilne funkcije\" zvuče kalkirano. \"Time ne želim da sugerišem\" je malo kalkirano (sugerisati).",
+      "suggestion": "Ujednačiti na \"državni službenik\" kad izvor kaže \"Government servant\"; \"civilne funkcije\" -> \"civilna službenička mjesta\"; \"sugerisati\" -> \"nagovijestiti\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 24 novih redova je očuvano, numeracija pasusa (41-64), citati (1953 Indlaw SC 4, 1954 Indlaw SC 30), brojevi članova i pravila (311(2), 310(2), 124(4), 217(1)(b), 2003(19), 1702) i datumi su doslovni, bez izostavljenih ili dodatih rečenica; automatska provjera brojeva, ekavskih i hrvatskih oblika je čista, odnos riječi 0.89. Registar je prirodan obrazloženju presude i u skladu sa glosarom (Division Bench -> vijeće (Division Bench), nijesu, kaznene posljedice, Indijska Unija, država Utar Pradeš); preostala odstupanja su sitna (pravopisno \"djelovi\", nijanse termina, dvostruko označavanje iste stranke koje potiče iz izvora)."
+}

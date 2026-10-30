@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "gQH8wylh0C#2",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 45: 'Visoki sud nije trebalo da je zamijeni svojim sopstvenim mogućim stavom' (izvor: 'The High Court ought not to have substituted the same by its own possible view') - bezlični oblik 'nije trebalo' uz mušku imenicu u nominativu je nepravilan; 'sopstvenim' je suvišno.",
+   "suggestion": "'Visoki sud nije trebalo da je zamijeni' -> 'Visoki sud nije trebao da je zamijeni svojim mogućim stavom.'"
+  },
+  {
+   "id": "gQH8wylh0C#2",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Isti pojam acquittal se prenosi različito: 'finding of acquittal' -> 'nalaz o oslobađanju' (kraj prvog pasusa), 'order of acquittal' -> 'rješenje o oslobađanju' (pasusi 40 i 42 vi), a 'judgment of acquittal' -> 'oslobađajuća presuda'. Radi se o presudi prvostepenog suda, pa 'rješenje' (glosar: order) zbunjuje.",
+   "suggestion": "Ujednačiti: 'oslobađajuća presuda' (npr. 'U oslobađajuću presudu ne treba olako dirati...'; '...donijeli oslobađajuću presudu'; 'nalaz o oslobađanju' -> 'oslobađajući nalaz/oslobađajuću presudu')."
+  },
+  {
+   "id": "gQH8wylh0C#2",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Kalkovi i neprirodne konstrukcije: 'budući da je optuženi ishodovao oslobađajuću presudu' (secured his acquittal), 'Žalbeni sud bi bio opravdan da preinači' (would be justified in reversing) i 'bio opravdan da se umiješa' (would be justified in interfering), 'što je dovelo do teške povrede pravde' (grave miscarriage of justice).",
+   "suggestion": "'budući da je optuženi oslobođen' / 'ostvario oslobađanje'; 'Žalbeni sud bi bio opravdan' -> 'Žalbeni sud bi imao osnova da preinači'; 'imao bi osnova da interveniše'; 'što je dovelo do teškog promašaja pravde (sudske greške)'."
+  },
+  {
+   "id": "gQH8wylh0C#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 2/4: 'preinačiti' za 'overrule' i 'dirati' za 'disturb' (izvor 'overrule or otherwise disturb'); 'visoki sudovi/žalbeni sudovi' - 'visoki sudovi' malim slovom kao opšti plural je prihvatljivo, ali 'veoma značajne i uvjerljive razloge' za 'very substantial and compelling reasons' je slabije od 'veoma značajne i ubjedljive/neodoljive razloge'; u pasusu 44 isti izraz je 'značajni i uvjerljivi razlozi' (dosljedno, ali 'compelling' je jače od 'uvjerljivi').",
+   "suggestion": "Razmotriti 'ubjedljivi/snažni razlozi'; 'preinačiti' -> 'izmijeniti'."
+  },
+  {
+   "id": "P1uRr6YICt#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 2: 'doctoring their accounts' -> 'krivotvorili svoje poslovne knjige'; 'krivotvoriti' znači 'forge', a doctoring je manipulisanje/lažiranje. U pasusu 12 'accounts are found fabricated and untrue' -> 'krivotvorene i neistinite' (isto 'krivotvorene'), pa je izvorna razlika izgubljena.",
+   "suggestion": "Pasus 2: 'prepravljali svoje poslovne knjige' / 'lažirali'; pasus 12: 'sačinjene (izmišljene) i neistinite'."
+  },
+  {
+   "id": "P1uRr6YICt#0",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Veliko/malo slovo za 'Tribunal': pasus 3 'Tribunal je opširno razmotrio' (veliko), pasus 9 'razmotrio i odbacio tribunal' (malo); glosar (dio 6) zahtijeva malo slovo osim u punom nazivu.",
+   "suggestion": "'Tribunal je' -> 'tribunal je' u pasusu 3."
+  },
+  {
+   "id": "P1uRr6YICt#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Zaglavlje: 'Collector of Central Excise, Cochin' -> 'kolektora centralne akcize, Cochin' - naziv strane u postupku bi trebalo pisati velikim početnim slovom ('Kolektor centralne akcize'); 'Cochin' nije transkribovano (Kočin) iako su ostala mjesta zadržana u izvornom obliku (dozvoljeno za manje poznata).",
+   "suggestion": "'protiv Kolektora centralne akcize, Cochin'."
+  },
+  {
+   "id": "P1uRr6YICt#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 6: 'Nijesmo mogli da prihvatimo ovu tvrdnju' za 'We have been unable to appreciate this contention' je prihvatljivo, ali 'appreciate' = shvatiti; pasus 1 'Rješenje suda glasilo je kako slijedi' za 'The Order of the Court was as follows' je pomalo okretno (uobičajenije 'Rješenje suda glasi:').",
+   "suggestion": "'Ovu tvrdnju nijesmo mogli da shvatimo/prihvatimo'; 'Rješenje suda glasi kako slijedi:'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: oba itema imaju isti _id, isti broj novih redova (25 i 21), svi brojevi, citati (SCC/SCALE/Indlaw), članovi (35-L, 136, pravilo 173-E), datumi i iznosi (Rs. 5/15 lakha) su očuvani; nijedan pasus ni rečenica nijesu izostavljeni niti dodati, nema ekavizama ni kroatizama. Registar je uglavnom odgovarajući sudski, uz pokoji kalk (npr. 'bio opravdan da preinači', 'ishodovao') i manju terminološku nedosljednost za acquittal; nema blokirajućih problema."
+}

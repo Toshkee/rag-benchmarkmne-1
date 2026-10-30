@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "nnBbuQzkCh#0",
+      "severity": "minor",
+      "type": "datum/format",
+      "description": "Datumi zadržavaju vodeću nulu iz izvora: \"01. 07. 1984. godine\" (izvor \"01.07.1984\", više puta u pasusima 10, 11, 12). Stilski vodič (dio 4) daje oblik \"1. 1. 1956. godine\".",
+      "suggestion": "Zamijeniti sa \"1. 7. 1984. godine\" (isto za \"01. 07.\" svuda); \"3. 7. 1984.\", \"1. 6. 2000.\" i \"19. 7. 2002.\" su u redu."
+    },
+    {
+      "id": "nnBbuQzkCh#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Nedosljedna upotreba velikog slova za \"State\": \"naložio državi\" (pasus 10), \"Države su donijele zakone\" i \"u državi ili u Uniji\" (pasus 15), a \"Država ili njena tijela\" (pasus 8) i \"Ovlašćenje Države\" (pasus 6). Takođe \"obratili Sudu\" (pasus 5, izvor \"approached the Court\") vs \"ovaj sud\" svuda drugdje.",
+      "suggestion": "Ujednačiti: \"State\" kao nosilac vlasti/poslodavac -> \"Država\"; \"State\" kao savezna jedinica (the States) -> \"države\" malim slovom. \"obratili Sudu\" -> \"obratili sudu\" ili dosljedno \"Sudu\"."
+    },
+    {
+      "id": "nnBbuQzkCh#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"Arising out of S.L.P.(C) 9103-9105 of 2001\" prevedeno kao \"po S.L.P.(C) ...\" (zaglavlje); \"po\" ne prenosi značenje \"proizašla iz\".",
+      "suggestion": "\"proizašla iz S.L.P.(C) 9103-9105 iz 2001. godine\"."
+    },
+    {
+      "id": "nnBbuQzkCh#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"Hon'ble the Chief Justice\" (pasus 5 u citiranom rješenju) -> \"uvaženog predsjednika Vrhovnog suda (Chief Justice)\": dodata je odrednica \"Vrhovnog suda\" koje nema u izvoru, a glosar nema unos za Chief Justice. Slično \"Additional Solicitor General\" -> \"zamjenik generalnog pravobranioca (Additional Solicitor General)\" (gloss samo pri prvom pomenu, dalje bez glosa, što je dosljedno).",
+      "suggestion": "\"uvaženog glavnog sudiju (Chief Justice)\" ili ostaviti \"predsjednika suda (Chief Justice)\"; dodati u glosar."
+    },
+    {
+      "id": "nnBbuQzkCh#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"directions\" dosljedno prevedeno kao \"uputstva\"/\"uputstvo\" (npr. \"tražeći uputstva da budu postavljena za stalno\", \"tražeći ... uputstvo za regularizaciju\"), što zvuči administrativno; u sudskom registru preciznije je \"nalog\"/\"naredba\" ili \"naložiti\". Takođe \"scheme\" je preveden \"okvir\" (ustavni okvir) i \"program\" (scheme for regularization/Dharwad scheme) - dvije oznake za isti izraz, namjerno ali nije u glosaru.",
+      "suggestion": "Razmotriti \"nalozi\"/\"da se naloži\" umjesto \"uputstva\"; unijeti odluku o \"scheme\" u glosar. Nije obavezno."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 26 novih redova je očuvano, nijedan pasus ni rečenica nijesu izostavljeni ni dodati, tokeni, brojevi članova, brojevi predmeta i citati sudske prakse (AIR/SCC/SCR/Indlaw) su doslovni, a ekavski i hrvatski oblici nisu pronađeni (odnos riječi 0.90). Registar je dosljedan sudskoj naraciji (ijekavica, \"nijesu\", žalilac/protivna strana, Visoki sud, nalog (writ) mandamus, vijeće (Division Bench), registrovane kaste), a stranke su ispravno označene; preostale primjedbe su isključivo kozmetičke (format datuma, velika/mala slova, par terminoloških izbora)."
+}

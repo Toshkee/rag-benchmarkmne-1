@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "5F21rWz5FY#1",
+   "severity": "minor",
+   "type": "terminologija/značenje",
+   "description": "Izvor: \"His uncle may be living separately from the accused and his father\" (jedninа, pol/linija neodređeni); prevod: \"Stričevi optuženog možda žive odvojeno\" (množina, očinska linija). Takođe ranije \"uncles\" → \"stričevi\" pretpostavlja očinsku liniju koju izvor ne navodi.",
+   "suggestion": "\"Njegov stric (ujak) možda živi odvojeno od optuženog i njegovog oca\" ili neutralno \"Njegov stric možda živi odvojeno...\" (ostaviti \"stričevi\" samo ako se pretpostavka prihvata dosljedno)."
+  },
+  {
+   "id": "5F21rWz5FY#1",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "\"Police Station Incharge\" prevedeno kao \"Starješina policijske stanice\" – neprirodno za crnogorski policijski registar.",
+   "suggestion": "\"Rukovodilac (načelnik) policijske stanice\"."
+  },
+  {
+   "id": "5F21rWz5FY#1",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "\"o onome što se tamo desilo\" (izvor: \"of what happened there\") – razgovorni glagol u presudi.",
+   "suggestion": "\"o onome što se tamo dogodilo\"."
+  },
+  {
+   "id": "5F21rWz5FY#1",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"Panch/Panchas\" je prevedeno kao \"panč svjedok\" (dodato \"svjedok\" kojeg u izvoru nema), a \"memorandum of his statement\" kao \"zabilješka\", dok je \"Panchnama\" \"zapisnik (Panchnama)\" – dva različita termina za srodne isprave.",
+   "suggestion": "Ujednačiti: npr. \"panč (svjedok pri pretresu/pronalasku)\" uz gloss pri prvom pomenu, i \"zapisnik o njegovoj izjavi\" ili dosljedno \"zabilješka\" za memorandum."
+  },
+  {
+   "id": "5F21rWz5FY#1",
+   "severity": "minor",
+   "type": "značenje/stil",
+   "description": "Para 35: \"(which appears to be a mistake of time)\" → \"(što izgleda da je greška umjesto vremena)\" – nejasno; \"usurp the functions of an expert\" → \"preuzme funkcije vještaka\" slabije od izvora.",
+   "suggestion": "\"(što izgleda da je greška; trebalo bi da stoji 'vremena')\"; \"pokušao da prisvoji funkciju vještaka\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (14), svi brojevi (datumi, Ex. brojevi, P.W. 14/12, Rs. 7, 000/-) identični, nema izostavljenih ni dodatih rečenica, odnos riječi 0.85, bez ekavizama i hrvatizama. Registar je uglavnom prirodan sudski (ijekavica, \"nijesu\", \"službenik koji vodi istragu\", \"sudija Sesijskog suda\", \"van svake razumne sumnje\"); preostale zamjerke su manje terminološke i stilske."
+}

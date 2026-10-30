@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "nejasna konstrukcija",
+   "description": "Para 7, citat 14: \"najlonski kanap koji proizvode podnosioci zahtjeva lica koja se bave tom trgovinom tretiraju kao vrstu najlonske pređe\" - bez zareza/veznika podnosioci i lica se spajaju; izvor: \"nylon twine manufactured by the petitioners has been treated as a kind of nylon yarn by the people in the trade\".",
+   "suggestion": "\"najlonski kanap koji proizvode podnosioci zahtjeva lica koja se bave tom trgovinom tretiraju kao vrstu najlonske pređe\" -> \"najlonski kanap koji proizvode podnosioci zahtjeva, lica koja se bave tom trgovinom tretiraju kao vrstu najlonske pređe\" ili \"... podnosilaca zahtjeva lica iz trgovine tretiraju ...\""
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "Dodati prevodilački glosi u zagradama koji ne postoje u izvoru: \"(Nylon Twine)\", \"(Nylon Yarn)\" u para 1 i \"VJEŠTAČKA SVILA (RAYON)\" u citatu stavke 18 (izvor: \"RAYON AND SYNTHETIC FIBRES AND YARN\"). Stilski vodič zabranjuje dodavanje objašnjenja.",
+   "suggestion": "Ukloniti \"(Nylon Twine)\" i \"(Nylon Yarn)\"; naslov stavke: \"RAJON I SINTETIČKA VLAKNA I PREĐA\" bez zagrade."
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"popular meaning\" i \"common\" oba prevedeni kao \"uobičajeno značenje\" (para 11 i 13: \"Mora joj se dati njeno uobičajeno značenje\", \"njihovo uobičajeno značenje\"), dok \"common and ordinary use\" -> \"uobičajenoj i redovnoj upotrebi\"; gubi se razlika popular/common/ordinary.",
+   "suggestion": "\"popular meaning\" -> \"popularno (opšteprihvaćeno) značenje\"; zadržati \"uobičajeno/redovno\" za common/ordinary."
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "stil/kalk",
+   "description": "\"stated the law thus\" prevedeno kalkom \"iznijelo je pravo na sljedeći način\" (para 11, 12); neprirodno u pravnom registru.",
+   "suggestion": "\"izložilo je pravni stav na sljedeći način\" / \"zauzelo je sljedeći pravni stav\"."
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljedno pisanje velikog slova: \"Prvog priloga\" (uvod, para 7, 8) naspram \"prvi prilog\" (para 2) i \"prvog priloga Zakona\" (para 4); izvor: \"first schedule\" / \"First Schedule\" takođe mješovito, ali prevod treba da bude jedinstven.",
+   "suggestion": "Ujednačiti: \"Prvi prilog\" kad se odnosi na naziv priloga uz Zakon."
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"direction\" u para 12 (\"seek a direction requiring the assessee to set out in writing\") prevedeno kao \"tražiti nalog\"; glosar upozorava da \"nalog\" bez odrednice nosi značenje writ/warrant. Takođe \"enumerated item\" -> \"navedenu stavku\" (para 17) umjesto \"nabrojanu\".",
+   "suggestion": "\"tražiti naredbu/uputstvo kojim se od poreskog obveznika zahtijeva\"; \"nabrojanu stavku\"."
+  },
+  {
+   "id": "CtlRJoWcUR#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 1, Objašnjenje I(iv): \"ali ne obuhvataju voluminoznu pređu i rastegljivu pređu\" - množina nespojiva sa subjektom (\"Vlakna i pređa ... smatraće se da obuhvataju\" je u redu, ali (iv) se odnosi na filamentnu pređu); izvor: \"but does not include bulked yarn and stretch yarn\" (jednina). Takođe \"Central Government\" -> \"centralna Vlada\" (malo c) umjesto \"Vlada Unije/centralna Vlada\" jednoobrazno.",
+   "suggestion": "\"ali ne obuhvata voluminoznu pređu i rastegljivu pređu\"; \"Centralna vlada\" jednoobrazno sa glosarom (Vlada)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 19 pasusa, citati, brojevi članova i predmeta, iznosi (Rs.4/, Rs.5,000/), broj novih redova (56) i _id su očuvani; izvorne greške (npr. \"(1935) 4 SCC 241\", \"stavka 68\" u para 8) doslovno su prenijete. Glosar je uglavnom dosljedan (žalilac, protivna strana, Visoki sud, Indijska Unija, vijeće (Division Bench), nijesu), ijekavica bez ekavizama i kroatizama, registar prirodan i pravnički. Nema blokirajućih grešaka, samo manji stilski i terminološki nedostaci."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "0pKGytvukF#0",
+   "severity": "minor",
+   "type": "terminologija/format",
+   "description": "Skraćenica „čl.“ u prevodu („po optužbama iz čl. 452 i 307“, „čl. 144 (6), 190 (2), 190 (3), 196, 196-A, 197“), izvor: „ss. 452 and 307“, „ss. 144 (6)...“. Vodič (dio 9) traži „član“; u ostatku teksta je dosljedno „član“.",
+   "suggestion": "„po optužbama iz članova 452 i 307“ i „Neke od tih odredaba sadržane su u članovima 144 (6), 190 (2), 190 (3), 196, 196-A, 197“."
+  },
+  {
+   "id": "0pKGytvukF#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„judicial pronouncements must be judicial in nature“ → „sudski iskazi moraju biti sudske prirode“; „iskaz“ je glosarski prevod za testimony, ne za pronouncement.",
+   "suggestion": "„sudske izjave (ocjene) moraju biti sudske prirode“."
+  },
+  {
+   "id": "0pKGytvukF#0",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "„crime cannot be investigated“ → „krivična djela ne mogu istraživati“ (nepravnički glagol); „a fabrication has been made in the public records“ → „u javnim evidencijama izvršeno je falsifikovanje“ (fabrication = izmišljotina/lažni upis).",
+   "suggestion": "„krivična djela ne mogu istražiti“ / „ne mogu biti rasvijetljena“; „u javnim evidencijama učinjen je lažni upis (izmišljotina)“."
+  },
+  {
+   "id": "0pKGytvukF#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izrazi izvan glosara: „High Court at Allahabad (Lucknow Bench)“ → „Odjeljenje u Lucknowu“; „Station Officer“ → „starješina policijske stanice“; „aggrieved party“ → „oštećena strana“. Prihvatljivo, ali bez izvornog izraza pri prvom pomenu.",
+   "suggestion": "Opciono: „Odjeljenje u Lucknowu (Lucknow Bench)“, „starješina policijske stanice (Station Officer)“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 24 nova reda kao u izvoru, svi brojevi, članovi, citati (AIR/ALJ/ILR), datumi i broj predmeta identični, bez izostavljenih ni dodatih rečenica, odnos riječi 0.87, bez ekavizama i kroatizama. Stranke i glosar (Visoki sud, Sesijski sud, Vlada države, locus standi, posebna dozvola za žalbu, javni tužilac) dosljedni, registar prirodan obrazloženju presude; preostale su samo sitne stilske i terminološke primjedbe."
+}

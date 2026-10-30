@@ -1,0 +1,35 @@
+{
+  "n_blocking": 0,
+  "n_minor": 4,
+  "issues": [
+    {
+      "id": "tST18iwItC#1",
+      "severity": "minor",
+      "type": "omission_detail",
+      "description": "U citatu optužbe (para 48) izostavljena oznaka 'a.m.': izvor 'between 3.45 to 4.00 a.m.', prevod 'između 3.45 i 4.00 časova'. Brojevi su očuvani, ali citirani tekst nije potpuno doslovan.",
+      "suggestion": "'između 3.45 i 4.00 časova prije podne (a.m.)' ili 'između 3.45 i 4.00 a.m.'"
+    },
+    {
+      "id": "tST18iwItC#1",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Para 45: 'no prejudice has been caused to him' prevedeno kao 'njemu nije nanijeta nikakva šteta'; u procesnom smislu 'prejudice' je povreda prava odbrane, a 'šteta' je neodređena. Takođe para 7: 'Konstitutivni elementi' djeluje kao kalk.",
+      "suggestion": "'time mu nije povrijeđeno pravo na odbranu / nije pretrpio štetu po odbranu'; 'Konstitutivni elementi' -> 'Bitni elementi'."
+    },
+    {
+      "id": "tST18iwItC#1",
+      "severity": "minor",
+      "type": "style",
+      "description": "Para 31: 'Članom 279 nesmotrena vožnja ... propisuje se kao krivično djelo i propisuje se kazna' - ponavljanje 'propisuje se'; para 34 (464 st.1) 'sud nadležnog za postupanje' je nezgrapno za 'court of competent jurisdiction'.",
+      "suggestion": "'Članom 279 nesmotrena vožnja ... određena je kao krivično djelo, za koje je propisana kazna ...'; 'sud nadležan za postupanje' / 'nadležni sud'."
+    },
+    {
+      "id": "tST18iwItC#1",
+      "severity": "minor",
+      "type": "glossary_style",
+      "description": "Doslovna primjena glosara 'culpable homicide' -> 'ubistvo iz nehata ili bez predumišljaja' daje teške konstrukcije poput 'ubistvo iz nehata ili bez predumišljaja koje predstavlja ubistvo' (para 20, 41). Dosljedno je i u skladu sa glosarom, ali čitljivost trpi; mala napomena, ne ispravka.",
+      "suggestion": "Zadržati radi dosljednosti; po želji u kasnijim pominjanjima koristiti skraćeno 'culpable homicide' kao u glosi."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, 36 redova kao u izvoru, svi pasusi (27-49) prisutni, svi brojevi, citati (AIR/SCC, Rs. iznosi) i tokeni 'Rs.' identični, odnos riječi 0.93, bez ekavizama i hrvatizama. Glosar (žalilac, Visoki sud, prvostepeni sud, član/stav, država Kerala) primijenjen dosljedno, registar je odgovarajući pravnički; nađene su samo manje stilske i terminološke primjedbe."
+}

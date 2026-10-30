@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "7W491h1pSZ",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"end to end encrypted\" prevedeno kao \"sveobuhvatno šifrovani (end-to-end)\" (dodata glosa u zagradi koje nema u izvoru; u istom itemu ista fraza se kasnije javlja bez glose: \"sveobuhvatno šifrovano\"). \"Sveobuhvatno\" nije ustaljen prevod.",
+   "suggestion": "Koristiti dosljedno \"end-to-end šifrovani\" u cijelom batchu (items 7W491h1pSZ, y78tIapMW1, wbQZ8i5hzc, L2Fx84Vq78), bez dodatne glose."
+  },
+  {
+   "id": "y78tIapMW1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"sveobuhvatno šifrovano (end-to-end)\" - nedosljedna glosa i neustaljen termin (vidi 7W491h1pSZ).",
+   "suggestion": "\"end-to-end šifrovano\"."
+  },
+  {
+   "id": "wbQZ8i5hzc",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"sveobuhvatno šifrovane (end-to-end)\" za \"end to end encrypted\" - dodata glosa i neustaljen termin.",
+   "suggestion": "\"end-to-end šifrovane\"."
+  },
+  {
+   "id": "L2Fx84Vq78",
+   "severity": "minor",
+   "type": "terminology/addition",
+   "description": "\"sveobuhvatno šifrovan (end-to-end)\" (isti termin kao gore); dodata veznik \"zatim\" (\"...kontaktima, zatim bilo šta o grupama\") kojeg u izvoru nema.",
+   "suggestion": "\"end-to-end šifrovan\"; ukloniti \"zatim\" ili zamijeniti zarezom/\"kao i\"."
+  },
+  {
+   "id": "HtYDZw69Cr",
+   "severity": "minor",
+   "type": "register",
+   "description": "\"your stuff\" -> \"vašim stvarima\" je preslobodno za ugovorni korpus.",
+   "suggestion": "\"vašem sadržaju\" ili \"vašim stvarima\" samo ako se želi doslovnost; za formalni registar preporučeno \"vašem sadržaju\"."
+  },
+  {
+   "id": "6k3jgmlRST",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "\"San Mateo\" ostavljeno u izvornom obliku, a u itemu ly7qx0XOXh \"Santa Clara\" transkribovano kao \"Santa Klara\".",
+   "suggestion": "Ujednačiti geografska imena u batchu, npr. \"Santa Clara\" ili \"Santa Klara\" na svim mjestima (po glosaru manje poznata mjesta zadržati u izvornom obliku, pa \"okrugu Santa Clara\")."
+  },
+  {
+   "id": "ly7qx0XOXh",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "\"okrugu Santa Klara\" (dvaput) vs. \"San Mateo\" u 6k3jgmlRST.",
+   "suggestion": "\"okrugu Santa Clara\" (zadržati izvorni oblik) ili ujednačiti transkripciju u batchu."
+  },
+  {
+   "id": "7EgEKG895i",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"pen names\" -> \"književnih imena\" - uže od izvornog značenja.",
+   "suggestion": "\"pseudonima ili umjetničkih imena\"."
+  },
+  {
+   "id": "ZwZcSH9gZU",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"log data / log files\" -> \"podaci iz evidencije / fajlovi evidencije\" - neustaljen prevod za tehnički termin.",
+   "suggestion": "\"podaci iz logova\" / \"log fajlovi\" (ili \"dnevnik pristupa\"), dosljedno."
+  },
+  {
+   "id": "7sGRckiSSg",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "\"this website\" -> \"internet stranica\", a \"the site\" u itemu oORaDioQaR -> \"sajt\"; u ZwZcSH9gZU \"websites\" -> \"internet stranice\". Dva termina za isti pojam.",
+   "suggestion": "Ujednačiti (npr. \"internet stranica\" ili \"sajt\") kroz batch."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 25 _id-ova se poklapa, brojevi, datumi i tokeni su identični izvoru, nema ekavskih ni hrvatskih oblika, a odnos riječi je u granicama. Registar je formalni ugovorni (vi/vaš, mi/naš), ortografija normalna, glosar uglavnom poštovan (uslovi korišćenja, politika privatnosti, nalog, treće lice, povezana lica, ukinuti). Jedine primjedbe su manje: termin za end-to-end šifrovanje, nedosljedno pisanje geografskih imena i dva termina za website/site."
+}

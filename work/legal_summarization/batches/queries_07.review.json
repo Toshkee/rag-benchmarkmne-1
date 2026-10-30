@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "00155",
+      "severity": "minor",
+      "type": "register",
+      "description": "Upit je preformalan/zakonodavan: \"Zabranjuje se objavljivanje pornografskog sadržaja.\" (izvor: \"prohibits the posting of pornographic content.\"). Upiti treba da su razgovorni.",
+      "suggestion": "\"Zabranjeno je objavljivati pornografski sadržaj.\""
+    },
+    {
+      "id": "00167",
+      "severity": "minor",
+      "type": "glossary",
+      "description": "\"obeštetite SoundCloud\" – glosar traži \"obeštetiti i zaštititi od odgovornosti\" za \"indemnify\"; fraza je i pravnički teška za upit.",
+      "suggestion": "\"Saglasni ste da SoundCloud ne snosi nikakvu štetu ako treće lice podnese zahtjev zbog povrede autorskog prava ili narušavanja privatnosti u vezi sa vašim sadržajem ili nalogom.\" (ili makar \"obeštetite i zaštitite od odgovornosti\")"
+    },
+    {
+      "id": "00168",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"neophodna za upravljanje uslugama\" za \"necessary to operate the services\" – \"upravljanje\" je neprecizno.",
+      "suggestion": "\"neophodna za pružanje usluga\" / \"za rad usluga\""
+    },
+    {
+      "id": "00172",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"medicinske\" za \"medical\" i \"sa drugim licima\" za \"other parties\" – prirodnije \"zdravstvene\" i \"drugim stranama\" (u upitu).",
+      "suggestion": "\"Google može dijeliti vaše lične podatke sa drugim stranama. Za osjetljive podatke (zdravstvene, rasne, ...)\""
+    },
+    {
+      "id": "00150",
+      "severity": "minor",
+      "type": "style",
+      "description": "\"Korisnici treba povremeno da ponovo pregledaju uslove\" – nepravilno slaganje (\"korisnici treba\").",
+      "suggestion": "\"Korisnici bi povremeno trebalo da ponovo pregledaju uslove, mada će ih usluga u slučaju bitnih izmjena obavijestiti.\""
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova i redoslijed su identični, nema izostavljenja ni dodavanja, brojevi (1000) i imena su očuvani, nema ekavskih ni hrvatskih oblika, a ortografija je normalna uprkos normalizovanom izvoru. Registar je uglavnom razgovoran i kratak kako i priliči upitima, a glosar (uslovi korišćenja, nalog, treće lice, nadležni sud, isključiti se) se dosljedno primjenjuje; nalazi su samo manja stilska/terminološka odstupanja."
+}

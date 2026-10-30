@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "GCLgR0OVSn#1",
+   "severity": "minor",
+   "type": "terminologija (award)",
+   "description": "„award“ je dosljedno preveden kao „arbitražna odluka“ (npr. „arbitražna odluka koju je donio tribunal“). Glosar nema ovaj termin; riječ je o odluci industrijskog tribunala (adjudication), ne o arbitraži, pa je izraz donekle neprecizan, ali je dosljedan kroz cijeli dio.",
+   "suggestion": "Opciono „odluka tribunala (award)“ pri prvom pomenu, dalje „odluka“; ako se zadrži, ostaviti dosljedno."
+  },
+  {
+   "id": "GCLgR0OVSn#1",
+   "severity": "minor",
+   "type": "terminologija (statement/direction/enquiry)",
+   "description": "Pasus 23: „a statement has been filed“ → „podnijet je pregled“ (bolje „podnesena je izjava/dostavljen je izvještaj“). Pasus 25: „two directions issued by the award“ → „dva naloga“ (može se miješati sa „nalog (writ)“; bolje „dva uputstva/naređenja“). Pasus 19: „enquiry“ → „ispitivanje“ (glosar: inquiry → istraga/disciplinska istraga).",
+   "suggestion": "„podnesen je pregled“ → „podnesena je izjava“; „dva naloga“ → „dva naređenja“; „ispitivanja“ → „istrage“ ili ostaviti uz dosljednost."
+  },
+  {
+   "id": "GCLgR0OVSn#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Pasus 23: „Na ročištu pred nama“ — za „At the hearing before us“; preporučljivije „Na raspravi pred nama“. Pasus 17: „pravna zaštita“ za „relief“ je prihvatljivo ali slobodno (bolje „pravna sredstva/olakšica“).",
+   "suggestion": "„Na raspravi pred nama“."
+  },
+  {
+   "id": "GCLgR0OVSn#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 18: „Kako bilo kakva šema ... može protivne strane lišiti“ — retoričko pitanje bez upitne konstrukcije („može li“). Pasus 24: „iako je cirkularom ... bilo potvrđeno“ ok, ali „potvrđena nadzornika“ za „affirmed supervisors“ je dobro.",
+   "suggestion": "„Kako bilo koja šema, ma koliko vješto osmišljena, može lišiti protivne strane...“ ili „Može li bilo kakva šema ... lišiti ...“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id (GCLgR0OVSn#1), svih deset pasusa (17–26) i završna oznaka „Žalba odbijena.“ su prisutni, broj novih redova je 11:11, svi brojevi (cirkulari 201/249/292/336, datumi, 451/542/128/210/68) se podudaraju brojač po brojač, bez ekavizama i hrvatizama; odnos riječi 0,87. Strane su dosljedno označene (žalilac/protivne strane), registar je prirodan sudski ijekavski sa „nijesu“ i „uvaženi“; ostaju samo manje terminološke i stilske primjedbe."
+}

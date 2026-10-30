@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"substantive evidence\" prevedeno kao \"materijalni dokaz\" (\"ne predstavljaju materijalni dokaz\", \"ne može smatrati materijalnim dokazom\"). U crnogorskoj pravnoj terminologiji \"materijalni dokaz\" znači stvarni/predmetni dokaz, pa se značenje pomjera.",
+   "suggestion": "\"ne predstavljaju osnovni dokaz (dokaz o suštini stvari)\" / \"ne može smatrati dokazom o činjenicama\"; isto u oba pojavljivanja."
+  },
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"presidency Magistrate\" prevedeno \"predsjednički magistrat (presidency Magistrate)\"; \"predsjednički\" je pogrešno značenje (magistrat presidencijalnog grada, npr. Kalkute).",
+   "suggestion": "\"magistrat presidencijalnog grada (presidency Magistrate)\"."
+  },
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"the appellant or his pleader\" -> \"žalilac ili njegov branilac\"; pleader je advokat/zastupnik, a \"branilac\" sugeriše odbranu u krivičnom postupku.",
+   "suggestion": "\"žalilac ili njegov advokat (zastupnik)\"."
+  },
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"pravo pravno stanje\" (\"explaining the true legal position\", \"That is the true legal position\") je nezgrapno; \"stvarno stanje\" za \"the true position\" takođe nije pravnički.",
+   "suggestion": "\"objašnjavajući ispravan pravni stav\", \"To je ispravno pravno stanje\", \"Stoga je pravi položaj takav da\"."
+  },
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ne bi bili obuhvaćeni sa tri grupe datuma\" (gramatika) i \"za intervenciju\" (kalk za \"interfering\"); \"pristupićete razmatranju\" za \"you shall proceed to consider\" ublažava obavezujući ton citata.",
+   "suggestion": "\"ne bi bili obuhvaćeni trima grupama datuma\"; \"nema dovoljnog osnova za izmjenu pobijane odluke\"; \"tada ćete pristupiti razmatranju dokaza\" (ili \"treba da pristupite\")."
+  },
+  {
+   "id": "UMVmI5BRh8#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"granted certificate\" -> \"izdao ... potvrdu\" bez objašnjenja da je riječ o potvrdi o podobnosti predmeta za žalbu Vrhovnom sudu; \"decisions\" -> \"odluke\" (radi se o presudama); \"Code\" -> \"Zakonika\" bez punog naziva.",
+   "suggestion": "Pri prvom pomenu \"potvrdu (certificate) o podobnosti za žalbu\"; \"dvije presude ovog suda\"; \"Zakonika o krivičnom postupku\" pri prvom pomenu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (14), svi brojevi (članovi, godine, citati AIR/Indlaw) identični izvoru, nijedan pasus ni rečenica nijesu izostavljeni, bez ekavizama i hrvatizama. Registar je prirodan sudski, glosar se poštuje (žalilac, Visoki sud, vijeće (Division Bench), uvaženi sudija Sesijskog suda, odbijena), a stranke su dosljedne; preostali nedostaci su terminološke i stilske prirode (npr. \"materijalni dokaz\", \"predsjednički magistrat\")."
+}

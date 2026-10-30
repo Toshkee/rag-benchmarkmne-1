@@ -1,0 +1,64 @@
+{
+ "batch": "corpus_11",
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "zNmREpOaUV",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Prevod 'prije početka sudske istrage ili suđenja' dodaje pridjev 'sudske' kojeg nema u izvoru ('before the commencement of the inquiry or trial'). Isti termin 'inquiry' je u glosaru 'istraga'.",
+   "suggestion": "'prije početka istrage ili suđenja'"
+  },
+  {
+   "id": "zNmREpOaUV",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'Uzeto je u mom prisustvu i pred mojim ušima' je doslovan i neprirodan prevod za 'in my presence and hearing' u formuli zabilješke.",
+   "suggestion": "'Uzeto je u mom prisustvu i da sam ga čuo' (ili 'u mom prisustvu i sluhu')."
+  },
+  {
+   "id": "zNmREpOaUV",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'Izuzetno, takođe, nijedno priznanje...' i 'Izuzetno, takođe, ako je lice...' za 'Provided further' su nezgrapni; isto važi za dvostruko 'Izuzetno' za dva uzastopna proviso.",
+   "suggestion": "Za drugi izuzetak: 'Dalje, izuzetno,' ili 'Pored toga, izuzetak je da'."
+  },
+  {
+   "id": "zNmREpOaUV",
+   "severity": "minor",
+   "type": "termin",
+   "description": "'Vlada savezne države' / 'IZMJENA U SAVEZNOJ DRŽAVI' (State Government / STATE AMENDMENT): glosar za 'the State' propisuje 'Država'. Upotreba 'savezne države' je dosljedna kroz batch (zNmREpOaUV, QsKDGAUuRq, hPInRVkLUh, fSEVQOEXfn), pa je odstupanje samo terminološko.",
+   "suggestion": "Ili ostaviti dosljedno, ili ujednačiti na 'Vlada Države' / 'Država' po glosaru."
+  },
+  {
+   "id": "zNmREpOaUV",
+   "severity": "minor",
+   "type": "format",
+   "description": "Datum 'stupilo na snagu 03. 02. 2013. godine' zadržava vodeću nulu iz izvora, dok je u istom batchu format '1. 1. 1956.' / '17. 10. 2000.' bez nule (stil vodič: '1. 1. 1956. godine').",
+   "suggestion": "'3. 2. 2013. godine' (isto u hPInRVkLUh)."
+  },
+  {
+   "id": "fSEVQOEXfn",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "'Cognizable' prevedeno kao 'Policija postupa bez naloga (cognizable)' - dodato je objašnjenje koje nije u izvoru ('Cognizable-Non-bailable-...').",
+   "suggestion": "'Krivično djelo za koje se postupa po službenoj dužnosti (cognizable)' ili samo 'Cognizable' u zagradi; bez dodatnog tumačenja."
+  },
+  {
+   "id": "hPInRVkLUh",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "'(g) da li je upućen u pritvoru na osnovu člana 170' za 'forwarded in custody' - pogrešan padež (kretanje u pritvor).",
+   "suggestion": "'da li je upućen u pritvor na osnovu člana 170'."
+  },
+  {
+   "id": "hPInRVkLUh",
+   "severity": "minor",
+   "type": "termin",
+   "description": "'oral or documentary' evidence prevedeno 'usmene ili pisane' dokaze; 'documentary' je preciznije 'dokumentarne' (isprave).",
+   "suggestion": "'usmene ili dokumentarne (pisane) dokaze'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 8 _id-ova se poklapa, svi brojevi i tokeni imaju isti broj pojavljivanja, odnos riječi je 0.84-1.08, nema ekavskih ni hrvatskih oblika, svi počinju sa 'Naslov:' i sadrže 'Opis:'. Nema izostavljenog ni dodatog sadržaja, ni promijenjenog značenja, roka ili kazne; registar je pravnički i dosljedan glosaru (zatvor strogi ili obični, uzimanje u postupak, Visoki sud, Krivični zakonik Indije). Preostala su samo manja stilska i terminološka odstupanja."
+}

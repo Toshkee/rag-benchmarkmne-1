@@ -1,0 +1,79 @@
+{
+ "batch": "corpus_06",
+ "n_blocking": 0,
+ "n_minor": 10,
+ "checks": "Isti skup _id (11/11); tokeni P/A/S/W/Section S/Rs. = 0 u izvoru i prevodu; brojevi (1,2,3 u L2lVSID1u7) isti; odnos riječi 0.89-1.02; nema ekavizama ni kroatizama; naslovi prazni kao u izvoru.",
+ "issues": [
+  {
+   "id": "L2lVSID1u7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„pravnim zastupnikom“ za „your own legal counsel“; u ugovornom kontekstu prirodnije je savjetnik ili advokat. Takođe „Nijeste ovlašćeni da zaključite poravnanje“ za „you shall not settle any claim“ je meko; izvor je zabrana.",
+   "suggestion": "„sa sopstvenim pravnim savjetnikom (advokatom)“; „Ne smijete zaključiti poravnanje po bilo kom zahtjevu ili tužbi bez prethodne pisane saglasnosti TLDR strana.“"
+  },
+  {
+   "id": "L2lVSID1u7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„advokatske naknade“ za „reasonable attorneys fees“ i „jemstvo“ za „guarantee“ (u glosaru jemstvo = bail).",
+   "suggestion": "„razumne troškove advokata“; „garanciju, izjavu ili obećanje“ ili samo „garanciju“."
+  },
+  {
+   "id": "blZZpC4RqZ",
+   "severity": "minor",
+   "type": "dosljednost termina",
+   "description": "„internet stranice mojang.com“ dok se u istom batchu (L2lVSID1u7) „sites/website“ prevodi kao „sajt“.",
+   "suggestion": "Ujednačiti: „sajta mojang.com“."
+  },
+  {
+   "id": "blZZpC4RqZ",
+   "severity": "minor",
+   "type": "pravopis/oblik",
+   "description": "„svim djelovima ova tri dokumenta“; ijekavski oblik za „parts“ je „dijelovi“ („djelo“ = rad/djelo). Isto u 7nJ6iUo8k2: „njenim djelovima“.",
+   "suggestion": "„svim dijelovima“; „njenim dijelovima“."
+  },
+  {
+   "id": "7nJ6iUo8k2",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "„nepošten ili nerazuman“ za „unfair or unreasonable“; „unfair“ je prije „nepravičan/nepravedan“.",
+   "suggestion": "„na način koji je nepravičan ili nerazuman“ (na oba mjesta u itemu)."
+  },
+  {
+   "id": "AwFv0Yg7NZ",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„Ovo je važno kako bi nam pomoglo da spriječimo piratstvo“ je gramatički trom (subjekat „ovo“ ne može „pomoći“).",
+   "suggestion": "„Ovo je važno kako bismo mogli spriječiti piratstvo i prevare i zaštititi našu igru.“"
+  },
+  {
+   "id": "Q0OsGFUsd3",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "„modove koji se pokreću prije igre“ za „pre run mods“ je slobodno tumačenje.",
+   "suggestion": "„modove koji se primjenjuju prije pokretanja (pre-run modovi)“."
+  },
+  {
+   "id": "NQLlpIn8sr",
+   "severity": "minor",
+   "type": "stil/značenje",
+   "description": "„Ako ćete nešto učiniti dostupnim“ (neprirodan futur u uslovnoj rečenici) i „mora biti istinito“ za „it must be honest“ (honest = pošteno).",
+   "suggestion": "„Ako namjeravate nešto učiniti dostupnim...“; „mora biti pošteno“."
+  },
+  {
+   "id": "iVUi9iGaOB",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "„omogućimo da koriste“ za „let us permit other people to use“.",
+   "suggestion": "„da drugim licima dozvolimo da koriste, umnožavaju, mijenjaju i prilagođavaju vaš sadržaj“."
+  },
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "„neko nas pozove na odgovornost“ za „we get challenged“.",
+   "suggestion": "„neko nam se obrati sa prigovorom“ ili „ospori naše postupanje“."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: nema izostavljenja, dodavanja ni promjena značenja, a brojevi i struktura (a-f, 1-3, VII/VIII) su očuvani. Registar je prikladan za korpus (formalni ugovorni, obraćanje vi/mi, normalna ortografija, glosar poštovan: nalog, treće lice, uslovi, politika privatnosti, odgovornost, raskid), uz nekoliko sitnih stilskih i terminoloških nijansi."
+}

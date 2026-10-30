@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "00237",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"persons residing in Texas\"; prevod: \"lica koja imaju prebivalište u Teksasu\". Prebivalište je pravno uže od \"residing\" (stanovanje/boravak).",
+   "suggestion": "\"u slučaju lica koja borave u Teksasu\" (ili \"koja žive u Teksasu\")."
+  },
+  {
+   "id": "00228",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Izvor: \"content that it hosts\"; prevod: \"koji hostuje\" je anglicizam u laičkom upitu.",
+   "suggestion": "\"cjelokupnog sadržaja koji se nalazi na njegovim serverima\" ili \"koji ugošćuje/čuva\"; \"hostuje\" je prihvatljivo ako se želi zadržati tehnički izraz."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 20 _id-ova, brojevi i tokeni se poklapaju, odnos riječi u granicama, bez ekavskih i hrvatskih oblika. Pitanja su ostala pitanja, laički upiti (npr. 00220, 00226, 00230, 00234, 00236) razgovorni, a formalni (npr. 00221, 00225, 00227, 00239) formalni, bez sadržaja iz polja context. Glosar (usluga, nalog, uslovi korišćenja, mjerodavno pravo, treće lice/lice) dosljedno poštovan; samo dvije sitne terminološke primjedbe."
+}

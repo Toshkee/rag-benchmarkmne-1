@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "INM1MjeBsr",
+      "severity": "minor",
+      "type": "typo/gramatika",
+      "description": "U (F) prevod ima 'PODNIJET U ARBITRAŽNOM POSTUPKU' (izvor: 'IT IS FILED IN AN ARBITRATION'); oblik 'podnijet' je neknjiževan i nedosljedan sa 'PODNIJETI' u istoj stavci.",
+      "suggestion": "'AKO JE U TOKU TOG JEDNOGODIŠNJEG ROKA PODNESEN U ARBITRAŽNOM POSTUPKU ILI ... NADLEŽNOM SUDU'."
+    },
+    {
+      "id": "3UDqpNVGMr",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'CNN may terminate or suspend these Terms of Use' prevedeno 'raskinuti ili privremeno obustaviti'; glosar: suspend → privremeno ukinuti. Takođe naslovi gube završnu tačku izvora ('7. Indemnification.' → '7. Obeštećenje').",
+      "suggestion": "'raskinuti ili privremeno ukinuti ove uslove korišćenja'; naslove zadržati sa tačkom radi vjernosti formatu (ili dosljedno u cijelom batchu)."
+    },
+    {
+      "id": "GF9IyDN8pb",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'State of New York' i 'state or federal court' prevedeni 'savezna država New York' / 'sud savezne države' (glosar: NE 'savezna država'; država). Takođe 'obje strane ... dajemo saglasnost' miješa treće i prvo lice (izvor: 'we both irrevocably consent').",
+      "suggestion": "'države New York', 'sud države ili savezni sud'; 'i mi i vi neopozivo dajemo saglasnost'."
+    },
+    {
+      "id": "TP9gyv1plB",
+      "severity": "minor",
+      "type": "preciznost",
+      "description": "'under penalty of perjury' prevedeno 'pod prijetnjom krivične odgovornosti za davanje lažnog iskaza' — dodato 'krivične odgovornosti' koje u izvoru ne postoji.",
+      "suggestion": "'pod prijetnjom kazne za lažno svjedočenje (under penalty of perjury)' ili 'pod prijetnjom odgovornosti za lažno svjedočenje'."
+    },
+    {
+      "id": "nBvbdFo9xb",
+      "severity": "minor",
+      "type": "izostavljanje/dodavanje i terminologija",
+      "description": "'Xbox Gold Membership time' prevedeno 'preostalog vremena Xbox Gold Membership članstva' (dodato 'preostalog', redundantno 'Membership članstva'); 'close your Microsoft account' → 'zatvoriti' (glosar: ukinuti); 'suspensions or bans' → 'privremenog ukidanja ili blokiranja' ok, ali 'stanja na Microsoft nalogu povezanih sa tim nalogom' je gramatički nezgrapno.",
+      "suggestion": "'vremena Xbox Gold članstva i stanja na Microsoft nalogu'; 'ukinuti vaš Microsoft nalog'."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti brojevi i broj novih redova u svih 6 itema, nema ekavizama ni hrvatizama, nema izostavljenih rečenica. Registar je odgovarajući opštim uslovima poslovanja (vi/mi, 'odjeljak', konzistentni termini: nalog, treće lice, obeštećenje, mjerodavno pravo); nalazi su samo sitne terminološke i stilske napomene."
+}

@@ -1,0 +1,84 @@
+{
+ "n_blocking": 1,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "6JDWYlgAAC",
+   "severity": "blocking",
+   "type": "pogrešno značenje (čin/rang)",
+   "description": "Izvor: \"not below the rank of a Joint Secretary\". Prevod: \"ne nižeg ranga od zamjenika sekretara (Joint Secretary)\". \"Zamjenik sekretara\" odgovara Deputy Secretary, nižem činu od Joint Secretary, pa se mijenja prag ovlašćenja.",
+   "suggestion": "\"ne nižeg ranga od zajedničkog sekretara (Joint Secretary)\" ili samo \"Joint Secretary\" uz transkripciju."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Provided that\" / \"Provided further\" prevedeno kao \"Pod uslovom da\" / \"Pod uslovom, dalje, da\"; glosar propisuje \"izuzetak / odredba o izuzetku\". \"Pod uslovom\" je ovdje i nategnuto jer iza dvotačke slijedi pravilo, ne uslov.",
+   "suggestion": "\"Izuzetak: Savjetodavni odbor se sastoji ...\"; \"Dodatni izuzetak: ništa u ovom stavu ...\" ili dosljedno \"Pod uslovom da\" kroz čitav batch (isto u 6JDWYlgAAC)."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"legal practitioner of his choice\" -> \"pravnim zastupnikom po svom izboru\"; glosar i stilski vodič daju \"advokat / branilac\", a kontekst (\"to be defended by\") traži advokata.",
+   "suggestion": "\"da se posavjetuje sa advokatom po svom izboru i da ga on brani\"."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"making a representation against the order\" -> \"podnese prigovor protiv rješenja\"; \"prigovor\" je žalbeni pravni lijek, a representation je obraćanje/predstavka organu.",
+   "suggestion": "\"da podnese predstavku protiv rješenja\"."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminologija/doslovnost",
+   "description": "Naziv akta \"Constitution (Forty-fourth Amendment) Act, 1978\" preveden kao \"Zakon o Ustavu (četrdeset četvrti amandman), 1978\" (ponovljeno u svim fusnotama); to je zakon o izmjeni Ustava.",
+   "suggestion": "\"Zakon o izmjeni Ustava (četrdeset četvrti amandman), 1978\"."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Government/State: \"Vlada Indije\" (veliko slovo) ali \"vlada bilo koje države\", \"Centralna vlada\" vs \"vlada države\" u istom batchu; glosar: the State -> Država, Government -> Vlada.",
+   "suggestion": "Ujednačiti: \"Vlada\" i \"Država\" velikim slovom u Ustavu (\"Vlada bilo koje Države\"), odnosno dosljedno \"Centralna vlada\" / \"vlada države\" za zakon, ali isto u svim itemima."
+  },
+  {
+   "id": "QMgV0Lh8Wv",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Naslov \"Ovlašćenje visokih sudova\" (malim slovom) naspram \"Visoki sud\" u tekstu i glosaru; \"bilo koju vladu\"/\"bilo kojoj vladi\" malim slovom, a u BnD3XkfFNu \"Vlada Indije\".",
+   "suggestion": "\"Ovlašćenje Visokih sudova za izdavanje određenih naredbi (writs)\"; ujednačiti \"Vlada\"."
+  },
+  {
+   "id": "QMgV0Lh8Wv",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"a petition under clause (1)\" -> \"zahtjev iz stava (1)\"; glosar za writ petition predviđa \"ustavna tužba\".",
+   "suggestion": "\"po ustavnoj tužbi (writ petition) iz stava (1)\" ili pojasniti dosljedno \"zahtjev\" kroz batch."
+  },
+  {
+   "id": "erqtHioRRd",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodano \"(writs)\" u \"uputstva ili rješenja ili naredbe (writs)\"; u izvoru \"writs\" je samostalna riječ (\"directions or orders or writs\"), pa je dodatak u zagradi suvišan i označava \"naredbe\" kao jedini ekvivalent, što je nepotrebno objašnjenje.",
+   "suggestion": "\"uputstva ili rješenja ili naredbe (writs)\" je prihvatljivo, ali dosljedno izbjeći dodavanje; alternativno \"uputstva, rješenja ili writ-ove\"."
+  },
+  {
+   "id": "RcoreogrNw",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"dower\" -> \"bračni dar\"; dower (udovičin dio) nije isto što i \"bračni dar\", a \"mahr\" je ostavljen odvojeno.",
+   "suggestion": "\"dower\" -> \"miraz udovice (dower)\" ili \"udovičin dio (dower)\"; prihvatljivo i \"dower ili mahr\" ako se želi očuvati izvorni oblik."
+  },
+  {
+   "id": "YsP6ihgIqL",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Bez obzira na bilo šta u ovom poglavlju\" i \"po svom diskrecionom pravu\" su kalkirani i nepravnički; \"Ništa iz stava (1)\" je topao kalk.",
+   "suggestion": "\"Bez obzira na odredbe ovog poglavlja\", \"po svom nahođenju\" / \"po slobodnoj ocjeni\", \"Odredbe stava (1) ne primjenjuju se ...\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 9 _id-ova se poklapa, svi brojevi i tokeni su očuvani, nema ekavizama ni hrvatizama, format Naslov:/Opis: je ispravan i nijedna rečenica nije izostavljena. Registar je uglavnom odgovarajući za propise (Ko ... kazniće se, Jemči se pravo, ovlašćenje), uz manja odstupanja od glosara i nedosljednost velikih/malih slova za Vladu/Državu. Jedina značajna greška je rang \"Joint Secretary\" preveden kao \"zamjenik sekretara\" u 6JDWYlgAAC."
+}

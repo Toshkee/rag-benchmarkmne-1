@@ -1,0 +1,57 @@
+{
+  "batch": "corpus_15",
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "BhEOgzIafL",
+      "severity": "minor",
+      "type": "ortografija/ijekavica",
+      "description": "Prevod: \"promijeni, izmijeni, dopuni ili ukloni djelove ovih uslova korišćenja\" - \"djelove\" je pogrešan oblik (djelo = work). Izvor: \"change modify add or remove portions of these terms of use\".",
+      "suggestion": "Zamijeniti \"djelove\" sa \"dijelove\"."
+    },
+    {
+      "id": "phTExIqqB9",
+      "severity": "minor",
+      "type": "terminologija/stil",
+      "description": "Prevod: \"u okviru parametara ... funkcije platforme koje povremeno postoje\" (izvor: \"features of the platform from time to time\") - nezgrapno; \"bez autorskih honorara i uz potpuno plaćenu naknadu\" za \"royalty free ... fully paid\" je ponešto neprirodno/nekonzistentno sa drugom rečenicom (\"potpuno plaćenu licencu bez autorskih honorara\").",
+      "suggestion": "\"funkcije platforme koje su povremeno dostupne\"; ujednačiti: \"bez naknade za autorska prava i u potpunosti plaćenu\" u obje rečenice."
+    },
+    {
+      "id": "YTH8xIZM1J",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Prevod: \"pruži potvrdu prijema ili naknadu\" za \"provide acknowledgment or compensation\" - sužava značenje (acknowledgment = priznanje/zahvalnost, ne samo potvrda prijema). Takođe \"Prihvatate\" za \"you acknowledge\" umjesto glosarskog \"saglasni ste\".",
+      "suggestion": "\"nije obavezan da vam pruži priznanje ili naknadu\"; \"Saglasni ste da...\"."
+    },
+    {
+      "id": "OQqzbWVa4O",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Prevod: \"rješavaće se isključivo pred saveznim ili državnim sudovima\" za \"will be litigated exclusively in\" - \"litigated\" gubi značenje vođenja sudskog postupka.",
+      "suggestion": "\"voditi će se (sudski postupak) isključivo pred ...\" ili \"biće predmet sudskog postupka isključivo pred ...\"."
+    },
+    {
+      "id": "BnD3XkfFNu",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Prevod: \"Pristajete na ličnu nadležnost\" - glosar za \"you agree\" je \"saglasni ste\"; \"personal jurisdiction\" je stručno \"lična (personalna) nadležnost\" ali \"pristajete\" odstupa od dosljednog \"saglasni ste\" u batchu.",
+      "suggestion": "\"Saglasni ste sa ličnom nadležnošću i mjestom suđenja ...\"."
+    },
+    {
+      "id": "5F21rWz5FY",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Prevod: \"partneri i sticaoci licence\" za \"licensees\" - \"sticaoci licence\" je neuobičajeno; i \"pristanete na njihove usluge lokacije\" za \"opt in to their location services\" (bolje: uključite/prihvatite).",
+      "suggestion": "\"korisnici licence\" / \"nosioci licence\"; \"kada se prijavite za njihove usluge lokacije\"."
+    },
+    {
+      "id": "RthvDJPzU0",
+      "severity": "minor",
+      "type": "format",
+      "description": "Izvor: \"en quote do not use our services improperly. fr quote n utilisez pas...\" - prevod interpretira artefakte kao \"Citat na engleskom: ... Citat na francuskom:\" i prevodi englesku rečenicu; značenje je očuvano, ali je to interpretativno dodavanje oznaka.",
+      "suggestion": "Prihvatljivo; po želji doslovnije: \"en citat: ... fr citat: ...\" ali nije obavezno."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova (25/25), svi tokeni i brojevi (npr. 1 000) očuvani, odnosi riječi u rasponu 0.75-1.25, nema ekavizama ni hrvatizama, nema izostavljenja ni izmijenjenog značenja. Registar je dosljedno formalni ugovorni (vi/naš, uslovi korišćenja, nalog, treće lice, obeštetiti i zaštititi od odgovornosti) sa normalnom ortografijom i interpunkcijom; zabilježene su samo sitne stilsko-terminološke primjedbe i jedna ortografska greška (djelove -> dijelove). Batch ne sadrži upite, samo korpus."
+}

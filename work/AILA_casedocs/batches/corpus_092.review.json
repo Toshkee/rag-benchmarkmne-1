@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "glosar/skraćenice odredbi",
+      "description": "Skraćenica 'Arts.' prevedena kao 'čl.' (odlomci 47, 49, 6, 48: 'čl. 14 i 16 Ustava Indije', 'čl. 15 do 18'), dok se drugdje koristi 'član' ('člana 14'). Vodič (dio 9) propisuje 'Art. -> član'.",
+      "suggestion": "Zamijeniti 'čl. 14 i 16' sa 'član 14 i 16 Ustava', 'čl. 15 do 18' sa 'članovi 15 do 18' (ili 'članu 15 do 18'), za dosljednost."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "terminološka nedosljednost",
+      "description": "'Constitutional scheme' prevedeno različito: 'ustavna koncepcija' (odlomak 45: 'iz ustavne koncepcije') naspram 'ustavnim sistemom' / 'ustavni sistem' (odlomci 50, 51, 52, 'u skladu sa ustavnim sistemom').",
+      "suggestion": "Ujednačiti, npr. 'ustavni sistem' u svim odlomcima ('koji se mogu izvesti iz ustavnog sistema')."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "terminološka nedosljednost",
+      "description": "'Department' prevedeno i kao 'odjeljenje' ('organa i odjeljenja', 'nadležno odjeljenje') i kao 'Uprava' ('Uprava za komercijalne poreze', 'Uprava rudnika' za Management). Glosar dozvoljava oba, ali unutar batcha treba jedan.",
+      "suggestion": "Ujednačiti na 'odjeljenje' (npr. 'Odjeljenje za komercijalne poreze'); 'Management' ostaviti kao 'uprava/rukovodstvo'."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "termin / registar",
+      "description": "'daily wages' prevedeno kao 'dnevnica' ('na dnevnici', 'uz dnevnicu'). 'Dnevnica' u crnogorskom znači naknada za službeni put (per diem), a ne dnevna zarada; moguća zabuna.",
+      "suggestion": "'povremeni radnik sa dnevnom zaradom' / 'angažovanje uz dnevnu zaradu (dnevnicu)'; ujednačiti u odlomcima 51 i 52."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "stil/prirodnost",
+      "description": "Nespretna konstrukcija: 'Visoki sud možda neće biti opravdan da izdaje privremene naloge' (izvor: 'the High Court may not be justified in issuing interim directions'); 'oblikuje zaštitu' za 'mould the relief'.",
+      "suggestion": "'možda ne bi bilo opravdano da Visoki sud izdaje privremene naloge'; 'oblikuje pravnu zaštitu (relief)' ili 'prilagodi mjeru pravne zaštite'."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "termin",
+      "description": "'assurance' (odlomak 52) prevedeno kao 'uvjeravanje' / 'dalo bilo kakvo uvjeravanje'; 'uvjeravanje' je u pravnom jeziku neprirodno (uvjerenje = potvrda).",
+      "suggestion": "'garanciju' / 'obećanje' / 'jemstvo': 'dobilo garanciju od donosioca odluke'; 'dalo bilo kakvu garanciju'."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "registar",
+      "description": "'founding fathers' -> 'osnivači' (odlomak 6); 'exultant/exalted position' -> 'uzvišeni položaj' (odlomci 47, 49) i 'Senior Counsel' -> 'Uvaženi viši zastupnik (Senior Counsel)' (odlomak 52) su doslovni; 'viši zastupnik' nije ustaljen termin, a glosar daje samo 'uvaženi zastupnik'.",
+      "suggestion": "'tvorci Ustava'; 'istaknuti položaj'; 'Uvaženi zastupnik (Senior Counsel)'."
+    },
+    {
+      "id": "nnBbuQzkCh#3",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "'Writ Petitioners' (odlomak 49) -> 'podnosilaca ustavne tužbe (writ petition)' ok po dijelu 3, ali 'petitioner No. 1' (odlomak 10) -> 'podnosilac zahtjeva br. 1' unutar istog citata je nedosljedno; podnosilac je u istom predmetu označen različito.",
+      "suggestion": "Ujednačiti: 'podnosilac ustavne tužbe br. 1' u odlomku 10."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (16), svi brojevi, citati sudske prakse (AIR, SCC, S.C.R., Indlaw) i redni brojevi pasusa identični izvoru, odnos riječi 0,90, bez izostavljenih ili dodatih rečenica i bez ekavskih ili hrvatskih oblika. Registar je prirodan i sudski, ijekavski i uglavnom u skladu sa glosarom (Visoki sud, Država, Indijska Unija, nijesu, rješenje). Zamjerke su samo stilske i terminološke (čl./član, 'dnevnica', 'uvjeravanje', nedosljednost 'ustavna koncepcija/sistem' i 'odjeljenje/uprava')."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#5",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Stavka 99(2): izvor 'Dr. Lodha and thereafter Dr. Gandhi' preveden nedosljedno: 'po dr Lodhu, a zatim po dr Gandhija' (jedno ime deklinirano, drugo ne/različito).",
+   "suggestion": "Ujednačiti, npr. 'po dr Lodhu, a zatim po dr Gandhija' ili bez deklinacije 'po dr Lodha ... dr Gandhi'."
+  },
+  {
+   "id": "sUkiH8G4Zp#5",
+   "severity": "minor",
+   "type": "fidelity/register",
+   "description": "Stavka 93, tačka 21: izvor 'delusions or ideas of reverence' (vjerovatno greška u izvoru za 'reference') preveden 'sumanute ideje ili ideje odnosa'; prevodilac je ispravio izvor umjesto doslovnog prenosa.",
+   "suggestion": "Doslovno: 'sumanute ideje ili ideje poštovanja' ili zadržati ispravku uz dosljednost; po vodiču bez 'poboljšavanja' izvora."
+  },
+  {
+   "id": "sUkiH8G4Zp#5",
+   "severity": "minor",
+   "type": "register",
+   "description": "Stavka 96(7): 'dirty atmosphere' preveden 'nezdrave atmosfere' (ublaženo); i 'Ext.' vs izvorno 'Ex.' u st. 82 ('Manjuinom pismu (Ex. 33)' u izvoru, prevod 'Ext. 33' u 82).",
+   "suggestion": "'prljave/nezdrave atmosfere' prihvatljivo, ali preporučuje se 'prljave atmosfere'; u st. 82 zadržati 'Ex. 33' kao u izvoru."
+  },
+  {
+   "id": "sUkiH8G4Zp#5",
+   "severity": "minor",
+   "type": "clarity",
+   "description": "Stavka 86: 'savjetovalo ovog da ne žuri' – nejasno ko koga savjetuje (izvor: PW 4 advised PW 2/'him'); takođe 'bad called' u izvoru je tipfeler za 'had'.",
+   "suggestion": "Eksplicitno: 'savjetovalo PW 2 da ne žuri i ne donosi konačnu odluku'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi pasusi 80-102 prisutni, broj redova (67), brojevi, citati i tokeni identični izvoru, nema ekavizama ni kroatizama. Terminologija (žalilac, Visoki sud, prvostepeni sud, van razumne sumnje, nijesu/nijesam) dosljedna glosaru, a registar prirodan, sudski. Nema blokirajućih nalaza, samo sitne stilske nedosljednosti."
+}

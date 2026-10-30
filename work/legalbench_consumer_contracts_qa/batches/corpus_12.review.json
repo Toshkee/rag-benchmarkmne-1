@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "zKG5mSoyPs",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "'Privacy Statement' prevedeno kao 'Izjave o privatnosti' (\"obavještenja iz Izjave o privatnosti\"); glosar dio 7 propisuje 'politika privatnosti'.",
+      "suggestion": "'Pogledajte obavještenja iz Politike privatnosti koja se odnose na prikupljanje i korišćenje vaših podataka.'"
+    },
+    {
+      "id": "zKG5mSoyPs",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'MICROSOFT NE DAJE NIKAKVA UVJERAVANJA U POGLEDU TAČNOSTI' za 'DOES NOT MAKE ANY ASSURANCES' - 'uvjeravanja' je neprirodno za pravni registar.",
+      "suggestion": "'MICROSOFT NE DAJE NIKAKVU GARANCIJU / NE JEMČI U POGLEDU TAČNOSTI REZULTATA ...'"
+    },
+    {
+      "id": "zKG5mSoyPs",
+      "severity": "minor",
+      "type": "registar",
+      "description": "'hipertekstualni link', 'link' (i 'na koje vodi link') - anglicizam u ugovornom registru.",
+      "suggestion": "'hipertekstualnu vezu' / 'na koje upućuje veza (hiperlink) sa ove internet stranice'."
+    },
+    {
+      "id": "zNmREpOaUV",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES' -> 'POSEBNU, INDIREKTNU ILI POSREDNU ŠTETU'; glosar: consequential = posredna, a 'indirektna' i 'posredna' se preklapaju. Isto u 8EE5GXTeLY.",
+      "suggestion": "'POSEBNU, POSREDNU ILI PROIZVEDENU (POSLJEDIČNU) ŠTETU' - dosljedno u oba itema."
+    },
+    {
+      "id": "zNmREpOaUV",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'trade dress' -> 'propisima o vizuelnom identitetu proizvoda' - objašnjavajući prevod; 'unfair competition' -> 'nelojalnoj konkurenciji' ispravno.",
+      "suggestion": "'propisima o trgovačkom izgledu proizvoda (trade dress)'."
+    },
+    {
+      "id": "dFtCdZe11M",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'pictures' prevedeno kao 'crteže' (\"slike, fotografije, crteže\"); 'pictures' nije 'crteži'.",
+      "suggestion": "'slike, fotografije, ilustracije' ili 'slike, fotografije, prikaze'."
+    },
+    {
+      "id": "dFtCdZe11M",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'Submission' -> 'Podnesak'; u glosaru je podnesak organu = predstavka, a 'Posting/Submission' su kod korisnika sadržaj; moguća zabuna. Takođe 'warrant and represent' -> 'jemčite' pa 'garancije' u istom stavu (nedosljedno).",
+      "suggestion": "Zadržati 'Podnesak' dosljedno kroz korpus ili uskladiti sa 'korisnički sadržaj'; 'garantujete i izjavljujete' dosljedno."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj novih redova, brojevi (252.227-7013, 48 CFR 52.227-19, WA 98052-6399, (1)-(3)) i odnos riječi (0.93-1.09) u redu, bez ekavizama i hrvatskih oblika, bez izostavljenih ili dodatih rečenica. Registar je formalan, ugovorni, sa vi/vaš i dosljednim glosarom (nalog, Usluge, Softver, treće lice, uslovi korišćenja). Preostala su samo manja terminološka odstupanja (Izjava o privatnosti, 'crteži', 'uvjeravanja', 'indirektnu/posrednu')."
+}

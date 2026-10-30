@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "typo/terminologija",
+      "description": "Odlomak 40: „Izvršna vlada, međutim, nikada ne može postupati suprotno\" za „The executive Government, however, can never go against\". Pogrešan oblik („vlada\" malim slovom, pridjev „izvršna\").",
+      "suggestion": "„Izvršna vlast, međutim, nikada ne može postupati suprotno ...\" (ili „Izvršna Vlada\")."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "pravopis (ijekavica)",
+      "description": "Odlomak 40: „različitih djelova ili grana vlasti\" za „different parts or branches\". Pogrešan ijekavski oblik: dio, dijelovi.",
+      "suggestion": "„različitih dijelova ili grana vlasti\"."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "velika slova / dosljednost",
+      "description": "Odlomak 43: „vijeće (Division Bench) tog visokog suda\" i odlomak 40/14: „moderna država\", „vlada\" — High Court se u cijelom tekstu piše „Visoki sud\"; „A modern State\" i „Government\" nedosljedno malim slovom.",
+      "suggestion": "„tog Visokog suda\"; u odlomku 14 „Od moderne Države\" (izvor: State) ili ostaviti dosljedno."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Odlomak 43: „Visoki sud je u tim okolnostima trebalo da radnike uputi\" za „The High Court ... ought to have left the workmen\" — neslaganje roda (sud je trebalo).",
+      "suggestion": "„Visoki sud je u tim okolnostima trebalo da uputi radnike\" -> „Visoki sud je u tim okolnostima trebao da radnike uputi\" (ili „morao je radnike uputiti\")."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "terminologija (dosljednost)",
+      "description": "Odlomak 35 „javno preduzetništvo\" (za „public enterprise\") naspram odlomka 35 u citatu „javna preduzeća / javno preduzeće\" za isti pojam „public enterprise\".",
+      "suggestion": "Koristiti jedan termin: „javno preduzeće\" / „javna preduzeća\" (npr. „čine „javna preduzeća\"\" ili „oblasti javnih preduzeća\")."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "dodavanje / neprirodan izraz",
+      "description": "Odlomak 35: „resorna (departmanska) uprava\" za „departmental administration\" — dodata zagrada kao glosa koja ne postoji u izvoru; „nove vizure\" za „new vistas\" je kalk i nenatural u pravnom registru.",
+      "suggestion": "„departmentalna / resorna uprava\" bez zagrade; „nove vizure\" -> „nove perspektive\" (ili „nova prostranstva\")."
+    },
+    {
+      "id": "FCIX3BYOtD#3",
+      "severity": "minor",
+      "type": "terminologija glosar",
+      "description": "Odlomak 43: „Uvaženi sudija pojedinac Visokog suda odbio je zahtjev u meritumu\" — „petition\" ovdje je writ petition, koja je u istom itemu (odlomak 42, 44) prevedena „ustavna tužba (writ petition)\"; sada je „zahtjev\", pa je kasnije „ustavna tužba nije dozvoljena\". Takođe „Mukherjea, C.J.\" -> „predsjednik Vrhovnog suda\" (Chief Justice se obično prevodi „glavni sudija\"). „nominate\" -> „imenuje\" (oslabljeno značenje: predlaže/imenuje).",
+      "suggestion": "„odbio ustavnu tužbu u meritumu\"; „glavni sudija Mukherjea\"; „ovlašćenje da imenuje/predlaže direktore\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: isti _id, isti broj novih redova (22), svi brojevi (članovi, godine, procenti, numeracija pasusa 33-45), citati (Indlaw SC ...), i redoslijed rečenica odgovaraju izvoru, bez izostavljenih ili dodatih rečenica; stranke (žalilac/žalioci, država Pandžab/Bihar, Indijska Unija) i glosar (član, stav, tačka, vijeće, nalog (writ), ustavna tužba (writ petition)) primijenjeni su dosljedno, nema ekavizama ni hrvatizama. Registar je prirodan sudski/ustavni, uz nekoliko sitnih pravopisnih i terminoloških propusta (djelova, Izvršna vlada, javno preduzetništvo/preduzeće, tog visokog suda)."
+}

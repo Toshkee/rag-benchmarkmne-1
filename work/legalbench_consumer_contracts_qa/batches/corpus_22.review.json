@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "TGUDWFgF6c",
+   "severity": "minor",
+   "type": "stil/sintaksa",
+   "description": "Tačka iv: \"osim ako je i samo u mjeri u kojoj je bilo koje prethodno navedeno ograničenje zabranjeno važećim zakonom\" je nezgrapno i gramatički neprirodno (izvor: \"except as and only to the extent that any foregoing restriction is prohibited by applicable law\").",
+   "suggestion": "\"osim u onoj mjeri, i samo u onoj mjeri, u kojoj je bilo koje od prethodno navedenih ograničenja zabranjeno važećim zakonom\"."
+  },
+  {
+   "id": "9vOWOU6mbj",
+   "severity": "minor",
+   "type": "pravopis/ijekavica",
+   "description": "\"nad djelovima ovih uslova\" (izvor: \"override parts of these terms\") - pogrešan ijekavski oblik; treba \"dijelovima\".",
+   "suggestion": "\"izričito imaju prednost nad dijelovima ovih uslova\"."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminološka nedosljednost",
+   "description": "Google Account se prevodi nedosljedno: \"Vaš Google Account\", \"svojim nalogom Google Account\", \"vašeg naloga Google Account\", \"dodijeliti Google Account\", uz \"vašem nalogu\"; glosar propisuje account -> nalog. Takođe \"Security Check-Up\" ostavljeno bez objašnjenja.",
+   "suggestion": "Ujednačiti: \"Vaš Google nalog\" / \"Google nalog\" kroz cijeli item (i bar uskladiti sa ostalim itemima batcha); naziv Security Check-Up zadržati ili dati u zagradi."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svi _id-ovi se poklapaju, broj novih redova i brojeva je isti, nema ekavizama ni kroatizama, a nijedna rečenica nije izostavljena niti dodata. Registar je prikladan za opšte uslove poslovanja (vi/mi, glosar uslovi korišćenja, politika privatnosti, treće lice, raskinuti/privremeno ukinuti, nijeste/nijesu), uz tri manje stilske i terminološke primjedbe."
+}

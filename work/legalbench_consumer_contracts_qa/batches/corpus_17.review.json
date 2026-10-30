@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "scAXCg4KbF",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "'user-generated content' preveden kao 'sadržaj koji generišu korisnici' (naslov i 3.3), a glosar propisuje 'korisnički sadržaj'.",
+   "suggestion": "Zamijeniti sa 'KORISNIČKI SADRŽAJ: PRILOZI, UKLJUČUJUĆI KOMENTARE...' i '(tj. korisnički sadržaj, uključujući...)'."
+  },
+  {
+   "id": "scAXCg4KbF",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'suspension of access' prevedeno kao 'ukidanje pristupa' (3.1, 'trenutno i trajno ukidanje'); glosar: suspend → privremeno ukinuti. Zbog 'permanent' rješenje je prihvatljivo, ali odstupa od glosara.",
+   "suggestion": "Opciono: 'trenutno i trajno obustavljanje/ukidanje pristupa' uz dosljednost u oba pasusa; može ostati."
+  },
+  {
+   "id": "YqWg21nYCs",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'Section 2.3' preveden 'odjeljkom 2.3' (i 'ODJELJKA' u Arp5B1Id9Z), glosar za Section propisuje 'član'. Dosljedno u batchu, ali nije po glosaru; takođe dodato 'odjeljenja' ispred naziva 'The New York Times Rights and Permissions Department'.",
+   "suggestion": "Koristiti 'članom 2.3' / 'OVOG ČLANA' ili dogovoriti 'odjeljak' kao standard za cijeli korpus; izbaciti dodatno 'odjeljenja' ili ostaviti kao prevod 'Department'."
+  },
+  {
+   "id": "Arp5B1Id9Z",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'does not represent or endorse' -> 'ne jemči niti potvrđuje', a 'does not warrant' -> 'NE GARANTUJE' i 'warranties' -> 'garancije'; 'jemči' unosi nedosljednost. Takođe 'respective' izostavljeno ('NJIHOVI AKCIONARI'), a 'goodwill' -> 'IZGUBLJENI UGLED' (preciznije 'gudvil/poslovni ugled').",
+   "suggestion": "'ne garantuje niti potvrđuje tačnost'; 'IZGUBLJENI POSLOVNI UGLED (GUDVIL)'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: ID-evi, brojevi, broj novih redova i numeracija su identični izvoru, nema ekavizama ni hrvatskih oblika, a nema izostavljenih ni dodatih rečenica. Registar je prikladan opštim uslovima poslovanja (vi/mi, 'nijesmo', 'Uslovi korišćenja', 'treće lice', 'u viđenom stanju'), uz svega nekoliko sitnih odstupanja od glosara. Nema blokirajućih problema."
+}

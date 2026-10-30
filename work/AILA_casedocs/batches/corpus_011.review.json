@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 119: 'It is wholly unconscionable' prevedeno 'Ona je potpuno nesavjesna'. 'Nesavjesna' znači 'koja se ne vodi savješću/nemarna' i ne prenosi pravni pojam unconscionable (nepravična, neprihvatljiva sa stanovišta savjesti i pravičnosti).",
+   "suggestion": "'Ona je potpuno nepravična (unconscionable).' ili 'potpuno neprihvatljiva sa stanovišta pravičnosti'; isti termin koristiti u cijelom korpusu."
+  },
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 131: 'requires to be overruled' / 'rather than overrule it' prevedeno 'treba ga odbaciti kao precedent' / 'umjesto da je ovdje odbacimo kao precedent'. 'Odbaciti' je u glosaru rezervisano za dismiss (odbaciti kao nedozvoljenu); overrule je poništavanje ranijeg stava suda.",
+   "suggestion": "'treba ga staviti van snage (overrule)' / 'umjesto da ga ovdje stavimo van snage, prepuštamo vijeću ... da ga preinači'."
+  },
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Nedosljedna veliko/malo slovo za 'the said Rules': u par. 119 'kako to pokazuje navedeni Pravilnik', 'navedeni Pravilnik kao dio svog ugovora' (veliko P) naspram 'izradu navedenog pravilnika' (malo p) u istoj rečenici. Takođe, 'Rules' (pravilnik Korporacije) i 'Regulations' (Air India: 'odredba 48', 'Pravilnik') nijesu jasno razdvojeni; 'Rule 9(i)' = 'pravilo 9(i)', a 'Regulation 48' = 'odredba 48'.",
+   "suggestion": "Ujednačiti: 'navedeni pravilnik' (malo slovo) u cijelom dijelu; razmotriti 'Regulation 48' -> 'propis 48' ili 'pravilo 48' radi dosljednosti, ili bar dosljedno 'odredba' (jeste dosljedno u par. 127-131)."
+  },
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Par. 125: dodate glose/riječi kojih nema u izvoru: 'visina naknade za korišćenje (royalty)' za 'rate of royalty' i 'sjemena drveta sal' za 'Sal seeds'. Stil vodič zabranjuje dodavanje objašnjenja i prevodilačkih napomena u tekst.",
+   "suggestion": "'visina naknade za korišćenje (royalty)' može ostati samo ako se prihvati kao ustaljena glosa; inače 'visina zakupnine/rojaltija'. 'sjemena sal' bez 'drveta'."
+  },
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Par. 121: 'mercantile transaction between two businessmen' -> 'trgovačkim poslom između dva privrednika'. 'Trgovački' je u crnogorskom pravnom jeziku manje uobičajeno od 'trgovinski'.",
+   "suggestion": "'trgovinskim poslom između dva privrednika'."
+  },
+  {
+   "id": "FCIX3BYOtD#10",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Par. 129: 'It also brought in it the analogy of the right to compulsorily retire an employee' -> 'Ono je u to unijelo i analogiju sa pravom na prinudno penzionisanje' - doslovno i nezgrapno ('u to unijelo'). Takođe par. 122 'kada ne bi dao takav otkaz' (za 'failed to give such notice') je neprecizno jer otkaz je raskid, a ne otkazni rok.",
+   "suggestion": "Par. 129: 'Ono je takođe primijenilo analogiju sa pravom na prinudno penzionisanje zaposlenog'. Par. 122: 'kada ne bi dao takav otkazni rok'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 20 redova (isti broj kao izvor), svi pasusi 118-131 prisutni, svi brojevi, tokeni (Rs.16,414.9, 970, članovi, Rule 9(i), 1981 Indlaw MUM 4036 itd.) i citati identični izvoru, odnos riječi 0,85; nema ekavizama ni hrvatskih oblika; uloge stranaka (žalilac / protivna strana) i glosar (vijeće, uvaženi zastupnik, Država, ustavna tužba (writ petition)) primijenjeni dosljedno. Registar je prirodan, formalan i pravnički ispravan; zabilježene su samo manje terminološke i stilske primjedbe (unconscionable, overrule, kapitalizacija Pravilnik, mali dodaci glosa)."
+}

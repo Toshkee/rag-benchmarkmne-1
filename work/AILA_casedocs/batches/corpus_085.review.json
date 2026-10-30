@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Skraćenica FIR je u izvoru prisutna 5 puta (F.I.R. u pasusu 2; FIR u pasusima 8, 13), a u prevodu samo na tri mjesta; u pasusu 13 stoji 'u krivičnoj prijavi' bez '(FIR)' (izvor: 'in the FIR'). Glosar: krivična prijava (FIR).",
+   "suggestion": "Dosljedno 'krivična prijava (FIR)' pri prvom pomenu, a dalje ili uvijek 'krivična prijava (FIR)' ili samo jedan oblik; ujednačiti F.I.R./FIR."
+  },
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "Pasus 4: 'the death would have occurred instantaneously' preveden kao 'smrt je morala nastupiti trenutno' - izražava nužnost, a izvor je uslovni/vjerovatnosni ('bi nastupila').",
+   "suggestion": "'smrt bi nastupila trenutno'."
+  },
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'turned hostile' / 'hostile witness' prevedeno kao 'neprijateljski svjedok' - doslovno, nepravnički; u domaćoj praksi se koristi 'svjedok koji je promijenio iskaz / nepovoljan svjedok'. Koristi se dosljedno u cijelom itemu.",
+   "suggestion": "Zadržati dosljedno, ali razmotriti 'svjedok koji je promijenio iskaz (hostile witness)' pri prvom pomenu."
+  },
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'inquest' (pasus 4: 'conducted the inquest') i 'inspected the place of occurrence' (pasus 11) oba prevedeni sa 'uviđaj'; 'cruel treatment' (pasus 5) preveden 'surovo postupanje' umjesto glosarnog 'zlostavljanje'.",
+   "suggestion": "inquest -> 'izvršio ispitivanje uzroka smrti (inquest)' ili 'uviđaj nad tijelom'; 'cruel treatment' -> 'zlostavljanje' koje je ona trpjela."
+  },
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Pasus 2: dodat prevodilački gloss 'Stariji policajac (Head Constable)' i 'zapisnik (Panchnama)'; izvor samo 'Head Constable' i 'Panchnama'. Glosa u zagradi nije propisana glosarom.",
+   "suggestion": "'Head Constable' ili 'stariji policajac (Head Constable)' dosljedno; 'sačinio Panchnama' uz zadržan termin."
+  },
+  {
+   "id": "NJOVzNEMr7#0",
+   "severity": "minor",
+   "type": "format",
+   "description": "U prevodu nedostaje polje 'n_chunks' (izvor ima n_chunks: 1); _id, title i text su ispravni, broj novih redova (28) isti, svi P.W./PW/1.0./Achhan/Sidhu tokeni i svih 130 brojeva identični.",
+   "suggestion": "Dodati 'n_chunks': 1 ako ga pipeline očekuje u prevodu; inače ignorisati."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: nijedan pasus ni rečenica nijesu izostavljeni, citati (Leela Ram ... J.T. (1999) 8 SC 274), brojevi, P.W. tokeni i broj redova su identični izvoru, strane su dosljedno označene (žalilac, protivna strana-država, optuženi). Registar je prirodan obrazloženju presude, ijekavica dosljedna, bez ekavizama i hrvatizama; preostale su samo manje terminološke i stilske nijanse."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 1,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00156",
+   "severity": "blocking",
+   "type": "changed_meaning_syntax",
+   "description": "Izvor: \"to establish the position of Climate Security Envoy ... who shall develop ... and serve as a liaison ..., to express concern with, and improved preparedness for, growing security issues in the Arctic, to establish the position of Special Representative for the Arctic\". Prevod: \"...koji izrađuje politike ... i djeluje kao lice za vezu ... u pitanjima klimatske bezbjednosti, izražava zabrinutost zbog rastućih bezbjednosnih problema na Arktiku i podstiče bolja pripremljenost za njih, ustanovljava funkcija specijalnog predstavnika za Arktik\". Zbog zareza, \"izražava zabrinutost\" i \"podstiče\" gramatički pripadaju izaslaniku (relativna rečenica), dok u izvoru predlog zakona izražava zabrinutost; \"podstiče\" je dodato (izvor: \"improved preparedness\"); \"ustanovljava funkcija\" nema povratnu zamjenicu \"se\" i nije gramatički.",
+   "suggestion": "\"...i djeluje kao lice za vezu sa drugim saveznim agencijama i međunarodnim partnerima u pitanjima klimatske bezbjednosti, kojim se izražava zabrinutost zbog rastućih bezbjednosnih problema na Arktiku i bolja pripremljenost za njih, kojim se ustanovljava funkcija specijalnog predstavnika za Arktik i uređuju druga pitanja.\" (bez \"podstiče\")"
+  },
+  {
+   "id": "00156",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "\"u Stejt departmentu\" (Department of State): glosar propisuje obrazac Department of X → Ministarstvo X, a za Department of State nema izričitog rješenja; transliteracija nije u skladu sa obrascem.",
+   "suggestion": "Uskladiti sa korpusom (npr. \"u Ministarstvu spoljnih poslova (State Department)\" ili isti oblik svuda u datasetu)."
+  },
+  {
+   "id": "00144",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"Federal mandates\" prevedeno kao \"saveznih obaveza\" (\"nametanja saveznih obaveza\"); u kontekstu Unfunded Mandates termin je mandate = nalog/obaveza koju savezna vlast nameće drugim nivoima vlasti.",
+   "suggestion": "\"nametanja saveznih mandata\" ili \"saveznih naloga\", dosljedno sa korpusom."
+  },
+  {
+   "id": "00145",
+   "severity": "minor",
+   "type": "addition_style",
+   "description": "\"3D Elevation Program\" → \"nacionalni Program 3D podataka o nadmorskoj visini\": dodato \"podataka\", nedosljedna kapitalizacija (\"nacionalni Program\"); naziv programa je izvorno \"National 3D Elevation Program\".",
+   "suggestion": "\"nacionalni program 3D visinskih podataka (3D Elevation Program)\" ili \"nacionalni Program 3D elevacije\", usklađeno sa korpusom."
+  },
+  {
+   "id": "00146",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"chemical screening devices\" → \"uređaji za hemijsku detekciju\": screening nije detekcija (skrining/provjera); i \"service officers\" prošireno kao \"službenika organa za sprovođenje zakona\" (prihvatljivo).",
+   "suggestion": "\"uređaja za hemijski skrining\" (ili \"hemijsku provjeru\"), dosljedno sa korpusom."
+  },
+  {
+   "id": "00158",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"concurrent resolution on the budget\" → \"zajednička rezolucija o budžetu\": \"zajednička\" je uobičajeni prevod za joint resolution; concurrent resolution se razlikuje (ne potpisuje je predsjednik). Doslovna dvosmislenost izvora (\"which does not provide for a balanced budget\") je očuvana vjerno.",
+   "suggestion": "\"saglasna rezolucija o budžetu (concurrent resolution)\" pri prvom pomenu; dosljedno sa korpusom (Balanced Budget Accountability Act)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 20 _id-ova, svi brojevi i godine očuvani, nema ekavskih ni hrvatskih oblika, odnos riječi 0.86-1.33. Obrasci \"Predlog zakona kojim se...\" / \"Kojim se...\" i \"i uređuju druga pitanja\" primijenjeni su dosljedno, uz jednu rečenicu po upitu i bez sadržaja iz polja context. Registar je prikladan; jedini ozbiljan problem je sintaksa u 00156, a ostalo su terminološke sitnice."
+}

@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "2mmpMjg5PP",
+   "severity": "minor",
+   "type": "stil/dodatak",
+   "description": "Prevod \"koje nama ili takvim trećim licima omogućavaju da prikupljamo, odnosno prikupljaju određene podatke\" dodaje \"odnosno prikupljaju\" kojeg u izvoru (\"allow us or such third parties to collect\") nema; ugrađena gramatička dvostrukost je suvišna.",
+   "suggestion": "\"...koje nama ili takvim trećim licima omogućavaju prikupljanje određenih podataka u svrhu...\""
+  },
+  {
+   "id": "Y7gbtP7ySe",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "\"politikom privatnosti društva Novelty\" – dodato \"društva\" (izvor: \"novelty s privacy policy\"); u ostalim itemima je samo \"Novelty\" (\"usluga Novelty\").",
+   "suggestion": "\"politikom privatnosti kompanije Novelty\" ili samo \"Novelty politikom privatnosti\" radi dosljednosti; ostalo (brojevi, adresa) tačno."
+  },
+  {
+   "id": "U7sSaOQdht",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Po pravilu nemamo nikakav pristup\" – \"nikakav\" pojačava izvorno \"generally do not have any access\" i čini tvrdnju apsolutnijom.",
+   "suggestion": "\"Uglavnom nemamo pristup tako prikupljenim informacijama.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova (8/8), brojevi i tokeni se poklapaju, nema ekavskih ni hrvatskih oblika, omjer riječi 0.85–1.02. Registar je formalan ugovorni (vi/mi, glosar poštovan: treće lice, politika privatnosti, kolačići, uslovi, obrada ličnih podataka), ortografija normalizovana i pravilna; nema blokirajućih problema, samo tri sitna stilska odstupanja."
+}

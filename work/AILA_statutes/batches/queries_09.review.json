@@ -1,0 +1,103 @@
+{
+ "n_blocking": 0,
+ "n_minor": 12,
+ "issues": [
+  {
+   "id": "00028",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'findings of fact recorded by the Trial Court were perverse'; prevod: 'očigledno pogrešni'. 'Perverse' u pravnom smislu znači neosnovan/proizvoljan, a ne samo pogrešan.",
+   "suggestion": "'činjenični nalazi prvostepenog suda bili proizvoljni (neosnovani)'."
+  },
+  {
+   "id": "00028",
+   "severity": "minor",
+   "type": "značenje/nijansa",
+   "description": "Izvor: 'door of her room was bolted from inside'; prevod: 'zaključana iznutra'. 'Bolted' je zasunuta/zakračena.",
+   "suggestion": "'vrata njene sobe zasunuta iznutra'."
+  },
+  {
+   "id": "00028",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Izvor: 'employed in the Gulf'; prevod: 'zaposlen u Zalivu' - neprirodno bez dopune.",
+   "suggestion": "'zaposlen u zemljama Zaliva'."
+  },
+  {
+   "id": "00028",
+   "severity": "minor",
+   "type": "format",
+   "description": "Datum '31.05.2000' preveden kao '31. 05. 2000. godine' (vodeća nula), dok su ostali datumi u istom itemu bez nule ('5. 8. 2008.').",
+   "suggestion": "'31. 5. 2000. godine' radi dosljednosti (digit-sadržaj ostaje isti)."
+  },
+  {
+   "id": "00029",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Izvor: 'Her father, mother and uncle'; prevod: 'Njen otac, majka i ujak'. Izvor ne precizira da je ujak (po majci); to je dodata informacija.",
+   "suggestion": "Neutralnije: 'otac, majka i stric/ujak' ili 'njen otac, majka i jedan od ujaka' nije moguće; predložiti 'stric' ili 'rođak roditelja' - minimalno 'ujak' zamijeniti neutralnim izrazom."
+  },
+  {
+   "id": "00029",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Izvor: 'poured kerosene on her'; prevod: 'polio kerozin po njoj' - nepravilna rekcija glagola.",
+   "suggestion": "'polio ju je kerozinom'."
+  },
+  {
+   "id": "00029",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'trial commenced after framing charges'; prevod: 'nakon utvrđivanja optužbi' - 'framing charges' je formulisanje/utvrđivanje optužnice, 'utvrđivanje optužbi' je dvosmisleno.",
+   "suggestion": "'nakon formulisanja optužbi' (ili 'nakon potvrđivanja optužnice')."
+  },
+  {
+   "id": "00029",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'Investigating Agency'; prevod: 'Organ koji je vodio istragu' (opisno, dok je u 00028 'službenik koji je vodio istragu'). Dosljednost u terminu je zadovoljavajuća ali nespretna.",
+   "suggestion": "'istražni organ'."
+  },
+  {
+   "id": "00030",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Izvor: 'petitioner' u kontekstu writ petition i 'revisionist' ; prevod koristi 'podnosilac zahtjeva' za oba ('podnosilac zahtjeva (ovdje protivne strane)' i 'podnosiocu zahtjeva za preispitivanje'), dok je 'writ petition' preveden kao 'ustavna tužba'.",
+   "suggestion": "'podnosilac ustavne tužbe (ovdje protivne strane)'; za revisionist: 'podnosiocu zahtjeva za preispitivanje'."
+  },
+  {
+   "id": "00030",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Izvor: 'the legal representative of P5, P6, P11, P12 and P13 filed Criminal Revision' (jednina); prevod: 'pravni zastupnik P5, ... podnijeli zahtjev' - neslaganje u broju. Takođe 'legal representative' je ovdje u smislu pravnog sljednika.",
+   "suggestion": "'pravni zastupnik ... podnio je zahtjev za preispitivanje' (ili 'pravni sljednici ... podnijeli su')."
+  },
+  {
+   "id": "00030",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Izvor: 'After appearance, an application ... was moved'; prevod: 'Nakon pristupanja' - neprirodno i nejasno.",
+   "suggestion": "'Nakon pojavljivanja pred sudom (nakon izjašnjavanja stranaka)'."
+  },
+  {
+   "id": "00030",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'attachment order' prevedeno kao 'rješenje o zapljeni'; zaplijena se obično odnosi na predmete u krivičnom postupku, a ovdje je u pitanju privremeno stavljanje imovine pod upravu (attachment).",
+   "suggestion": "'rješenje o privremenom oduzimanju (stavljanju pod upravu) imovine' ili 'rješenje o zabrani raspolaganja'."
+  }
+ ],
+ "auto_checks": {
+  "ids_match": true,
+  "token_counts_match": true,
+  "number_counts_match": true,
+  "word_ratio": {
+   "00028": 0.93,
+   "00029": 0.84,
+   "00030": 0.9,
+   "00031": 0.88
+  },
+  "ekavian_croatian_forms": "none"
+ },
+ "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, tokeni (P*, Rs., Ex.P*) i brojevi se poklapaju sa izvorom, ijekavica i glosar (žalilac, protivna strana, Visoki sud, Sesijski sud, krivična prijava (FIR), strogi zatvor) dosljedno su primijenjeni. Registar je primjeren sudskoj naraciji uz nekoliko nespretnih mjesta (npr. 'Nakon pristupanja', 'polio kerozin po njoj') i manja terminološka odstupanja (perverse, attachment, framing charges)."
+}

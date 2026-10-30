@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "Par. 42: prevod dodaje 'djevojčicu' / 'ubistvo djevojčice Anuradha' ('koji su djevojčicu Anuradha podvrgli', 'krive za ubistvo djevojčice Anuradha'); izvor kaže samo 'subjected Anuradha' i 'murder of Anuradha'. Činjenično tačno prema par. 43 (mala beba), ali nije u izvoru.",
+   "suggestion": "'... koji su Anuradhu podvrgli takvom divljačkom silovanju' i '... krivi za ubistvo Anuradhe'."
+  },
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Par. 42: 'su njih dvojica, protivne strane, bili silovatelji' za 'the two respondents were the rapists' je nezgrapno.",
+   "suggestion": "'su obje protivne strane bile silovatelji koji su ...' (ili 'dvije protivne strane')."
+  },
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "Par. 44: 'stavljamo van snage osporenu presudu' za 'we set aside the impugned judgment'; dio 9 propisuje set aside -> ukinuta.",
+   "suggestion": "'ukidamo osporenu presudu Visokog suda'."
+  },
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "Par. 42: 'Vijeće Visokog suda' za 'The Division Bench of the High Court' bez glose pri prvom pomenu u itemu (dio 6).",
+   "suggestion": "'Vijeće (Division Bench) Visokog suda'."
+  },
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 43: 'little infant' -> 'malim djetetom' gubi značenje (infant = dojenče/beba); 'lavishly entertained' -> 'široko prihvaćeno' blago oslabljuje 'lavishly' (par. 38).",
+   "suggestion": "'nad malim dojenčetom tako nježnog uzrasta'; 'obilato njegovano / rado prihvatano'."
+  },
+  {
+   "id": "18Y2bTu5X1#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Dosljednost 'recovery' -> 'pronalaženje' uz 'recovered' -> 'pronađena' (par. 35, 'oduzeta, a ne pronađena'): za recovery po članu 27 uobičajeniji termin je 'otkrivanje/pronalazak predmeta'; ostaje dosljedno, ali 'property ... recovered' u par. 35 bolje 'povraćena/pronađena'. Takođe 'nicker' -> 'gaćice' (ok, ali ženske gaćice).",
+   "suggestion": "Opciono; zadržati dosljedno 'pronalaženje'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi pasusi (35-44) i završne rečenice prisutni, isti _id, isti broj novih redova (12), tokeni A2/PW1/PW17, brojevi članova i citati (1983 SC 1225, 1983 Indlaw SC 130) identični, odnos riječi 0.86, nema ekavizama ni hrvatizama. Registar je primjeren obrazloženju presude i dosljedan (optuženi, protivne strane, službenik koji vodi istragu, prvostepeni sud); nađena su samo manja stilska i glosarska odstupanja, bez blokirajućih grešaka."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "6JDWYlgAAC#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 25: 'turned hostile' prevedeno kalkom 'postao neprijateljski svjedok' (dva puta); nije u glosaru, zvuči kao kalk.",
+   "suggestion": "Ostaviti dosljedno, ili 'promijenio iskaz (postao hostile witness)'; po potrebi dodati u glosar."
+  },
+  {
+   "id": "6JDWYlgAAC#0",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "Par. 17: izvor 'the last seen theory' bez navodnika; prevod dodaje navodnike 'teorija „posljednji put viđen“'.",
+   "suggestion": "'primijenila bi se teorija posljednjeg viđenja' bez navodnika."
+  },
+  {
+   "id": "6JDWYlgAAC#0",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "Par. 23: 'a couple of days later' -> 'nekoliko dana kasnije' (malo preciznije: dva dana).",
+   "suggestion": "'nekoliko dana kasnije' prihvatljivo; strože: 'dva dana kasnije'."
+  },
+  {
+   "id": "6JDWYlgAAC#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Par. 15/16: 'uveče, oko 5.30 časova poslije podne' - 'uveče' i 'poslije podne' zajedno djeluju kontradiktorno (izvor: 'in the evening at about 5.30 p.m.').",
+   "suggestion": "'uveče, oko 17.30 časova' ili 'poslije podne, oko 5.30 časova'."
+  },
+  {
+   "id": "6JDWYlgAAC#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Par. 15: 'the case of the prosecution' -> 'predmet optužbe'; prirodnije 'teza/stav optužbe'. Par. 10: 'leš' umjesto 'tijelo' (corpse) i 'Njihova gospodstva ... bi željela' (Their Lordships) djeluju arhaično.",
+   "suggestion": "'teza optužbe'; 'tijelo/mrtvo tijelo' (ili ostaviti 'leš' dosljedno); 'Njihova gospodstva' prihvatljivo kao doslovan citat."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (54), svi brojevi, citati sudske prakse, Rs. i nazivi predmeta doslovno očuvani; nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika. Terminologija prati glosar (žalilac, Visoki sud, prvostepeni sud, uvaženi zastupnik, službenik koji je vodio istragu, nijesu), a registar je prirodan sudski; ostale su samo manje stilske primjedbe."
+}

@@ -1,0 +1,28 @@
+{
+  "n_blocking": 0,
+  "n_minor": 3,
+  "issues": [
+    {
+      "id": "00061/00062",
+      "severity": "minor",
+      "type": "dodat sadržaj (minimalno)",
+      "description": "Izvor \"their g identity\" / \"the g identity\" preveden je kao \"G+ identitet\" – dodat je znak \"+\" kojeg u izvoru nema (\"recite korisniku da će Google i dalje koristiti njegov G+ identitet\", \"Ne otkrivajte G+ identitet\").",
+      "suggestion": "Držati se izvora: \"njegov G identitet\" / \"Ne otkrivajte G identitet kada se korisnici automatski uparuju.\""
+    },
+    {
+      "id": "00060",
+      "severity": "minor",
+      "type": "dodavanje riječi",
+      "description": "\"no multiplayer invites\" preveden kao \"Nema pozivnica za multiplayer igre\" – dodato \"igre\" kojeg u izvoru nema.",
+      "suggestion": "\"Nema multiplayer pozivnica.\""
+    },
+    {
+      "id": "00074",
+      "severity": "minor",
+      "type": "registar/dodavanje",
+      "description": "\"u vlasništvu kompanije Apple\" (izvor: owned by apple) dodaje \"kompanije\"; rečenica \"vaša je odgovornost da provjeravate ima li izmjena\" je nešto formalnija nego što pristaje razgovornom upitu.",
+      "suggestion": "\"...koji je u vlasništvu Applea\"; \"a na vama je da provjeravate ima li izmjena\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup i redoslijed _id-ova se poklapa, formati (_id, title, text) su očuvani, brojevi (3, 12, 13) i tokeni nepromijenjeni, odnosi riječi su u opsegu 0.82-1.20, nema ekavizama ni hrvatizama. Upiti su ostali razgovorni i kratki (npr. \"Uz to ne ide nikakva garancija\"), terminologija je u skladu sa glosarom (uslovi, politika privatnosti, nalog, treća lica, odgovornost, „u viđenom stanju“, nijesu) i dosljedna kroz batch, ortografija je normalna. Nema blokirajućih problema, samo tri sitne primjedbe."
+}

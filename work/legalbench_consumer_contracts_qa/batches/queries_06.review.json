@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00107",
+   "severity": "minor",
+   "type": "style",
+   "description": "Neprirodna negacija u pitanju: \"Da li član porodice ... ne bi trebalo da dijeli lozinku naloga ni sa kim drugim?\" (izvor: \"meant to not share the account password with anyone else\"). Značenje je očuvano, ali je konstrukcija 'da li ... ne bi trebalo' teška.",
+   "suggestion": "Da li član porodice koji plaća porodični Netflix nalog treba da čuva lozinku i ne dijeli je ni sa kim drugim?"
+  },
+  {
+   "id": "00116",
+   "severity": "minor",
+   "type": "register",
+   "description": "\"bih mogao biti odgovoran\" je rodno obilježeno (muški rod), dok izvor (\"I could be liable\") je neutralan.",
+   "suggestion": "Piše li u uslovima da bih mogao/la biti odgovoran/na ili neutralno: \"da mogu odgovarati i prema drugim kompanijama osim samog CNN-a\"."
+  },
+  {
+   "id": "00119",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"izdvajanje eventualnih nevažećih uslova\" za \"severance of any invalid terms\"; glosar (dio 7) za severability traži \"djelimična ništavost (salvatorna klauzula)\". \"Izdvajanje\" je manje pravnički. \"eventualnih\" je dodatak koji u izvoru ne postoji (\"any\").",
+   "suggestion": "Da li uslovi predviđaju da se nevažeći uslovi mogu odvojiti od ostatka, tako da on ostaje na snazi (salvatorna klauzula)?"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova je isti, nema izostavljenih ni dodatih sadržaja, brojevi (17, 0,6 Mbps) su očuvani, nema ekavizama ni kroatizama, nema prenesenog polja context. Registar je dosljedan: laička pitanja (00101, 00103, 00105, 00109, 00112, 00114, 00116, 00118) ostala su razgovorna, a formalna (00102, 00104, 00108, 00110, 00113, 00115, 00117, 00119) formalna; termini (uslovi, nalog, pretplata, odgovornost) su u skladu sa glosarom. Preostale primjedbe su isključivo stilske."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "glosar/decree",
+   "description": "Prvi pomen 'decree' ('be ordered and decreed to pay', prayer a-1) preveden je 'presudom u parnici odredi' bez glose; glosar (dio 6) traži 'presuda u parnici (dekret)' pri prvom pomenu u itemu (glosa se pojavljuje tek kod 'decree on admission' u pasusu 5).",
+   "suggestion": "U a-1: 'naloži i presudom u parnici (dekret) odredi da plati...'; kasnije samo 'presuda u parnici'."
+  },
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "terminologija/direction",
+   "description": "'such directions could not have been given' / 'The direction is for deposit' prevedeno kao 'takvi nalozi' / 'Nalog se odnosi na deponovanje'; 'nalog' je u glosaru rezervisan za writ i nalog za hapšenje/pretres, pa dolazi do dvosmislenosti.",
+   "suggestion": "'takve mjere/naredbe nijesu mogle biti izdate'; 'Naređenje se odnosi na deponovanje'."
+  },
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "'Cheques ... bounced on presentation' -> 'nijesu bili realizovani prilikom podnošenja na naplatu' ublažava značenje (čekovi vraćeni neisplaćeni).",
+   "suggestion": "'Čekovi koje je izdao navedeni tuženi vraćeni su neisplaćeni prilikom podnošenja na naplatu.'"
+  },
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'merely technical flaws' -> 'puko tehničkih nedostataka' (neprirodna konstrukcija).",
+   "suggestion": "'a ne zbog samo tehničkih nedostataka u postupku'."
+  },
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "dosljednost/izvorna greška",
+   "description": "'Rule 39 Rule 10' (izvorna greška, treba 'Order 39 Rule 10') preneseno kao 'Pravila 39 pravila 10' sa velikim slovom, dok je na drugim mjestima 'Naredba 39 pravila 10'; unutar iste presude isti pojam ima dva oblika.",
+   "suggestion": "Zadržati doslovnost izvora, ali malim slovom: 'pravila 39 pravila 10' (ili 'Naredbe 39 pravila 10' uz napomenu u review-u da je izvor netačan)."
+  },
+  {
+   "id": "AwFv0Yg7NZ#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'Appeal disposed of.' -> 'Žalba je riješena.' i 'ends of justice' -> 'ciljevi pravde' su doslovni; prihvatljivo, ali nepravnički zvuče.",
+   "suggestion": "'Žalba je okončana.'; 'interesi pravde/pravičnost' (opciono)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (27), svi tokeni Rs. (5) i svi brojevi identični izvoru, nijedan pasus ni rečenica nijesu izostavljeni, nema ekavskih ni hrvatskih oblika, a strane su dosljedno označene (žalilac, protivna strana br. 1, tuženi br. 1, tužilac). Registar je prirodan obrazloženju presude i u skladu sa glosarom (vijeće (Division Bench), Visoki sud, član 136 Ustava, lakh); nalazi su samo sitne stilske i terminološke prirode."
+}

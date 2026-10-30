@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "NbrnTP3fAb#1",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Izvorni 'Entry 15A' je preveden kao 'stavka 15A' (npr. 'dodate u stavci 15A', 'stavke 15A'), a 'Item 15A' kao 'pozicijom 15A' ('bila bi obuhvaćena pozicijom 15A'). Dva različita termina za istu odredbu unutar itema; 'stavka' se dodatno sudara sa glosarom ('sub-section' = stav).",
+   "suggestion": "Ujednačiti na jedan termin za 'Entry/Item' (npr. 'pozicija 15A' svuda, a 'Entry 15A' u 28/27 takođe 'pozicija 15A'), da se izbjegne zabuna sa 'stav'."
+  },
+  {
+   "id": "NbrnTP3fAb#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'unfortunate that there are no explicit definitions' preveden kao 'nepovoljno to što ne postoje izričite definicije' – 'nepovoljno' ne odgovara značenju 'nesrećno/žalosno'.",
+   "suggestion": "'nakon što je naveo da je žalosno što ne postoje izričite definicije...' ili 'da nažalost ne postoje...'."
+  },
+  {
+   "id": "NbrnTP3fAb#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'yarn' preveden kao 'predivo' ('proizvodnji prediva', 'proizvodnje prediva'); 'predivo' je sirovina za predenje, a 'yarn' je 'pređa' (u headu 'nylon yarn').",
+   "suggestion": "Zamijeniti sa 'pređa' ('u proizvodnji pređe', 'proizvodnje pređe')."
+  },
+  {
+   "id": "NbrnTP3fAb#1",
+   "severity": "minor",
+   "type": "stil/dosljednost",
+   "description": "Izvor ima grešku 'Webseter's' u pasusu 23 i 'Webster's' u 18; prevod prenosi 'Websterov' (18) i 'Webseterov' (23). Takođe 'termin' 'smolama' u 23 ('naziva smolama') neznatno odstupa od 'smola' u izvoru.",
+   "suggestion": "Prihvatljivo kao vjeran prenos izvora; po želji ujednačiti na 'Websterov rječnik' ili ostaviti. Bez uticaja na značenje."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi pasusi 17-28 i svi redovi (19 novih redova) su prisutni, brojevi, citati, brojevi predmeta (C.A. br. 3495/82, T.P.(C) br. 188/83, O.A. br. 84 iz 1970) i izvodi iz literature su doslovno očuvani, a ishod (žalba poreskog obveznika usvojena, žalbe poreske uprave odbijene, bez odluke o troškovima) tačan. Automatska provjera nije našla ekavizme ni hrvatizme, a odnos riječi je 0,90. Registar je primjeren obrazloženju presude; nalazi su samo manje terminološke prirode (stavka/pozicija, predivo/pređa, 'nepovoljno')."
+}

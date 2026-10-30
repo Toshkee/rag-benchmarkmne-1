@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "LVOkVEUVB5",
+      "severity": "minor",
+      "type": "ortografija/ijekavica",
+      "description": "Pogrešan oblik 'djelovi' umjesto 'dijelovi' (dio): 'pristupati nejavnim djelovima usluga' i 'ili njihove djelove' (izvor: 'nonpublic areas of the services', 'portions thereof'). 'Djelo' je 'work', ne 'dio'.",
+      "suggestion": "'nejavnim dijelovima usluga'; 'ili njihove dijelove'."
+    },
+    {
+      "id": "LVOkVEUVB5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'objectionable' prevedeno kao 'sporan' ('smatramo da je bilo koji sadržaj sporan ili da krši ove uslove'); slabije značenje od izvora.",
+      "suggestion": "'neprihvatljiv' (ili 'sporan u smislu pristojnosti')."
+    },
+    {
+      "id": "LVOkVEUVB5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'hacks tools agents engines or devices' → '...hakerske alate, agente, mašine ili uređaje'; 'engines' kao 'mašine' je neprecizno. Takođe 'bypass' i 'circumvent' oba dati kao 'zaobilaziti' ('zaobilaziti ... ili na drugi način zaobilaziti').",
+      "suggestion": "'engines' → 'mehanizme'; 'circumvent' → 'zaobići/prevazići' ili 'onemogućiti' da se izbjegne ponavljanje."
+    },
+    {
+      "id": "LVOkVEUVB5",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "'the pokéstop database' → 'bazu podataka PokéStop lokacija' dodaje riječ 'lokacija' koje nema u izvoru.",
+      "suggestion": "'bazu podataka PokéStop-ova' / 'PokéStop bazu podataka'."
+    },
+    {
+      "id": "18Y2bTu5X1",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Nedosljedno vrijeme glagola u nizu: 'nudimo, mijenjamo, ukidamo i/ili prekinemo' (izvor: 'offer modify eliminate and or terminate').",
+      "suggestion": "'nudimo, mijenjamo, ukidamo i/ili prekidamo'."
+    },
+    {
+      "id": "RcoreogrNw",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "'royalty free' → 'besplatnu (bez obaveze plaćanja autorskih naknada)': dodato objašnjenje u zagradi i dupliran izraz uz 'fully paid'. Stilski vodič zabranjuje dodavanje objašnjenja.",
+      "suggestion": "'u potpunosti plaćenu, oslobođenu autorskih naknada' (bez zagrade)."
+    },
+    {
+      "id": "batch",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "'site' prevedeno kao 'sajtu' (18Y2bTu5X1: 'na sajtu ili u aplikaciji'), a 'website' kao 'internet stranica' (SstzyshA6P: 'putem naše internet stranice'); 'Twitter-u/Facebook-u' i 'Google Play-a' sa crticom je prihvatljivo, ali se razlikuje od 'iOS-a'.",
+      "suggestion": "Ujednačiti na 'internet stranica' (ili 'sajt') kroz batch."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, brojevi (60, 18) i struktura (a)-(e) očuvani, bez izostavljenih ni dodanih rečenica, bez ekavizama i kroatizama; odnos riječi 0.90-1.10. Registar je dosljedan formalnom ugovornom (vi/mi, 'uslovi', 'nalog', 'predmeti za razmjenu', 'u viđenom stanju'), ortografija normalna, glosar poštovan; nađeni su samo sitni stilski i pravopisni propusti (djelovi/dijelovi, glagolska nedosljednost)."
+}

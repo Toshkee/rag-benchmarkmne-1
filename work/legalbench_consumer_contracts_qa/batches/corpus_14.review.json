@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "piAMozPf8e",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "4.2: \"no right, title or interest\" preneseno kao \"nikakvo pravo, pravni naslov ili interes\"; \"pravni naslov\" je kalk (title = vlasništvo/svojina u ovom kontekstu).",
+   "suggestion": "\"nikakvo pravo, vlasništvo ili interes\"."
+  },
+  {
+   "id": "piAMozPf8e",
+   "severity": "minor",
+   "type": "format brojeva",
+   "description": "4.7: \"0.5 Mbps\", \"5.0 Mbps\", \"25.0 Mbps\" prevedeno kao \"0,5 / 5,0 / 25,0 Mbps\" (decimalni zarez); stilski vodič traži da brojevi i iznosi ostanu kao u izvoru.",
+   "suggestion": "Prihvatljivo uz dosljednost; ako se striktno slijedi vodič: \"0.5 Mbps\", \"5.0 Mbps\", \"25.0 Mbps\"."
+  },
+  {
+   "id": "piAMozPf8e",
+   "severity": "minor",
+   "type": "registar/preciznost",
+   "description": "4.6: \"or other restrictions on use\" -> \"odnosno drugim ograničenjima\"; \"odnosno\" sužava \"or\" na pojašnjenje. Takođe \"strimovati/po strimu\" (4.5, 4.7) je anglicizam, a \"You acknowledge\" (4.8) -> \"Prihvatate\" gubi nijansu priznanja.",
+   "suggestion": "\"ili drugim ograničenjima\"; \"emitovati (strimovati)\"; \"Potvrđujete da korišćenje usluge može zahtijevati ...\"."
+  },
+  {
+   "id": "aSQHqNgAC7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "8.4 naslov \"Survival\" -> \"Opstanak odredbi\" doslovan kalk; sadržaj klauzule je salvatorna klauzula (glosar: djelimična ništavost).",
+   "suggestion": "\"Opstanak odredbi (djelimična ništavost)\" ili \"Djelimična ništavost\"; zadržati dosljedno sa glosarom."
+  },
+  {
+   "id": "jMPqPEBqUh",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "(A) \"Governing Terms\" -> \"Mjerodavni uslovi\"; \"mjerodavno\" je rezervisano za governing law. Takođe definisani termin \"Vaš nalog\"/\"Vašeg naloga\" pisan velikim V, dok vodič traži \"vi/vaš\" malim slovom; \"connectivity\" (E) -> \"veza\".",
+   "suggestion": "\"Uslovi koji se primjenjuju\"; zadržati veliko slovo samo ako se definisani termin dosljedno bilježi (inače \"vaš nalog\"); \"povezivost\" / \"internet veza\"."
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"as well as in the content original to it\" -> \"kao i na sadržaj koji je izvorno njegov\" je nespretno.",
+   "suggestion": "\"kao i na sadržaj koji je izvorno njegovo djelo (originalni sadržaj)\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 5 _id-ova se poklapa, broj novih redova i svi brojevi (18, 30, 8.1-8.6, 720p, 1080p itd.) su isti, nema ekavizama ni hrvatskih oblika, glosar (uslovi korišćenja, politika privatnosti, nalog, treće lice, mjerodavno pravo, usluga, raskinuti/ukinuti) se dosljedno poštuje i nema izostavljenih ni dodatih rečenica. Registar je formalan, ugovorni, sa obraćanjem 'vi' i 'mi'; nalazi su samo manje stilske i terminološke prirode."
+}

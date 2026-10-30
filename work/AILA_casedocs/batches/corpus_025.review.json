@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "dodat sadržaj / izmišljen naziv",
+      "description": "Pasus 2 (druga polovina): izvor „(Kerala) Abkari Act (hereinafter 'the Act')“, prevod „(keralskog) Zakona o akcizi na alkoholna pića (Abkari Act) (u daljem tekstu: Zakon)“. Dodat je opisni naziv zakona koga u izvoru nema (prevodilačko objašnjenje, što stilski vodič zabranjuje).",
+      "suggestion": "„(keralskog) Zakona Abkari (Abkari Act) (u daljem tekstu: Zakon)“ ili „(keralskog) Abkari zakona (u daljem tekstu: Zakon)“."
+    },
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Član 58 (pasus 9): izvor „knowing [the duty, tax or rental payable under this Act] not to have been paid“, prevod „[carina, porez ili zakupnina koji se plaćaju na osnovu ovog zakona] za njega nijesu plaćeni“. „duty“ u akciznom zakonu je akciza/dažbina, ne carina (customs); takođe je neusklađeno slaganje („koji se plaćaju“, „nijesu plaćeni“) za tri imenice različitog roda.",
+      "suggestion": "„znajući da [akciza, porez ili zakupnina koji se plaćaju na osnovu ovog zakona] nijesu plaćeni“ (ili „dažbina“ umjesto „akciza“)."
+    },
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Član 57A(1) (pasus 8): „Ko pomiješa ili dozvoli da se pomiješa bilo koja štetna supstanca ili bilo koja supstanca koja može ugroziti ljudski život ... ljudima sa bilo kojim alkoholnim pićem“ — nominativ umjesto akuzativa uz glagol „pomiješa“; rečenica je gramatički nepravilna i nepregledna. Izvor: „mixes or permits to be mixed any noxious substance ... with any liquor“.",
+      "suggestion": "„Ko pomiješa bilo koju štetnu supstancu ili bilo koju supstancu koja može ugroziti ljudski život ili prouzrokovati tešku tjelesnu povredu ljudima, sa bilo kojim alkoholnim pićem ili opojnom drogom, ili dozvoli da se takva supstanca pomiješa, kazniće se, u slučaju osude-“."
+    },
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "registar / neprirodna konstrukcija",
+      "description": "Kalkirana konstrukcija „osuđujuća presuda žaliocu“ (pasus 5: „nije osporio osuđujuću presudu žaliocu po različitim odredbama“; pasus 10: „osuđujuća presuda žaliocu nije održiva“; pasus 11: „osuđujuća presuda žaliocu prema članu 57“). Izvor: „conviction of the appellant“. Takođe „po osuđujućoj presudi“ za „on conviction“ (čl. 57A) zvuči nepravnički.",
+      "suggestion": "„osuđujuću presudu protiv žalioca“ / „osudu žalioca“; „on conviction“ → „u slučaju osude“ ili „po osudi“."
+    },
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 2: „Obdukcioni izvještaj za lice Yohannan“ (izvor: „post-mortem report of Yohannan“) — nepotrebno „lice“ uz ime, nespretno. Isto „usljed prodaje“/„lice Yohannan“ u pasusu 2b.",
+      "suggestion": "„Obdukcioni izvještaj o Yohannanu pokazao je ...“ / „... smrt Yohannana ...“."
+    },
+    {
+      "id": "gMXAdx9G81#0",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "Mješavina „Zakon“ (definisani pojam, velikim slovom) i „ovog zakona“ (malim slovom) unutar citiranih odredbi (član 55: „na osnovu ovog zakona“; član 58: „na osnovu ovog zakona“), dok je izvor dosljedno „this Act“. Takođe „Central Act“ → „Savezni zakon“ nije u glosaru (prihvatljivo, ali treba dosljedno u cijelom korpusu).",
+      "suggestion": "Ujednačiti na „ovog zakona“ u citiranim odredbama (kao u izvoru „this Act“) i koristiti isti prevod za „Central Act“ u svim batchevima."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (54), identični tokeni (Rs. x3, P1059, P413) i svi brojevi, citati sudske prakse (SCC/Indlaw), članovi i datumi su doslovni; nema izostavljenih ni dodatih pasusa, ni pogrešne strane u postupku, negacije, roka ili kazne, a ekavskih i hrvatskih oblika nema. Registar je pravnički i u skladu sa glosarom (žalilac, uvaženi zastupnik, Visoki sud, prvostepeni sud, strogi/obični zatvor, nijesu), uz nekoliko manjih stilskih i terminoloških odstupanja navedenih iznad."
+}

@@ -1,0 +1,77 @@
+{
+ "n_blocking": 1,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "blocking",
+   "type": "dodat sadržaj / pogrešno značenje",
+   "description": "Red 3 (pasus 16): izvor 'S.A. Periyasamy P.W.9 (Sambandhi of P.W.1)', prevod '(prijatelj, odnosno sambandhi P.W.1)'. Riječ 'prijatelj' ne postoji u izvoru i netačna je: sambandhi je srodnik po tazbini (otac/rođak supružnika djeteta), ne prijatelj.",
+   "suggestion": "'S.A. Periyasamy P.W.9 (sambandhi P.W.1)' ili '(sambandhi, tj. srodnik P.W.1 po tazbini)'; ukloniti 'prijatelj'."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 14: 'Ona nije govorila o zahtjevu za 50 suverena i automobilom' (izvor: 'demand of 50 sovereigns and a car') - pogrešan padež 'automobilom'.",
+   "suggestion": "'o zahtjevu za 50 suverena i automobil'."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "dodatak objašnjenja",
+   "description": "Pasus 16: 'Njegova saobraćajna dozvola (RC)' za izvorno 'Its RC' - dodato objašnjenje koje u izvoru ne postoji (stilski vodič zabranjuje dodavanje).",
+   "suggestion": "'Njegov RC glasio je na ime Ramalingam, sin Palaniappa Mudhaliar.'"
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 17: 'broj krivičnog predmeta na dokaznom predmetu A-1' za 'crime number of Exhibit A-1'; 'crime number' je broj krivične prijave/predmeta kod policije, a 'dokazni predmet' za Exhibit je prihvatljiv ali nedovoljno precizan.",
+   "suggestion": "'broj krivične prijave na dokazu A-1' ili 'kriminalistički broj'; dosljedno 'dokaz' ili 'dokazni predmet' u cijelom itemu."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "Pasus 22/prvi navod: 'harassed by the first accused' preveden kao 'uznemiravao' - preslabo za kontekst miraza i samoubistva (cruelty/harassment).",
+   "suggestion": "'maltretirala' / 'zlostavljala je prvooptuženi'; dosljedno sa glosarom (cruelty → zlostavljanje)."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "redoslijed riječi",
+   "description": "Pasus 31 (Godfrey): 'okrenut od onoga što je ispravno, pravilno, tačno itd. ili odstupajući od toga' - izvor: 'turned away or deviating from what is right, proper, correct etc.'; 'itd.' i 'odstupajući' su pomjereni, dodata fraza 'od toga'.",
+   "suggestion": "'okrenut od ili odstupajući od onoga što je ispravno, pravilno, tačno itd.'"
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "neprirodan izraz",
+   "description": "Pasus 25: 'Pravo je dobro ustaljeno da' za 'The law is well settled that' zvuči neprirodno.",
+   "suggestion": "'Pravilo je dobro ustaljeno da' ili 'Dobro je ustaljeno da'."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "neprirodan izraz",
+   "description": "Pasus iza 36: 'Navedena odluka praćena je u kasnijim presudama ovog suda' za 'was followed in subsequent judgments' - kalk; 'praćena' znači 'pratiti', a ne 'slijediti kao presedan'.",
+   "suggestion": "'Navedenu odluku slijedile su kasnije presude ovog suda.'"
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "terminologija / dosljednost",
+   "description": "'order of acquittal' se u pasusima 33, 37 i 38 prevodi 'rješenje o oslobađanju', dok se 'judgment of acquittal' prevodi 'oslobađajuća presuda'; u istom citatu se miješaju termini za isti pravni akt. Takođe 'domestic enquiry' → 'interna istraga' (u radnom kontekstu glosar: disciplinski postupak).",
+   "suggestion": "Ujednačiti: 'oslobađajuća presuda' za oba izraza (ili dosljedno 'rješenje o oslobađanju'); 'domestic enquiry' → 'interni disciplinski postupak'."
+  },
+  {
+   "id": "gQH8wylh0C#1",
+   "severity": "minor",
+   "type": "skraćenica odredbe",
+   "description": "Pasus 34: 'čl. 32 i 226 Ustava' za 'Arts. 32 and 226' - vodič (dio 9) traži 'član', bez skraćenice.",
+   "suggestion": "'članova 32 i 226 Ustava'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: sva 3 dijela su obuhvaćena, 47 novih redova isti kao u izvoru, tokeni (P.W., A-, Rs., brojevi, citati SCC/AIR/Indlaw) tačno preneseni, nema ekavizama ni kroatizama, odnos riječi 0.90. Registar je primjeren obrazloženju presude i uglavnom dosljedan glosaru (prvostepeni sud, Visoki sud, žalilac, nijesu). Jedina ozbiljna greška je dodata netačna riječ 'prijatelj' uz 'sambandhi'; ostalo su stilske sitnice."
+}

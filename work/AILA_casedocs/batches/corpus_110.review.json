@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "FVr9Qh8yXv#2",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Izvor: \"claimant(s)\" (stranka koja traži povećanu naknadu u postupku eksproprijacije). Prevod ga dosljedno daje kao \"podnosilac zahtjeva\" (npr. \"svjedoka podnosioca zahtjeva\", \"zemljišta podnosioca zahtjeva\"), što je glosarski termin za \"petitioner\" pa se dvije različite uloge stapaju. Dosljedno je u cijelom itemu, pa nije blokirajuće.",
+   "suggestion": "Prihvatljivo zadržati radi dosljednosti; ako se želi razlikovanje, koristiti npr. \"tražilac naknade\" ujednačeno u svim dijelovima presude iste serije."
+  },
+  {
+   "id": "FVr9Qh8yXv#2",
+   "severity": "minor",
+   "type": "dodatak/glosa",
+   "description": "Izvor: \"Basic Valuation Register\". Prevod: \"izvod iz Registra osnovne procjene vrijednosti (Basic Valuation Register)\" - dodata engleska glosa u zagradi kojoj nema pandana u izvoru (kasnije \"izvod iz osnovnog registra\" za \"basic register extract\").",
+   "suggestion": "Ukloniti zagradu ili je zadržati samo ako se uvede pravilo glosiranja naziva registara u cijelom korpusu."
+  },
+  {
+   "id": "FVr9Qh8yXv#2",
+   "severity": "minor",
+   "type": "gramatika/slaganje",
+   "description": "Izvor: \"the Court will have performed the duty justly expected of them\". Prevod: \"sud će izvršiti dužnost koja se od njih s pravom očekuje\" - jednina \"sud\" i zamjenica \"njih\" se ne slažu.",
+   "suggestion": "\"sudovi će izvršiti dužnost koja se od njih s pravom očekuje\"."
+  },
+  {
+   "id": "FVr9Qh8yXv#2",
+   "severity": "minor",
+   "type": "glosar/registar",
+   "description": "(a) \"Civil Courts\" -> \"građanskim sudovima\" (glosar traži vezu sa parničnim postupkom, Zakon o parničnom postupku; prikladnije \"parničnim sudovima\"; isto \"civil court\" -> \"građanski sud\" u pasusu 36). (b) \"Collector\" -> \"kolektor\" bez glose \"(Collector)\" pri prvom pomenu van naziva predmeta, kako traži dio 6 glosara.",
+   "suggestion": "(a) \"parničnim sudovima\" / \"parnični sud\"; (b) pri prvom samostalnom pomenu (pasus 26) \"kolektora (Collector) ili LAO-a\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 18 novih redova je očuvano, isti _id, svi tokeni (Rs. x3), brojevi, brojevi članova, citati (AIR 1969 S.C. 255, Indlaw SC 433) i oznake dokaza (A-1 do A-6, PW2) tačni, bez izostavljanih ili dodatih rečenica i bez pogrešne strane u postupku. Registar je prirodan sudski/pravnički, ijekavica dosljedna (nijesu, ovjerena, vrijednost), glosar (Visoki sud, član/stav, Zakon o registraciji, država) poštovan; nema ekavizama ni hrvatizama. Preostale primjedbe su isključivo stilske i terminološke."
+}

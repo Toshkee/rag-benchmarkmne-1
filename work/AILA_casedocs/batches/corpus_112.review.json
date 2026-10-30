@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "SmNqE40fAr#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 7: prevod \"izvršiti punu isplatu ortacima koji istupaju, Jivraju i njegova dva sina, onih iznosa, na onaj način i pod onim uslovima\" ima pogrešan padež apozicije (nominativ umjesto dativa) i okoran izraz. Izvor: \"full payment to the retiring partners Jivraj and his two sons of such amounts, in such manner, and on such conditions\".",
+   "suggestion": "\"...izvršiti punu isplatu ortacima koji istupaju, Jivraju i njegovim sinovima, u iznosima, na način i pod uslovima o kojima odluče arbitri.\""
+  },
+  {
+   "id": "SmNqE40fAr#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"dues to be recovered\" i \"Debts due to the firm\" prevedeni kao \"dugovanja koja treba naplatiti\" (pasusi 8, 16, citat 15) i \"Dugovi prema firmi lica koja nijesu ortaci\" (pasus 12): \"dugovanja\" može se pročitati kao obaveze firme, a ne potraživanja firme; unutar istog teksta \"outstandings\" je \"potraživanja\".",
+   "suggestion": "\"dues to be recovered\" → \"potraživanja koja treba naplatiti\"; \"Debts due to the firm from persons other than partners\" → \"Potraživanja firme od lica koja nijesu ortaci\"."
+  },
+  {
+   "id": "SmNqE40fAr#0",
+   "severity": "minor",
+   "type": "interpunkcija",
+   "description": "Pasus 2: u izvoru je prazno mjesto (\"By  the books of account\") zbog artefakta obrade; prevod je umetnuo crticu (\"Prema  – poslovne knjige\"), što je dodat znak koji ne postoji u izvoru.",
+   "suggestion": "Zadržati prazno mjesto bez crtice: \"Prema  poslovne knjige je trebalo da vodi ortak...\"."
+  },
+  {
+   "id": "SmNqE40fAr#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Hibridne/regionalne varijante: \"dolje navedenih pitanja\" (pasus 4), \"trgovačkih etiketa\" (pasus 1.(a)), \"na hindiju\" (pasus 15), \"ortakluk\" uz \"firma\". Nisu uobičajeni u propisima CG.",
+   "suggestion": "\"niže navedenih pitanja\"; \"trgovinskih etiketa\"; \"na hindi jeziku\"."
+  },
+  {
+   "id": "SmNqE40fAr#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Dosljednost naziva: \"Civil Appeal No. 717 of 1963\" → \"Građanska žalba br. 717 iz 1963. godine\" (stil vodič za brojeve predmeta daje oblik C.A. br.); \"immoveables\" → \"nepokretnosti\" (pasus 15) naspram \"nepokretna imovina\" drugdje; \"deed of reference\" / \"agreement of reference\" / \"arbitration agreement\" prevedeni različito (akt o upućivanju / sporazum o upućivanju / sporazum o arbitraži) iako se u izvoru odnose na isti instrument.",
+   "suggestion": "\"Građanska žalba br. 717 iz 1963. godine\" može ostati; ujednačiti \"nepokretna imovina\" i jedan termin (npr. \"sporazum o upućivanju na arbitražu\") za isti dokument kad izvor to dozvoljava."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (38), svi pasusi i rečenice prisutni, brojevi, iznosi (Rs. 32 lakha, Rs. 3,46,223.58 nP.), datumi i oznake pasusa/strana (489, Ext. A-13) očuvani, stranke dosljedne (žalioci = ortaci koji istupaju, protivna strana), bez ekavizama i kroatizama u automatskoj provjeri. Registar je odgovarajući obrazloženju presude; nađene su samo manje stilske i terminološke nepreciznosti (padež u pasusu 7, dvosmisleno \"dugovanja\", dodata crtica)."
+}

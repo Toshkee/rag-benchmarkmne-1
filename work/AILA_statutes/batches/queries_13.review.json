@@ -1,0 +1,70 @@
+{
+ "n_blocking": 0,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "00047",
+   "severity": "minor",
+   "type": "terminologija/broj",
+   "description": "Izvor: 'the respondents' (množina, više pomoćnika registratora). Prevod koristi jedninu: 'protiv protivne strane', 'ovdje navedenu protivnu stranu', 'Protivna strana je istakla prigovor', 'protivna strana se obratila Visokom sudu'. Smisao je očuvan, ali je izgubljen broj.",
+   "suggestion": "Koristiti množinu: 'protiv protivnih strana', 'ovdje navedene protivne strane', 'Protivne strane su istakle prigovor', 'protivne strane su se obratile Visokom sudu'."
+  },
+  {
+   "id": "00047",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'III Additional Chief Metropolitan Magistrate' preveden kao 'III dodatnom glavnom gradskom magistratu' (prevedeno kao ustanova, 'gradskom' je slobodno tumačenje); 'sanction' dosljedno kao 'odobrenje' je u redu, ali prva rečenica ima neprirodan red riječi: 'pitanje je koje se razmatra u ovim predmetima'.",
+   "suggestion": "'III dodatnom glavnom metropolitanskom magistratu'; prva rečenica: 'Pitanje koje se razmatra u ovim predmetima jeste da li je potrebno odobrenje za pokretanje krivičnog postupka u pogledu krivičnih djela.'"
+  },
+  {
+   "id": "00046",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'the sub-Inspector of Police (PW-11)' preveden kao 'pomoćnik inspektora policije'; uobičajeniji naziv čina je podinspektor. Slično 'Assistant Surgeon' -> 'Pomoćni hirurg'.",
+   "suggestion": "'podinspektor policije (PW-11)'; 'pomoćni hirurg' može ostati ili 'asistent hirurga' (dosljedno)."
+  },
+  {
+   "id": "00046",
+   "severity": "minor",
+   "type": "dosljednost termina",
+   "description": "'dead body' prevedeno kao 'leš' (pregled leša, Leš je upućen, na lešu), dok je u 00044 'body' prevedeno kao 'tijelo'. Unutar batcha nedosljedan izbor.",
+   "suggestion": "Ujednačiti: 'tijelo preminulog' / 'mrtvo tijelo' u cijelom batchu (ili 'leš' svuda)."
+  },
+  {
+   "id": "00046",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Prva rečenica nespretna: 'presuda Visokog suda kojom je potvrđena osuđujuća presuda kojom je žalilac oglašen krivim ... koju je izrekao glavni sudija Sesijskog suda' (nanizano 'kojom/kojom/koju'). Također 'plea' preveden kao 'navod' ('nije prihvatio taj navod', 'Navod istaknut pred prvostepenim sudom'), što je slabiji pravni izraz.",
+   "suggestion": "'Predmet pobijanja je presuda Visokog suda kojom je potvrđena osuđujuća presuda glavnog sudije Sesijskog suda, kojom je žalilac oglašen krivim ... i osuđen ...'; 'plea' -> 'tvrdnja/odbrana'."
+  },
+  {
+   "id": "00045",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Izvor: 'started making demands from her'; prevod: 'počeli od nje da traže stvari' (dodata imenica 'stvari', izgubljeno 'demands').",
+   "suggestion": "'počeli su da joj postavljaju zahtjeve'."
+  },
+  {
+   "id": "00045",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Izvor: 'The dacoits also exploded bombs'; prevod: 'Razbojnici su aktivirali i bombe' ('aktivirali' nije ekvivalent za 'exploded').",
+   "suggestion": "'Razbojnici su detonirali i bombe' / 'bacali su i bombe koje su eksplodirale'."
+  },
+  {
+   "id": "00047",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'wrongful gain ... and loss to the Government' preveden 'protivpravne imovinske koristi ... i štete za Vladu'; glosar traži 'protivpravna imovinska korist / protivpravna šteta'. Dozvoljeno odstupanje, ali nije potpuno u skladu.",
+   "suggestion": "'protivpravne imovinske koristi za njih same i protivpravne štete za Vladu'."
+  },
+  {
+   "id": "00048",
+   "severity": "minor",
+   "type": "preciznost/registar",
+   "description": "'Division Bench' -> 'vijeće (Division Bench)' i 'learned Single Judge' -> 'uvaženi sudija pojedinac'; 'representation' -> 'predstavku', 'raiding party' -> 'Akciona grupa' su prihvatljivi ali ne sasvim ustaljeni pravnički izrazi.",
+   "suggestion": "Opciono: 'sudija pojedinac' ostaviti; 'predstavku' -> 'zahtjev/molbu'; 'Akciona grupa' -> 'Grupa za hvatanje u primanju mita (raiding party)'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svi _id-ovi se poklapaju, tokeni (P1.., Rs., Ex.P..) i brojevi/datumi se tačno slažu, nema ekavskih ni hrvatskih oblika, odnos broja riječi 0.83-0.95. Nijedna rečenica nije izostavljena ni dodata, a pravni registar (ijekavica, glosar: žalilac, Visoki sud, prvostepeni sud, ustavna tužba) je uglavnom primjeren; zamjerke su samo sitne terminološke i stilske."
+}

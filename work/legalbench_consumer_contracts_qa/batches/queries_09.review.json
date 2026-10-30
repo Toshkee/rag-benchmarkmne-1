@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00165",
+   "severity": "minor",
+   "type": "addition",
+   "description": "Prevod dodaje 'na svojim serverima' ('da na svojim serverima čuva sadržaj') iako izvor kaže samo 'host content'.",
+   "suggestion": "'...gubi pravo da hostuje (čuva) sadržaj koji sam postavio?'"
+  },
+  {
+   "id": "00174",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "'website' je prevedeno kao 'sajt' ('na svom sajtu'), a u 00175 kao 'internet stranica' ('na internet stranici trećeg lica').",
+   "suggestion": "Ujednačiti u batchu, npr. 'veb-sajt' / 'sajt' svuda."
+  },
+  {
+   "id": "00175",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "'Disney Proizvode' veliko P usred rečenice, dok je u 00176 'Disney proizvod' malim slovom.",
+   "suggestion": "Ujednačiti: 'Disney proizvode' / 'Disney proizvoda' (ili dosljedno veliko P kao definisani pojam)."
+  },
+  {
+   "id": "00177",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "'Disney Proizvoda' veliko P, nedosljedno sa 00176 ('Disney proizvod') i 00172-00173 ('Disney proizvodi').",
+   "suggestion": "'kopiranje Disney proizvoda može biti dozvoljeno'."
+  },
+  {
+   "id": "00161",
+   "severity": "minor",
+   "type": "register",
+   "description": "'adjudicating disputes' prevedeno kao 'rješavanje sporova' ('nadležnosti koja se primjenjuje na rješavanje sporova'); blago gubi nijansu odlučivanja suda.",
+   "suggestion": "'nadležnosti za odlučivanje u sporovima između strana'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova je očuvano, nema izostavljenih ni dodatih pitanja, tokena ni brojeva, a ijekavica i glosar (nalog, uslovi korišćenja, lice, strane, intelektualna svojina) su dosljedni. Registar odgovara upitima (laički ostaje laički, formalni formalan), bez sadržaja iz polja context. Preostale primjedbe su sitna terminološka nedosljednost (sajt/internet stranica, velika/mala slova Proizvod) i jedan blagi dodatak."
+}

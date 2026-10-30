@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#7/p2",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 2 (84.): \"takvo da ga pravo ne bi sprovelo\" - zamjenica \"ga\" (m. rod, jed.) se ne slaže sa \"jedno ili više njih\" (izvor: \"one or more of them be such as the law will not enforce\").",
+   "suggestion": "\"takvo da ih pravo ne bi sprovodilo\" / \"da ih zakon ne bi sprovodio\"."
+  },
+  {
+   "id": "FCIX3BYOtD#7/gloss",
+   "severity": "minor",
+   "type": "dodatak u tekstu",
+   "description": "U prevod su unesene engleske glose/zagrade kojih nema u izvoru: \"naknada (consideration)\" (para 2), \"nesavjestan (unconscionable)\" (para 4), \"Common Law\"/\"common law\"/\"Equity\" u zagradi (para 3, 5, 28), \"'Ugovor po pristupu' (adhesion contract)\" unutar doslovnog citata (para 11). Stilski vodič (dio 5) zabranjuje dodavanje objašnjenja; glose su dozvoljene samo gdje glosar to traži (npr. writ).",
+   "suggestion": "Ukloniti glose iz zagrada, naročito unutar citata (para 11); ostaviti samo \"precedentno pravo\" i \"pravičnost\" bez zagrada, ili dosljedno glosirati samo prvi pomen."
+  },
+  {
+   "id": "FCIX3BYOtD#7/p6",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 6 (87.): \"kontrolne naredbe\" za \"control orders\" - glosar (dio 6) dozvoljava \"Naredba\" samo u nazivu akta, a \"order\" u opštem smislu je \"rješenje\"; \"zakoni o otpisu dugova\" za \"debt relief laws\" je preuzak (relief = olakšica).",
+   "suggestion": "\"kontrolna rješenja\" ili \"rješenja o kontroli (control orders)\"; \"zakoni o olakšicama za dužnike\"."
+  },
+  {
+   "id": "FCIX3BYOtD#7/p16",
+   "severity": "minor",
+   "type": "značenje/registar",
+   "description": "Para 16: \"razlozima nevaženja\" za \"other invalidating causes\" nije ustaljen pravni izraz; \"tumačenjem teksta na štetu strane\" za \"adverse construction of language\" je nejasno (contra proferentem); \"podložniji prigovoru nesavjesnosti\" za \"claim of unconscionability\" (claim = tvrdnja/zahtjev).",
+   "suggestion": "\"drugim razlozima ništavosti\"; \"tumačenjem jezika na štetu strane koja je odredbu sastavila\"; \"podložniji tvrdnji o nesavjesnosti\"."
+  },
+  {
+   "id": "FCIX3BYOtD#7/p21",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Para 21: \"ju je druga strana nadmudrila\" za \"he had been overreached by the other\" je razgovorno i netačno (overreach = prevariti/iskoristiti).",
+   "suggestion": "\"kada ju je druga strana iskoristila/prevarila u mjeri većoj od polovine vrijednosti\"."
+  },
+  {
+   "id": "FCIX3BYOtD#7/p0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 0: \"i ne dirajući u opštost prethodnog načela\" je kalk za \"without prejudice to the generality of the foregoing principle\".",
+   "suggestion": "\"ne ograničavajući opštost prethodnog načela\"."
+  },
+  {
+   "id": "FCIX3BYOtD#7/p23",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "Para 23: naziv akta \"Maharashtra Restoration of Lands to Scheduled Tribes Act, 1974\" preveden kao \"Zakona države Maharashtra o vraćanju zemljišta...\" - dodato \"države\" (izvor ima samo \"Maharashtra\" u nazivu zakona).",
+   "suggestion": "\"Zakona o vraćanju zemljišta registrovanim plemenima (Maharashtra) iz 1974. godine\" ili zadržati redoslijed naziva iz izvora."
+  },
+  {
+   "id": "FCIX3BYOtD#7/term",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"unconscionable\" je dosljedno \"nesavjestan\", ali \"fairness\" i \"Equity\" oba postaju \"pravičnost\" (para 5, 23, 26); \"voidable\" = \"rušljiva\" (para 4) nije uobičajeno u CG pravnom jeziku; \"public policy\" = \"javni poredak\" ostaje dosljedno (OK).",
+   "suggestion": "\"Equity\" -> \"pravo pravičnosti (Equity)\" pri prvom pomenu; \"voidable\" -> \"pobojna\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (29), nijedan pasus ni rečenica nijesu izostavljeni, svi brojevi (84-96, 23, 24, 38, 39, 205, 2-302, 486, godine, strane) i citati sudske prakse su doslovni, odnos riječi 0,87, bez ekavizama i hrvatizama. Registar je prirodan i pravnički, ijekavski, sa dosljednim terminima (strana, sud, Država, nijesu); preostali nalazi su sitni stilski i terminološki (suvišne engleske glose u zagradama, nekoliko neprecizno odabranih izraza)."
+}

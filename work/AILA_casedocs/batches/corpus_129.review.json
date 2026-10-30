@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "terminologija/izostavljanje",
+      "description": "Naziv zakona 'Conservation of Foreign Exchange and Prevention of Smuggling Activities Act' preveden kao 'Zakon o očuvanju deviza i sprječavanju krijumčarenja' (izostavljeno 'Activities'), u pasusima 8, 11 i 12. Dosljedno, ali nepotpuno.",
+      "suggestion": "'Zakon o očuvanju deviza i sprječavanju krijumčarskih aktivnosti'."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "terminologija/dosljednost",
+      "description": "'foreign exchange' se prevodi nedosljedno: 'očuvanje deviza' (par. 8-9) vs. 'očuvanje i uvećanje deviznih rezervi' (par. 10, 11 za 'conservation and augmentation of foreign exchange'). 'Deviznih rezervi' sužava značenje (izvor: foreign exchange, ne reserves).",
+      "suggestion": "'očuvanje i uvećanje deviza' u par. 10 i 11."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "značenje/terminologija",
+      "description": "Par. 12: 'do not lay down good law and are accordingly overruled' prevedeno 'ne izražavaju ispravno pravno shvatanje i shodno tome se napuštaju'. 'Napuštaju' je slabije od 'overruled' (formalno poništavanje presedana).",
+      "suggestion": "'ne utvrđuju ispravno pravo i shodno tome se ukidaju (overruled)' ili 'stavljaju van snage'."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Par. 12: 'sudovi ne bi trebalo samo zbog kašnjenja u donošenju rješenja o pritvoru da pretpostave' - nepodudaranje roda/broja (množina 'sudovi' + srednji rod 'trebalo').",
+      "suggestion": "'sudovi ne bi trebalo da pretpostave' -> 'sudovi ne bi trebali, samo zbog kašnjenja ..., da pretpostave'."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Par. 1: 'Gujarat Prevention of Anti-Social Activities Act, 1985' -> 'Zakona države Gujarat o sprječavanju antisocijalnih aktivnosti' dodaje 'države' koje u izvornom nazivu zakona ne postoji.",
+      "suggestion": "'Zakona o sprječavanju antisocijalnih aktivnosti u Gujaratu iz 1985. godine' ili 'Zakona Gujarata o ...' bez dodatnog 'države'."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "registar/glosar",
+      "description": "Par. 7: 'basic ideas of our Government' -> 'osnovnim idejama našeg sistema vlasti' (glosar: Government -> Vlada). Takođe 'It is not an undisputed fact' -> 'Nije neosporna činjenica' doslovno prati očiglednu grešku izvora (vjerovatno 'It is an undisputed fact'); prihvatljivo, ali treba biti svjestan.",
+      "suggestion": "'osnovnim idejama naše Vlade' ili zadržati 'sistema vlasti' uz konzistentnost; par. 2 ostaviti doslovno."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Par. 4: 'žalilac je osporio osporeno rješenje' (tautologija); par. 5/dosljednost velikog slova: 'ovaj sud' (par. 7, 8) vs. 'Sud' (par. 9, 10, 12); stavke (i)/(ii) u par. 3 počinju malim slovom ('(i) krivični predmet') dok izvor ima veliko; 'okružni magistrat, Panchmahals, Godhra' bez veze ('Panchmahals' u Godhri).",
+      "suggestion": "'žalilac je napao rješenje o pritvoru'; ujednačiti 'ovaj sud'/'Sud'; '(i) Krivični predmet br. 303/82 ...'."
+    },
+    {
+      "id": "zKG5mSoyPs#0",
+      "severity": "minor",
+      "type": "citati/nazivi",
+      "description": "Nazivi predmeta u tekstu prevedeni ('Khudiram Das protiv države Zapadni Bengal', 'protiv Uprave Delhija', 'Indijske Unije i drugih'), dok su SCC/SCR/DLT oznake očuvane. Konzistentno sa dijelom 9 vodiča i dozvoljeno; 'Uprave Delhija' (Delhi Administration) je slobodniji prevod.",
+      "suggestion": "Zadržati; po želji 'protiv Delhi Administration' ili 'protiv Administracije Delhija'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj redova (34), svi pasusi i potpasusi (1)-(4), (i)-(iv) prisutni, svi brojevi, datumi, citati (SCC/SCR/DLT/Crl. W. No.) i članovi doslovno očuvani, bez ekavizama i kroatizama; stranke su dosljedne (žalilac, okružni magistrat, uvaženi zastupnik, Visoki sud). Registar je prirodan obrazloženju presude uz glosar; preostala odstupanja su manja terminološka i stilska (naziv COFEPOSA zakona, 'devize/devizne rezerve', 'overruled' -> 'napuštaju', jedna gramatička greška)."
+}

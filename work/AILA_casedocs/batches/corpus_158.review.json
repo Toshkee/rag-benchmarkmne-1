@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "8Y7XsrSvBp#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Par. 27: 'Za nalaz uvaženog sudije Sesijskog suda ... ne može se ... reći da je iracionalan tako da opravdava intervenciju Visokog suda' (izvor: 'cannot be said to be irrational warranting interference by the High Court') je nezgrapno i kalkirano.",
+   "suggestion": "'Za nalaz uvaženog sudije Sesijskog suda ... ne može se, po našem mišljenju, reći da je iracionalan, pa da bi opravdavao miješanje Visokog suda.'"
+  },
+  {
+   "id": "8Y7XsrSvBp#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 27: 'learned Sessions Judge' -> 'uvaženog sudije Sesijskog suda'; glosar propisuje 'uvaženi' samo za 'learned counsel', a u par. 26 isti sudija je samo 'sudija Sesijskog suda' (izvor: 'the Sessions Judge'). Značenje nije promijenjeno.",
+   "suggestion": "Zadržati 'uvaženog' u par. 27 jer ga izvor ima (prihvatljivo); ne dodavati ga u par. 26."
+  },
+  {
+   "id": "8Y7XsrSvBp#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Par. 29: 'for reversing the judgment of acquittal' -> 'za preinačenje oslobađajuće presude'; u kontekstu žalbe protiv oslobađajuće presude preciznije je 'ukidanje/izmjena'.",
+   "suggestion": "'... pravni princip koji se primjenjuje pri ukidanju (preinačenju) oslobađajuće presude od strane višeg suda' ili 'za ukidanje oslobađajuće presude'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (9), svi tokeni, brojevi, članovi (201, 302/34, 313) i citati (SCC, Indlaw) identični, odnos riječi 0.87, bez ekavskih i hrvatskih oblika; nijedan pasus ni rečenica nijesu izostavljeni, a stranke su dosljedne (žalilac br. 1, žalioci, Visoki sud, sudija Sesijskog suda, država M.P.). Registar je pravnički i prirodan (ijekavica, 'nijesu', 'korist od sumnje', 'teret dokazivanja'); nađene su samo manje stilske primjedbe. Prethodni nalaz o 'well nigh possible' nije tačan: 'gotovo moguće' je doslovno i ispravno."
+}

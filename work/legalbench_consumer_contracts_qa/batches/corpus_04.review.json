@@ -1,0 +1,57 @@
+{
+ "batch": "corpus_04",
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pojam 'tortious' preveden opisno ('kojim se prouzrokuje protivpravna šteta'), a 'defamatory' i 'libelous' su zamijenjeni po redoslijedu: 'defamatory' -> 'koji šteti ugledu', 'libelous' -> 'klevetnički'. Značenje je očuvano, ali redoslijed ne prati izvor.",
+   "suggestion": "defamatory -> 'klevetnički', libelous -> 'koji šteti ugledu' (ili 'uvredljiv po čast i ugled'); tortious -> 'kojim se čini građanskopravni delikt' / 'kojim se nanosi šteta'."
+  },
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Nedosljednost u batchu: 'internet stranicama' (non-commercial properties) vs 'veb-sajt' (source website); 'linkove' / 'link' / 'povratne linkove'; neologizam 'fid' za RSS feed.",
+   "suggestion": "Ujednačiti: 'veb-sajt' svuda ili 'internet stranica' svuda; 'RSS fid' zadržati ali dosljedno, npr. 'RSS kanal (feed)' pri prvom pomenu; 'veza/link' ujednačeno."
+  },
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "naslovi",
+   "description": "Naslovi 'Using the Services' (naslov cijelog odjeljka) i 'Use of Services' su oba prevedena kao 'Korišćenje Usluga', pa se gubi razlika između dva naslova.",
+   "suggestion": "'Use of Services' -> 'Upotreba Usluga' (ili 'Pravila korišćenja Usluga'); 'Using the Services' ostaviti 'Korišćenje Usluga'."
+  },
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "glosar/ortografija",
+   "description": "'Usluge', 'Uslovi', 'Minimalni uzrast' pišu se velikim slovom (definisani pojmovi), dok glosar (dio 7) propisuje malim slovom 'usluge', 'uslovi'; 'odjeljku 8/14' za 'Section 8/14' umjesto 'član' iz glosara (ovdje je odjeljak ugovora, prihvatljivo). Primjena je dosljedna u oba itema.",
+   "suggestion": "Zadržati dosljedno, ali razmotriti mala slova 'usluge/uslovi' prema glosaru; 'odjeljak' je prihvatljiv za ugovorne odredbe."
+  },
+  {
+   "id": "kWCRNYdWCs",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "'DA SE NI ZA JEDAN PRENOS PODATAKA NITI ZA TEHNOLOGIJU ČUVANJA INFORMACIJA NE MOŽE GARANTOVATI DA JE BEZBJEDAN' — neslaganje u rodu ('tehnologija ... bezbjedan') i nezgrapna konstrukcija; izvor: 'NO DATA TRANSMISSION ... OR INFORMATION STORAGE TECHNOLOGY CAN BE GUARANTEED TO BE SECURE'.",
+   "suggestion": "'RAZUMIJETE I SAGLASNI STE DA SE NE MOŽE GARANTOVATI BEZBJEDNOST BILO KOJEG PRENOSA PODATAKA PREKO INTERNETA NITI TEHNOLOGIJE ZA ČUVANJE INFORMACIJA'."
+  },
+  {
+   "id": "kWCRNYdWCs",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'AS AVAILABLE' preveden 'U MJERI U KOJOJ SU DOSTUPNE' — blago mijenja nijansu (izvor: 'kako su dostupne').",
+   "suggestion": "'U STANJU U KOJEM SU DOSTUPNE' / 'KAKO SU DOSTUPNE'."
+  },
+  {
+   "id": "kWCRNYdWCs",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'FITNESS FOR A PARTICULAR PURPOSE' -> 'PODOBNOSTI ZA ODREĐENU NAMJENU' i 'MERCHANTABILITY' -> 'PRIKLADNOSTI ZA PRODAJU' prihvatljivo, ali uobičajeniji pravni termin je 'podobnosti za promet'.",
+   "suggestion": "'PREĆUTNA GARANCIJA PODOBNOSTI ZA PROMET, PRIKLADNOSTI ZA ODREĐENU NAMJENU I NEKRŠENJA PRAVA TREĆIH LICA'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: oba _id-a se poklapaju, broj novih redova je isti (39 i 2), brojevi (8, 14, 1-3, 360) i odnosi riječi (0.97 i 1.02) su u granicama, bez ekavizama i hrvatizama, bez izostavljenih ili dodatih rečenica. Registar je primjeren opštim uslovima poslovanja (vi/mi, bezlično, bez zakonodavnog tona), uz glosarski dosljedne termine (nalog, licenca, treće lice, u viđenom stanju, isključiva procjena). Preostala odstupanja su stilska (neologizam 'fid', miješanje 'veb-sajt'/'internet stranica', zamijenjeni redoslijed defamatory/libelous, nezgrapna rečenica o bezbjednosti prenosa podataka)."
+}

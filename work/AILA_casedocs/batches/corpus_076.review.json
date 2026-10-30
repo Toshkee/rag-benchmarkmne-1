@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "ArQEPcyLas#1",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "\"a imena ostalih su pomenuta samo kao članova okupljanja\" - pogrešan padež; izvor: \"the names of others were mentioned only as being members of the assembly\".",
+   "suggestion": "\"a imena ostalih pomenuta su samo kao imena članova okupljanja\" (ili \"samo kao članova okupljanja\" -> \"samo kao članovi okupljanja\")."
+  },
+  {
+   "id": "ArQEPcyLas#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Visoki sud je dao dozvolu samo u pogledu petorice optuženih\" - izvor \"leave was granted by the High Court\"; glosar: leave (to appeal) -> dozvola (za žalbu), pa je izostavljeno \"za žalbu\".",
+   "suggestion": "\"Visoki sud je dao dozvolu za žalbu samo u pogledu petorice optuženih\"."
+  },
+  {
+   "id": "ArQEPcyLas#1",
+   "severity": "minor",
+   "type": "format",
+   "description": "Prevod nema polja n_chunks i head koja postoje u izvoru (head se po vodiču ne prevodi, pa je izostavljanje prihvatljivo ako pipeline to očekuje; _id i title su ispravni).",
+   "suggestion": "Potvrditi da pipeline ne zahtijeva ta polja u .mne.json."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedna rečenica nije izostavljena niti dodata, brojevi, citati (1964 (8) SCR 133, JT 2005 (9) SC 370, Indlaw), članovi (149) i broj novih redova (4) podudaraju se sa izvorom, a automatske provjere nijesu našle ekavizme ni hrvatizme. Registar je prirodan i pravnički, glosar se poštuje (žalioci, prvostepeni sud, Visoki sud, država, član 149, nedozvoljeno okupljanje, žalba odbijena); preostale primjedbe su sitne stilske."
+}

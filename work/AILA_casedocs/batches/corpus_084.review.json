@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "P9K63LSFZH#1",
+   "severity": "minor",
+   "type": "datum",
+   "description": "Datum ostavljen u brojčanom obliku: \"Dana 15.12.1987. godine\" (izvor: \"On 15.12.1987\"). Vodič (dio 1) traži oblik \"15. decembra 1987. godine\".",
+   "suggestion": "\"Dana 15. decembra 1987. godine, oko 1.30 poslije podne\". Napomena: provjera brojeva tada mijenja tokene 12 i 1987 samo u formi, što je dozvoljeno (format datuma)."
+  },
+  {
+   "id": "P9K63LSFZH#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Kolokvijalne ili slobodne formulacije: \"Još jedan dokaz za koji je utvrđeno da ima potkrepljujuću vrijednost\" (izvor: \"noticed as of corroborative value\"); \"pruža uvjerenje u pogledu učešća\" (\"lend assurance regarding the involvement\"); \"Čulo se kako im A.4 govori\" (\"A.4 was heard saying\").",
+   "suggestion": "\"Još jedan dokaz koji je prepoznat kao potkrepljujući je iskaz PW.3\"; \"pruža dodatno uvjerenje o umiješanosti A.4-Ram Prasad u ubistvo\"; \"A.4 je rekao, kako se čulo, da ...\" ili \"Čuo se A.4 kako im govori\"."
+  },
+  {
+   "id": "P9K63LSFZH#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"sudiji Sesijskog suda u Amaravati\" je nedeklinirano ime mjesta (izvor: \"Sessions Judge, Amaravati\"); \"Njegova obaveza po osnovu jemstva prestaje\" je slobodnije od \"bail bond will stand discharged\".",
+   "suggestion": "\"sudiji Sesijskog suda, Amaravati\" ili \"u Amaravatiju\"; \"Njegova jemstvena isprava (bail bond) se oslobađa\" / \"jemstvo se ukida\" uz zadržavanje termina bail bond."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 3 pasusa (34, 35, 36) i završna napomena \"Žalba usvojena\" su prisutni, broj novih redova (4) isti, skup _id isti, svi brojevi i oznake (PW.2, PW.3, A.1-A.10) isti, odnos riječi 0,95, bez ekavizama i hrvatizama. Stranke i procesne uloge (A.4, A.5, A.6, A.7, A.10 žalioci, A.1 usvojena žalba, Visoki sud, uvaženi zastupnik, odbijaju se / usvajamo / ukidamo) su pravilno i dosljedno prenesene. Registar je uglavnom pravnički prirodan, uz manje stilske i formatske primjedbe."
+}

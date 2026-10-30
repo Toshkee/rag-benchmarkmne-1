@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "amount_format",
+      "description": "Iznos iz izvora \"amounts less than $1.00\" preveden kao \"iznose manje od 1,00 USD\"; stil vodič traži da iznosi ostanu tačno kao u izvoru (cifre su očuvane, ali je promijenjen zapis valute i decimalni separator).",
+      "suggestion": "Ostaviti \"manje od $1.00\" ili, ako se normalizuje, dosljedno \"manje od 1,00 USD\" u cijelom datasetu (odluka na nivou projekta)."
+    },
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"charges\" dosljedno prevedeno kao \"troškovi\" (\"sve druge troškove nastale na vašem nalogu\", \"ove troškove naplatimo\", \"Ni za jedan trošak ne vrši se povraćaj\", \"troškove knjižiti na vaš način plaćanja\"). \"Troškovi\" znači izdaci/costs, a ne iznosi koji se naplaćuju korisniku; izvor razlikuje \"charges\" od \"fees\" (naknade).",
+      "suggestion": "Koristiti \"iznosi koji se naplaćuju\" / \"naplate\" / \"zaduženja\" (npr. \"sve druge naplate nastale na vašem nalogu\", \"Nijedna naplata nije povratna\"). Dosljedno u cijelom itemu."
+    },
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"authentication credentials\" preveden kao \"akreditive za autentifikaciju\"; \"akreditiv\" je bankarski/finansijski pojam i neprirodan je u ovom kontekstu.",
+      "suggestion": "\"podatke za prijavu\" ili \"vjerodajnice za autentifikaciju\"."
+    },
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "terminology_consistency",
+      "description": "\"payment method\" je dosljedno \"način plaćanja\", ali u \"od izdavaoca vašeg sredstva plaćanja\" je upotrijebljen drugi termin (\"sredstva plaćanja\"). Takođe \"Surcharges\" → \"Mogu se primijeniti dodatne naknade\" gubi razliku od \"fees\" (naknade) i \"charges\".",
+      "suggestion": "\"od izdavaoca vašeg načina plaćanja\"; \"Surcharges\" → \"doplate\" (\"Mogu se obračunati doplate ako koristite određene načine plaćanja...\")."
+    },
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "glossary_deviation",
+      "description": "\"Subject to applicable law\" → \"U skladu sa važećim propisima\"; glosar za \"applicable law\" je \"važeći zakon, pravilo ili propis\", a \"subject to\" ovdje znači \"u mjeri u kojoj to dozvoljava\" (ograničenje), ne \"u skladu sa\".",
+      "suggestion": "\"U mjeri u kojoj to dozvoljava važeći zakon, ...\"."
+    },
+    {
+      "id": "YPZTQGOAww",
+      "severity": "minor",
+      "type": "glossary_deviation",
+      "description": "\"Your use of a Beta version is at Your sole risk\" → \"vaše korišćenje Beta verzije je isključivo na vaš rizik\"; glosar propisuje \"na sopstveni rizik\". Takođe \"Use of the Services is void where prohibited\" → \"Korišćenje Usluga je ništavo tamo gdje je zabranjeno\" je nespretno za pravni registar.",
+      "suggestion": "\"korišćenje Beta verzije je isključivo na vaš sopstveni rizik\"; \"Korišćenje Usluga je ništavo ako je zabranjeno zakonom\" ili \"ništavo u svim slučajevima u kojima je zabranjeno\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: oba _id-a se poklapaju, broj pasusa (28 i 8) i svi brojevi (11, 14, 30, 48, 90, 2, 3) su isti kao u izvoru, nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika, a ključni pojmovi (uslovi korišćenja, politika privatnosti, nalog, treće lice, Sadržaj, raskinuti/privremeno ukinuti, usluga a ne servis) prate glosar. Registar je odgovarajući za opšte uslove poslovanja (vi/mi, bezlično, bez zakonodavnog tona); uočena odstupanja su isključivo terminološke i stilske prirode (\"troškovi\" za charges, \"akreditivi\", zapis iznosa), bez promjene značenja."
+}

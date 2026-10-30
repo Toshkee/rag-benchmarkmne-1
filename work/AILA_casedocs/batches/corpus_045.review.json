@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "DmH5RiMKpP#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Zahtjev/ustavna tužba nedosljedno: u par. 35 \"Ustavna tužba (writ petition) se odbija\" (izvor: \"The writ petition is dismissed\"), a završna linija glasi \"Zahtjev odbijen.\" (izvor: \"Petition dismissed.\") - isti postupak označen različitim terminima.",
+   "suggestion": "Završnu liniju uskladiti: \"Ustavna tužba odbijena.\" (ili dosljedno \"Zahtjev odbijen\" ako se writ petition svuda vodi kao zahtjev)."
+  },
+  {
+   "id": "DmH5RiMKpP#1",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "\"order of acquittal\" prevedeno kao \"rješenja o oslobađanju\" (par. 25, 33, 35 \"rješenje o oslobađanju\"), dok se u par. 26-34 za acquittal koristi \"oslobađajuća presuda\"; glosar: acquittal → oslobađajuća presuda.",
+   "suggestion": "\"preinačenjem u žalbenom postupku oslobađajuće presude koju je donio prvostepeni sud\"; \"žalbu protiv oslobađajuće presude\"; \"protiv oslobađajuće presude\" umjesto \"rješenja o oslobađanju\"."
+  },
+  {
+   "id": "DmH5RiMKpP#1",
+   "severity": "minor",
+   "type": "glosar/stil",
+   "description": "\"the State stands forward as prosecutor\" → \"Država istupa kao tužilac\" i \"the State as the prosecutor\" → \"Državu kao tužioca\" (par. 29); glosar traži \"javni tužilac (uvijek sa javni)\". Takođe \"on public grounds\" → \"po javnim osnovama\" je tvrd izraz; \"Court\" se naizmjenično piše \"Sud\"/\"sud\" (npr. \"ovaj sud\" u par. 35).",
+   "suggestion": "\"Država istupa kao javni tužilac iz razloga javnog interesa\"; \"krivično pravo predviđa Državu kao javnog tužioca\"; ujednačiti veliko/malo slovo za Sud."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 13 novih redova kao u izvoru, svi brojevi (članovi, godine, brojevi pasusa) i citati (Indlaw SC 134, nazivi stranaka u predmetima) identični izvoru, nema izostavljenih ni dodatih rečenica, a odnos riječi je 0.85. Nema ekavizama ni hrvatskih oblika; registar je prirodan i primjeren obrazloženju presude, a glosar (dekret, writ petition, posebna dozvola, Visoki/Vrhovni sud, optuženi, podnosilac prijave) se poštuje, uz tri manja odstupanja."
+}

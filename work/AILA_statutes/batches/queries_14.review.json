@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00049",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "Dodato '(Vigilance Police)' u 'policija za suzbijanje korupcije (Vigilance Police)' – izvor ima samo 'Vigilance Police'; objašnjenje je dodato, a stilski vodič zabranjuje dodavanja.",
+   "suggestion": "'Vigilance policija (policija za suzbijanje korupcije)' ili samo 'Vigilance policija', dosljedno u ostatku teksta ('ekipa Vigilance policije')."
+  },
+  {
+   "id": "00049",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Superintendent of Police (Vigilance)' preveden kao 'načelniku policije (Vigilance)'; 'načelnik' sugeriše drugi čin.",
+   "suggestion": "'nadzorniku policije (Vigilance)'."
+  },
+  {
+   "id": "00049",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'osudu po prvoj optužbi' (izvor: 'for the conviction under the first charge') – 'osuda' u značenju presude nije pravnički; slično 'drugu osudu'.",
+   "suggestion": "'za osuđujuću presudu po prvoj tački optužbe ... za drugu osuđujuću presudu'."
+  },
+  {
+   "id": "00049",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'ministar u Vladi države' (izvor: 'Cabinet Minister in the State') – glosar traži 'Država' (veliko slovo) za State.",
+   "suggestion": "'ministar u Vladi Države'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id je isti, tokeni P1/P2 i Rs. se pojavljuju isti broj puta, iznosi, datumi (26.4.79 → 26. aprila 1979. godine) i brojevi su tačni, nema ekavizama ni hrvatskih oblika, odnos riječi 0.87. Registar je prirodan i pravnički (žalilac, prva protivna strana, uvaženi sudija, svjedok optužbe), uz nekoliko manjih terminoloških odstupanja."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "4HZKjht3X1",
+   "severity": "minor",
+   "type": "ekavski oblik",
+   "description": "Prevod sadrži „celishodno“ (izvor: „just and expedient“) — ekavski/srpski oblik, miješanje sa ijekavicom.",
+   "suggestion": "Zamijeniti sa „cjelishodno“ (ili „svrsishodno“): „kada sud ocijeni da je to pravično i cjelishodno“."
+  },
+  {
+   "id": "DIq2AnHTmt",
+   "severity": "minor",
+   "type": "izvorna greška / terminologija",
+   "description": "Naslov „Past performance“ preveden vjerno kao „Prethodno izvršenje“, ali tekst odredbe (part performance) govori o djelimičnom izvršenju. Prevod je doslovan prema izvoru; potencijalna greška u izvoru. Takođe „koju je potpisalo ono lično“ je nezgrapno, a „has no notice“ → „nije znao za ugovor“ pomalo sužava značenje.",
+   "suggestion": "Naslov ostaviti doslovno radi vjernosti benchmarku (ne mijenjati). „koju je potpisalo to lice ili neko u njegovo ime“; „koji nije imao saznanja o ugovoru“."
+  },
+  {
+   "id": "phlhHVlnES",
+   "severity": "minor",
+   "type": "terminologija i stil",
+   "description": "„occupier“ → „korisnik“ (uobičajenije „držalac/posjednik“); „his servants and workmen“ → „njegovi službenici i radnici“ ponavlja „službenik“ iz „officer“ pa briše razliku (servants); „od kojih najmanje jedne moraju biti“ je nezgrapno; „sa početkom primjene od . 24. 9. 1984.“ nedosljedno sa „stupilo na snagu“ u drugim itemima; nezgrapna klauza „kada se premjer inače ne može završiti, nivelacija izvršiti i granice i trasa obilježiti“.",
+   "suggestion": "„posjednika/držaoca“; „njegovi pomoćnici i radnici“; „od kojih najmanje jedne mora biti na regionalnom jeziku“; „stupilo na snagu 24. 9. 1984. godine“ (zadržati tačku iz izvora ako je namjerno); „kada se premjer ne može završiti, a nivelacija izvršiti i granice i trasa obilježiti“."
+  },
+  {
+   "id": "OjkeaBKsoR",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Provided that“ preveden „Pod uslovom da“, dok se u ostalim itemima batcha (phlhHVlnES, 4HZKjht3X1, DIq2AnHTmt) isti termin prevodi „Izuzetno“ (glosar: izuzetak). Takođe format datuma „13. 07. 2006.“ sa vodećom nulom.",
+   "suggestion": "„Izuzetno, izuzeće iz člana 132 ... primjenjuje se ...“; datum „13. 7. 2006. godine“ (a u DIq2AnHTmt „24. 9. 2001. godine“)."
+  },
+  {
+   "id": "SstzyshA6P",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„da zastane sa postupkom“ i naslov „zastoj sudskog postupka“ nisu uobičajen pravnički izraz za „stay the proceedings“.",
+   "suggestion": "„da se postupak zastane/prekine“; naslov „Ovlašćenje za prekid (zastoj) sudskog postupka ...“ — dosljedno u cijelom tekstu."
+  },
+  {
+   "id": "HSUPwePut0",
+   "severity": "minor",
+   "type": "stil / dosljednost",
+   "description": "„svako i sva ovlašćenja“ (all and every power) neprirodno; „Naredbu o izvršenju“ (Enforcement Order) dok se „order“ drugdje prevodi „rješenje“.",
+   "suggestion": "„sva ovlašćenja“ ili „svako ovlašćenje“; ili „Rješenje o izvršenju presuda ... iz 1954. godine“ radi dosljednosti."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup _id-ova, svi brojevi i oznake očuvani, nijedna rečenica nije izostavljena ni dodata, a format Naslov:/Opis: je ispravan. Registar je prirodan crnogorsko-pravni (ijekavica, glosar uglavnom dosljedan); jedini ekavizam je „celishodno“, a ostale primjedbe su stilske i terminološke (Izuzetno vs. Pod uslovom da, zastoj postupka)."
+}

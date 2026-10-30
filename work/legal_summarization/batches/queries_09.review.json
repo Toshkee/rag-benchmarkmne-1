@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00218",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor 'in front of the jurisdiction of california' preveden kao 'pred nadležnim sudom u Kaliforniji' (sud umjesto jurisdikcije); dodati i navodnici oko 'Protivobavještenje' kojih u izvoru nema.",
+   "suggestion": "'...da branite svoje pravo pred nadležnošću Kalifornije' ili 'u okviru nadležnosti Kalifornije'; navodnike zadržati samo ako se primjenjuju dosljedno."
+  },
+  {
+   "id": "00207",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "'promotivne mejlove' dok se u ostatku batcha (00215, 00221) koristi 'e-pošta'.",
+   "suggestion": "'promotivne e-poruke' ili 'promotivnu e-poštu'."
+  },
+  {
+   "id": "00200",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'obavještenja o privatnosti' za 'privacy notices' - glosar daje 'politika privatnosti' (kod 00216 koristi se 'politiku privatnosti').",
+   "suggestion": "'Prethodne politike privatnosti kompanije eBay dostupne su za pregled.'"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se poklapa, nema izostavljenog ni dodatog sadržaja, brojevi i tokeni su očuvani (18, 13 i sl.), nema ekavizama ni hrvatizama, a ortografija je normalna. Upiti su kratki i prirodni, uz ispravnu upotrebu glosara (treće lice, nalog, kolačići, ukinuti, nijesu); jedini nalazi su manje terminološke i stilske prirode."
+}

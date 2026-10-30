@@ -1,0 +1,66 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 56: 'The right, title and interest of the Burmah Shell ...' prevedeno kao 'Pravo, pravni osnov i interes društva'. 'Title' ovdje znači vlasnički titular (svojinu), a ne 'pravni osnov'. Isti slučaj kasnije u 'pravo, pravni osnov, interes i obaveze'.",
+      "suggestion": "'Pravo, svojina (titular) i interes ...' ili 'prava, vlasništvo i interesi ...'; dosljedno u oba pomena."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Pasus 60: 'Zapažanja Suda u tom predmetu u pogledu privrednih društava, prema namjeri Suda, nijesu trebalo da se primjenjuju' - nesaglasnost roda i broja (izvor: 'The observation ... were not intended').",
+      "suggestion": "'... nijesu trebala da se primjenjuju' ili 'Sud nije imao namjeru da se zapažanja ... primjenjuju na ...'."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "Nazivi predmeta se djelimično prevode, a djelimično ne: 'Workmen of Hindustan Steel Ltd.' -> 'Radnici Hindustan Steel Ltd.' (pasus 62); 'Commissioner, Union Territory of Chandigarh' -> 'komesara, teritorija Unije Chandigarh' (pasus 61); 'S.L. Agarwal v. General Manager, Hindustan Steel Ltd' -> 'protiv generalnog direktora, Hindustan Steel Ltd' (pasus 60); dok su 'Municipal Corporation, Delhi', 'Project and Equipment Corporation of India Ltd.', 'West Bengal State Electricity Board' zadržani u izvornom obliku. Stav 'Indlaw SC' citati su doslovni (ispravno).",
+      "suggestion": "Dosljedno: 'Workmen of Hindustan Steel Ltd. i drugi protiv Hindustan Steel Ltd. i drugih', 'Commissioner, Union Territory of Chandigarh i drugih', 'S.L. Agarwal protiv General Manager, Hindustan Steel Ltd' (ili dosljedno prevoditi samo 'v.' i 'and others')."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "latinski izraz",
+      "description": "Pasus 58: 'when any person who is or was inter alia a public servant' -> 'između ostalog'. Latinski izrazi se prema vodiču (dio 9) zadržavaju.",
+      "suggestion": "'... službeno lice, inter alia, koje ne može biti razriješeno ...' ili zadržati 'inter alia'."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'perpetual succession and a common seal' (pasusi 57 i 68) prevedeno kao 'trajnim kontinuitetom i zajedničkim pečatom'. Pravni pojam je trajno pravno sljedbeništvo (kontinuitet postojanja pravnog lica). Dosljedno je u oba pomena, ali pojam 'kontinuitet' nije ustaljen.",
+      "suggestion": "'sa trajnim sljedbeništvom i zajedničkim pečatom' (dosljedno u oba pasusa; isto u pasusu 60 'continuous existence and succession' -> 'trajnog postojanja i sukcesije' je u redu)."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 58: 'Metropolitan Magistrate, Delhi' -> 'gradskim magistratom u Delhiju'. Glosar daje 'magistrat / sudski magistrat'; 'gradski' je slobodan dodatak, a 'Delhi' je u istom pasusu napisano i kao 'Nju Delhi' (pasus 57) i 'Delhi' (naziv predmeta) - blagi nesklad u pisanju.",
+      "suggestion": "'metropolitanskim magistratom u Delhiju' ili 'sudskim magistratom u Delhiju'; 'Delhi/Nju Delhi' ujednačiti prema vodiču."
+    },
+    {
+      "id": "FCIX3BYOtD#5",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Pasus 'inclusive definition of Art. 12' -> 'inkluzivnoj definiciji iz člana 12' je kalk iz engleskog; ostatak prevoda je u prirodnom pravničkom registru.",
+      "suggestion": "'široj (obuhvatnoj) definiciji iz člana 12'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (23), svih 24 pasusa/odlomka prisutni bez izostavljanja i dodavanja, tokeni (Rs., brojevi, 118/118 brojeva), citati ('Indlaw SC', brojevi članova, godine) i stranke (žalilac, Indijska Unija, Država) ispravni i dosljedni, bez ekavizama i hrvatskih oblika. Registar je prirodan pravnički (ijekavica, glosar poštovan: član, tačka, nalog (writ), državno privredno društvo, kror). Preostali nedostaci su stilske i terminološke prirode (title -> 'pravni osnov', 'nijesu trebalo', nedosljedno prevođenje naziva predmeta, 'inter alia').",
+  "reviewed_file": "corpus_006.mne.json",
+  "automatic_checks": {
+    "same_ids": true,
+    "newlines_src_vs_mne": "23 vs 23",
+    "word_ratio": 0.888,
+    "token_counts_match": true,
+    "numbers_match": true,
+    "ekavian_forms": [],
+    "croatian_forms": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Twitch takes no responsibility and assumes no liability\" prevedeno kao \"ne preuzima nikakvu obavezu niti snosi bilo kakvu odgovornost\"; \"responsibility\" je preneseno kao \"obavezu\" (obligation), što blago mijenja nijansu.",
+   "suggestion": "\"Twitch ne preuzima nikakvu odgovornost niti snosi bilo kakvu pravnu odgovornost u vezi sa vašim korišćenjem Twitch Sings.\""
+  },
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "dodavanje/stil",
+   "description": "\"Behave ... Conduct yourself in accordance with\" -> \"Ponašajte se pristojno ... Ponašajte se u skladu sa\"; dodato \"pristojno\" kojeg nema u izvoru i ponavljanje glagola.",
+   "suggestion": "\"Ponašajte se prikladno (rokerskim rječnikom: nemojte demolirati hotelsku sobu). Postupajte u skladu sa smjernicama zajednice i ovim uslovima korišćenja.\""
+  },
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ne smijete ostvarivati bilo kakva prava da polažete pravo na izvezeni sadržaj\" je tautološko i nezgrapno (izvor: \"exercise any rights to claim or monetize\").",
+   "suggestion": "\"ne smijete ostvarivati nikakva prava na osnovu kojih biste isticali zahtjev za izvezeni sadržaj ili ga monetizovali\"."
+  },
+  {
+   "id": "phTExIqqB9",
+   "severity": "minor",
+   "type": "stil/gramatika",
+   "description": "U tač. vii i viii: \"osim ako je i samo u mjeri u kojoj je ta aktivnost izričito dozvoljena\" je gramatički nezgrapno (izvor: \"except and only to the extent that\").",
+   "suggestion": "\"osim isključivo u mjeri u kojoj je ta aktivnost izričito dozvoljena zakonom jurisdikcije u kojoj imate prebivalište\" (isto u viii)."
+  },
+  {
+   "id": "phTExIqqB9",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"commit a tort\" -> \"učinite građanskopravni delikt\"; \"delikt\" je rijedak termin, a \"nećete učiniti\" je stilski slabo.",
+   "suggestion": "\"da nećete počiniti građansku (neugovornu) štetu / protivpravnu radnju (tort)\" ili zadržati \"građanskopravni delikt (tort)\"."
+  },
+  {
+   "id": "q0Zf2pCLxb",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "\"sredstvima koja nijesu namjerno učinjena dostupnim putem Sajta\" - nesaglasnost roda/broja (\"dostupnim\" uz srednji rod množine).",
+   "suggestion": "\"sredstvima koja nijesu namjerno učinjena dostupnima putem Sajta\"."
+  },
+  {
+   "id": "ln6Eoie0gV",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Unutar batcha \"services\" je uglavnom \"usluge\" (malim slovom), ali u ovom itemu: \"novodostupne funkcije Usluge, funkcije Usluge\" (velikim slovom, jednina) naspram \"Twitch usluga\" drugdje; izvor ima \"the Service\" u jednini pa je tolerisano, ali velika slova su nedosljedna sa glosarom.",
+   "suggestion": "\"funkcije usluge ... funkcije usluge koje su korisne za korisnika\"."
+  },
+  {
+   "id": "ln6Eoie0gV",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ili izmjene izvršene iz pravnih razloga\" i \"(c) mijenjanje ili na drugi način bilo kakvu izvedenu upotrebu\" su nezgrapne konstrukcije; \"all content ... are protected\" je dobro preneseno.",
+   "suggestion": "\"(c) mijenjanje ili bilo kakvu drugu izvedenu upotrebu Twitch usluga ili Materijala, ili bilo kog njihovog dijela\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je isti, brojevi (6, 7, 8, 14, 30, 9) i broj novih redova se poklapaju, nema ekavizama ni hrvatskih oblika, a glosar (uslovi korišćenja, nalog, korisnički sadržaj, treće lice, usluge) se dosljedno primjenjuje. Registar je formalan i primjeren opštim uslovima poslovanja (vi/mi, bez zakonodavnih formi), uz nekoliko stilskih nezgrapnosti i jednu blagu terminološku nijansu (responsibility -> obaveza). Nema blokirajućih problema."
+}

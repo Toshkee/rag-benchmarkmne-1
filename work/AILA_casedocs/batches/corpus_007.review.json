@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#6:p72-odustano",
+      "severity": "minor",
+      "type": "pravopis / gramatika",
+      "description": "Pasus 72: \"da li je pravilno odustano od disciplinske istrage\" (izvor: \"whether a disciplinary inquiry was validly dispensed with\"). \"odustano\" nije pravilan oblik; \"pravilno\" ne odgovara \"validly\".",
+      "suggestion": "\"da li je valjano odustato od disciplinske istrage\" ili \"da li se valjano odustalo od disciplinske istrage\"."
+    },
+    {
+      "id": "FCIX3BYOtD#6:p77-vlada-trebalo",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Pasus 77: \"a Vlada Indije je trebalo da navedenoj kompaniji obezbijedi iznos takve naknade\" (izvor: \"the Government of India was to provide to the said company the amount\"). Nesaglasnost roda (Vlada ... trebalo).",
+      "suggestion": "\"a Vlada Indije je trebalo da ... obezbijedi\" -> \"a Vlada Indije je bila dužna da navedenoj kompaniji obezbijedi iznos takve naknade\"."
+    },
+    {
+      "id": "FCIX3BYOtD#6:trgovacka",
+      "severity": "minor",
+      "type": "registar / hrvatizam",
+      "description": "Pasus 70: \"trgovačku kompaniju\" (izvor: \"a trading company\"). \"trgovački\" je hrvatski oblik, neuobičajen u crnogorskim propisima.",
+      "suggestion": "\"trgovinsko društvo\" ili \"privredno društvo koje se bavi trgovinom\"."
+    },
+    {
+      "id": "FCIX3BYOtD#6:unconscionable",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasusi 76-81: \"unconscionable term\" prevedeno kao \"nesavjesna odredba\" / \"nesavjesno\". Pojam označava grubo nepravičnu, nerazumnu odredbu; \"nesavjesno\" se odnosi na postupanje lica i ne prenosi značenje. Termin je dosljedan kroz dio, ali nije glosarski propisan.",
+      "suggestion": "Razmotriti \"nepravična (nerazumna) odredba\" ili uz prvi pomen dodati izvorni termin: \"nesavjesna (unconscionable) odredba\"; zadržati dosljedno."
+    },
+    {
+      "id": "FCIX3BYOtD#6:chairman-md",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 78, 80: \"Chairman-cum-Managing Director\" -> \"predsjednika i izvršnog direktora\" (jedno lice sa dvije funkcije; \"i\" može sugerisati dva lica, naročito u \"predsjednika i izvršnog direktora i Odbora direktora\").",
+      "suggestion": "\"predsjednika-izvršnog direktora\" ili \"predsjednika i izvršnog direktora (Chairman-cum-Managing Director)\" pri prvom pomenu."
+    },
+    {
+      "id": "FCIX3BYOtD#6:misc-style",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pleonazam/izbor riječi: pasus 77 \"Ukratko rezimirano\" (To recapitulate briefly); pasus 70 \"javne potrebe\" za \"concern\"; pasus 71 \"različiti po bitnim okolnostima\" za \"distinguishable\"; pasus 3 \"U obrazloženju svoje presude\" za \"In the course of its judgment\"; \"instrumenti\" za \"instrumentalities\" (pasus 75, 8).",
+      "suggestion": "\"Da rezimiramo\" / \"Ukratko podsjećamo\"; \"javni interes, zainteresovanost i opšte dobro\"; \"koji se mogu razlikovati\"; \"U svojoj presudi\"; \"instrumentalnosti/organi (instrumentalities)\" ujednačeno."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 22 reda (pasusa) izvora je prevedeno redom, broj novih redova (21), _id, tokeni i svi brojevi (članovi, pravila, predmeti, godine, citati Indlaw SC) se poklapaju, a odnos riječi je 0.87. Procesne uloge (žalilac / protivna strana) su dosljedno i tačno raspoređene u cijelom dijelu, ijekavica i \"nijesu\" su dosljedni, glosar je poštovan (Visoki sud, član, Pravilnik, poziv za izjašnjenje, optužni akt). Registar je prirodan pravnički; jedine primjedbe su sitni stilski i gramatički propusti."
+}

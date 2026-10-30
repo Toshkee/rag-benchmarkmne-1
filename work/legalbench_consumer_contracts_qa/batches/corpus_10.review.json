@@ -1,0 +1,12 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {"id":"zHzmA4KR1V","severity":"minor","type":"terminologija","description":"\"defamatory, or libelous\" prevedeno kao \"klevetnički ili uvredljiv\"; \"uvredljiv\" (offensive) nije \"libelous\" i blago pomjera značenje.","suggestion":"\"klevetnički ili kleveta predstavljajući\" nije potrebno; jednostavnije: \"... obmanjujući, varljiv, klevetnički ili pogrdan (libelous) sadržaj\" ili \"klevetnički ili sramotni sadržaj\"."},
+  {"id":"nnBbuQzkCh","severity":"minor","type":"dodavanje","description":"U izvoru stoji samo \"bid\"/\"winning bid\"; prevod dodaje \"na aukciji\" (\"prije nego što date ponudu na aukciji\", \"pobjedničku ponudu na aukciji\", \"ponuda na aukciji ili ponuda\") — dodatno pojašnjenje kojeg nema u izvoru.","suggestion":"\"prije nego što date ponudu\", \"imate pobjedničku ponudu\", \"ponuda ili ponuda za kupovinu pokreće\" (bez \"na aukciji\")."},
+  {"id":"nnBbuQzkCh","severity":"minor","type":"registar/terminologija","description":"\"Uniform Commercial Code\" → \"Jedinstvenog trgovačkog zakonika\"; \"trgovačkog\" je hrvatskog tipa i nije u duhu propisa CG.","suggestion":"\"Jedinstvenog trgovinskog zakonika (Uniform Commercial Code)\"."},
+  {"id":"zHzmA4KR1V","severity":"minor","type":"terminologija","description":"\"Intellectual Property Rights\" u definiciji dato kao \"Prava intelektualne svojine\" a \"propuštati da platite\"/\"vidjeti našu Politiku\" su u redu; međutim \"hostovani sadržaj\" (hosted content) je anglicizam.","suggestion":"\"sadržaj koji se nalazi na našim serverima\" ili \"smješteni sadržaj\"."},
+  {"id":"P1uRr6YICt","severity":"minor","type":"terminologija","description":"\"legal counsel\" → \"pravne zastupnike\"; uobičajeniji termin je advokati (stilski vodič: advokat).","suggestion":"\"angažovati agencije za naplatu potraživanja i advokate\"."}
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova (26/8/5/14), brojevi (18, 14, 60, 7700, 78729, 70A-2-401(2), 2-401(2)) i adresa očuvani, odnos riječi 0.96-1.00, nema ekavizama ni kroatizama. Registar je formalan, ugovorni, sa dosljednim glosarom (Usluge, nalog, treće lice, privremeno ukinuti, saglasnost, isključiva procjena, vi/vaš); pronađene su samo manje stilske i terminološke primjedbe."
+}

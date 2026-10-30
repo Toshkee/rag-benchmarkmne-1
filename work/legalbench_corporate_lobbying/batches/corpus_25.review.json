@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "mn1uj3a1ii",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodat gloss koji ne postoji u izvoru: „ukida se poništenje (rescisija) sredstava“ (izvor: „repeals a rescission of state highway funding“).",
+   "suggestion": "Ukloniti zagradu: „ukida se rescisija sredstava za autoputeve država“ ili „ukida se poništenje sredstava...“ bez dodatnog glosa."
+  },
+  {
+   "id": "mn1uj3a1ii",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Zakon o odobrenju programa Calfed Bay-Delta“ dodaje riječ „programa“ koje nema u izvoru („the Calfed Bay-Delta Authorization Act“). Takođe „do isteka postojeće CR nakon 21. novembra 2019. godine“ je nejasno (izvor: „expires after November 21, 2019“).",
+   "suggestion": "„Zakon o odobrenju Calfed Bay-Delta“; „do isteka postojeće CR, nakon 21. novembra 2019. godine“ ili „koja ističe poslije 21. novembra 2019. godine“."
+  },
+  {
+   "id": "8BZqzOlnZT",
+   "severity": "minor",
+   "type": "stil/gramatika",
+   "description": "„dodatne nadoknadne doprinose“ je pleonazam za „catch-up contributions“; takođe nespretna konstrukcija „Predlogom zakona se takođe: (1) HSA izuzimaju od potraživanja povjerilaca u stečaju i (2) ponovo odobravaju Medicaid računi...“ (nedostaje „se“ uz svaki glagol).",
+   "suggestion": "„dodatne doprinose (catch-up)“; „Predlogom zakona se takođe: (1) HSA izuzimaju od potraživanja povjerilaca u stečaju i (2) ponovo odobravaju Medicaid računi zdravstvenih mogućnosti“ preformulisati u „(1) HSA se izuzimaju ..., a (2) ponovo se odobravaju ...“."
+  },
+  {
+   "id": "kWCRNYdWCs",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Naziv „Zakon o transparentnosti privrednih društava“ (izvor: „Corporate Transparency Act“) nije dosljedan tijelu teksta, gdje se „corporation“ prevodi kao „korporacija“, a „limited liability company“ kao „društvo sa ograničenom odgovornošću“.",
+   "suggestion": "„Zakon o korporativnoj transparentnosti iz 2019. godine“."
+  },
+  {
+   "id": "uJJEvQdgWC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Zakon o snu (Dream Act) iz 2019. godine“ doslovno prevodi „Dream“ kao „san“, iako je riječ o akronimu (Development, Relief, and Education for Alien Minors) i ustaljenom nazivu; čitaocu se gubi veza sa izvornim imenom.",
+   "suggestion": "„Zakon DREAM (Dream Act) iz 2019. godine“."
+  },
+  {
+   "id": "JnOng0wVJY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pogrešno raščlanjen naziv: „unapređenju tehnologije i inovacijama“ (izvor: „Upgrading and Innovating Technology“ — oba participa se odnose na tehnologiju); „reformi ispitivača“ za „Examiner Reform“ je dvosmisleno. Takođe „laws“ → „propisi“ („propisa o sprječavanju pranja novca“) umjesto „zakona“.",
+   "suggestion": "„Zakon o koordinaciji nadzora, unapređenju i inovacijama u tehnologiji i reformi kontrolora iz 2019. godine“; „zakona o sprječavanju pranja novca i finansiranja terorizma“."
+  },
+  {
+   "id": "7CRBsQYXzE",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„svakom posjedu SAD-a“ za „U.S. possession“ je neprirodno i može se pročitati kao imovinsko pravo; navedeni primjeri su teritorije.",
+   "suggestion": "„svakoj teritoriji SAD-a“ (uz „tj.“ nabrajanje), dosljedno u oba pomena."
+  },
+  {
+   "id": "6UmFFciuDC",
+   "severity": "minor",
+   "type": "format/dosljednost",
+   "description": "Dosljednost kratkih naziva u batchu: SAFE „odnosno Zakon o bezbjednom bankarstvu (SAFE Banking Act of 2019)“, COUNTER „Zakon COUNTER (COUNTER Act of 2019)“, INVEST „Zakon INVEST (INVEST Act)“, FAIR RATES „Zakon FAIR RATES (FAIR RATES Act of 2019)“ — godina se u prevedenom dijelu nekad izostavlja, a u zagradi nekad ostaje, nekad ne.",
+   "suggestion": "Ujednačiti obrazac: „..., odnosno Zakon X iz 2019. godine (X Act of 2019)“ za sve nazive; INVEST bez „iz 2019.“ samo ako ga izvor nema."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 12 _id-ova je očuvano, nema izostavljenih ni dodatih rečenica, brojevi, datumi i iznosi ($6,750, $24,000, $250,000, 25%, 20. decembar, 21. novembar) su tačni, nema ekavizama ni kroatizama, a broj novih redova odgovara izvoru. Registar je odgovarajući obrazloženju predloga zakona („Ovim predlogom zakona...“, normativni prezent), glosar (država, Ministarstvo X, GAO, fiskalna godina, budžetska sredstva) je dosljedno primijenjen. Preostali nalazi su stilske i terminološke prirode (nazivi zakona, pojedine nespretne konstrukcije)."
+}

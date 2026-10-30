@@ -1,0 +1,77 @@
+{
+  "n_blocking": 0,
+  "n_minor": 10,
+  "issues": [
+    {
+      "id": "a67h9DpLm4",
+      "severity": "minor",
+      "type": "gramatika/struktura",
+      "description": "Paralelna konstrukcija (1)/(2) je gramatički neuredna: „uključujući i to da se (1) NOAA nalaže da pribavi mišljenje javnosti ... i (2) NOAA dozvoli da postavlja senzore“. Izvor: „including to (1) direct NOAA to seek public input ... and (2) allow NOAA to deploy sensors“. Značenje je uglavnom očuvano, ali drugi član nije u istom obliku kao prvi.",
+      "suggestion": "„uključujući i to da se (1) NOAA nalaže da pribavi mišljenje javnosti ... i (2) NOAA dozvoljava da postavlja senzore u područjima ...“"
+    },
+    {
+      "id": "h1Ba7mQiOj",
+      "severity": "minor",
+      "type": "kratki naziv/bekronim",
+      "description": "Naziv sa bekronimom: „... iz 2019. godine ili Zakon VACCINES iz 2019. godine“. Dio 8 propisuje puni naziv, a skraćenicu u zagradi („Zakon ... (VACCINES Act)“). Isto važi za iv7RyK6txX („ili Zakon SAFE o bolnicama iz 2019. godine“) i MrtFmYHyNZ („ili Zakon SPIKE“). Brojevi i tokeni su ispravni.",
+      "suggestion": "Uskladiti obrazac u cijelom batchu, npr. „Zakon o kampanji ... iz 2019. godine (VACCINES Act of 2019)“, ili svuda ostaviti „ili Zakon X“ i to navesti kao odluku."
+    },
+    {
+      "id": "V1YFjtFi02",
+      "severity": "minor",
+      "type": "dodavanje riječi",
+      "description": "„privlačenje novih lovaca i privlačenja novih rekreativnih strijelaca“ i „privlačenje novih učesnika u lovu“: izvor kaže samo „hunter recruitment“ i „recreational shooter recruitment“, bez „novih“. Riječ „novih“ je dodata.",
+      "suggestion": "„regrutovanje lovaca“ / „regrutovanje rekreativnih strijelaca“ (ili „privlačenje lovaca i rekreativnih strijelaca“), uz isti termin kroz cijeli item."
+    },
+    {
+      "id": "MbyIbNiCdx",
+      "severity": "minor",
+      "type": "glosar/skraćenica",
+      "description": "„Vladinoj kancelariji za reviziju“ bez „(GAO)“; glosar traži „Vladina kancelarija za reviziju (GAO)“ pri prvom pomenu. Takođe „Veteran Business Outreach Center“ → „Centar za poslovnu podršku veteranima“ gubi „outreach“ (informisanje, dopiranje).",
+      "suggestion": "„Vladinoj kancelariji za reviziju (GAO)“; „Centar za poslovno informisanje i podršku veteranima“."
+    },
+    {
+      "id": "ppaX3QjBvK",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„mine drainage“ preneseno kao „rudničkih otpadnih voda“ / „smanjenje otpadnih voda“; „otpadne vode“ nijesu isto što i rudnička drenaža. „Operator“ preneseno kao „rukovalac“ („vlasnik ili rukovalac bilo koje lokacije“).",
+      "suggestion": "„sanacije rudničke drenaže (kiselih rudničkih voda)“, „smanjenje rudničke drenaže“; „vlasnik ili operater bilo koje lokacije“."
+    },
+    {
+      "id": "pU2fBReIdH",
+      "severity": "minor",
+      "type": "registar",
+      "description": "„incentive payment“ → „stimulativno plaćanje“ je neprirodno za pravni registar.",
+      "suggestion": "„podsticajno plaćanje“ ili „podsticajna isplata“."
+    },
+    {
+      "id": "MrtFmYHyNZ",
+      "severity": "minor",
+      "type": "dodavanje/terminologija",
+      "description": "„subject to civil penalties“ → „pod prijetnjom građanskopravnih novčanih kazni“. „Pod prijetnjom“ je dodata nijansa, a „civil penalties“ se odnosi na građanske (upravne) novčane kazne.",
+      "suggestion": "„uz primjenu građanskih novčanih kazni“ ili „podliježu građanskim novčanim kaznama“."
+    },
+    {
+      "id": "xavU07zUHL",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "„internet ili digitalno političko oglašavanje“ uz „onlajn platforme“ u istom itemu; za „internet or digital“ i „online“ koriste se različiti oblici. Takođe „onlajn“ je kalk, dok glosar koristi „sajt“, „e-pošta“ (domaći oblici).",
+      "suggestion": "Dosljedno „onlajn“ ili „internetske/internetske platforme“ u cijelom batchu; razmotriti „internet platforme“."
+    },
+    {
+      "id": "u8zF9OHzlw",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„estate and gift tax exemption amount“ → „iznos oslobođenja od poreza na nasljeđe i poklone“. Estate tax nije porez na nasljeđe (inheritance tax) nego porez na imovinu ostavioca. Sadržaj je inače potpun (sve stavke nabrajanja prisutne).",
+      "suggestion": "„iznos oslobođenja od poreza na ostavinu (estate tax) i poklone“ ili „poreza na imovinu ostavioca i na poklone“."
+    },
+    {
+      "id": "XRvj7uff0L",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„Native American“ dosljedno preneseno kao „Indijanci / indijanski“ (u skladu sa glosarom za „Indian tribe“), ali je naslov sa zaostalim razmakom na kraju („... za Indijance “) preuzet iz izvora, što je ispravno; „Sec.“ → „Član“ je prihvatljivo, ali „Grant applicants“ → „Podnosioci zahtjeva za grant“ je u skladu sa glosarom. Jedino: „Interior“ (kratko) svuda razvijeno u „Ministarstvo unutrašnjih poslova“ — dosljedno, ali dugo; nije greška.",
+      "suggestion": "Bez izmjena; zabilježeno radi dosljednosti u narednim batchevima (isti prevod za „Native American“ i „Interior“)."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: identičan skup _id-ova (13/13), svi tokeni i brojevi se poklapaju, broj novih redova je isti, odnos riječi je 0.94–1.21, a nema ekavskih ni hrvatskih oblika. Nijesu nađeni izostavljeni ni dodati sadržaji koji mijenjaju značenje, pa nema blokirajućih nalaza. Registar je dosljedan pravnom stilu obrazloženja predloga zakona („Ovim predlogom zakona nalaže se...“), a preostale primjedbe su sitne terminološke i stilske."
+}

@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "00036",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "Skraćenica NOAA izostavljena: izvor 'Administrator of the National Oceanic and Atmospheric Administration' → prevod 'administratora Nacionalne uprave za okeane i atmosferu' bez skraćenice. Glosar (dio 8) traži skraćenicu u zagradi pri prvom pomenu.",
+   "suggestion": "'administratora Nacionalne uprave za okeane i atmosferu (NOAA)'"
+  },
+  {
+   "id": "00025",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "'za razvoj energetike i vodoprivrede i povezane agencije' — 'related agencies' je dio objekta 'za ... i povezane agencije', pa je padež neusklađen i dvosmislen.",
+   "suggestion": "'za razvoj energetike i vodoprivrede i povezane agencije' → 'za razvoj energetike i vodoprivrede i povezanih agencija'"
+  },
+  {
+   "id": "00031",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'medijalnih cijena' za 'median prices' nije uobičajen pravni/statistički izraz.",
+   "suggestion": "'od medijane cijena po kojima su ti ljekovi dostupni u drugim zemljama' (ili 'srednjih (medijalnih) cijena')"
+  },
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "style",
+   "description": "'Kojim se uređuju prenosi sredstava' za 'To provide for transfers' — množina je neprirodna; ostali upiti koriste jedninu ('uređuje upravljanje').",
+   "suggestion": "'Kojim se uređuju prenosi sredstava u penzijski plan UMWA iz 1974. godine i snižavanje minimalne starosne granice...' → 'Kojim se uređuje prenos sredstava u penzijski plan UMWA iz 1974. godine i snižavanje minimalne starosne granice...'"
+  },
+  {
+   "id": "00030",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'Federal employees' preveden kao 'saveznih službenika'; 'employees' je zaposleni, a 'službenik' je u glosaru za officer.",
+   "suggestion": "'putovanja saveznih zaposlenih avionom u službene svrhe'"
+  },
+  {
+   "id": "00021",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'National Sea Grant College Program Act' → 'Zakon o Nacionalnom programu pomorskih grantova za koledže' — 'Sea Grant' je naziv programa; prevod 'pomorskih grantova' je slobodan, a 'koledže' netačno kao 'za koledže'.",
+   "suggestion": "'Zakon o Nacionalnom programu koledža Sea Grant' (ili uz prevod: 'pomorskih grantova za koledže (Sea Grant)')"
+  },
+  {
+   "id": "00038",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'wildlife conservation' → 'zaštite divljih životinja'; 'conservation' je očuvanje.",
+   "suggestion": "'radi modernizacije finansiranja očuvanja divljih životinja'"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, brojevi i godine (1974, 1986, 2009, 2019, 2020, XI, XVIII) su očuvani, nema ekavizama ni kroatizama, obrazac 'Predlog zakona kojim se...' odnosno 'Kojim se...' dosljedno slijedi izvor, svaki upit je jedna rečenica bez sadržaja iz polja context. Registar je primjeren pravnom jeziku; preostale primjedbe su sitne terminološke i stilske (NOAA, padež, 'medijalnih', 'službenika')."
+}

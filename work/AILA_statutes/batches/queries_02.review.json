@@ -1,0 +1,70 @@
+{
+ "n_blocking": 3,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00005",
+   "severity": "blocking",
+   "type": "pogrešno značenje / pogrešna strana",
+   "description": "Prevod: „Desi katta i nož koji su oduzeti od okrivljenog P3 je predao službeniku koji vodi istragu (IO)“. Izvor: „seized from the accused were given to the IO by P3“. Bez zareza i sa neprirodnim redom riječi, „okrivljenog P3“ se čita kao da je okrivljeni P3 (okrivljeni je P4, P3 je viši policajac koji je predmete predao).",
+   "suggestion": "„Desi katta i nož, koji su oduzeti od okrivljenog, službeniku koji vodi istragu (IO) predao je P3.“"
+  },
+  {
+   "id": "00005",
+   "severity": "blocking",
+   "type": "pogrešno značenje",
+   "description": "Prevod: „optužbe po utvrđene protiv optuženog-žalioca“. Izvor: „charges under were framed against the accused-appellant“. „Framed charges“ je formulisanje/podizanje optužbe; „utvrđene“ znači utvrđene kao osnovane, što mijenja značenje. Dangling „po“ (izostavljen član u izvoru) je vjerno izvoru.",
+   "suggestion": "„optužbe po [član izostavljen u izvoru] formulisane su protiv optuženog-žalioca“ (ili „podignute su optužbe po ...“)."
+  },
+  {
+   "id": "00007",
+   "severity": "blocking",
+   "type": "pogrešno značenje",
+   "description": "Prevod: „Uvaženi sudija Sesijskog suda utvrdio je optužbe protiv oba žalioca“. Izvor: „The learned Sessions Judge framed charges against both the appellants“. „Utvrdio optužbe“ ukazuje na utvrđivanje osnovanosti (krivice), a u izvoru je riječ o formulisanju optužbi; u kontradikciji je sa kasnijim oslobađanjem.",
+   "suggestion": "„Uvaženi sudija Sesijskog suda formulisao je optužbe protiv oba žalioca.“"
+  },
+  {
+   "id": "00005",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Head Constable P3“ preveden kao „Viši policajac P3“ - nije ustaljen naziv čina.",
+   "suggestion": "Dosljedno „glavni policajac P3“ (ili „narednik P3“)."
+  },
+  {
+   "id": "00007",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„High Court (Aurangabad Bench)“ -> „Visokog suda (Vijeće u Aurangabadu)“; „vijeće“ je sudsko vijeće, a ne ogranak suda.",
+   "suggestion": "„Visokog suda (Odjeljenje u Aurangabadu)“ ili „(ogranak u Aurangabadu)“."
+  },
+  {
+   "id": "00007",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„Seoski policijski starješina (Police Patil)“ - dodat opisni prevod uz izvorni naziv; izvor ima samo „Police Patil of the village“.",
+   "suggestion": "„Police Patil sela“ ili jedan oblik, bez dodatnog objašnjenja."
+  },
+  {
+   "id": "00004",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„Optuženi su saslušani o inkriminišućim dokazima i okolnostima“ (izvor: „examined about the incriminating evidence and circumstances“) - „inkriminišući“ je neprirodan za registar propisa; „nasilno neovlašćeno ušli“ za „forcibly trespassed“ je trom.",
+   "suggestion": "„Optuženima su predočeni dokazi i okolnosti koji ih terete“; „nasilno su ušli na tuđe zemljište“."
+  },
+  {
+   "id": "00004",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "„learned (Additional) Sessions Judge“ -> „uvaženi dodatni sudija“ / „uvaženi sudija“ (00004, 00007), dok je „uvaženi“ u glosaru vezan za zastupnika; „conviction“ je „osuđujuća presuda“ u 00004 i 00007, a „osuda/osude“ u 00006.",
+   "suggestion": "Ujednačiti termin za conviction na nivou batcha i dosljedno rješavati „learned“."
+  },
+  {
+   "id": "00006",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„altered and even mutilated the cash book“ -> „izmijenio, pa čak i oštetio blagajničku knjigu“; „oštetio“ je preširoko za „mutilated“ (nagrđivanje/uništavanje sadržaja).",
+   "suggestion": "„izmijenio, pa čak i unakazio blagajničku knjigu“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup _id-ova, svi tokeni (P*, Rs.) i brojevi se podudaraju (razlike u brojevima potiču samo od pretvaranja datuma u crnogorski format), nema ekavskih ni hrvatskih oblika, odnos riječi 0.90-0.98. Registar je uglavnom pravnički i u skladu sa vodičem (ijekavica, glosar žalilac/optuženi/Visoki sud/strogi zatvor), a tri blokirajuća nalaza su semantička (\"utvrditi optužbe\" umjesto formulisati, dvosmislena rečenica o predaji oružja)."
+}

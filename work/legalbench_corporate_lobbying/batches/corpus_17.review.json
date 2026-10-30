@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "22wjZRL9Oa",
+      "severity": "minor",
+      "type": "terminologija/nedosljednost",
+      "description": "Nedosljedan oblik riječi „lijek/ljek“ u istom itemu: „produžava tržišna isključivost proizvođača za taj lijek“ i „lijek je uklonjen sa liste odobrenih ljekova“, a na ostalim mjestima „proizvođač ljeka“, „već odobrenog ljeka“, „ljekova“. Izvor: „that drug“, „the drug was removed“.",
+      "suggestion": "Ujednačiti prema crnogorskoj normi (Zakon o ljekovima): „za taj ljek“, „ljek je uklonjen sa liste odobrenih ljekova“."
+    },
+    {
+      "id": "22wjZRL9Oa",
+      "severity": "minor",
+      "type": "stil",
+      "description": "„a da se pritom ne dokaže da novi patenti služe svrsi od značaja“ — nezgrapno za „meaningful purpose“; i „bitnim finansijskim razlozima“ za „substantial financial considerations“. Značenje je očuvano.",
+      "suggestion": "„služe značajnoj svrsi koja nije ograničavanje konkurencije...“; „značajnim finansijskim razmatranjima koja nijesu povezana sa ograničavanjem konkurencije“."
+    },
+    {
+      "id": "IgrHvzxELc",
+      "severity": "minor",
+      "type": "stil/terminologija",
+      "description": "„adekvatnost kontrola kontrolora u pogledu privatnosti i bezbjednosti podataka“ (izvor: „sufficiency of the controller's data privacy and security controls“) — ponavljanje „kontrol-“ je nezgrabno. Takođe „obtain“ je u istoj rečenici dato i kao „pribave“ (saglasnost) i kao „obezbijede“ (reviziju), a „provide“ takođe kao „obezbijede“ (politiku).",
+      "suggestion": "„...kojom se ocjenjuje dovoljnost mjera kontrolora za zaštitu privatnosti i bezbjednost podataka“; za „obtain an annual privacy audit“ koristiti „pribave“, za „provide“ — „obezbijede/dostave“."
+    },
+    {
+      "id": "IgrHvzxELc",
+      "severity": "minor",
+      "type": "format",
+      "description": "Naziv zakona nije odvojen novim redom od prvog pasusa („...kontroli ličnih podataka Ovim predlogom zakona“). To vjerno preslikava izvor („Control ActThis bill“, 0 novih redova u oba teksta), pa broj novih redova odgovara. Isto u itemu 22wjZRL9Oa („iz 2019. godine Ovim predlogom“).",
+      "suggestion": "Nije potrebna izmjena radi poklapanja sa izvorom; napomena samo da je to artefakt izvora, a ne greška prevoda."
+    },
+    {
+      "id": "Q7iLWceWwx",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„raznolikost lica po osnovu pola, rase...“ — izvor „gender“ prenijet kao „pola“ (sex), dok je „gender identity“ ispravno „rodnog identiteta“; time se unosi blaga nedosljednost. Takođe nabrajanje glagola u nizu mijesa svršeni i nesvršeni vid („da razvije... da sprovodi... da sponzoriše... da proširi“).",
+      "suggestion": "„po osnovu roda, rase, ...“; ujednačiti vid glagola, npr. „da razvije... sprovede... sponzoriše... primijeni... stvori... i proširi“."
+    },
+    {
+      "id": "LojIIf94Ch",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„zatečenog SAW-a“ za „grandfathered SAW“ nije ustaljen pravnički izraz; „obeštećenje lica koja predaju SAW“ za „compensate individuals who surrender“ je preusko (obeštećenje je odštetni pojam).",
+      "suggestion": "„SAW-a koji je pribavljen prije stupanja zakona na snagu (grandfathered)“ ili „zatečenog (grandfathered) SAW-a“; „za isplatu naknade licima koja predaju SAW ili LCAFD“."
+    },
+    {
+      "id": "zJ9oQ0O1Vf",
+      "severity": "minor",
+      "type": "dodavanje/naziv",
+      "description": "Naslov: „Zakon o izmjenama i dopunama propisa o Korpusu oficira...“ — riječ „propisa“ ne postoji u izvoru („...Commissioned Officer Corps Amendments Act of 2019“); mijenja se i predmet izmjena.",
+      "suggestion": "„Zakon o izmjenama i dopunama zakona o Korpusu oficira Nacionalne uprave za okeane i atmosferu iz 2019. godine“ (ili „Zakon o izmjenama Korpusa oficira...“)."
+    },
+    {
+      "id": "ijULzIDHPn",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "„the government“ je dato kao „vlade“ („u vlasništvu ili pod kontrolom vlade“, „koji koristi vlada“); glosar: federal government → savezna vlada, Government → Vlada. U izvoru je riječ o saveznoj vladi SAD-a.",
+      "suggestion": "„u vlasništvu ili pod kontrolom savezne vlade“; „IoT uređaj koji koristi savezna vlada“."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 15 _id-ova se poklapa, brojevi, datumi i novi redovi su identični izvoru, odnos dužine je 0,88–1,31, nema ekavskih ni hrvatskih oblika, a glosar iz dijela 8 (predlog zakona, Ministarstvo X, država, indijansko pleme, kratki nazivi sa skraćenicom u zagradi) primijenjen je dosljedno. Nije nađeno izostavljanje, dodavanje sadržaja ni promjena značenja; preostale primjedbe su isključivo stilske i terminološke prirode. Registar odgovara obrazloženju predloga zakona (Ovim predlogom zakona uređuje se/nalaže se…, normativni prezent umjesto „će“)."
+}

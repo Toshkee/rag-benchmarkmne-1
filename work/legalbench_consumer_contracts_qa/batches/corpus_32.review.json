@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "ArQEPcyLas",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"credit\" je preveden kao \"kredit\" (\"izvršimo povraćaj sredstava ili odobrimo kredit\", \"nijesmo obavezni ... sličan povraćaj\"). U crnogorskom \"kredit\" znači zajam, pa je značenje dvosmisleno. Izvor: \"issue refunds or credits\".",
+      "suggestion": "\"izvršimo povraćaj sredstava ili odobrimo naknadu u vidu sredstava/kredita na nalogu (kredit na nalogu)\" ili \"odobrimo odgovarajući iznos u korist vašeg naloga\"."
+    },
+    {
+      "id": "ArQEPcyLas",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"Redemption ... of gift cards\" preveden kao \"Iskorišćavanje i korišćenje poklon kartica\" – tautologija i neprecizan termin.",
+      "suggestion": "\"Unovčavanje i korišćenje poklon kartica\"."
+    },
+    {
+      "id": "nipuaUkxRF",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"you are directing them to make Third-Party Apps and Services available to you\" → \"nalažete Uslugama da vam učine dostupnim\" – \"nalažete\" je pretjerano naredbodavno i neprirodno u ugovornom tekstu.",
+      "suggestion": "\"usmjeravate ih da vam učine dostupnim Aplikacije i usluge trećih lica\"."
+    },
+    {
+      "id": "nipuaUkxRF",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "Nedosljedno pisanje veliko/malo slovo za definisane pojmove i zamjenice: \"Vaš sadržaj ili Podatke\" / \"Vaših sadržaja\" naspram \"vaš pristup\", \"vašeg naloga\" (isti dokument i batch). Stilski vodič traži \"vi/vaš malim slovom\".",
+      "suggestion": "Koristiti \"vaš sadržaj ili Podatke\" (malo \"v\") dosljedno u svim itemima (nipuaUkxRF, nFbmOHnKYa, ArQEPcyLas)."
+    },
+    {
+      "id": "nFbmOHnKYa",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "\"Vaš sadržaj\" velikim V, dok je u istoj rečenici \"svoje Podatke\"; \"redistribuiranje\" i \"Bird's eye snimke\" ostavljeno neprevedeno/kalkirano.",
+      "suggestion": "\"svoje Podatke ili svoj sadržaj\"; \"ponovnu distribuciju\"; \"snimke iz ptičje perspektive (Bird's eye)\"."
+    },
+    {
+      "id": "wW1uhw3U3x",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "\"websites\" je u batchu prevedeno kao \"internet stranicama\" (nipuaUkxRF, wW1uhw3U3x), \"veb-sajt\" (ArQEPcyLas) i \"sajt\" (wW1uhw3U3x, \"tom sajtu\"/\"Sajtu\"). Takođe \"other parties\" → \"drugih lica\" u Q7iLWceWwx umjesto \"strana\".",
+      "suggestion": "Ujednačiti na \"internet stranica\" (i \"Sajt\" za definisani pojam \"Site\") kroz cijeli batch; \"drugih strana\" za \"other parties\"."
+    },
+    {
+      "id": "Q7iLWceWwx",
+      "severity": "minor",
+      "type": "registar",
+      "description": "12.2: \"Nothing ... will serve to preempt the promises made in our Privacy Policy\" → \"neće imati dejstvo isključivanja obećanja datih u našoj Politici privatnosti\" – nejasno i kalkirano (\"preempt\" = pretegnuti/zamijeniti).",
+      "suggestion": "\"Ništa u ovim Uslovima korišćenja ne dovodi u pitanje niti zamjenjuje obaveze preuzete u našoj Politici privatnosti.\""
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova i naslova, svi brojevi i URL-ovi očuvani, nema izostavljanja, dodavanja ni promjene značenja (rokovi 90/15/24 dana, jedna godina, \"nijesu/nijesmo\" i ijekavica ispravni, bez ekavizama i hrvatizama). Registar je prirodan formalan ugovorni jezik uz glosar (usluge, nalog, politika privatnosti, treća lica, mjerodavno pravo, privremeno ukinuti); preostale su samo sitne stilske nedosljednosti (veliko/malo slovo u \"Vaš sadržaj\", sajt/internet stranica) i dvosmisleni \"kredit\"."
+}

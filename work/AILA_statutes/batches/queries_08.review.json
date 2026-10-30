@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "00025",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Neslaganje roda/lica u konstrukciji „je trebalo da“: „protivna strana je trebalo da plati Rs.80,000“, „On je trebalo da deponuje Rs.15,000“, „žalilac br. I je trebalo da ... preda“, „protivna strana je trebalo da vrati“, „a on je trebalo da zaračuna“ (izvor: „was to be paid / he was to deposit / was to return / was to hand over“).",
+   "suggestion": "„protivna strana je bila dužna da plati“, „on je bio dužan da deponuje“ (ili „on je trebao da deponuje“), „žalilac br. I je trebao da preda“, „protivna strana je bila dužna da vrati“, „a on je mogao da zaračuna / trebalo je da zaračuna“."
+  },
+  {
+   "id": "00025",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Predlog za odlaganje koji su podnijeli žalioci je odbijen“ za „notice of motion for stay taken out by the Appellants was dismissed“ - gubi se „notice of motion“ i „stay“ je preneseno kao „odlaganje“.",
+   "suggestion": "„Zahtjev žalilaca za obustavu (privremenu obustavu izvršenja) je odbijen“; „odbijen“ je prihvatljivo za „dismissed“."
+  },
+  {
+   "id": "00025",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„protivna strana kao podnosilac zahtjeva ima pravo da od žalilaca vrati u posjed spornu zgradu“ za „the Respondent-claimant was entitled to recover possession of the disputed building from the Appellants“ - nepravilna konstrukcija („vrati u posjed“) i „claimant“ je preneseno kao „podnosilac zahtjeva“.",
+   "suggestion": "„protivna strana, kao tražilac (tužilac) u arbitraži, ima pravo da od žalilaca povrati posjed sporne zgrade“."
+  },
+  {
+   "id": "00026",
+   "severity": "minor",
+   "type": "značenje/nijansa",
+   "description": "„izostanak savjesne ocjene od strane organa koji je odredio pritvor“ za „non-application of mind on the part of the detaining authority“ - „savjesne“ unosi nijansu koje nema u izvoru.",
+   "suggestion": "„nepostojanje samostalne ocjene (nerazmatranje predmeta) od strane organa koji je odredio pritvor“."
+  },
+  {
+   "id": "00026",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„Ova žalba je, međutim, i dalje održavana kao postupak“ za „This appeal, however, has been pressed as a proceeding“ - dodato „i dalje“; „pressed“ znači da se na žalbi insistira.",
+   "suggestion": "„Na ovoj žalbi se, međutim, insistira kao na postupku koji je pokrenut protiv žalioca“."
+  },
+  {
+   "id": "00026",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„izvršni direktor društva“ za „Managing Director of a company“ - uobičajeniji prevod u pravnom registru je „direktor“/„generalni direktor“.",
+   "suggestion": "„generalni direktor društva“."
+  },
+  {
+   "id": "00026",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "„preko jednog kanala“ za „through a Channel“ - veliko slovo u izvoru sugeriše naziv (npr. kanal/ostrva), prevodom se gubi ta informacija.",
+   "suggestion": "Zadržati velikim slovom: „preko jednog „Channel““ ili „preko jednog kanala (Channel)“."
+  },
+  {
+   "id": "00026",
+   "severity": "minor",
+   "type": "stil/gramatika",
+   "description": "„neobjašnjeno odugovlačenje u donošenju rješenja o pritvoru, koji Visoki sud nije prihvatio“ - „odugovlačenje“ implicira namjerno zadržavanje, a „koji“ se gramatički vezuje za pogrešnu imenicu (rješenje/pritvor).",
+   "suggestion": "„neobjašnjeno kašnjenje u donošenju rješenja o pritvoru, što Visoki sud nije prihvatio“."
+  },
+  {
+   "id": "00027",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„utvrdio je optužbu“ za „framed charge“ - „utvrditi optužbu“ nije uobičajen izraz; izvor znači formulisanje/izricanje optužbe nakon upućivanja predmeta na suđenje.",
+   "suggestion": "„formulisao je optužnicu“ / „sastavio je optužbu“."
+  },
+  {
+   "id": "00027",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„gotovo nedjelju dana nakon navodnog događaja“ za „nearly a week after“ - „nedjelja“ je dvosmislena (dan u sedmici).",
+   "suggestion": "„gotovo sedmicu dana nakon navodnog događaja“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: skup _id-ova je identičan, svi tokeni (P1-P7, Rs., CompanyC1-C4) i svi brojevi/datumi se poklapaju, odnos riječi 0,88-0,94, nema ekavskih ni hrvatskih oblika. Registar je odgovarajući pravnički (žalilac, protivna strana, Visoki sud, sudija Sesijskog suda, ustavna tužba), a glosar je dosljedno primijenjen; nađene su samo manje gramatičke i terminološke nepreciznosti."
+}

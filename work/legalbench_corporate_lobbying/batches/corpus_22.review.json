@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "gcLRdTyon1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"large capacity ammunition feeding device\" je preveden kao \"okvira za municiju velikog kapaciteta\"; \"okvir\" ne prenosi značenje \"feeding device\" (uređaj za dovod municije/šaržer). Takođe \"Programa grantova za pomoć u pravosuđu Edward Byrne Memorial\" ima neprirodan redoslijed naziva.",
+   "suggestion": "\"uređaja za dovod municije velikog kapaciteta (LCAFD)\"; \"Memorijalnog programa grantova za pomoć u pravosuđu Edward Byrne\"."
+  },
+  {
+   "id": "6JDWYlgAAC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"poll worker recruitment and training\" preveden kao \"angažovanje i obuku članova biračkih odbora\"; poll workers su izborno osoblje na biračkim mjestima, a ne nužno članovi odbora.",
+   "suggestion": "\"angažovanje i obuku izbornog osoblja na biračkim mjestima\"."
+  },
+  {
+   "id": "UMVmI5BRh8",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "\"This declaration\" preveden kao \"Ova odredba\" (i \"declares\" kao \"propisuje\"), čime se gubi razlika između izjave/deklaracije i odredbe.",
+   "suggestion": "\"Ova izjava ne primjenjuje se na ...\"; po želji \"proglašava\" umjesto \"propisuje\"."
+  },
+  {
+   "id": "FEQz0EfbVs",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "\"engaging in paid prioritization\" preveden kao \"vrši plaćeno davanje prioriteta saobraćaju\"; riječ \"saobraćaju\" ne postoji u izvoru (blago dodavanje).",
+   "suggestion": "\"vrši plaćeno davanje prioriteta\"."
+  },
+  {
+   "id": "3Ic5t7KUSy",
+   "severity": "minor",
+   "type": "format",
+   "description": "Naslov i prvi pasus spojeni su bez novog reda (\"ljekova na recept Ovim predlogom zakona\"), što je vjerno izvornom artefaktu (\"ActThis\"), ali čini naslov nerazdvojivim od teksta.",
+   "suggestion": "Zadržati kao u izvoru (broj novih redova mora biti isti) ili uz dogovor sa koordinatorom razdvojiti naslov; nije greška prevoda."
+  },
+  {
+   "id": "QsKDGAUuRq",
+   "severity": "minor",
+   "type": "format",
+   "description": "Naziv izvještaja stavljen u navodnike \"Referentni pokazatelji za svemirsko vrijeme, faza 1\", dok izvor nema navodnike oko \"Space Weather Phase 1 Benchmarks\".",
+   "suggestion": "Ukloniti navodnike ili zadržati dosljedno; bez uticaja na značenje."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svi _id-ovi, brojevi, datumi, procenti i skraćenice se poklapaju, broj novih redova je isti, nema ekavizama ni hrvatskih oblika, a glosar iz dijela 8 (predlog zakona, ministarstvo, fiskalna godina, GAO, grantovi, nijesu) se dosljedno primjenjuje. Registar je prirodan i odgovara obrazloženju predloga zakona („Ovim predlogom zakona nalaže se...“, normativni prezent); nađene su samo manje terminološke i formatske primjedbe."
+}

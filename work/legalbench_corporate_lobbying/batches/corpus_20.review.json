@@ -1,0 +1,112 @@
+{
+ "n_blocking": 1,
+ "n_minor": 14,
+ "issues": [
+  {
+   "id": "xQPHOvlHGT",
+   "severity": "blocking",
+   "type": "dodat sadržaj",
+   "description": "Naslov: izvor ima \"...or the REHABS Act of 2019\" (samo skraćenica/kratki naziv), a prevod dodaje izmišljen puni naziv \"odnosno Zakon o rehabilitaciji stambenih objekata iz 2019. godine (REHABS Act)\" koji u izvoru ne postoji.",
+   "suggestion": "Zamijeniti sa: \"... bezbjednoj gradnji iz 2019. godine, odnosno Zakon REHABS iz 2019. godine (REHABS Act)\" ili bez izmišljenog prevoda: \"odnosno REHABS Act iz 2019. godine\"."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Naslov: \"Central America Reform and Enforcement Act\" → \"Zakon o reformi i sprovođenju propisa u Centralnoj Americi\"; \"propisa\" je dodato, a \"Enforcement\" je preusko prenijeto.",
+   "suggestion": "\"Zakon o reformi i sprovođenju zakona u Centralnoj Americi\" ili \"... reformi i prinudnom sprovođenju ...\"."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"background checks\" → \"bezbjednosne provjere\" sužava značenje (provjera podobnosti/prošlosti, ne samo bezbjednosna).",
+   "suggestion": "\"provjere prošlosti (background checks)\" ili \"provjere podobnosti\"."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"kao što je propisivanje da je protivpravno svjesno uništenje bilo kog uređaja\" je nespretno za \"making it unlawful to knowingly destroy\"; \"bilo kog\" nije u normi.",
+   "suggestion": "\"kao što je proglašavanje protivpravnim da se svjesno uništi bilo koji uređaj za graničnu kontrolu koji je postavila vlada\"."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"rights ... may be terminated\" → \"mogu se oduzeti\"; \"terminated\" je prestanak prava, \"oduzeti\" je pomjeranje značenja ka oduzimanju roditeljskog prava.",
+   "suggestion": "\"mogu prestati samo na osnovu sudskog rješenja\"."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "\"Department of State / State Department\" → \"Ministarstvo spoljnih poslova\" (funkcionalni ekvivalent), a glosar traži \"Department of X → Ministarstvo X\". Dosljedno kroz batch, ali odstupa od izvornog naziva.",
+   "suggestion": "Ako se zadrži, ujednačiti na nivou cijelog korpusa (npr. \"Ministarstvo spoljnih poslova (State Department)\" pri prvom pomenu)."
+  },
+  {
+   "id": "7oqtXRTtqe",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Finally\" → \"Konačno\" je kalk u nabrajanju odredbi.",
+   "suggestion": "\"Na kraju\" ili \"Naposljetku\"."
+  },
+  {
+   "id": "5F21rWz5FY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"poll workers\" → \"članovi biračkih odbora\": poll workers su pomoćno osoblje na biračkim mjestima, a ne članovi odbora.",
+   "suggestion": "\"izborno osoblje na biračkim mjestima\" ili \"radnici na biračkim mjestima\"."
+  },
+  {
+   "id": "CplTXJUk13",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"welfare, safety, or security threat\" → \"prijetnju po dobrobit, bezbjednost ili sigurnost\": \"bezbjednost\" i \"sigurnost\" su sinonimi, pa se razlika safety/security gubi.",
+   "suggestion": "\"prijetnju po dobrobit, sigurnost ili bezbjednost\" uz dosljedan par (safety → sigurnost, security → bezbjednost) kroz korpus."
+  },
+  {
+   "id": "CplTXJUk13",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"for business or pleasure\" → \"u poslovne ili turističke svrhe\" sužava \"pleasure\".",
+   "suggestion": "\"u poslovne svrhe ili radi razonode\"."
+  },
+  {
+   "id": "qpgrxMp1ju",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Regionalni savjetodavni savjet građana Zalivske obale\" - tautologija (savjetodavni savjet) i \"Zalivske obale\" nejasno za \"Gulf Coast\".",
+   "suggestion": "\"Regionalni savjetodavni odbor građana Obale Meksičkog zaliva\"."
+  },
+  {
+   "id": "tTThRRk7GW",
+   "severity": "minor",
+   "type": "format",
+   "description": "Naslov: \"fiskalne 2018, 2019. i 2020. godinu\" - nedostaje tačka iza 2018 i nesklad množine (fiskalne) i jednine (godinu); \"Zakon Damon Paul Nelson i Matthew Young Pollard o odobrenju...\" nespretno.",
+   "suggestion": "\"Zakon o odobrenju obavještajnih aktivnosti za fiskalne 2018, 2019. i 2020. godine (Damon Paul Nelson i Matthew Young Pollard)\" ili \"Zakon Damon Paul Nelson i Matthew Young Pollard o odobrenju obavještajnih aktivnosti za fiskalne 2018., 2019. i 2020. godine\"."
+  },
+  {
+   "id": "tTThRRk7GW",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"prema kome je moguće preduzeta zabranjena kadrovska radnja\" je dvosmisleno za \"subjected to a possible prohibited personnel action\".",
+   "suggestion": "\"protiv koga je eventualno preduzeta zabranjena kadrovska radnja\"."
+  },
+  {
+   "id": "tTThRRk7GW",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "\"detected foreign attempts to influence\" → \"pokušajima stranih aktera\": \"aktera\" je dodato.",
+   "suggestion": "\"o otkrivenim stranim pokušajima uticaja na predstojeće savezne izbore\"."
+  },
+  {
+   "id": "fRN2Bqpepg",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"which shall be publicly available\" → \"koji su javno dostupni\" gubi normativnost (shall) i relativna zamjenica je dvosmislena.",
+   "suggestion": "\"i ti podaci moraju biti javno dostupni\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 11 _id-ova se poklapa, broj redova i brojeva (1,000, 12, 30, 25%, godine) je identičan, nema ekavizama ni hrvatizama, obrazac \"Ovim predlogom zakona...\" i normativni prezent su dosljedni. Registar je prikladan obrazloženju predloga zakona; jedini ozbiljan problem je izmišljen naziv zakona u itemu xQPHOvlHGT, a ostalo su manje terminološke i stilske nepreciznosti."
+}

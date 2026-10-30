@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "HtYDZw69Cr#2",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Naslov završne formule: \"Zahtjevi i žalbe usvojeni\" (izvor: \"Petitions and Appeals allowed\") nije dosljedan sa početkom dijela gdje su isti \"writ petitions\" prevedeni kao \"Ustavne tužbe (writ petitions)\".",
+   "suggestion": "\"Ustavne tužbe i žalbe usvojene.\" (ili \"Nalozi (writ) i žalbe usvojeni\"), u skladu sa uvodom pasusa 27."
+  },
+  {
+   "id": "HtYDZw69Cr#2",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"Bankarskim kompanijama\" za \"banking companies\" i \"podnosioci zahtjeva\" za \"petitioners\" daju kolebljiv registar; \"sudije pojedinca\" za \"Single Judge\" je neobično.",
+   "suggestion": "\"sudije pojedinca\" -> \"sudije pojedinca (Single Judge)\" ili \"samostalnog sudije\"; \"bankarskih kompanija\" -> \"bankarskih društava\"; \"podnosioci tužbi\" radi dosljednosti sa \"ustavne tužbe\"."
+  },
+  {
+   "id": "8JHUdKF0j7#0",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "U klauzuli 3: \"bez tereta, ako ih ima, koje je on zasnovao\" (izvor: \"free from encumbrances, if any, created by it\") — nepodudaranje roda/broja (teret/ih/koje); ista konstrukcija u pasusu 3: \"provjere tereta, ako ih ima, koje je zasnovao žalilac\".",
+   "suggestion": "\"bez tereta, ako ih je bilo, koje je on zasnovao\" -> \"bez eventualnih tereta koje je on zasnovao\"; \"provjere eventualnih tereta koje je zasnovao žalilac\"."
+  },
+  {
+   "id": "8JHUdKF0j7#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"premises\" prevedeno kao \"nepokretnosti\" (\"u pogledu navedene nepokretnosti\"), dok je \"property\" svugdje \"imovina\"; \"High Court of Judicature at Calcutta\" skraćeno na \"Visokog suda u Kalkuti\"; \"naknade za to\" u citatu pasusa 4 je blago dodato.",
+   "suggestion": "\"navedenih prostorija\"; \"Visokog suda pravosuđa u Kalkuti\" ili zadržati \"(High Court of Judicature)\"; \"cjelokupan iznos naknade\" bez \"za to\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: oba itema imaju isti _id, isti broj novih redova, iste brojeve i iznose (Rs.), citate predmeta i nijedan pasus ili rečenica nije izostavljen niti dodat; strane su dosljedno označene (žalilac/protivna strana, tuženi/tužilac), a glosar (decree, Division Bench, writ, set aside, dismissed) je poštovan. Registar je prirodan, ijekavski i prilagođen obrazloženju presude, bez ekavizama i kroatizama. Nađene su samo manje stilske i terminološke nedosljednosti."
+}

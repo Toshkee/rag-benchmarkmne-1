@@ -1,0 +1,44 @@
+{
+ "batch": "corpus_012",
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#11",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„deklaraciju koju je on dao“ / „zamjenjuje deklaracijom“ (stav 133, 134) je kalk za 'declaration'; u crnogorskom pravnom registru prirodnije je „utvrđenje“ ili „izjava suda“. Takođe „zaostale plate“ (stav 133, 135) umjesto glosarskog „zaostale zarade“ (arrears of salary).",
+   "suggestion": "„utvrđenje koje je on dao“ / „zamjenjuje utvrđenjem da je...“; „zaostale zarade“."
+  },
+  {
+   "id": "FCIX3BYOtD#11",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Stav 134 „Kao rezultat, obje ove žalbe nijesu osnovane“ (In the result, both these Appeals fail) i stav 133 „Može se desiti da bi u određenim okolnostima poslodavac bio opravdan da odbije“ su kalkovi i nespretni; „poništio kao ništavu“ (striking down as being void) miješa se sa „ukinuo“ za quash.",
+   "suggestion": "„Slijedom toga, obje žalbe su neosnovane i odbijaju se“; „Moguće je da bi u određenim okolnostima poslodavac imao opravdanje da odbije ostavku“; „proglasio ništavom cijelu tu tačku“."
+  },
+  {
+   "id": "YsP6ihgIqL#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Kodeksa o osoblju indijskih željeznica“ za 'Indian Railway Establishment Code' — Code je u glosaru zakonik, a naziv akta se u ostatku batcha ne prevodi dosljedno (Air India, West Bengal State Electricity Board ostaju izvorni).",
+   "suggestion": "„Zakonika o osoblju indijskih željeznica (Indian Railway Establishment Code)“ ili dosljedno ostaviti izvorni naziv."
+  },
+  {
+   "id": "YsP6ihgIqL#0",
+   "severity": "minor",
+   "type": "značenje (nijansa)",
+   "description": "„Očigledno je rješenje donijeto na osnovu propisa 34“ za 'Apparently the order was made under Regulation 34' — 'apparently' znači 'naizgled/po svemu sudeći', ne 'očigledno'. Takođe „podobno za grubu diskriminaciju“ za 'capable of vicious discrimination' (blaga nijansa).",
+   "suggestion": "„Po svemu sudeći, rješenje je donijeto na osnovu propisa 34“; „podobno za okrutnu (opaku) diskriminaciju“."
+  },
+  {
+   "id": "YsP6ihgIqL#0",
+   "severity": "minor",
+   "type": "format/dosljednost",
+   "description": "Navodnici nisu dosljedni: stav 1 koristi jednostruke '...' („davanjem otkaza ... umjesto toga“) a stav 2 i 5 „...“; „opšti akt o radu (Standing Order)“ dodaje englesku zagradu koja u izvoru ne postoji; „propis 34 iz propisa Odbora“ je tautološko.",
+   "suggestion": "Svuda „...“; „Standing Order“ prevesti bez zagrade ili dosljedno glosirati; „na osnovu propisa 34 Pravilnika Odbora“."
+  }
+ ],
+ "checks": "Isti skup _id (2/2); tokeni P/A/S/W/Rs. = 0 u oba; svi brojevi identični po itemu; novi redovi 6/6 i 24/24; odnos riječi 0.86 i 0.89; nema ekavice ni hrvatskih oblika; nijedan pasus (132-136; 1-7) ni rečenica nije izostavljen; stranke dosljedne (žalilac/protivna strana, Korporacija, Odbor).",
+ "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, svi članovi, brojevi, citati i datumi su doslovni, a strane u postupku su dosljedno označene. Registar je prirodan i odgovara obrazloženju presude, uz ijekavicu i glosar; preostale primjedbe su isključivo stilske."
+}

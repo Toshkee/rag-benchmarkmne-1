@@ -1,0 +1,35 @@
+{
+  "n_blocking": 0,
+  "n_minor": 4,
+  "issues": [
+    {
+      "id": "00025/00034",
+      "severity": "minor",
+      "type": "terminološka nedosljednost",
+      "description": "EULA je prevedena različito: 00025 \"ugovor o licenci za krajnjeg korisnika\" (izvor: end user licence agreement), a 00034 \"Ugovor sa krajnjim korisnikom (EULA)\" (izvor: the eula).",
+      "suggestion": "Ujednačiti: \"ugovor o licenci za krajnjeg korisnika (EULA)\" u oba itema (u 00034: \"Ugovor o licenci za krajnjeg korisnika (EULA) možete raskinuti tako što ćete deinstalirati igru.\")."
+    },
+    {
+      "id": "00033",
+      "severity": "minor",
+      "type": "gramatika/slaganje",
+      "description": "\"ažuriranja i nadogradnje nijesu obećani\" – pridjev ne slaže se u rodu sa imenicama srednjeg i ženskog roda (izvor: updates and upgrades not promised).",
+      "suggestion": "\"ažuriranja i nadogradnje nijesu obećana\" ili \"ažuriranja i nadogradnje se ne obećavaju\"."
+    },
+    {
+      "id": "00041",
+      "severity": "minor",
+      "type": "odstupanje od glosara",
+      "description": "\"zatvaramo vam nalog\" za \"we close your account\"; glosar za terminate/suspend nalog predviđa \"ukinuti (nalog)\".",
+      "suggestion": "\"Ako više puta prekršite autorsko pravo, ukidamo vam nalog.\""
+    },
+    {
+      "id": "00043",
+      "severity": "minor",
+      "type": "stil",
+      "description": "\"Morate imati 13 ili više godina\" je kalk (must be 13 years or older); glosar daje \"13 godina\".",
+      "suggestion": "\"Morate imati najmanje 13 godina.\""
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup i redoslijed _id-ova se poklapa, brojevi (13) i svi sadržaji su očuvani, nema ekavizama ni hrvatizama, odnosi riječi su u dozvoljenom opsegu. Upiti su ostali razgovorni i kratki (npr. \"Nijesmo mi krivi što vam je pozlilo\"), ortografija je normalna (velika slova, interpunkcija), ijekavica i \"nijesu\" dosljedni. Nađene su samo četiri manje stilske/terminološke primjedbe, bez blokirajućih."
+}

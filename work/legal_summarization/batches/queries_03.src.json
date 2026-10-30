@@ -1,0 +1,202 @@
+[
+ {
+  "_id": "00050",
+  "title": "",
+  "text": "google collect stats and analyses aggregated data.",
+  "context": [
+   "6 1 in order to continually innovate and improve the sdk google may collect certain usage statistics from the software including but not limited to a unique identifier associated ip address version number of the software and information on which tools and or services in the sdk are being used and how they are being used. before any of this information is collected the sdk will notify you and seek your consent. if you withhold consent the information will not be collected 6 2 the data collected is examined in the aggregate to improve the sdk and is maintained in accordance with google s privacy policy located at http www google com policies privacy."
+  ]
+ },
+ {
+  "_id": "00051",
+  "title": "",
+  "text": "data provided by google may be protected.",
+  "context": [
+   "if you use any api to retrieve data from google you acknowledge that the data may be protected by intellectual property rights which are owned by google or those parties that provide the data or by other persons or companies on their behalf. your use of any such api may be subject to additional terms of service. you may not modify rent lease loan sell distribute or create derivative works based on this data either in whole or in part unless allowed by the relevant terms of service."
+  ]
+ },
+ {
+  "_id": "00052",
+  "title": "",
+  "text": "get explicit consent if you want to use any user s data.",
+  "context": [
+   "if you use any api to retrieve a user s data from google you acknowledge and agree that you shall retrieve data only with the user s explicit consent and only when and for the limited purposes for which the user has given you permission to do so."
+  ]
+ },
+ {
+  "_id": "00053",
+  "title": "",
+  "text": "sdk is provided as is use it at your own risk.",
+  "context": [
+   "10 1 you expressly understand and agree that your use of the sdk is at your sole risk and that the sdk is provided as is and as available without warranty of any kind from google 10 2 your use of the sdk and any material downloaded or otherwise obtained through the use of the sdk is at your own discretion and risk and you are solely responsible for any damage to your computer system or other device or loss of data that results from such use. without limiting the foregoing you understand that the sdk may contain errors defects and security vulnerabilities that can result in significant damage including the complete irrecoverable loss of use of your computer system or other device."
+  ]
+ },
+ {
+  "_id": "00054",
+  "title": "",
+  "text": "it comes with no warranty.",
+  "context": [
+   "google further expressly disclaims all warranties and conditions of any kind whether express or implied including but not limited to the implied warranties and conditions of merchantability fitness for a particular purpose and non infringement."
+  ]
+ },
+ {
+  "_id": "00055",
+  "title": "",
+  "text": "export restrictions apply.",
+  "context": [
+   "export restrictions. the sdk is subject to united states export laws and regulations. you must comply with all domestic and international export laws and regulations that apply to the sdk. these laws include restrictions on destinations end users and end use."
+  ]
+ },
+ {
+  "_id": "00056",
+  "title": "",
+  "text": "you must also abide by the developer content and user content policies also.",
+  "context": [
+   "you agree to comply with the google platform developer policies set forth athttp developers google com policies and the google play content policies set forth at http play google com about developer content policy html or other such urls as google may provide for this purpose from time to time the content of your api client including any content supplied by your users or other content providers must follow the google user content and conduct policy at http www google com intl en policy content html."
+  ]
+ },
+ {
+  "_id": "00057",
+  "title": "",
+  "text": "don t use the data for advertising some google adverts allowed.",
+  "context": [
+   "you may not use user data from our apis for advertising purposes unless i you are explicitly authorized by google or ii you are using an advertising solution that google provides for this purpose. you may not and may not permit any third party to sell or transmit any user data received from our apis including anonymized aggregate or derivative data to any third party ad network or service data broker or other advertising or marketing provider."
+  ]
+ },
+ {
+  "_id": "00058",
+  "title": "",
+  "text": "if you re not an ad network and you sell ads direct to clients you can use the data to target ads.",
+  "context": [
+   "notwithstanding the foregoing or section b 1 of the google platform developer policies and provided that you don t operate as an ad network you may use user data from our apis to target ads within your api client where you have sold the ad slot to the advertiser directly directly sold ads and you may make anonymized user data from our apis available to a third party solely to enable that third party to serve directly sold ads to your api client."
+  ]
+ },
+ {
+  "_id": "00059",
+  "title": "",
+  "text": "if you use third party advertising it must be 3pas compliant.",
+  "context": [
+   "if you have third party advertising in your api client which is provided by a google advertising solution you must use an approved third party ad serving 3pas provider subject to google s current 3pas policies at http adwords google com support aw bin answer py hl en answer 94230."
+  ]
+ },
+ {
+  "_id": "00060",
+  "title": "",
+  "text": "don t allow users to fake scores. no multiplayer invites.",
+  "context": [
+   "you shall not permit your api client to submit any false gameplay information such as invalid scores for a user in a leaderboard or an achievement that a user did not earn to google. you shall not permit your api client to send or accept an invite to a multiplayer game including automatching requests or to take a turn without an explicit action or request from a user."
+  ]
+ },
+ {
+  "_id": "00061",
+  "title": "",
+  "text": "if using avatars usernames tell the user that their g identity will still be used by google.",
+  "context": [
+   "for api clients that use their own avatar naming system in place of the user s google identity then you must make clear to users that their gameplay information will still be submitted to google and associated with their google identity and viewable within different google products."
+  ]
+ },
+ {
+  "_id": "00062",
+  "title": "",
+  "text": "don t reveal the g identity when users are auto matched.",
+  "context": [
+   "you shall not permit your api client to reveal the user s google identity to other users in multiplayer matches where players are automatically matched using google play games."
+  ]
+ },
+ {
+  "_id": "00063",
+  "title": "",
+  "text": "facebook can use any of your stuff for any reason they want without paying you for advertising in particular.",
+  "context": [
+   "our goal is to deliver advertising and other commercial or sponsored content that is valuable to our users and advertisers. in order to help us do that you agree to the following you give us permission to use your name profile picture content and information in connection with commercial sponsored or related content such as a brand you like served or enhanced by us. this means for example that you permit a business or other entity to pay us to display your name and or profile picture with your content or information without any compensation to you. if you have selected a specific audience for your content or information we will respect your choice when we use it. we do not give your content or information to advertisers without your consent. you understand that we may not always identify paid services and communications as such."
+  ]
+ },
+ {
+  "_id": "00064",
+  "title": "",
+  "text": "facebook can use stuff that you post on or in connection with facebook that you have intellectual property rights to. facebook loses rights to your stuff if you delete it or your account so long as others have not shared without later deleting your stuff. publishing stuff using the public setting gives everyone else rights to that stuff.",
+  "context": [
+   "you own all of the content and information you post on facebook and you can control how it is shared through your privacy and application settings. in addition for content that is covered by intellectual property rights like photos and videos ip content you specifically give us the following permission subject to yourprivacy and application settings you grant us a non exclusive transferable sub licensable royalty free worldwide license to use any ip content that you post on or in connection with facebook ip license. this ip license ends when you delete your ip content or your account unless your content has been shared with others and they have not deleted it. when you delete ip content it is deleted in a manner similar to emptying the recycle bin on a computer. however you understand that removed content may persist in backup copies for a reasonable period of time but will not be available to others when you use an application the application may ask for your permission to access your content and information as well as content and information that others have shared with you. we require applications to respect your privacy and your agreement with that application will control how the application can use store and transfer that content and information. to learn more about platform including how you can control what information other people may share with applications read our data use policy and platform page. when you publish content or information using the public setting it means that you are allowing everyone including people off of facebook to access and use that information and to associate it with you i e your name and profile picture."
+  ]
+ },
+ {
+  "_id": "00065",
+  "title": "",
+  "text": "you can t use facebook plugins on your own pages if stuff on those pages violates these terms.",
+  "context": [
+   "if you include our social plugins such as the share or like buttons on your website the following additional terms apply to you we give you permission to use facebook s social plugins so that users can post links or content from your website on facebook. you give us permission to use and allow others to use such links and content on facebook. you will not place a social plugin on any page containing content that would violate this statement if posted on facebook."
+  ]
+ },
+ {
+  "_id": "00066",
+  "title": "",
+  "text": "you can t fake your personal info create a new account if facebook disables yours use a personal facebook only for business be under 13 be a convicted sex offender or transfer your account without permission. you can only have one personal account and have to keep your contact information accurate.",
+  "context": [
+   "facebook users provide their real names and information and we need your help to keep it that way. here are some commitments you make to us relating to registering and maintaining the security of your account you will not provide any false personal information on facebook or create an account for anyone other than yourself without permission. you will not create more than one personal account. if we disable your account you will not create another one without our permission. you will not use your personal timeline primarily for your own commercial gain and will use a facebook page for such purposes. you will not use facebook if you are under 13 you will not use facebook if you are a convicted sex offender. you will keep your contact information accurate and up to date. you will not share your password or in the case of developers your secret key let anyone else access your account or do anything else that might jeopardize the security of your account. you will not transfer your account including any page or application you administer to anyone without first getting our written permission. if you select a username or similar identifier for your account or page we reserve the right to remove or reclaim it if we believe it is appropriate such as when a trademark owner complains about a username that does not closely relate to a user s actual name."
+  ]
+ },
+ {
+  "_id": "00067",
+  "title": "",
+  "text": "when you develop anything using facebook tools you must have a privacy policy and let users delete data. you let facebook analyze anything about your stuff for any purpose and let them build competing applications. you can t sell user data and you can t use it in a way that we determine is inconsistent with users expectations.",
+  "context": [
+   "if you are a developer or operator of a platform application or website the following additional terms apply to you you are responsible for your application and its content and all uses you make of platform. this includes ensuring your application or use of platform meets our facebook platform policies and our advertising guidelines. your access to and use of data you receive from facebook will be limited as follows you will only request data you need to operate your application. you will have a privacy policy that tells users what user data you are going to use and how you will use display share or transfer that data and you will include your privacy policy url in the developer application. you will not use display share or transfer a user s data in a manner inconsistent with your privacy policy. you will delete all data you receive from us concerning a user if the user asks you to do so and will provide a mechanism for users to make such a request. you will not include data you receive from us concerning a user in any advertising creative. you will not directly or indirectly transfer any data you receive from us to or use such data in connection with any ad network ad exchange data broker or other advertising related toolset even if a user consents to that transfer or use. you will not sell user data. if you are acquired by or merge with a third party you can continue to use user data within your application but you cannot transfer user data outside of your application. we can require you to delete user data if you use it in a way that we determine is inconsistent with users expectations. we can limit your access to data. you will comply with all other restrictions contained in our facebook platform policies. you will not give us information that you independently collect from a user or a user s content without that user s consent. you will make it easy for users to remove or disconnect from your application. you will make it easy for users to contact you. we can also share your email address with users and others claiming that you have infringed or otherwise violated their rights. you will provide customer support for your application. you will not show third party ads or web search boxes on www facebook com. we give you all rights necessary to use the code apis data and tools you receive from us. you will not sell transfer or sublicense our code apis or tools to anyone. you will not misrepresent your relationship with facebook to others. you may use the logos we make available to developers or issue a press release or other public statement so long as you follow our facebook platform policies. we can issue a press release describing our relationship with you. you will comply with all applicable laws. in particular you will if applicable have a policy for removing infringing content and terminating repeat infringers that complies with the digital millennium copyright act comply with the video privacy protection act vppa and obtain any opt in consent necessary from users so that user data subject to the vppa may be shared on facebook. you represent that any disclosure to us will not be incidental to the ordinary course of your business. we do not guarantee that platform will always be free. you give us all rights necessary to enable your application to work with facebook including the right to incorporate content and information you provide to us into streams timelines and user action stories. you give us the right to link to or frame your application and place content including ads around your application. we can analyze your application content and data for any purpose including commercial such as for targeting the delivery of advertisements and indexing content for search to ensure your application is safe for users we can audit it. we can create applications that offer similar features and services to or otherwise compete with your application."
+  ]
+ },
+ {
+  "_id": "00068",
+  "title": "",
+  "text": "don t break these detailed lists of rules. basically don t do anything that negatively impacts the facebook platform or community.",
+  "context": [
+   "we do our best to keep facebook safe but we cannot guarantee it. we need your help to keep facebook safe which includes the following commitments by you you will not post unauthorized commercial communications such as spam on facebook. you will not collect users content or information or otherwise access facebook using automated means such as harvesting bots robots spiders or scrapers without our prior permission. you will not engage in unlawful multi level marketing such as a pyramid scheme on facebook. you will not upload viruses or other malicious code. you will not solicit login information or access an account belonging to someone else. you will not bully intimidate or harass any user. you will not post content that is hate speech threatening or pornographic incites violence or contains nudity or graphic or gratuitous violence. you will not develop or operate a third party application containing alcohol related dating or other mature content including advertisements without appropriate age based restrictions. you will follow our promotions guidelines and all applicable laws if you publicize or offer any contest giveaway or sweepstakes promotion on facebook. you will not use facebook to do anything unlawful misleading malicious or discriminatory. you will not do anything that could disable overburden or impair the proper working or appearance of facebook such as a denial of service attack or interference with page rendering or other facebook functionality. you will not facilitate or encourage any violations of this statement or our policies. we respect other people s rights and expect you to do the same. you will not post content or take any action on facebook that infringes or violates someone else s rights or otherwise violates the law. we can remove any content or information you post on facebook if we believe that it violates this statement or our policies. we provide you with tools to help you protect your intellectual property rights. to learn more visit our how to report claims of intellectual property infringement page. if we remove your content for infringing someone else s copyright and you believe we removed it by mistake we will provide you with an opportunity to appeal. if you repeatedly infringe other people s intellectual property rights we will disable your account when appropriate. you will not use our copyrights or trademarks including facebook the facebook and f logos fb face poke book and wall or any confusingly similar marks except as expressly permitted by our brand usage guidelines or with our prior written permission. if you collect information from users you will obtain their consent make it clear you and not facebook are the one collecting their information and post a privacy policy explaining what information you collect and how you will use it. you will not post anyone s identification documents or sensitive financial information on facebook. you will not tag users or send email invitations to non users without their consent. facebook offers social reporting tools to enable users to provide feedback about tagging."
+  ]
+ },
+ {
+  "_id": "00069",
+  "title": "",
+  "text": "by accepting these terms you also agree to the privacy and acceptable use policies linked in the right.",
+  "context": [
+   "thanks for using dropbox. these terms of service terms cover your use and access to the services client software and websites services provided by dropbox inc our privacy policy explains how we collect and use your information while our acceptable use policy outlines your responsibilities when using our services. by using our services you re agreeing to be bound by these terms and to review our privacy and acceptable use policies. if you re using our services for an organization you re agreeing to these terms on behalf of that organization."
+  ]
+ },
+ {
+  "_id": "00070",
+  "title": "",
+  "text": "dropbox along with their third parties are allowed to access scan store and duplicate content that you put on the service.",
+  "context": [
+   "when you use our services you provide us with things like your files content email messages contacts and so on your stuff. your stuff is yours. these terms don t give us any rights to your stuff except for the limited rights that enable us to offer the services. we need your permission to do things like hosting your stuff backing it up and sharing it when you ask us to. our services also provide you with features like photo thumbnails document previews email organization easy sorting editing sharing and searching. these and other features may require our systems to access store and scan your stuff. you give us permission to do those things and this permission extends to trusted third parties we work with."
+  ]
+ },
+ {
+  "_id": "00071",
+  "title": "",
+  "text": "you have to respect the content of others via the acceptable use policy and are responsible for any content you share. dropbox isn t liable for stuff you post on the site and can remove any copyright infringing material. also you must be over 13.",
+  "context": [
+   "you re responsible for your conduct your stuff and you must comply with our acceptable use policy. content in the services may be protected by others intellectual property rights. please don t copy upload download or share content unless you have the right to do so. we may review your conduct and content for compliance with these terms and our acceptable use policy. with that said we have no obligation to do so. we aren t responsible for the content people post and share via the services. please safeguard your password to the services make sure that others don t have access to it and keep your account information current. finally our services are not intended for and may not be used by people under the age of 13. by using our services you are representing to us that you re over 13 we respect the intellectual property of others and ask that you do too. we respond to notices of alleged copyright infringement if they comply with the law and such notices should be reported using our dmca process. we reserve the right to delete or disable content alleged to be infringing and terminate accounts of repeat infringers. our designated agent for notice of alleged copyright infringement on the services is."
+  ]
+ },
+ {
+  "_id": "00072",
+  "title": "",
+  "text": "you re responsible to pay any bills you re not entitled to any refunds and if you re late on payments dropbox can suspend or reduce the storage on your account. they can also change their pricing but will email you if they do.",
+  "context": [
+   "billing. you can increase your storage space and add paid features to your account turning your account into a paid account. we ll automatically bill you from the date you convert to a paid account and on each periodic renewal until cancellation. you re responsible for all applicable taxes and we ll charge tax when required to do so. no refunds. you may cancel your dropbox paid account at any time but you won t be issued a refund. downgrades. your paid account will remain in effect until it s cancelled or terminated under these terms. if you don t pay for your paid account on time we reserve the right to suspend it or reduce your storage to free space levels. you re responsible for all taxes and we may charge taxes when required to do so. changes. we may change the fees in effect but will give you advance notice of these changes via a message to the email address associated with your account."
+  ]
+ },
+ {
+  "_id": "00073",
+  "title": "",
+  "text": "dropbox can end their services at any time without notice. for free accounts they can delete your account if you haven t used dropbox for 12 months. they ll email you before doing so.",
+  "context": [
+   "you re free to stop using our services at any time. we also reserve the right to suspend or end the services at any time at our discretion and without notice. for example we may suspend or terminate your use of the services if you re not complying with these terms or use the services in a manner that would cause us legal liability disrupt the services or disrupt others use of the services. except for paid accounts we reserve the right to terminate and delete your account if you haven t accessed our services for 12 consecutive months. we ll of course provide you with notice via the email address associated with your account before we do so."
+  ]
+ },
+ {
+  "_id": "00074",
+  "title": "",
+  "text": "these terms apply to www apple com which is owned by apple. if you use this website you agree to the terms if not don t use the site. apple may change the terms at any time and it is your responsibility to check for changes and continued use of the site means you agree with the changes.",
+  "context": [
+   "ownership of site agreement to terms of usethese terms and conditions of use the terms of use apply to the apple web site located at www apple com and all associated sites linked to www apple com by apple its subsidiaries and affiliates including apple sites around the world collectively the site. the site is the property of apple inc apple and its licensors. by using the site you agree to these terms of use if you do not agree do not use the site apple reserves the right at its sole discretion to change modify add or remove portions of these terms of use at any time. it is your responsibility to check these terms of use periodically for changes. your continued use of the site following the posting of changes will mean that you accept and agree to the changes. as long as you comply with these terms of use apple grants you a personal non exclusive non transferable limited privilege to enter and use the site."
+  ]
+ }
+]

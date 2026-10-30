@@ -1,0 +1,91 @@
+{
+ "n_blocking": 0,
+ "n_minor": 12,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "[red 5] 'their Lordships' prevedeno kao 'prema shvatanju njihovih gospodstava' — neprirodno za crnogorski pravni registar.",
+   "suggestion": "'prema shvatanju te dvojice sudija' ili 'njihovih lordstava'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "[red 11] Izvor: 'the ratio laid down by the Privy Council'; prevod: 'ratio decidendi koji je utvrdio Tajni savjet' — dodato 'decidendi'. Takođe 'ne izražava pravilno pravo' je nespretno za 'does not lay down the correct law'.",
+   "suggestion": "'ratio koji je utvrdio Tajni savjet'; 'ne utvrđuje ispravno pravo o ovom pitanju'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "[red 18] 'the following propositions emerge' -> 'proizilaze sljedeći stavovi' — 'stav' je u glosaru rezervisan za sub-section, pa nastaje dvosmislenost.",
+   "suggestion": "'proizilaze sljedeća načela' (ili 'zaključci')."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "[red 19] 'exception to the rule of hearsay' -> 'izuzetak od pravila o isključenju posrednih iskaza (hearsay)' — 'isključenju' nema u izvoru.",
+   "suggestion": "'izuzetak od pravila o posrednim iskazima (hearsay)'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "značenje (blago)",
+   "description": "[red 16] 'did not apprehend that he would die' -> 'nije predviđalo da će umrijeti' — 'apprehend' ovdje znači slutiti/očekivati, ne predviđati.",
+   "suggestion": "'nije slutilo/očekivalo da će umrijeti'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "izostavljanje (blago)",
+   "description": "[red 23] 'fall within the four corners of S. 32' -> 'potpala u okvire člana 32' — idiom 'four corners' (u sam okvir/granice) djelimično izgubljen.",
+   "suggestion": "'potpala u same granice člana 32'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "[red 33] 'highly secretive woman' -> 'tajanstvena' (= mysterious), dok se u redu 48 'secrative nature' prevodi kao 'tajnovitu'; nijedno ne odgovara značenju 'zatvorena/povučena'.",
+   "suggestion": "'veoma povučena i skrovita žena' u redu 33 i 'skrovitu prirodu' u redu 48 (dosljedno)."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "značenje (blago)",
+   "description": "[red 43] 'like an unclaimed person' -> 'kao položaj lica o kojem niko ne brine' — parafraza; 'unclaimed' = ničije/kome niko ne pripada.",
+   "suggestion": "'kao položaj lica koje niko ne priznaje/ničijeg lica'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "značenje (blago)",
+   "description": "[red 46] 'In the latter part of the 8th paragraph' -> 'U drugom dijelu 8. pasusa' — 'drugom' znači 'drugi od dva', a 'latter part' je završni dio.",
+   "suggestion": "'U završnom dijelu 8. pasusa'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "[red 59] 'Additional Solicitor-General' -> 'Zamjenik generalnog pravobranioca (Additional Solicitor-General)' — 'Additional' nije 'zamjenik'; nije u glosaru.",
+   "suggestion": "'dodatni generalni pravobranilac (Additional Solicitor-General)'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "dosljednost/rod",
+   "description": "[red 2] 'statements made by the deceased' -> 'izjavama koje je preminula dala' — izvor ne navodi rod; takođe 'admitted in evidence' -> 'prihvaćena kao dokaz' dok se drugdje koristi 'dozvoljena kao dokaz'.",
+   "suggestion": "Rodno neutralno 'preminulo lice'/'preminuli'; 'ne može biti dozvoljena kao dokaz'."
+  },
+  {
+   "id": "sUkiH8G4Zp#1",
+   "severity": "minor",
+   "type": "rod",
+   "description": "[red 24] 'sister and friend' -> 'sestri i prijateljici' — rod prijatelja nije naveden u izvoru.",
+   "suggestion": "Provjeriti prema kontekstu glave; ako nije poznato, 'prijatelju/prijateljici' ili ostaviti kako je, ali dosljedno (red 24 i 33)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (59), nijedan pasus ni rečenica nijesu izostavljeni, citati, brojevi članova (S. 32 -> član 32, Cl. (1) -> tačka (1)), oznake dokaza i hindi citati u latiničnom pismu su doslovno prenijeti, a automatska provjera (tokeni, brojevi, ekavizmi, hrvatizmi) nije našla odstupanja; odnos riječi je 0.88. Registar je prirodan i primjeren obrazloženju presude, uz ijekavicu i 'nijesu'; zamjerke su samo sitne terminološke i stilske (npr. 'njihovih gospodstava', 'tajanstvena', 'Zamjenik generalnog pravobranioca')."
+}

@@ -1,0 +1,50 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "terminologija: petition",
+      "description": "Dosljednost termina za 'petition': u st. 1 i 5 izvor 'These two petitions ... for writs' / 'In both these petitions' preveden je 'zahtjevi' ('Ova dva zahtjeva', 'U oba ova zahtjeva'), dok je isti postupak na drugim mjestima 'ustavna tužba (writ petition)' ('podnosilac zahtjeva u ustavnoj tužbi (writ petition)'). Isti dokument tako ima dva termina za isti podnesak.",
+      "suggestion": "Prevesti 'Ove dvije ustavne tužbe, podnesene na osnovu člana 32 Ustava Indije radi izdavanja naloga (writ) u vidu habeas corpus ...' i 'U obje ove ustavne tužbe ...'."
+    },
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "dosljednost strana (respondent)",
+      "description": "St. 6 'The opposite parties' -> 'Protivne strane' (množina), ali st. 13 'on behalf of the respondents' -> 'u ime protivne strane' i 'Respondents ... have placed reliance' -> 'Protivna strana se ... pozvala', te st. 16 'contention of the respondents' -> 'navod protivne strane'. Izvor je svuda u množini, prevod prelazi na jedninu.",
+      "suggestion": "Ujednačiti množinu: 'u ime protivnih strana', 'Protivne strane su se u tom cilju pozvale na odluku ovog suda', 'navod protivnih strana'."
+    },
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "izostavljena riječ u nazivu zakona",
+      "description": "St. 14: izvor 'Conservation of Foreign Exchange and Prevention of Smmoolina Activities Act, 1974' preveden je 'Zakona o očuvanju deviza i sprječavanju krijumčarenja iz 1974. godine' - izostavljeno 'Activities'. Takođe, 'This clause' u citatu preveden je 'Ova odredba' umjesto doslovnijeg 'Ova tačka/stav' (izvor misli na clause (5) čl. 22).",
+      "suggestion": "'Zakona o očuvanju deviza i sprječavanju aktivnosti krijumčarenja iz 1974. godine'; 'Ova tačka (stav) nameće dvostruku obavezu ...'."
+    },
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "veliko/malo slovo, Vlada",
+      "description": "'appropriate Government' (st. 10, 13, 14) preveden je malim slovom ('nadležna vlada', 'nadležnoj vladi'), a 'Central Government' / 'State Government' velikim ('Centralna vlada', 'Vlada države'). Unutar citiranog člana 2(a) Zakona ovo je nedosljedno jer izvor ima veliko 'G' i definiše upravo Vladu.",
+      "suggestion": "Ujednačiti: 'nadležna Vlada' / 'nadležnoj Vladi' (definisani pojam), ili sve malim slovom."
+    },
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "imena predmeta (citati)",
+      "description": "Nazivi predmeta u st. 17 i 18 djelimično su prevedeni, djelimično ne, pa je citat nedosljedan: 'Mohinuddin Alias Main Master protiv okružnog magistrata, Bead i drugih', 'Rama Dhondu Board protiv V.K. Saraf. komesara policije i drugih' (prevedeno 'District Magistrate' / 'Commissioner of Police' unutar naziva stranke), dok 'In re : Durga show & On.' i 'julia Jose Mavli' ostaju. 'State of Tamil Nadu & Anr.' -> 'Država Tamil Nadu i drugi' (Anr. = jedan drugi). Stil vodič traži da citati ostanu doslovni.",
+      "suggestion": "Nazive stranaka u citatima zadržati što bliže izvoru ('District Magistrate, Bead', 'Commissioner of Police') ili ih dosljedno prevoditi; 'Anr.' -> 'i drugog'."
+    },
+    {
+      "id": "n62tOy4Cqp#0",
+      "severity": "minor",
+      "type": "stil / registar",
+      "description": "'counter-affidavit' preveden kao 'protivizjava data pod zakletvom' (neuobičajena tvorenica, nije u glosaru); 'frivolous contention' -> 'neozbiljan navod' (u pravnom registru prirodnije 'neosnovan'); 'Annexure' -> 'Prilog' isto kao Schedule (glosar 'prilog'), što stvara dvosmislenost sa Prilogom zakona.",
+      "suggestion": "'odgovor na zahtjev dat pod zakletvom (counter-affidavit)' ili 'izjava protivne strane data pod zakletvom'; 'neosnovan navod'; 'Aneks 'A'' ili zadržati 'Prilog' uz konzistentnu napomenu."
+    }
+  ],
+  "overall_quality": "Automatske provjere su prošle: isti _id (n62tOy4Cqp#0), identičan niz svih brojeva i tokena (Rs. 1/1), isti broj novih redova (36), odnos riječi 0.85, nema ekavskih ni hrvatskih oblika. Pregledom pasus po pasus nije nađeno izostavljenih ni dodatih rečenica, pogrešne strane u postupku, negacija, rokova ni datuma; citati sudske prakse i brojevi članova su sačuvani. Registar je prirodan, pravnički, ijekavski, a glosar se uglavnom poštuje; preostale primjedbe su manje terminološke i stilske (petition, množina protivnih strana, imena predmeta u citatima).",
+  "reviewed_batch": "corpus_067"
+}

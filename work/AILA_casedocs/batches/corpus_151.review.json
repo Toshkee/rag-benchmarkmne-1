@@ -1,0 +1,56 @@
+{
+ "n_blocking": 1,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "blocking",
+   "type": "pogrešno značenje (rečenica 17)",
+   "description": "Izvor: 'Laxmi asked her to go home.' (Laxmi je zamolila Vimal da ode kući). Prevod: 'Laxmi joj je rekla da ide kući.' - znači da Laxmi saopštava da ona ide kući; promijenjen je govornik radnje i smisao.",
+   "suggestion": "Zamijeniti sa 'Laxmi ju je zamolila da ode kući.'"
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "gramatika/padež (pasus 1)",
+   "description": "'zbog ubistva Laxmi i njeno dvoje djece' - nominativ umjesto genitiva (izvor: 'the murder of Laxmi and her two children').",
+   "suggestion": "'zbog ubistva Laxmi i njenih dvoje djece' (ili 'Laxmi i njene djece')."
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "rod (pasus 15)",
+   "description": "'Ona je, dakle, svjedok koji je vidio optuženog' - muški rod za svjedokinju Mathurabai (izvor: 'she is a witness of seeing the accused').",
+   "suggestion": "'Ona je, dakle, svjedokinja koja je vidjela optuženog kako ide u društvu Laxmi u vrijeme večere.'"
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "terminologija okrivljeni/optuženi (pasusi 7, 23-25)",
+   "description": "Glosar (dio 6) traži 'okrivljeni' dok nema optužnice; prevod za fazu hapšenja i saslušanja koristi 'optuženi' ('Prilikom saslušanja optuženi je ponudio...'; 'na osnovu pokazivanja optuženog'). Isto lice se naizmjenično zove 'žalilac' i 'optuženi' (izvor to takođe čini, ali pasus 7 'Žalilac je uhapšen' i 'optuženi je ponudio' u susjednim rečenicama).",
+   "suggestion": "U pasusima o hapšenju/saslušanju/pronalascima (7, 12, 13, 23) koristiti 'okrivljeni'; od pasusa 8 (optužba) 'optuženi'."
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "nejasnoća subjekta (pasus 8)",
+   "description": "'Kada mu je ovaj odbio da omogući prolaz, podnio je tužbu sudu' i 'Imao je svađu sa njegovim ocem i stričevima' - zamjenice 'ovaj'/'njegovim' uvode referentnu nejasnoću veću nego u izvoru; 'njegovim' sugeriše drugo lice u odnosu na subjekt.",
+   "suggestion": "'Kada je Sahebrao odbio da mu omogući prolaz, Kisan je podnio tužbu sudu'; 'Imao je svađu sa ocem i stričevima optuženog' samo ako je to smisao (izvor je dvosmislen, razmotriti doslovnije 'sa svojim ocem i stričevima')."
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "format polja",
+   "description": "Izvorni item ima polje 'n_chunks': 2; prevod sadrži samo _id, title, text (n_chunks izostavljen). _id, title i broj novih redova (33) su isti.",
+   "suggestion": "Provjeriti da li pipeline očekuje n_chunks u prevedenom fajlu; ako da, kopirati iz izvora."
+  },
+  {
+   "id": "5F21rWz5FY#0",
+   "severity": "minor",
+   "type": "stil (pasus 13)",
+   "description": "'prvi susjedi' za 'next door neighbours' je nespretno.",
+   "suggestion": "'prvi komšije/susjedi iz susjedne kuće' ili 'susjedi iz neposredne blizine'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (33), svi tokeni, brojevi, datumi, šifre dokaza (Ex. 19-28), PW oznake i iznosi se poklapaju, odnos riječi 0.86, bez ekavskih i hrvatskih oblika. Terminologija prati glosar (žalilac, Visoki sud, Sesijski sud, član 302, revizija sa glosom, službenik koji vodi istragu), a registar je prirodan za obrazloženje presude. Jedina bitna greška je pogrešno prevedena rečenica u pasusu 17; ostalo su manji gramatički i stilski nedostaci."
+}

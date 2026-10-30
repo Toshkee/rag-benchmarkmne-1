@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "name/honorific",
+   "description": "Pasus \"Mr. Jethmalani, learned counsel for the appellant\" preveden kao \"G. Jethmalani, uvaženi zastupnik žalioca\": \"Mr.\" je pretvoreno u veliko \"G.\", što se čita kao inicijal imena a ne kao titula.",
+   "suggestion": "\"g. Jethmalani, uvaženi zastupnik žalioca\" (malo slovo, kao u dijelu 9 vodiča)."
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "syntax/meaning drift",
+   "description": "\"Coming now to ... S. 32(1) of the Evidence Act, this Court in the case of Ratan Gond v. State of Bihar ..., S. K. Das, J. made the following observations\" preveden kao \"u predmetu ovog suda Ratan Gond protiv države Bihar ... sudija S. K. Das iznio je\" - \"predmetu ovog suda\" je pogrešno postavljeno i zamagljuje da je to odluka ovog suda.",
+   "suggestion": "\"...tumačenja člana 32(1) Zakona o dokazima, ovaj sud je u predmetu Ratan Gond protiv države Bihar 1958 Indlaw SC 74 (sudija S. K. Das) iznio sljedeća zapažanja:-\""
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "addition",
+   "description": "\"his friend (PW 3) and also to PWs. 4 and 5\" preveden \"kao i svjedocima PWs. 4 i 5\" - dodata riječ \"svjedocima\" koje nema u izvoru (PWs. već znači svjedoci optužbe).",
+   "suggestion": "\"kao i PWs. 4 i 5\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"several authorities of this Court as also of the High Courts\" -> \"visokih sudova\" (malo slovo); glosar: High Court -> Visoki sud.",
+   "suggestion": "\"Visokih sudova\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"complete and conclusive\" (circumstantial evidence) -> \"potpuni i uvjerljivi\"; \"conclusive\" je pravno \"odlučujući/neoborivi\", \"uvjerljivi\" je slabije. Isti pojam i u citatu Hanumant (\"conclusive nature\" -> \"uvjerljive prirode\"), ali je bar dosljedno.",
+   "suggestion": "\"potpuni i odlučujući\" / \"odlučujuće prirode i usmjerenja\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "register/croatism",
+   "description": "\"to have the desired effect\" -> \"željeni učinak\" - \"učinak\" je hrvatski oblik u odnosu na crnogorski pravni registar.",
+   "suggestion": "\"željeni efekat\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "\"Nakon toga su uslijedili uobičajena istraga i obdukcija, koji trenutno nijesu\" - neusklađenost roda/broja (\"uslijedili\" uz ž. rod \"istraga\"; \"koji\" uz \"istraga i obdukcija\").",
+   "suggestion": "\"Nakon toga su uslijedile uobičajena istraga i obdukcija, koje trenutno nijesu od velikog značaja za našu svrhu i biće razmotrene u odgovarajućoj fazi.\""
+  },
+  {
+   "id": "sUkiH8G4Zp#0",
+   "severity": "minor",
+   "type": "addition/style",
+   "description": "\"at Pune\" -> \"u gradu Pune\" (dodato \"u gradu\"); \"Protima Dutta v. The State\" -> \"protiv Države\" (veliko slovo za stranu u postupku, dok je drugdje \"države X\").",
+   "suggestion": "\"u Pune\" / \"protiv države\" radi dosljednosti; nizak prioritet."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (38), svi pasusi i rečenice prisutni, brojevi, datumi, citati (Indlaw, SCC, CrLJ) i tokeni (A-2, P.W. 24/25/30) doslovno očuvani, odnos riječi 0.89, bez ekavizama i hrvatizama. Registar je prirodan crnogorski pravni stil sa dosljednom terminologijom (žalilac, uvaženi zastupnik, Visoki sud, prvostepeni sud, nijesu, član/tačka); nađeno je samo nekoliko manjih stilskih i gramatičkih nedostataka."
+}

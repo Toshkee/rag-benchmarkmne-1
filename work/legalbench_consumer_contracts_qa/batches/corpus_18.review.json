@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "uQO001xtSV",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"We may cancel or suspend your access\"; prevod: \"Možemo otkazati ili privremeno ukinuti vaš pristup\". \"Otkazati\" nije u glosaru (terminate/cancel -> raskinuti/ukinuti), a stvara nedosljednost sa \"ukidanje\" u istom itemu.",
+   "suggestion": "\"Možemo ukinuti ili privremeno ukinuti vaš pristup Uslugama\"."
+  },
+  {
+   "id": "uQO001xtSV",
+   "severity": "minor",
+   "type": "register",
+   "description": "Izvor 6.4: \"fraudulent, abusive, or otherwise illegal activity\"; prevod: \"prevarna, zloupotrebljavajuća ili na drugi način nezakonita aktivnost\". \"Zloupotrebljavajuća\" je neprirodan oblik.",
+   "suggestion": "\"prevarna, zlostavljačka (zloupotrebna) ili na drugi način nezakonita aktivnost\"."
+  },
+  {
+   "id": "Xoblu17rNy",
+   "severity": "minor",
+   "type": "style",
+   "description": "Izvor: \"Twitch or We\"; prevod: \"Twitch ili Mi\". Zamjenica \"Mi\" velikim slovom, a stilski vodič traži \"mi\" malim slovom; izvor je u normalizovanom obliku.",
+   "suggestion": "\"Twitch ili mi\" (ili \"Twitch\")."
+  },
+  {
+   "id": "Xoblu17rNy",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"jurisdiction of residence\"; prevod: \"jurisdikciji u kojoj imate prebivalište\". Glosar: jurisdiction -> nadležnost. Takođe \"Sign Up\" ostavljeno neprevedeno (\"klikom na Sign Up\").",
+   "suggestion": "\"u nadležnosti u kojoj imate prebivalište\"; \"klikom na Sign Up (Registruj se)\" ili dosljedno prevesti dugme."
+  },
+  {
+   "id": "IqK3yn9Ffc",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Izvor: \"you will be asked to provide us\"; prevod: \"biće zatraženo da nam dostavite\" — izostavljen subjekat/objekat zahtjeva, rečenica zvuči nepotpuno.",
+   "suggestion": "\"od vas će se zatražiti da nam dostavite određene podatke\"."
+  },
+  {
+   "id": "4efLerNHu9",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Izvor: \"Unless otherwise agreed to in a written agreement\"; prevod: \"Osim ako drugačije nije ugovoreno\" — dvostruka negacija/pogrešan red riječi. Takođe \"specifically does not contain\" -> \"izričito ne sadrži\" (preciznije: \"posebno\").",
+   "suggestion": "\"Osim ako nije drugačije ugovoreno pisanim ugovorom\"; \"posebno ne sadrži\"."
+  },
+  {
+   "id": "4efLerNHu9",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Izvor (b)(2): \"does not and will not: (a) infringe ... (b) defame\"; prevod: \"ne povređuje i neće: (a) povrijediti\" — nespretno ponavljanje glagola i miješanje oblika (povređuje/povrijediti).",
+   "suggestion": "\"ne krši niti će kršiti: (a) bilo koje pravo trećeg lica ..., niti (b) klevetati ...\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova, nema izostavljenih ni dodatih rečenica, brojevi i URL-ovi su očuvani, nema ekavizama ni hrvatizama. Registar je formalan i prikladan opštim uslovima poslovanja (vi/vaš, nijesu, uslovi korišćenja, nalog, korisnički sadržaj, treće lice), uz tek nekoliko sitnih stilskih i terminoloških odstupanja."
+}

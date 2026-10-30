@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'forfeit/forfeiture' (para 2, 4, 5, 14, 41: 'forfeit the whole/ part of the amount', 'forfeiture of 2%', 'between resumption and forfeiture') dosljedno je preveden kao 'zadržati/zadržavanje' ('zadržati cijeli/dio već uplaćenog iznosa', 'zadržavanje od 2%'). Značenje je gubitak uplaćenog iznosa u korist vlasti, a 'zadržavanje' je neodređeno i u 'plaćanje ... zadržavanje od 2%' zvuči kao nešto drugo.",
+   "suggestion": "Zamijeniti dosljedno u cijelom itemu: 'forfeit' -> 'oduzeti u korist/ostaviti kao izgubljen (propast) uplaćenog iznosa', 'forfeiture of 2%' -> 'gubitak 2% (forfeiture)', 'razliku između oduzimanja (resumption) i gubitka uplaćenih sredstava (forfeiture)'."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodate prevodilačke dopune koje izvor nema: '\\'jhuggi\\' straćara' (izvor: \"several 'jhuggis' existed\") i 'zemljišta/zgrade dodijeljenih žaliocima' (izvor: 'resumption of land/ building of the first respondent in favour of the appellants' - nema 'dodijeljenih').",
+   "suggestion": "'nekoliko 'jhuggi' naselja/koliba' bez glose ili samo 'jhuggis'; u para 1: 'ovlašćenja prve protivne strane za oduzimanje zemljišta/zgrade u korist žalilaca' (ili doslovno kako stoji u izvoru)."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "izostavljanje/značenje",
+   "description": "Para 4 (zapisnik 24. 6. 1992): 'Rupees Two Lacs Eighty Seven Thousand only' prevedeno je 'Dva lakha osamdeset sedam hiljada rupija' - izostavljeno 'only'. Para 14 (pismo žalioca): 'penalty interest' prevedeno kao 'kaznu, kamatu' (razdvojeno) umjesto 'kaznena kamata'.",
+   "suggestion": "'(Dva lakha osamdeset sedam hiljada rupija, samo)' ili 'isključivo'; 'kaznu, kamatu' -> 'kaznenu kamatu'."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "Para 4 (rješenje službenika): 'I hold the default wilful' -> 'Smatram da je docnja namjerna'. 'default' u smislu neizmirenja dugovanja nije 'docnja' (kašnjenje) nego neizvršenje/neplaćanje; 'Inspite of various opportunities' -> 'brojnim mogućnostima' (izvor: 'various' = razne); 'failed ... several opportunities' -> 'brojnim' (para 16).",
+   "suggestion": "'Smatram da je neizmirenje namjerno.'; 'Uprkos različitim mogućnostima'; 'uprkos nekoliko pruženih mogućnosti' (para 16)."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "Para 41: '(as the learned Chief Justice then was)' -> '(kasnije uvaženi predsjednik Vrhovnog suda)'. Izvor kaže 'tada', prevod uvodi 'kasnije', što mijenja vremensku oznaku; takođe 'Chief Justice' nedosljedno u odnosu na 'CJ'/'CJI' koji ostaju u skraćenom obliku.",
+   "suggestion": "'(kako je uvaženi predsjednik Vrhovnog suda tada bio)' ili 'Punchhi, J. (tada uvaženi vrhovni sudija)' - ostaviti vremenski smisao izvora; ujednačiti naziv funkcije."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "Para 16: 'the matter may be heard on merits' -> 'predmet treba raspraviti u meritumu' (modalnost 'može' pretvorena u 'treba'). Para 21: 'direction ... may be given to the quarter concerned' -> 'nalog u tom smislu može dati nadležnom mjestu' - 'nalog' bez odrednice i neprirodno 'nadležnom mjestu'.",
+   "suggestion": "'predmet može biti raspravljen u meritumu'; 'da se u tom smislu da uputstvo/naredba nadležnom organu'."
+  },
+  {
+   "id": "BnD3XkfFNu#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Titula 'G. J.K. Sibal' / 'G. Sibal' (para 15, 17, 18) - veliko 'G.' ispred inicijala čita se kao inicijal imena i miješa sa 'J.K.'; stilski vodič preporučuje 'g.'. 'prošireno vijeće (Full Bench)' nije u glosaru (ok, ali nije pokriveno). 'Žalbe' za 'appeals' u para 1 uz kasnije 'građanska žalba' dosljedno - ok.",
+   "suggestion": "Pisati 'g. J.K. Sibal', 'g. Sibal'; po želji 'veće vijeće (Full Bench)' kao u glosaru za Division Bench - ostaviti kao što jest uz glosu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun: svih 42 reda iz izvora postoje u prevodu (isti broj novih redova), tokeni Rs. i svi brojevi (članovi, datumi, iznosi, citati SCC/AIR/Indlaw) su identični, _id je ispravan, nema ekavizama ni hrvatizama. Registar je dosljedan sudskom jeziku crnogorskih propisa i glosaru (žalilac, protivna strana, podnosilac zahtjeva, rješenje, Visoki sud, nalog (writ), revizija, show cause notice), a stranke su dosljedno označene; postoje samo manje terminološke i stilske primjedbe, od kojih je najvažnija 'forfeiture' = 'zadržavanje'."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "U prevodu stoji \"ostali djelovi ovog Sporazuma o arbitraži\" i \"svi ostali djelovi ovog Korisničkog ugovora\" (izvor: \"the other parts\" / \"all other parts\"). Ijekavski oblik množine od \"dio\" je \"dijelovi\", u skladu sa normom iz stilskog vodiča.",
+   "suggestion": "Zamijeniti \"djelovi\" sa \"dijelovi\" na oba mjesta."
+  },
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"judgment on the award ... may be entered in any court\" prevedeno kao \"presuda ... može se donijeti pred bilo kojim sudom\". \"Entered\" se odnosi na upis ili izdavanje presude po osnovu arbitražne odluke, a ne na donošenje presude.",
+   "suggestion": "\"presuda na osnovu odluke arbitra može se upisati/izdati pred bilo kojim nadležnim sudom\" (ili \"odluka arbitra može se izvršiti pred ...\")."
+  },
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"will honor all claims of privilege recognized by law\" prevedeno kao \"uvažiće sve privilegije priznate zakonom\". Izvor govori o prigovorima/zahtjevima za zaštitu povlašćenih informacija (privilege), pa je \"privilegije\" preširoko i dvosmisleno.",
+   "suggestion": "\"uvažiće sve zahtjeve za zaštitu povlašćenih informacija (privilege) priznate zakonom\"."
+  },
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljednost u batchu: \"User Agreement\" je \"Korisnički ugovor\", a \"Agreement to Arbitrate\" je \"Sporazum o arbitraži\"; takođe \"User Privacy Notice\" je \"Obavještenje o privatnosti korisnika\" (glosar: privacy policy → politika privatnosti, ali je ovdje riječ o nazivu akta, pa je odstupanje dopustivo).",
+   "suggestion": "Razmotriti \"Ugovor o arbitraži\" radi usklađenosti sa glosarom (agreement → ugovor); ostalo može ostati ako se dosljedno koristi kroz cijeli korpus."
+  },
+  {
+   "id": "FCIX3BYOtD",
+   "severity": "minor",
+   "type": "stil/dosljednost",
+   "description": "Isti pojam \"settings / preferences\" prevodi se naizmjenično kao \"postavke\" i \"podešavanja\" (\"postavke vraćanja robe\", \"u podešavanjima naloga\", \"podešavanja postavljena\"); u itemu ppaX3QjBvK je \"Postavke komunikacije\". Takođe, \"which ... subject to your automatic payment method\" je preoblikovano u \"koja se naplaćuje putem vašeg sačuvanog sredstva automatskog plaćanja\", gdje relativna zamjenica \"koja\" nejasno upućuje na fakturu.",
+   "suggestion": "Ujednačiti na \"postavke\" kroz cijeli batch; razmotriti \"... na vašu fakturu, u skladu sa vašim sačuvanim sredstvom automatskog plaćanja, kada:\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup _id-ova, isti broj novih redova u svim itemima, svi brojevi, adrese, iznosi ($25,000, $10,000), rokovi (30 dana) i nazivi ostali su neizmijenjeni, bez izostavljenog ili dodatog sadržaja i bez pogrešne strane u postupku. Ijekavica je dosljedna (nema ekavskih ni hrvatskih oblika, \"nijesu\" korišćeno), registar je formalan, bezličan pravno-ugovorni uz obraćanje \"vi\" malim slovom, a glosar je uglavnom poštovan (nalog, odgovornost, privremeno ukinuti, usluge). Preostale primjedbe su isključivo manje terminološke i stilske prirode."
+}

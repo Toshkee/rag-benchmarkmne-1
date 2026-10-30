@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00332",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pogrešan padež: „odobrava poništenje prinudnog udaljenja i promjena statusa“ (izvor: „authorize the cancellation of removal and adjustment of status“). „promjena“ treba da bude akuzativ, kao „poništenje“.",
+   "suggestion": "„odobrava poništenje prinudnog udaljenja i promjena statusa“ → „odobrava poništenje prinudnog udaljenja i prilagođavanje (promjenu) statusa“."
+  },
+  {
+   "id": "00339",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Ministarstvo unutrašnjih poslova“ za „Department of the Interior“ može zavarati (u CG to je policijsko ministarstvo), ali je u skladu sa glosarom iz dijela 8 i ostaje dosljedno.",
+   "suggestion": "Zadržati radi dosljednosti sa glosarom ili jednom uvesti „(Department of the Interior)“; ne mijenjati samo u ovom itemu."
+  },
+  {
+   "id": "00321",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "„za gonjenje povreda“ za „for enforcing robocall violations“: „gonjenje“ sužava značenje na krivično gonjenje, a izvor kaže „enforcing“ (sprovođenje/primjena).",
+   "suggestion": "„radi produženja roka zastarjelosti za sprovođenje mjera zbog povreda pravila o automatizovanim pozivima (robocall)“ ili „za postupanje po povredama...“."
+  },
+  {
+   "id": "00323",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„Predlog zakona kojim se predviđa planiranje, razvoj i davanje preporuka“ je nominalizacija izvornog „to plan, develop, and make recommendations“; slabije od uobičajenog obrasca.",
+   "suggestion": "„Predlog zakona kojim se planira, razvija i daju preporuke za povećanje dostupnosti pregleda nakon seksualnog napada...“."
+  },
+  {
+   "id": "00331",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„dodatna dopunska budžetska sredstva“ je pleonazam („additional supplemental appropriations“).",
+   "suggestion": "„dodatna budžetska sredstva“ ili „dopunska budžetska sredstva“; ako se želi oba, „dodatna dopunska“ je prihvatljivo samo uz dosljednost u batchu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: 20/20 _id-ova se poklapa, svi brojevi, datumi i pozivi na propise (211(o), 7545(o), 227(b), glava 42, 1934, 1986, 1. juna) su očuvani, nema ekavizama ni kroatizama, a obrasci „Predlog zakona kojim se...“ odnosno „Kojim se...“ pravilno razlikuju „A bill“ od fragmenata, uz jednu rečenicu po itemu i bez sadržaja iz context polja. Registar je primjeren, glosar (fiskalna godina, budžetska sredstva, Zakonik o unutrašnjim prihodima, i uređuju druga pitanja) poštovan i dosljedan; ostaju samo manje stilske i padežne primjedbe."
+}

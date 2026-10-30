@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "22wjZRL9Oa",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„information received from a person accused“ prevedeno kao „obavještenja primljenog od lica okrivljenog“. Glosar rezerviše „obavještenje“ za „notification“; „information“ je ovdje podatak/saznanje. Takođe „Pod uslovom da“ za „Provided that“ nije u glosaru (izuzetak / odredba o izuzetku), ali je dosljedno u batchu.",
+   "suggestion": "„podatka/saznanja primljenog od lica okrivljenog…“ (naslov: „Koliki dio podataka primljenih od okrivljenog…“); dosljedno u 22wjZRL9Oa i xavU07zUHL/YqWg21nYCs ako se mijenja."
+  },
+  {
+   "id": "850kEnydx9",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„STATE AMENDMENTS“ → „IZMJENE U SAVEZNIM DRŽAVAMA“ (dodata riječ „saveznim“ koje nema u izvoru); „shall be substituted“ → „donosi se sljedeći član“ (pravilnije „zamjenjuje se sljedećim članom“); „criminal force“ → „krivičnopravna sila“ nije u glosaru.",
+   "suggestion": "„IZMJENE U DRŽAVAMA“; „umjesto člana 354 zamjenjuje se sljedećim članom, i to-“; razmotriti „upotrijebi silu/krivičnu silu“ dosljedno u naslovu i tekstu."
+  },
+  {
+   "id": "YqWg21nYCs",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„Nijednu izjavu koju bilo koje lice da policijskom službeniku … ne potpisuje lice koje je daje“ je nezgrapna konstrukcija (akuzativ uz odricanje, bez deontičkog glagola) i teško se čita kao zakonska norma. Takođe „okrivljeni“ za „accused“ u suđenju (glosar: optuženi nakon optužnice) i „Država(e)“ za „State(s)“.",
+   "suggestion": "„Izjava koju bilo koje lice da policijskom službeniku … ne potpisuje se ako je sačinjena u pisanom obliku“ / „ne smije se potpisati“; „optuženi“ umjesto „okrivljeni“; „Država(e)“ → „Savezna država/države“ ili zadržati dosljedno."
+  },
+  {
+   "id": "xavU07zUHL",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Ista nezgrapna konstrukcija „Nijednu izjavu … ne potpisuje lice koje je daje“ kao u YqWg21nYCs; „okrivljeni“ za „accused“ u suđenju.",
+   "suggestion": "Uskladiti sa YqWg21nYCs: „Izjava … ne smije se potpisati“; „optuženi“."
+  },
+  {
+   "id": "9vOWOU6mbj",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Clerk of the State“ / „Clerk of the Crown“ prevedeno „Sekretar Države“ / „sekretar Krune“; „clerk“ je pisar/službenik, „sekretar“ sugeriše višu funkciju. Takođe „State Government“ → „Vlada države“ nedosljedno sa „Država“ u glosaru; „Diskreciono ovlašćenje“ je u redu.",
+   "suggestion": "„Pisar Države“ / „pisar Krune“ (ili „službenik Države“); „Vlada Države“ ili dosljedno „Vlada države“ u cijelom korpusu."
+  },
+  {
+   "id": "tUeC99enq5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„IT Amendment Act, 2008“ prošireno u „Zakon o izmjenama zakona o informacionim tehnologijama iz 2008. godine“ (skraćenica razriješena i naziv promijenjen/ponavlja se „zakona“); „Vide“ izostavljeno; „Illustration“ → „Primjer“ (glosar nema, prihvatljivo).",
+   "suggestion": "„Zakon o izmjenama Zakona o informacionim tehnologijama iz 2008. godine“ ili doslovno „IT Amendment Act, 2008“; razmotriti „Vidjeti“ za „vide“."
+  },
+  {
+   "id": "18Y2bTu5X1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„the Legislature of each of the States“ → „zakonodavni organ svake od država“ — „State“ je u definiciji tehnički termin (Država), a ovdje malim slovom; „na teritoriji Indije“ umjesto „na teritoriji“ je u redu.",
+   "suggestion": "„svake od Država“ ili uskladiti pisanje „država/Država“ u batchu."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 10 _id-ova je prisutno, format Naslov:/Opis: je ispravan, tokeni i brojevi se poklapaju (jedine razlike su format datuma 03-02-2013 → 3. 2. 2013), nema ekavskih ni hrvatskih oblika, odnos riječi 0.78–1.09. Registar je uglavnom prirodan za crnogorske propise (Ko…kazniće se, glosar poštovan), a slabosti su nezgrapne negativne konstrukcije u članu o izjavama policiji i nekoliko terminoloških sitnica (information/obavještenje, Clerk/sekretar, accused/okrivljeni)."
+}

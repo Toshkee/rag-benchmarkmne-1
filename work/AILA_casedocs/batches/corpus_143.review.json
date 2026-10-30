@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "ZXe1cb51JJ#1",
+   "severity": "minor",
+   "type": "citation",
+   "description": "Citat u tački 19 je djelimično preveden: 'Kalyan Chandra Sarkar vs. Rajesh Ranjan @ Pappu Yadav and anr.' -> 'protiv ... i drugog'. Brojevi i SCC/Indlaw oznake su očuvani.",
+   "suggestion": "Prema pravilu o doslovnim citatima ostaviti 'Kalyan Chandra Sarkar vs. Rajesh Ranjan @ Pappu Yadav and anr.' (ili bar zadržati 'vs. ... anr.')."
+  },
+  {
+   "id": "ZXe1cb51JJ#1",
+   "severity": "minor",
+   "type": "omission",
+   "description": "U tački 18 'veracity or otherwise' -> 'vjerodostojnosti' (izostavljeno 'or otherwise').",
+   "suggestion": "'o vjerodostojnosti ili nevjerodostojnosti iskaza'."
+  },
+  {
+   "id": "ZXe1cb51JJ#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'sophisticated weapons' -> 'savremenim oružjem' (tačka 17) je slabije značenjski; 'Ranjan Tiwarija' deklinirano a 'Shri' izostavljeno ('g.' dodato).",
+   "suggestion": "'sofisticiranim oružjem'; ime ostaviti nedeklinirano ('izvjesnog Ranjana Tiwarija' je prihvatljivo, ali dosljedno)."
+  },
+  {
+   "id": "ZXe1cb51JJ#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Tačka 20: dodata glosa u zagradi '(Addl. Solicitor General)' koje nema u izvoru; 'Solicitor General' prevedeno kao 'generalni pravobranilac'.",
+   "suggestion": "Izbaciti zagradu ili je dosljedno primijeniti u cijelom korpusu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 10 numerisanih pasusa (15-24) i završne rečenice su prevedeni, brojevi, članovi i citati se podudaraju, broj novih redova je isti (11), nema ekavskih ni hrvatskih oblika, strane su dosljedne (žalilac, jemstvo, prvostepeni sud, Visoki sud). Registar je prirodan i odgovara obrazloženju presude; nalaza koji mijenjaju značenje nema, samo sitne stilske i terminološke primjedbe."
+}

@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "CmDDBRtsYh",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Izvor: \"you agree to be bound by such modifications\"; prevod: \"vi ste saglasni da ste obavezani takvim izmjenama ili revizijama\" - nezgrapno, vremenski neusklađeno.",
+   "suggestion": "\"saglasni ste da ćete biti obavezani takvim izmjenama ili revizijama\"."
+  },
+  {
+   "id": "CmDDBRtsYh",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"shall be deemed to confer any third party rights or benefits\"; prevod: \"neće se smatrati osnovom za priznavanje bilo kakvih prava ili koristi trećim licima\" - ,,osnov za priznavanje\" je odstupanje od jednostavnog značenja (davanje prava).",
+   "suggestion": "\"Ništa u ovim uslovima korišćenja neće se tumačiti kao davanje bilo kakvih prava ili koristi trećim licima.\""
+  },
+  {
+   "id": "8dnNzoCXB1",
+   "severity": "minor",
+   "type": "struktura",
+   "description": "Izvor: \"provided that you agree not to distribute ... you agree not to alter\"; prevod: \"pod uslovom da: ste saglasni da nećete distribuirati ... ste saglasni da nećete mijenjati\" - dvotačka poslije ,,da\" i nabrajanje sa ,,ste saglasni\" je gramatički nespretno.",
+   "suggestion": "\"pod uslovom da ne distribuirate ... i da ne mijenjate ...\" ili \"pod uslovom da ste saglasni da nećete ...\" bez dvotačke."
+  },
+  {
+   "id": "8dnNzoCXB1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljednost: \"internet stranice\" (website) ali \"sa sajta\" za \"from the site\"; \"commercial solicitation\" -> \"komercijalnog pridobijanja\" je neprirodno.",
+   "suggestion": "\"sa internet stranice\"; \"komercijalnog nuđenja/oglašavanja\" umjesto \"pridobijanja\"."
+  },
+  {
+   "id": "puSjjud5MP",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Izvor: \"you own or have the necessary licenses rights consents and permissions to publish content\"; prevod: \"posjedujete, ili da imate potrebne licence\" - ,,posjedujete\" ostaje bez objekta (i bez ,,da\" ispred), rečenica je nepotpuna.",
+   "suggestion": "\"da ste vlasnik Sadržaja ili da imate potrebne licence, prava, saglasnosti i dozvole za objavljivanje Sadržaja koji podnosite\"."
+  },
+  {
+   "id": "puSjjud5MP",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Izvor: \"royalty free\"; prevod: \"besplatnu (bez tantijema)\" - dodata zagrada sa objašnjenjem, što stilski vodič ne dozvoljava.",
+   "suggestion": "\"besplatnu\" ili \"bez naknade\" bez zagrade."
+  },
+  {
+   "id": "batch",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Glosar (dio 7) predviđa \"vaš sadržaj / korisnički sadržaj\" malim slovom; prevod dosljedno koristi \"Sadržaj\" velikim slovom kao definisan termin (isto kao \"Usluga\"), mada izvor nema definiciju (osim ,,the service\" u stavu 1). Dosljedno je unutar batcha, ali odstupa od glosara.",
+   "suggestion": "Razmotriti \"sadržaj\" malim slovom, a \"Usluga\" zadržati samo gdje je definisana; ili prihvatiti kao dosljedan izbor."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 7 _id-ova je očuvano, brojevi, URL-ovi i nabrajanja se podudaraju, bez izostavljenih ili dodatih rečenica, bez ekavizama i hrvatizama. Registar korpusa je formalan ugovorni, ortografija normalna, glosar (nalog, uslovi korišćenja, politika privatnosti, treće lice, obeštetiti i zaštititi od odgovornosti, ukinuti, u viđenom stanju) dosljedno primijenjen; preostale su samo manje stilske i gramatičke nezgrapnosti. Batch nema upita, samo korpus."
+}

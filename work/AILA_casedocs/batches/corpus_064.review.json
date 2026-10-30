@@ -1,0 +1,5 @@
+{"n_blocking":0,"n_minor":3,"issues":[
+{"id":"6UmFFciuDC#0","severity":"minor","type":"terminologija","description":"Para 4: 'prenijela je svoj interes' za 'assigned her interest' - 'interes' je neprirodan u pravničkom registru.","suggestion":"'prenijela je svoj udio (pravo)' ili 'ustupila je svoj udio'."},
+{"id":"6UmFFciuDC#0","severity":"minor","type":"leksika","description":"Para 7: 'na ležaljci' za 'on a cot' - ležaljka nije nosila.","suggestion":"'na nosilima' / 'na krevetu-nosilima'."},
+{"id":"6UmFFciuDC#0","severity":"minor","type":"nijansa","description":"Para 8: 'vjerovatno nijesu smrtonosne' za 'are not likely to be fatal' - dvosmisleno (vjerovatno ne = moguće jesu).","suggestion":"'nije vjerovatno da su smrtonosne'."}
+],"overall_quality":"Prevod je potpun i vjeran: isti _id, isti tokeni i brojevi, 37 novih redova kao u izvoru, odnos riječi 0.88, bez ekavizama i kroatizama. Glosar je dosljedno primijenjen (žalilac, Krivični zakonik Indije, izuzetak, deportacija na doživotno vrijeme, nijesu), a registar je prirodan obrazloženju presude; nađene su samo tri sitne leksičke primjedbe."}

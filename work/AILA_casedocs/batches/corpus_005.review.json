@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#4",
+   "severity": "minor",
+   "type": "navodnici",
+   "description": "Citat Chinnappa Reddy iz pasusa 53: izvor završava 'equality of status and of opportunity\".' a prevod 'jednakost statusa i mogućnosti“.' - otvoren jednostruki, zatvoren dvostruki navodnik (nedosljedno). Isto je u izvoru, ali prevod treba biti zatvoren dosljedno.",
+   "suggestion": "... i da osigura 'jednakost statusa i mogućnosti'.“ (ili ostaviti kao u izvoru, ali dosljedno)."
+  },
+  {
+   "id": "FCIX3BYOtD#4",
+   "severity": "minor",
+   "type": "terminologija/nedosljednost",
+   "description": "Nazivi tijela: Acts se prevode ('Zakonu o Komisiji za naftu i prirodni gas'), a sama tijela ostaju na engleskom ('Oil and Natural Gas Commission', 'Life Insurance Corporation', 'Industrial Finance Corporation'); 'Council of Scientific and Industrial Research' ostaje engleski, a dalje je 'Savjet'. Nedosljedno unutar itema.",
+   "suggestion": "Ili zadržati engleski naziv uz prevod pri prvom pomenu (npr. 'Komisija za naftu i prirodni gas (Oil and Natural Gas Commission)'), ili dosljedno zadržati izvorne nazive i u nazivima zakona."
+  },
+  {
+   "id": "FCIX3BYOtD#4",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'a body corporate having perpetual succession' -> 'pravno lice sa trajnim sukcesivnim postojanjem' je neprirodno; 'Prema tome, vidi se da postoji' je nezgrapno; 'Ray, C.J.' -> 'Predsjednik suda Ray (C.J.)' (preciznije predsjednik Vrhovnog suda).",
+   "suggestion": "'pravno lice sa trajnim pravnim kontinuitetom (perpetual succession) i zajedničkim pečatom'; 'Iz navedenog se vidi da postoji nekoliko činilaca'; 'Vrhovni sudija Ray (C.J.)'."
+  },
+  {
+   "id": "FCIX3BYOtD#4",
+   "severity": "minor",
+   "type": "transkripcija",
+   "description": "'Jammu and Kashmir' -> 'Zakonu o registraciji društava Džamua i Kašmira' - neprirodna deklinacija ('Džamua'); u pasusu 54 naziv 'Regional Engineering College' ostaje engleski, što je dozvoljeno, ali nije označeno kao naziv.",
+   "suggestion": "'Zakonu o registraciji društava države Džamu i Kašmir iz 1898. godine' ili zadržati 'Jammu and Kashmir'."
+  },
+  {
+   "id": "FCIX3BYOtD#4",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'filed a petition u/art. 226' -> 'podnio je zahtjev prema članu 226'; po članu 226 to je writ petition (glosar: ustavna tužba (writ petition)); izvor ipak kaže samo 'petition', pa je zahtjev prihvatljiv, ali gubi se pravna odrednica.",
+   "suggestion": "'podnio je ustavnu tužbu (writ petition) prema članu 226' ili ostaviti 'zahtjev' dosljedno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 23 reda/pasusa je prisutno, broj novih redova je isti (22), svi brojevi, citati (Indlaw SC, AIR) i članovi su identični izvoru, nema anonimizacijskih tokena, nema ekavizama ni hrvatskih oblika, odnos riječi 0.86, a strane i uloge (žalilac, podnosilac zahtjeva, Indijska Unija, Vlada, Država) su dosljedne. Registar je prirodan i pravnički, uz ijekavicu i 'nijesu'; preostale primjedbe su isključivo stilske/terminološke prirode."
+}

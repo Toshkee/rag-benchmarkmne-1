@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "FVr9Qh8yXv#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 10 (i 19): izvorno 'surmises, conjectures or pure guess' / 'conjecture or surmise or guess' prevedeno kao 'pretpostavki, nagađanja ili puke procjene' / 'nagađanja, pretpostavke ili puke procjene'. 'Procjena' je preblag ekvivalent za 'guess' (procjena ima pozitivnu konotaciju stručne ocjene).",
+   "suggestion": "Za 'guess' koristiti 'nagađanje' ili 'slutnja' (npr. 'pretpostavki, nagađanja ili puke slutnje')."
+  },
+  {
+   "id": "FVr9Qh8yXv#1",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "Skraćenica 'LA Act' u izvoru se javlja 9 puta; prevod je zadržava samo jednom ('Zakona o eksproprijaciji zemljišta (LA Act)'), a dalje naizmjenično koristi pun naziv i 'Zakona' ('članom 4(1) Zakona'). Nije izmijenjen sadržaj, ali je oznaka nedosljedna.",
+   "suggestion": "Zadržati pun naziv 'Zakona o eksproprijaciji zemljišta' ili 'Zakona' dosljedno u okviru citata odredbe člana 4(1)/24."
+  },
+  {
+   "id": "FVr9Qh8yXv#1",
+   "severity": "minor",
+   "type": "register",
+   "description": "'Macleod, C.J.' prevedeno kao 'predsjednik suda (C.J.) Macleod'; C.J. = Chief Justice, a oznaka u zagradi miješa izvornu skraćenicu u tekst.",
+   "suggestion": "'vrhovni sudija Macleod' (ili 'predsjednik suda Macleod' bez '(C.J.)')."
+  },
+  {
+   "id": "FVr9Qh8yXv#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "U pasusu 23 naziv 'Revenue Divisional Officer, Adilabad, A.P.' ostavljen netranslatiran u nazivu predmeta ('protiv Revenue Divisional Officer, Adilabad, A.P. i drugi'), dok su druge institucije (Basic Valuation Register) prevedene sa glosom; nedosljedan pristup.",
+   "suggestion": "'Revenue Divisional Officer' prevesti/preslikati dosljedno ili zadržati sve nazive stranaka u predmetima izvorno (npr. i 'Bombay Improvement Trust' ostaje, što jeste)."
+  },
+  {
+   "id": "FVr9Qh8yXv#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Stavka (1) izvorno 'the city of the town or village' (vjerovatno 'city or town') prevedena 'grad, varošicu ili selo'; 'genuine' (transactions) prevedeno 'stvarne', što se miješa sa 'actual/stvarno' u istom pasusu ('stvarne prodaje', 'stvarno izvršena').",
+   "suggestion": "'genuine' -> 'autentične/istinite'; 'city of the town' ostaviti doslovnije ('grad, odnosno varoš ili selo')."
+  }
+ ],
+ "overall_quality": "Batch (1 item, FVr9Qh8yXv#1) je vjeran i potpun: isti _id, 15 redova kao u izvoru, svih 16 pasusa i svaka rečenica prisutna (broj rečenica po pasusu podudaran), svi brojevi, citati (AIR 1926 Bombay 420, (1994) 4 SCC 595), članovi i iznosi (Rs. 12/-, Rs.4/-, 6/-, 8/-) doslovni. Ijekavica i pravnički registar su dobri (eksproprisano zemljište, građevinski potencijal, veleprodajna/maloprodajna cijena, nijesu), bez ekavizama i kroatizama; nađena su samo manja terminološka i stilska odstupanja."
+}

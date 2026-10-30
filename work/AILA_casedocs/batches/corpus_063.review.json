@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "YqWg21nYCs#5",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "'BY THE COURT' preveden kao 'ODLUKA SUDA'; to nije odluka nego formula kojom se saopštava stav suda.",
+   "suggestion": "'PO NALOGU SUDA' ili 'U IME SUDA'."
+  },
+  {
+   "id": "4efLerNHu9#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "'oglasio optužene krivim prema članu 302 u vezi sa članom 34 i članu 120B' - pogrešan padež (izvor: 'Section 302 read with Section 34 and Section 120B').",
+   "suggestion": "'... i članom 120B Krivičnog zakonika'."
+  },
+  {
+   "id": "4efLerNHu9#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'predmet Sesijskog suda br. 88/1991 i 196/1991' za 'Sessions Case No.88/1991 and 196/1991'; neprirodno, a 'optuženi' se koristi i prije podizanja optužnice (glosar: okrivljeni prije optužnice), mada je dosljedno u cijelom itemu.",
+   "suggestion": "'predmeti Sesijskog suda br. 88/1991 i 196/1991'; prihvatljivo zadržati 'optuženi' radi dosljednosti."
+  },
+  {
+   "id": "4efLerNHu9#0",
+   "severity": "minor",
+   "type": "zaglavlje",
+   "description": "'Appeal (Crl.) br. 241 iz 2006. godine' ostavlja engleski naziv vrste predmeta.",
+   "suggestion": "Dozvoljeno; po želji 'Krivična žalba br. 241 iz 2006. godine'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: oba _id-a se poklapaju, tokeni (PW, Rs.), brojevi i broj novih redova su identični izvoru, nema ekavizama ni kroatizama, nijedna rečenica nije izostavljena. Registar je prirodan pravnički (glosar dosljedno primijenjen: žalilac, Visoki sud, uvaženi zastupnik, prvostepeni sud, prethodno jemstvo, optužni akt, nijesu), uz samo sitne stilske primjedbe."
+}

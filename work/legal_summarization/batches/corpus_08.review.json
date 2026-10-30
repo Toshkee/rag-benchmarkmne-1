@@ -1,0 +1,64 @@
+{
+ "batch": "corpus_08",
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "AsoaxzIykT",
+   "severity": "minor",
+   "type": "grammar/agreement",
+   "description": "Prevod: \"Ne smijete, niti smijete dozvoliti bilo kom trećem licu, da prodajete ili prenosite bilo koje korisničke podatke\". Izvor: \"may not permit any third party to sell or transmit\". Glagoli su u 2. licu množine pa subjekat radnje postaje korisnik, a ne treće lice; zarez je suvišan.",
+   "suggestion": "\"Ne smijete niti smijete dozvoliti bilo kom trećem licu da prodaje ili prenosi bilo koje korisničke podatke ...\""
+  },
+  {
+   "id": "AsoaxzIykT",
+   "severity": "minor",
+   "type": "grammar/terminology",
+   "description": "Prevod: \"posredniku podacima\" (izvor: \"data broker\") je gramatički pogrešno.",
+   "suggestion": "\"posredniku u prometu podacima\" ili \"brokeru podataka\"."
+  },
+  {
+   "id": "CizRUsR1S6",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Prevod: \"saglasni ste da se svaki osnov tužbenog zahtjeva koji proistekne ... mora pokrenuti\" (izvor: \"must commence within one 1 year\"). Konstrukcija \"da se ... mora pokrenuti\" je nepravilna.",
+   "suggestion": "\"saglasni ste da se svaki osnov tužbenog zahtjeva ... mora pokrenuti\" zamijeniti sa \"saglasni ste da svaki zahtjev koji proistekne ... mora biti pokrenut u roku od jedne (1) godine\" (ili \"... mora se pokrenuti\")."
+  },
+  {
+   "id": "CizRUsR1S6",
+   "severity": "minor",
+   "type": "terminology consistency",
+   "description": "\"privacy notice\" je preveden kao \"obavještenje o privatnosti\" (dozvoljeno jer izvor kaže notice), ali se u ostatku batcha \"privacy policy\" prevodi kao \"politika privatnosti\" (CgkcsXtTfV); \"cause of action\" i \"claim\" su oba \"zahtjev/osnov tužbenog zahtjeva\" - prihvatljivo. Ostaje i \"internet sajt\" (CizRUsR1S6, SmNqE40fAr) naspram samo \"sajt\" (WJhaOQtwjO).",
+   "suggestion": "Ujednačiti \"sajt\" / \"internet sajt\" u batchu (npr. svuda \"internet sajt\" ili svuda \"sajt\"). \"Obavještenje o privatnosti\" može ostati."
+  },
+  {
+   "id": "FyQk8RCQan",
+   "severity": "minor",
+   "type": "meaning nuance",
+   "description": "Prevod: \"zakonom propisano obavještenje o privatnosti i zaštitu\". Izvor: \"legally adequate privacy notice and protection\" (zakonski primjereno/odgovarajuće, ne nužno propisano zakonom).",
+   "suggestion": "\"pravno odgovarajuće obavještenje o privatnosti i zaštitu\"."
+  },
+  {
+   "id": "7iP4XTx6II",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"merchantability\" preveden kao \"podobnosti za prodaju\"; u ugovornom registru uobičajeno je \"tržišne upotrebljivosti / podobnosti za promet\".",
+   "suggestion": "\"podobnosti za promet\" (ili \"tržišne podobnosti\")."
+  },
+  {
+   "id": "8EE5GXTeLY",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"section b 1 of the google platform developer policies\" -> \"odjeljak B.1\"; glosar za Section daje \"član\", ali za politike kompanije \"odjeljak\" je prirodniji. Prihvatljivo, ali treba paziti na dosljednost.",
+   "suggestion": "Zadržati \"odjeljak B.1\" ili ujednačiti sa \"član\"; nije potrebna izmjena ako se u ostalim batchevima dosljedno koristi \"odjeljak\" za politike."
+  },
+  {
+   "id": "WJhaOQtwjO",
+   "severity": "minor",
+   "type": "style",
+   "description": "\"YouTube ne garantuje, ne podržava, ne jemči niti preuzima odgovornost\" - \"garantuje\" i \"jemči\" su sinonimi pa se izvorno \"warrant\" i \"guarantee\" ne razlikuju; \"kompanija\" (\"the company\") ostaje bez prethodno uvedenog subjekta.",
+   "suggestion": "\"ne daje garanciju, ne podržava, ne jemči niti preuzima odgovornost\"; opciono \"kompanija YouTube\" umjesto \"kompanija\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 19 _id-ova se poklapa, nema izostavljenih ni dodatih rečenica, brojevi i nabrajanja (i)-(v), 6.1/6.2, 10.1/10.2, 1 godina su očuvani, nema ekavizama ni hrvatskih oblika, odnos riječi je 0.76-1.07. Registar je dosljedno formalan ugovorni (vi/vaš, glosar poštovan: uslovi korišćenja, nalog, treće lice, odgovornost, mjerodavno pravo), ortografija je normalna uz obnovljenu interpunkciju i URL-ove. Preostale primjedbe su manje gramatičke i stilske prirode."
+}

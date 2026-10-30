@@ -1,0 +1,29 @@
+{
+ "n_blocking": 1,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "SO9qzycRJl",
+   "severity": "blocking",
+   "type": "promijenjeno značenje",
+   "description": "Izvor: \"use your name and profile picture ... next to or in connection with ads offers and other sponsored content that we display across our products\". Prevod: \"koristimo pored oglasa, ponuda i drugog sponzorisanog sadržaja koji prikazujemo na našim proizvodima ili u vezi sa njima\". Fraza \"in connection with ads...\" je premještena na \"proizvode\" (\"na našim proizvodima ili u vezi sa njima\"), pa je izgubljeno da se ime/fotografija koriste i \"u vezi sa\" oglasima, a \"across\" nije prenijeto.",
+   "suggestion": "\"...koristimo pored oglasa, ponuda i drugog sponzorisanog sadržaja koji prikazujemo u svim našim proizvodima, ili u vezi sa njima, bez ikakve naknade za vas.\" (Ispravka je jedna fraza, ostatak itema ne treba ponovo prevoditi.)"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"you acknowledge that apple is not responsible\" preveden kao \"Prihvatate da Apple nije ... odgovoran\"; \"acknowledge\" je potvrda/uzimanje na znanje, a \"prihvatate\" bliže značenju \"accept/agree\".",
+   "suggestion": "\"Potvrđujete da Apple nije ni na koji način odgovoran...\" ili \"Uzimate na znanje da...\"."
+  },
+  {
+   "id": "GNtvHXBwqs",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"posts listings pages videos\" preveden kao \"objavama, oglasima za ponude, stranicama, video-snimcima\"; \"oglasima za ponude\" je nejasno i nastaje dodavanjem riječi \"oglas\" koje u izvoru nema.",
+   "suggestion": "\"objavama, ponudama (listings), stranicama, video-snimcima\" ili \"objavama, oglasima, stranicama...\" (blaža varijanta: ostaviti kako jeste)."
+  }
+ ],
+ "overall_quality": "Batch od 21 itema je vjeran i potpun: isti skup i redoslijed _id-ova, nema izmijenjenih tokena ni brojeva, odnos riječi u opsegu, nema ekavskih ni hrvatskih oblika. Svi itemi su korpus (title prazan) u formalnom ugovornom registru, sa dosljednim glosarom (nalog, treće lice, uslovi korišćenja, privremeno ukinuti ili ukinuti, obeštetiti i zaštititi od odgovornosti, nijesu/nijeste) i normalnom ortografijom; nađena je samo jedna sadržinska greška i dvije sitne primjedbe, pa ponovni prevod nije potreban, dovoljno je ispraviti pomenute fraze.",
+ "checks": "automatska provjera: ids_equal=true, tokeni/brojevi=ok, omjer riječi=ok, ekavizmi/hrvatizmi=nema"
+}

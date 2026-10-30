@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "tUeC99enq5",
+   "severity": "minor",
+   "type": "omission/reordering",
+   "description": "Izvor: 'next to or in connection with accounts, ads, offers... that are displayed on Facebook Products'. Prevod: 'prikazujemo pored naloga ... koji se prikazuju u okviru Facebook Products, ili u vezi sa njima' - 'or in connection with' je premješteno na kraj i vezano za Facebook Products, čime se mijenja nijansa (u izvoru se odnosi na prikaz uz naloge/oglase).",
+   "suggestion": "'... prikazujemo pored naloga, oglasa, ponuda i drugog sponzorisanog sadržaja ili u vezi sa njima, koje pratite ili sa kojima ostvarujete interakciju, a koji se prikazuju na Facebook Products'."
+  },
+  {
+   "id": "tUeC99enq5",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'ovim nam dajete neisključivu, prenosivu, svjetsku licencu bez naknade za korišćenje, sa pravom davanja podlicence' - tačno po sadržaju, ali je redoslijed pridjeva promijenjen i 'royalty-free' proširen; 'Politiku o podacima' (Data Policy) nije u glosaru, ali je dosljedno u itemima 1 i 3.",
+   "suggestion": "Opciono: 'neisključivu, bez naknade, prenosivu, sa pravom davanja podlicence, svjetsku licencu'."
+  },
+  {
+   "id": "UMVmI5BRh8",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'consult our Help Center' prevedeno 'obratite se našem Centru za pomoć' - 'consult' je blaže (pogledajte/konsultujte).",
+   "suggestion": "'pogledajte naš Centar za pomoć'."
+  },
+  {
+   "id": "08YMNb5Zql",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'those other terms will govern' -> 'mjerodavni su ti drugi uslovi'; 'mjerodavan' je u glosaru rezervisan za 'governing law'; ovdje je smisao prvenstva primjene.",
+   "suggestion": "'primjenjuju se ti drugi uslovi' ili 'ti drugi uslovi imaju prednost'."
+  },
+  {
+   "id": "08YMNb5Zql",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "liability -> 'pravna odgovornost' / liable -> 'pravno odgovorni' ('koja se naziva i „pravna odgovornost“'). Glosar: liability -> odgovornost. Dodatak 'pravna' je uveden da parenteza ima smisla, ali odstupa od glosara.",
+   "suggestion": "Zadržati 'odgovornost' (npr. 'koja se naziva i „odgovornost“ (liability)') ili ostaviti kako jeste uz svjesnu odluku; dosljedno u batchu."
+  },
+  {
+   "id": "08YMNb5Zql",
+   "severity": "minor",
+   "type": "style",
+   "description": "'NEPOVREĐIVANJA PRAVA' za 'NON-INFRINGEMENT' i 'PRAVA SVOJINE' za 'TITLE' su neuobičajeni; uobičajeniji oblik je 'NEKRŠENJA PRAVA TREĆIH LICA' / 'PRAVA VLASNIŠTVA'.",
+   "suggestion": "'... PRAVA VLASNIŠTVA I NEKRŠENJA PRAVA TREĆIH LICA'."
+  },
+  {
+   "id": "08YMNb5Zql",
+   "severity": "minor",
+   "type": "format",
+   "description": "Završne tačke u naslovima odjeljaka izvora ('Our Agreement.', 'Who Has Rights Under this Agreement.' itd.) izostavljene u prevodu ('Naš ugovor', 'Ko ima prava po ovom ugovoru'); isto u itemu tUeC99enq5 ('Dozvole koje nam dajete.' ostaje sa tačkom, nedosljedno).",
+   "suggestion": "Ujednačiti: ili sve tačke zadržati ili sve izostaviti unutar batcha."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova, svi brojevi (30, 90) očuvani, bez ekavizama i hrvatskih oblika, odnos riječi 0.91-1.01. Registar je odgovarajući za uslove korišćenja (vi/mi, bezlično, pravnički), terminologija dosljedna glosaru (uslovi korišćenja, nalog, treće lice, ukinuti, sadržaj, 'u viđenom stanju'); preostali nalazi su sitne stilske i terminološke prirode."
+}

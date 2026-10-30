@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "FVr9Qh8yXv#3",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "U citiranoj odluci LAO prevod dodaje „organa“: „stambenog kompleksa Madhuban organa HUDA“. Izvor: „Madhuban residential complex of HUDA“. Riječ „organa“ nema pokrića u izvoru.",
+      "suggestion": "„stambenog kompleksa Madhuban HUDA“."
+    },
+    {
+      "id": "FVr9Qh8yXv#3",
+      "severity": "minor",
+      "type": "dodavanje / prevodilačka napomena",
+      "description": "Prevod u zagradi dodaje pojašnjenje: „solatium (dodatnu naknadu)“. Stilski vodič (dio 5) zabranjuje dodavanje objašnjenja u tekst.",
+      "suggestion": "Ostaviti samo „solatium“, bez zagrade."
+    },
+    {
+      "id": "FVr9Qh8yXv#3",
+      "severity": "minor",
+      "type": "terminologija / registar",
+      "description": "„građevinski placevi prodati po dokazima B-2, B-3 i B-4“ (izvor: „plots sold under Exhibits B-2, B-3 and B-4“). Kupoprodajni ugovori su dokazi, pa „prodati po dokazima“ nije prirodno. U istom pasusu stoji ispravno „kupoprodajnim ugovorima“. Uz to je „claimant“ prevedeno kao „tražilac naknade“ u dijelu 1, a kao „tražilac“ u dijelu 2, što je nedosljedno u batchu.",
+      "suggestion": "„prodati kupoprodajnim ugovorima (dokazi B-2, B-3 i B-4)“. Za claimant ujednačiti „tražilac naknade“ ili „podnosilac zahtjeva za naknadu“."
+    },
+    {
+      "id": "uPGtk4vvVS#0",
+      "severity": "minor",
+      "type": "dodavanje / prevodilačka napomena",
+      "description": "U stavu 4 prevod dodaje gloss „građevinske knjige (knjige mjerenja)“. Izvor kaže samo „the measurement books“. Izraz „građevinske knjige“ je dodatak i uz to je neprecizan.",
+      "suggestion": "„knjige mjerenja“."
+    },
+    {
+      "id": "uPGtk4vvVS#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„Subordinate Judge“ je preveden kao „sudija nižeg suda“ (st. 4 i 5). To briše naziv funkcije i stvara dvosmislenost prema „Trial Court / prvostepeni sud“ iz glosara. Pored toga, „the order ... superseding the arbitration“ je preveden „rješenja kojim se arbitraža zamjenjuje“. „Supersede“ ovdje znači stavljanje arbitraže van snage, ne zamjenu.",
+      "suggestion": "„sudija Podređenog suda (Subordinate Judge)“ pri prvom pomenu, dalje isto. Za drugo: „rješenja kojim se arbitraža stavlja van snage“."
+    },
+    {
+      "id": "uPGtk4vvVS#0",
+      "severity": "minor",
+      "type": "stil / registar",
+      "description": "Nekoliko mjesta zvuči nepravnički ili slobodno: „Pozivanje na taj predmet nije bilo opravdano“ („Reliance was misplaced“), „Zahtjev je neosnovan i shodno tome se odbija“ („The application fails“), „Protiv presude i rješenja Visokog suda“ za „From the Judgment and Order“. Takođe je u stavu 5 „brisao nalog“ u pogledu kamate.",
+      "suggestion": "„Oslanjanje na taj predmet bilo je pogrešno“; „Zahtjev nije uspio i shodno tome se odbija“; „Iz presude i rješenja Visokog suda“ (ili „Na presudu i rješenje“); „ukinuo nalog u pogledu buduće kamate“."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: oba _id-a su na mjestu, formatiranje je isto (7 i 23 nova reda), svi brojevi i tokeni (Rs. 11 puta u dijelu 1 i 1 put u dijelu 2, brojevi članova, datumi, iznosi, citati) tačno se poklapaju s izvorom. Nijesu pronađeni izostavljeni ni dodati pasusi ili rečenice, kao ni promjene značenja, negacija, strana u postupku, rokova i iznosa. Nema ekavizama ni hrvatskih oblika. Registar je odgovarajući sudskom obrazloženju, uz glosarnu dosljednost (protivna strana, podnosilac zahtjeva, Visoki sud, uvaženi, odbijen), a nađeni problemi su isključivo stilski i manja terminološka odstupanja."
+}

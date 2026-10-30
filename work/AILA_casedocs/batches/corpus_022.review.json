@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "gramatika/rod",
+      "description": "Pasus 66: neslaganje roda: \"Prvi službenik koji je vodio istragu (PW-17), koja je zajedno sa osobljem krenula\" (izvor: \"The first Investigating Officer (PW-17), who proceeded ... has deposed that on her arrival\"). Rod nije dosljedan (službenik ... koja).",
+      "suggestion": "\"Prvi službenik koji je vodio istragu (PW-17), koja je zajedno sa osobljem krenula ...\" -> \"Prvi službenik koji je vodio istragu (PW-17) - službenica koja je zajedno sa osobljem krenula ...\" ili dosljedno ženski rod kroz pasus (\"Prva službenica koja je vodila istragu (PW-17)\"), uz zadržavanje glosara."
+    },
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "Pasus 66: \"Exhibit 28\" je jednom ostavljeno kao \"(Ex. 28)\", a odmah zatim preneseno kao \"Dokaz 28 pokazuje\"; u pasusu 70 opet \"(Ex. 37, odnosno 33)\". Takođe naizmjenično \"trotoar\" i \"pločnik\" (footpath/pavement) u pasusima 66, 68, 69.",
+      "suggestion": "Ujednačiti: \"Izložak 28\" ili dosljedno \"Ex. 28\" (\"Ex. 28 pokazuje\"); izabrati jedan termin za footpath/pavement (npr. \"trotoar\") kroz cijeli dio."
+    },
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "terminologija/značenje",
+      "description": "Pasus 80, citat: \"per se require exemplary treatment\" preneseno kao \"sam po sebi zahtijeva primjeren tretman\". \"Primjeren\" znači appropriate, a ne exemplary (primjeran/stroga odvraćajuća kazna); latinski izraz \"per se\" treba da ostane (stil. vodič dio 9) i izostaje slaganje u množini (subjekt su djela/uticaj).",
+      "suggestion": "\"... i per se zahtijeva primjerno strogo (egzemplarno) postupanje\" ili \"... per se zahtijeva primjeran (egzemplaran) tretman\"."
+    },
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 69: \"learned senior counsel\" -> \"uvaženi viši zastupnik\"; \"viši zastupnik\" je neprirodan registar. Takođe \"rash\" je dosljedno \"brzoplet\" a \"callous\" \"bezobziran\" - prihvatljivo, ali \"unforeseen\" -> \"nijesu bile predviđene\" i \"rash or negligent manner\" -> \"na brzoplet ili nehatan način\" su u redu.",
+      "suggestion": "\"g. U.U. Lalit, uvaženi zastupnik žalioca (viši advokat)\" ili \"uvaženi stariji zastupnik\" - dosljedno u cijelom korpusu."
+    },
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "format/navodnici",
+      "description": "Kraj pasusa 80: u izvoru je ugniježdeni navod \"respond to the society's cry for justice against the criminal\" unutar citata; u prevodu su i vanjski i unutrašnji navodnici isti tip („odgovori na vapaj ... učinioca“.“), što je nejasno za čitanje.",
+      "suggestion": "Unutrašnji navod označiti drugačije, npr. „... treba da ‚odgovori na vapaj društva za pravdom protiv učinioca‘.“"
+    },
+    {
+      "id": "tST18iwItC#3",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 80: \"treason\" -> \"izdaju\" (bolje \"izdaju države/veleizdaju\"); \"cases of negligence\" u pasusu 77 \"dereliction\" -> \"nemara\" je donekle slobodno (dereliction of duty = zanemarivanje dužnosti).",
+      "suggestion": "\"veleizdaju\"; \"u slučajevima zanemarivanja dužnosti\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, 24 reda kao u izvoru, svi tokeni (Rs.), brojevi članova, citati sudske prakse (SCC, US), iznosi i datumi identični izvoru; nijedna rečenica nije izostavljena ni dodata, stranke su dosljedne (žalilac, optuženi, Visoki sud, prvostepeni sud), nema ekavizama ni kroatizama. Registar je prirodan i pravnički prihvatljiv, ijekavski sa \"nijesu\"; preostali su samo manji stilski/terminološki propusti (rod u pasusu 66, \"primjeren\" umjesto \"primjeran\" u citatu iz Saleem, nedosljedni Ex./Dokaz i trotoar/pločnik)."
+}

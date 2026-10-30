@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "UMVmI5BRh8#0",
+   "severity": "minor",
+   "type": "gramatika/stil",
+   "description": "Para 1: 'Ova optužba protiv njega podignuta je po tri tačke.' (izvor: 'framed against him on three counts') - nepotpuna konstrukcija, nedostaje 'optužbe'.",
+   "suggestion": "'Ova optužba protiv njega podignuta je po tri tačke optužbe.'"
+  },
+  {
+   "id": "UMVmI5BRh8#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 10: 'predsjednik suda Labiri' za 'Labiri C.J.' (Chief Justice) - nije u glosaru; nije uobičajen oblik uz ime.",
+   "suggestion": "'predsjednik suda Labiri' je prihvatljivo, ali dosljednije 'glavni sudija Labiri' ili 'sudija Labiri (predsjednik suda)'; ostaviti bez odstupanja od značenja."
+  },
+  {
+   "id": "UMVmI5BRh8#0",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Para 12: 'žalilac je bio zainteresovan da se izvrši pobačaj' za 'the appellant was anxious to cause her abortion' - 'anxious' je jače (nestrpljiv/željan), 'zainteresovan' ublažava značenje.",
+   "suggestion": "'žalilac je bio nestrpljiv da se izvrši pobačaj' ili 'žalilac je želio po svaku cijenu da izazove pobačaj'."
+  },
+  {
+   "id": "UMVmI5BRh8#0",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Para 19: 'njihova povreda ne mora nužno učiniti suđenje nezakonitim' za 'their breach may not necessarily vitiate the trial' - 'vitiate' je 'obesnažiti/učiniti nevaljanim', ne 'nezakonitim'.",
+   "suggestion": "'njihova povreda ne mora nužno obesnažiti suđenje'."
+  },
+  {
+   "id": "UMVmI5BRh8#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 11: 'kurir' za 'Peon' (kancelarijski poslužitelj) i para 14/22: 'odluka' za 'decision' (sudska odluka u prethodnom predmetu); 'predsjednički magistrat' za 'Presidency Magistrate' - kalk, nije u glosaru (glosar: magistrat).",
+   "suggestion": "Peon -> 'poslužitelj' (ili zadržati 'Peon' u zagradi pri prvom pomenu); 'Presidency Magistrate' -> 'magistrat Predsjedništva (Presidency Magistrate)'; 'odluka' za raniju sudsku praksu može ostati."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 22 reda (broj novih redova identičan), svi pasusi, citirani član 222 (1)-(2) i odredba o izuzetku, brojevi, datumi, brojevi članova i citati sudske prakse (Ali Hyder, 40 Cr. L. J. 280) su očuvani; automatska provjera (_id, brojevi, tokeni, odnos riječi 0.85, ekavizmi/hrvatizmi/'stranka'/'nisu') ne nalazi odstupanja. Strane su dosljedne (žalilac, saoptuženi, tužilaštvo), glosar se poštuje (Visoki sud, Sesijski sud, vijeće (Division Bench), član, stav). Registar je primjeren obrazloženju presude, uz samo manje stilske i terminološke nepreciznosti."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00142",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"upućivanjem preuzimaju dodatne uslove\" za \"incorporate by reference\" je nezgrapno i polisemno.",
+   "suggestion": "\"Da li ovi uslovi upućivanjem uključuju dodatne uslove kojima će se uređivati korišćenje Twitch usluga?\""
+  },
+  {
+   "id": "00152",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"strimovanje Soundtracka uživo\" (livestreaming) je kalk/žargon; u izvoru \"third party services\" a prevod \"uslugama trećih lica\" je ispravno.",
+   "suggestion": "\"prenos Soundtracka uživo (livestream) na uslugama trećih lica, kao što je YouTube\"; takođe \"Youtube\" → \"YouTube\"."
+  },
+  {
+   "id": "00153",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "\"Appleove veb-sajtove\" (00153) vs \"veb-sajtovi kompanije Apple\" (00154) za isti izraz \"Apple's websites\"; mješavina privlačnog i opisnog oblika.",
+   "suggestion": "Ujednačiti u \"veb-sajtove kompanije Apple\" u oba itema."
+  },
+  {
+   "id": "00158",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "\"ako to od njega zatraži država\" za \"the government\" — preusko/neformalno; u formalnom paru 00159 koristi se \"državnih organa\".",
+   "suggestion": "\"ako to od njega zatraži vlada/državni organ\" (npr. \"ako to od njega zatraži državni organ\")."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, brojevi (13/12/17) i struktura su očuvani, nema ekavizama ni hrvatskih oblika, a sadržaj iz polja context nije prenesen. Registar je dobro odvojen: laička pitanja (npr. 00144, 00146, 00148, 00158) ostala su razgovorna, a formalna (npr. 00147, 00151, 00159) formalna, uz dosljedan glosar (uslovi korišćenja, nalog, treće lice, odgovornost). Preostale primjedbe su isključivo stilske."
+}

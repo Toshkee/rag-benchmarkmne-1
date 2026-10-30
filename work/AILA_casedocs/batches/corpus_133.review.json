@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "kWCRNYdWCs#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'struck down' / 'quashing the detention' prevedeno kao 'poništiti/poništeno/poništavanju' (para 16, 17, 18, 25) umjesto glosarskog 'ukinuti / staviti van snage'.",
+   "suggestion": "Zamijeniti sa 'ukinuti' / 'staviti van snage' (npr. 'pritvor mora ukinuti', 'pri stavljanju pritvora van snage')."
+  },
+  {
+   "id": "kWCRNYdWCs#0",
+   "severity": "minor",
+   "type": "dosljednost stranke",
+   "description": "Para 16: 'case records relating to the petitioner' -> 'podnosioca zahtjeva', dok je isto lice svuda drugdje 'žalilac'; unutar presude ista stranka treba isti termin (izvor je nedosljedan, ali čitalac vidi dvije uloge).",
+   "suggestion": "Zadržati vjernost izvoru ili ujednačiti u 'žalioca'; ako se zadrži, prihvatljivo kao doslovan prevod."
+  },
+  {
+   "id": "kWCRNYdWCs#0",
+   "severity": "minor",
+   "type": "datum",
+   "description": "Para 14: '29. i 30. oktobar 1988. godine' - u tekstu treba genitiv.",
+   "suggestion": "'29. i 30. oktobra 1988. godine'."
+  },
+  {
+   "id": "kWCRNYdWCs#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Kalkovi i neprirodni izrazi: 'sa razumnom ekspeditivnošću' (reasonable expedition), 'kobno' (fatal), 'štetnih aktivnosti' (prejudicial activities), 'panč svjedoka (panch witnesses)'; 'prijatelj (next friend)' umjesto 'zakonski zastupnik/staratelj'.",
+   "suggestion": "Npr. 'razumnom brzinom/hitnošću', 'presudno', 'aktivnosti štetnih po javni red i bezbjednost', 'svjedoka u čijem prisustvu je vršen pretres', 'bliski srodnik ili zastupnik po sili zakona (next friend)'."
+  },
+  {
+   "id": "kWCRNYdWCs#0",
+   "severity": "minor",
+   "type": "dodaci u zagradama",
+   "description": "Dodati engleski glosi u zagradi ('(Home Secretary)', '(chappals)', '(Superintendent of Customs)', '(Screening Committee)', '(counter-affidavit)', '(next friend)') nijesu u izvoru; glosar ih traži samo za writ/Division Bench/show cause notice. Takođe nedosljedna interpunkcija datuma ('15. 9. 87.' vs '21. 9. 88,').",
+   "suggestion": "Ukloniti glose koje glosar ne zahtijeva ili ih primijeniti dosljedno; ujednačiti tačku iza datuma."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (28), svih 28 pasusa prisutan, svi brojevi, datumi, citati sudske prakse i token 'Rs.' identični izvoru, nema ekavizama ni hrvatizama, stranke dosljedno označene (osim jednog 'podnosioca zahtjeva' koji prati izvor). Nijesu uočeni izostavljeni ili izmijenjeni sadržaji; preostale primjedbe su stilske i terminološke. Registar je uglavnom primjeren pravnom obrazloženju, uz poneki kalk."
+}

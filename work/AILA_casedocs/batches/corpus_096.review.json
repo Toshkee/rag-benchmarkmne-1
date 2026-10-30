@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "Y7gbtP7ySe#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Isti akt je različito preveden: u pasusu 1 'order of conviction and sentence' -> 'osuđujuće presude i kazne', a u pasusu 2 'recorded an order convicting the appellants' -> 'donio ... rješenje' i 'protiv tog rješenja'. Takođe 'impugned judgment' -> 'osporene presude' (par. 9) naspram 'judgment under appeal' -> 'pobijanu presudu' (par. 6).",
+   "suggestion": "Ujednačiti: u par. 2 'donio je presudu kojom su žalioci oglašeni krivim' / 'protiv te presude'; ujednačiti 'osporena presuda' ili 'pobijana presuda'."
+  },
+  {
+   "id": "Y7gbtP7ySe#0",
+   "severity": "minor",
+   "type": "pravopis",
+   "description": "'Relevantni djelovi članova 385 i 386' (par. 8) - u ijekavici ispravno je 'dijelovi'.",
+   "suggestion": "'Relevantni dijelovi članova 385 i 386'."
+  },
+  {
+   "id": "Y7gbtP7ySe#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'set aside' prevedeno kao 'stavi van snage' / 'stavio van snage' (par. 6, 7), dok dio 9 i zadatak propisuju 'ukinuti'.",
+   "suggestion": "'naložio da se ono ukine' / 'ukinuo je rješenje Visokog suda'."
+  },
+  {
+   "id": "Y7gbtP7ySe#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'sufficient ground for interfering' prevedeno 'dovoljan osnov za intervenciju' (par. 4, 8); neprirodno za pravni registar. Takođe 'Jasan tekst člana 385 jasno pokazuje' (par. 15) je tautološko za 'plain language ... makes it clear'.",
+   "suggestion": "'dovoljan osnov za miješanje (preinačenje prvostepene presude)' ili 'za preinačenje'; 'Iz jasnog teksta člana 385 proizlazi da'."
+  },
+  {
+   "id": "Y7gbtP7ySe#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "U par. 1 dodata engleska glosa '(non-prosecution)' uz 'nepostupanja' koje u izvoru ne postoji kao glosa; kasnije se termin ne glosira. 'Nepostupanje' takođe ne prenosi tačno 'non-prosecution' (nevođenje/nezastupanje žalbe).",
+   "suggestion": "Zadržati glosu samo ako je namjerna i dosljedna; razmotriti 'zbog nezastupanja (non-prosecution)' pri prvom pomenu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi pasusi (1-15), citirani članovi, citati predmeta, brojevi, datumi, Rs.100/- i broj novih redova (34) se poklapaju sa izvorom, uloge stranaka (žalilac, država, javni tužilac) su dosljedne i nema ekavizama ni hrvatizama. Registar je primjeren obrazloženju presude, uz manje nedosljednosti (rješenje/presuda, ukinuti/staviti van snage) i pojedinačne neprirodne formulacije."
+}

@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "3Ic5t7KUSy",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "Prevod dodaje prevodilačku napomenu u zagradi: \"„do not track“ (ne prati)\". Izvor: \"do not track signals or listings\" nema pojašnjenja; stilski vodič zabranjuje prevodilačke napomene u tekstu. Takođe \"internet stranice\" vs \"sajt\" u drugim itemima.",
+   "suggestion": "„...isključiti iz bilo kakvih signala ili spiskova „ne prati“ (do not track).“ ili bez zagrade: „...signala ili spiskova „do not track“.“"
+  },
+  {
+   "id": "HqB8RkLNNI",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"provides more limited discovery\" prevedeno kao \"predviđa ograničenije izvođenje dokaza\"; discovery (pretpretresno otkrivanje dokaza) nije isto što i izvođenje dokaza.",
+   "suggestion": "„predviđa ograničenije otkrivanje dokaza (discovery)“."
+  },
+  {
+   "id": "HqB8RkLNNI",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"i ii) zahtjeve koji se odnose na navodno neovlašćeno korišćenje\" - izvor \"and ii)\"; veznik \"i\" ispred rimske oznake \"ii)\" je zbunjujuć.",
+   "suggestion": "„...mjera; kao i ii) zahtjeve...“ ili „...mjera; te ii) zahtjeve...“."
+  },
+  {
+   "id": "nFbmOHnKYa",
+   "severity": "minor",
+   "type": "vjernost",
+   "description": "\"to improve the services we are offering, to improve marketing, analytics or website functionality\" prevedeno sa \"odnosno unapređenja marketinga\"; \"odnosno\" sugeriše pojašnjenje, a izvor nabraja alternative.",
+   "suggestion": "Zamijeniti \"odnosno\" sa \"kao i radi\" ili \"te radi\"."
+  },
+  {
+   "id": "IWxHwqFEg8",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "\"sadržaj mora biti označen sa PG-13 ili niže\" - izvor \"content must be pg 13 or below\" ne sadrži \"označen\" (dodato).",
+   "suggestion": "„sadržaj mora odgovarati kategoriji PG-13 ili nižoj.“"
+  },
+  {
+   "id": "JoqyNAbPHN",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"website\"/\"site\" prevodi se nedosljedno unutar batcha: \"internet stranice\" (3Ic5t7KUSy, nFbmOHnKYa) i \"sajta\" (JoqyNAbPHN, HqB8RkLNNI \"sajta za podršku\").",
+   "suggestion": "Ujednačiti, npr. \"internet stranica\" za website, a \"sajt\" za site, ili jedan termin svuda."
+  },
+  {
+   "id": "nuVxUZpfbH",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"krši bilo koji zakon\" za \"violates any laws\" (množina u izvoru); glosar: važeći zakon, pravilo ili propis. Takođe \"abusive\" -> \"uvredljiv\" i \"likely to offend\" -> \"koji će vjerovatno nekoga uvrijediti\" su blizu značenja ali se preklapaju.",
+   "suggestion": "„na drugi način krši bilo koje zakone“; \"abusive\" -> \"zlostavljački/uvredljiv\" po izboru."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova, brojevi (60, 30, 11, 9076, 0930 itd.), URL-ovi i odnosi dužine su u redu, bez ekavizama i kroatizama. Registar je formalan ugovorni, sa normalnom ortografijom i dosljednim glosarom (nalog, usluga, kolačići, treće lice, isključiva procjena). Ostale su samo manje stilske napomene; batch je prihvatljiv bez ponovnog prevoda."
+}

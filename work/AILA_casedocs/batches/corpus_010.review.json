@@ -1,0 +1,75 @@
+{
+  "batch": "corpus_010",
+  "n_items": 1,
+  "automatic_checks": {
+    "ids_match": true,
+    "newlines": "18 = 18",
+    "tokens_P_A_S_W_Rs": "none in source or translation",
+    "numbers": "multiset identical",
+    "word_ratio": 0.877,
+    "ekavian_forms": [],
+    "croatian_forms": []
+  },
+  "manual_notes": "Svih 18 pasusa/redova (106-117 sa podpasusima) pregledano rečenicu po rečenicu; nema izostavljenog ni dodatog sadržaja, strane (žalilac/protivne strane, tužilac/tuženi u citatima) su dosljedne, citati (Indlaw SC 220/439/401/349, Cmd. 4060, 500, 266, 591), brojevi članova i pravila, slova 'B' i 'D' i OCR artefakti ('& Burros', '0. Chinnappa Reddy, H J.') očuvani doslovno.",
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 116: 'do not refer to any resolution or decision of the Board' prevedeno kao 'ne pozivaju se ni na kakvu odluku ili zaključak odbora'. 'Resolution' nije 'zaključak'.",
+      "suggestion": "'ne pozivaju se ni na kakvu odluku ili rješenje odbora' (ili 'odluku, odnosno zaključak odbora' samo ako se želi razlika)."
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 116: citat pravila 9(ii) 'Services no longer required in the interest of the Company' preveden kao 'Usluge više nijesu potrebne'; u radnopravnom kontekstu 'services' su rad/služba zaposlenog, a 'Usluge' iz glosara se odnosi na aplikacije/ugovore o uslugama.",
+      "suggestion": "'Njegove usluge više nijesu potrebne u interesu Kompanije' ili 'Služba više nije potrebna u interesu Kompanije'."
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 113: 'Scheme of arrangement' preveden 'šema reorganizacije'; 'arrangement' nije 'reorganizacija' (blago pomjeranje značenja). Takođe 'Calcutta High Court' → 'Visoki sud u Kalkuti' je ispravno.",
+      "suggestion": "'šemu sporazuma/uređenja (scheme of arrangement)' ili 'plan namirenja (scheme of arrangement)'."
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 117: 'avoid the hassle of an inquiry' → 'izbjegla teškoće istrage'; ublažen ton i izostavljen glosarski termin za 'inquiry' u disciplinskom kontekstu (u istoj rečenici je 'redovne disciplinske istrage').",
+      "suggestion": "'kako bi izbjegla sve nevolje oko sprovođenja istrage' ili 'kako bi izbjegla muku sprovođenja disciplinske istrage'."
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "style",
+      "description": "Par. 117: 'Art. 14 is not their begetter but their constitutional guardian' → 'nije njihov roditelj'; 'begetter' je tvorac/rodonačelnik, 'roditelj' je neprirodno u pravnom registru.",
+      "suggestion": "'Član 14 nije njihov tvorac, već njihov ustavni čuvar.'"
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 111: 'reversing the High Court' → 'preinačavajući presudu Visokog suda' (u izvoru nema 'presudu'); glosar za 'set aside/quash' je 'ukinuti'. Takođe 'public policy' → 'javni poredak' je dosljedno, ali 'javni poredak' obično znači 'public order'; prihvatljivo, samo treba zadržati u cijelom korpusu.",
+      "suggestion": "'ukidajući odluku Visokog suda' / 'preinačivši odluku Visokog suda'; zadržati 'javni poredak' dosljedno u svim dijelovima presude."
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Par. 107: citat člana 23 'The consideration or object of an agreement is lawful, unless' preveden 'dozvoljeni'; 'lawful' je 'zakonit'. Takođe 'unconscionable' → 'nesavjesni' i 'four corners of the definition' → 'okvir definicije' su slobodniji ali prihvatljivi.",
+      "suggestion": "'Protivčinidba ili predmet sporazuma su zakoniti, osim ako ... ih sud smatra ... suprotnim javnom poretku.'"
+    },
+    {
+      "id": "FCIX3BYOtD#9",
+      "severity": "minor",
+      "type": "style",
+      "description": "Par. 110/116: 'Fundamental Rights and the Directive Principles' pisano malim slovom ('osnovna prava i direktivna načela'), a 'Preamble', 'Ustav' veliko; 'u saglasju sa javnom savješću' neobično; 'podnijetom' (par. 115) nestandardno.",
+      "suggestion": "'Osnovna prava i Direktivna načela', 'u saglasnosti sa javnom savješću', 'podnesenom 1932. godine'."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, brojevi, citati i tokeni su očuvani, a ijekavica i glosar (žalilac, protivna strana, Indijska Unija, pravilnik, presuda u parnici (dekret), nijesu) dosljedno primijenjeni. Registar je prirodan pravni stil obrazloženja presude; preostale primjedbe su sitne terminološke i stilske nijanse (resolution, services, arrangement, begetter)."
+}

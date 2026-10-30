@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "50OXirZRiR#1",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "U stavu 33 \"član 34 Krivičnog zakonika Indije\" (izvor: \"S. 34 of the Indian Penal Code\"); prema dijelu 6 puni naziv se koristi samo pri prvom pomenu (stav 29: \"člana 302 Krivičnog zakonika Indije\"), dalje \"Krivični zakonik\" kao u stavu 34.",
+   "suggestion": "U stavu 33: \"član 34 Krivičnog zakonika\"."
+  },
+  {
+   "id": "50OXirZRiR#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"Judicial Committee\" preveden kao \"Sudskog komiteta\" (stav 28, \"odluku Sudskog komiteta\"); nije u glosaru, a riječ je o Pravosudnom komitetu Tajnog savjeta.",
+   "suggestion": "\"odluku Pravosudnog komiteta\" (ili \"Sudskog odbora\"), dosljedno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (19), svi pasusi 26-35 i citati prisutni, brojevi i citati sudske prakse doslovni, nema ekavizama ni hrvatizama, automatske provjere bez odstupanja (odnos riječi 0.87). Registar je prirodan i pravnički, glosar poštovan (žalilac, Visoki sud, sudija Sesijskog suda, nijesu, odbijena); nađena su samo dva manja terminološka pitanja."
+}

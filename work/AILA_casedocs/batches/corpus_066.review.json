@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "9NIQ0Wobtq#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'inordinate delay' prevedeno kao 'neopravdano odugovlačenje' (inordinate = prekomjerno); pomjera značenje sa obima na opravdanost.",
+   "suggestion": "'prekomjerno odugovlačenje' / 'neopravdano dugo odlaganje' -> 'prekomjerno odugovlačenje u postupanju po njegovoj predstavci'."
+  },
+  {
+   "id": "9NIQ0Wobtq#0",
+   "severity": "minor",
+   "type": "gramatika/registar",
+   "description": "'odgovoru koji su trebale da podnesu Centralna vlada, kao i Vlada države' - 'counter expected to be filed' prevedeno nezgrapno i s nesaglasnim rodom.",
+   "suggestion": "'odgovoru koji su Centralna vlada i Vlada države trebalo da podnesu' ili 'od kojih se očekivalo da ga podnesu'."
+  },
+  {
+   "id": "9NIQ0Wobtq#0",
+   "severity": "minor",
+   "type": "zaglavlje",
+   "description": "'Commissioner of Police, Nagpur Division' -> 'komesara policije, odjeljenje Nagpur'; 'Division' kao 'odjeljenje' je dvosmisleno (Division nije glosarsko 'Department'); ime 'Ravi ... Ishwarsingha Paigawara' deklinirano.",
+   "suggestion": "'komesara policije, divizija Nagpur'; imena po vodiču ostaviti u izvornom obliku ili dosljedno deklinirati."
+  },
+  {
+   "id": "9NIQ0Wobtq#0",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "'Additional Solicitor General' preveden 'pomoćnik generalnog pravobranioca (Additional Solicitor General)' - dodatno 'pomoćnik' (additional != pomoćnik); 'Home Department' -> 'Odjeljenje unutrašnjih poslova' ok, ali Department je po glosaru 'odjeljenje/uprava' pa je dosljedno.",
+   "suggestion": "'dodatni generalni pravobranilac (Additional Solicitor General)' pri prvom pomenu, dalje 'uvaženi dodatni generalni pravobranilac'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (12), svi datumi, brojevi članova, brojevi predmeta i citati identični izvoru, bez izostavljenih ili dodatih rečenica, bez ekavizama i hrvatizama. Ispravno su primijenjeni glosar (žalba usvojena, Vlada države, uvaženi, nijesu, ukinuti) i registar obrazloženja presude; nađene su samo manje terminološke i stilske nepreciznosti."
+}

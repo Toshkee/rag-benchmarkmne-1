@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "erqtHioRRd",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Neslaganje u rodu: \"kao što su trepćuća svjetla ili šare koji se mogu pojaviti u aplikacijama\" (izvor: \"flashing lights or patterns that may appear in applications\"). \"šare\" je ženskog roda.",
+      "suggestion": "\"...ili šare koje se mogu pojaviti u aplikacijama\"."
+    },
+    {
+      "id": "2BGCSzOjD8",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "\"Možemo privremeno obustaviti ili otkazati Usluge\" / \"Privremena obustava\" (izvor: \"suspend or cancel the Services\"). Glosar (dio 7): suspend -> privremeno ukinuti.",
+      "suggestion": "\"Možemo privremeno ukinuti ili otkazati Usluge\"; \"Privremeno ukidanje ili otkazivanje Usluga zbog neplaćanja\"."
+    },
+    {
+      "id": "2BGCSzOjD8",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"troškove konverzije valuta\" za \"currency exchange settlements\" - blago preciziranje/pomjeranje značenja (settlements = obračuni/poravnanja kursnih razlika, ne troškovi).",
+      "suggestion": "\"ne uključuje sve primjenjive poreze i obračune valutnih kurseva (konverzije valuta)\" ili \"kursne razlike\"."
+    },
+    {
+      "id": "2BGCSzOjD8",
+      "severity": "minor",
+      "type": "vrijeme glagola",
+      "description": "\"Ako Microsoft utvrdi grešku u naplati\" (izvor: \"If Microsoft has identified a billing error\" - svršeno vrijeme).",
+      "suggestion": "\"Ako je Microsoft utvrdio grešku u naplati, ispravićemo tu grešku u roku od 90 dana.\""
+    },
+    {
+      "id": "erqtHioRRd",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"koje se u potpunosti ili djelimično hostuju na mreži\" (izvor: \"hosted online\") je žargonski kalk; \"iskustvo\" za \"experience\" je doslovno i neprirodno u ugovornom registru.",
+      "suggestion": "\"koje se u potpunosti ili djelimično nalaze na serverima na mreži (hostuju se na mreži)\" ili \"koje se u cijelosti ili djelimično pružaju na mreži\"; \"iskustvo\" -> \"sadržaj ili servis koji nosi oznaku\" (izbjegavati \"servis\" - koristiti \"usluga\")."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj novih redova, brojevi (14, 90, 365, 2013, 5, linkid=618281/618282) i URL-ovi očuvani, odnos riječi 0.94-0.99, bez ekavizama i hrvatizama, ugovorni registar sa vi/mi dosljedan i ijekavica ispravna (nijeste, nijesu, odjeljak). Pronađeno je samo nekoliko sitnih stilskih i terminoloških odstupanja (suspend, rod u jednoj rečenici, kalk hostuju); nema blokirajućih grešaka."
+}

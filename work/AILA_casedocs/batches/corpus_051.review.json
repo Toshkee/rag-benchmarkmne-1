@@ -1,0 +1,64 @@
+{
+ "batch": "corpus_051",
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 9-10: 'Minister of State, Home Affairs' preveden kao 'državni ministar za unutrašnje poslove'. U crnogorskom registru 'državni ministar' je dvosmislen (ministar države / državni sekretar).",
+   "suggestion": "Dosljedno 'ministar države za unutrašnje poslove' ili 'državni ministar (Minister of State) za unutrašnje poslove' pri prvom pomenu, dalje isto."
+  },
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 9: 'Maharashtra Detention Order, 1974' -> 'Naredbi države Maharashtra o pritvoru prema Zakonu o očuvanju deviza ... iz 1974. godine'. Godina same Naredbe (1974) zamijenjena upućivanjem na Zakon; naziv akta preoblikovan. Takođe 'any other orders issued under this Act' -> 'svih drugih naredbi', glosar traži 'rješenje' za order (odluku), a 'Naredba' samo u nazivu akta.",
+   "suggestion": "'Naredbi o pritvoru iz 1974. godine (Conservation of Foreign Exchange and Prevention of Smuggling Activities Maharashtra Detention Order) i svih drugih rješenja izdatih na osnovu ovog zakona'."
+  },
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "gloss",
+   "description": "Pasus 9: 'drugoj ustavnoj tužbi (writ petition)' ponovo daje gloss, iako je 'ustavna tužba (writ petition)' glosirana već u zaglavlju i pasusu 1; glosar traži gloss samo pri prvom pomenu u itemu.",
+   "suggestion": "'u drugoj ustavnoj tužbi'; 'relevantno stalno uputstvo (standing order)' može ostati."
+  },
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Pasus 12: 'as often than not adequate legal assistance may be essential' -> 'češće nego što to nije slučaj, odgovarajuća pravna pomoć može biti neophodna' je kalk i nejasan.",
+   "suggestion": "'veoma često je odgovarajuća pravna pomoć neophodna za zaštitu osnovnog prava ...'."
+  },
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 12: 'denied the assistance of counsel' -> 'uskraćena pomoć branioca'; glosar: counsel -> zastupnik (branilac je krivičnoprocesni pojam, a u istom pasusu se koristi 'advokat'/'pravna pomoć').",
+   "suggestion": "'uskraćena pomoć zastupnika' (ili 'advokata' radi dosljednosti s 'lawyer')."
+  },
+  {
+   "id": "2qFl41sNLj#0",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Pasus 11: 'on the merits of each individual case' -> 'prema okolnostima svakog pojedinačnog slučaja'; 'merits' je osnovanost. Pasus 8: 'ministerial act' -> 'administrativna radnja' (blago odstupanje od 'puko izvršna/formalna radnja'). Pasus 12 ponavlja 'prema njegovoj osnovanosti' pa je dosljednost narušena.",
+   "suggestion": "'prema osnovanosti svakog pojedinačnog slučaja'; 'mehanička ili formalna (izvršna) radnja'."
+  }
+ ],
+ "auto_checks": {
+  "ids_match": true,
+  "num_items": 1,
+  "newlines_src_mne": [
+   18,
+   18
+  ],
+  "word_ratio": 0.82,
+  "numbers_diff": {},
+  "anonymization_tokens_diff": {},
+  "ekavian_forms": [],
+  "croatian_forms": []
+ },
+ "completeness": "Svih 19 redova (zaglavlje + pasusi 1-12 + završetak rečenice na kraju dijela) prevedeni; nema izostavljenih ni dodatih rečenica; citati odredbi, članovi (22(4)(a), 22(4)(e) kako stoji u izvoru, 8(b),(c),(e),(f), 166(2),(3)), datumi i rokovi (pet dana, pet sedmica, jedanaest sedmica, tri mjeseca, petnaest dana) tačni; stranke i uloge dosljedne.",
+ "overall_quality": "Prevod je potpun, vjeran i terminološki dosljedan (pritvorenik, Savjetodavni odbor, predstavka, Vlada/Vlada države, nijesmo). Nema blokirajućih grešaka; jezik je ijekavski, bez ekavizama i kroatizama, registar obrazloženja presude prirodan. Preostaju samo manje stilske i terminološke primjedbe (državni ministar, ponovljeni gloss, kalk u pasusu 12)."
+}

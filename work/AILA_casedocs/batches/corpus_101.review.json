@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "terminologija/vjernost",
+      "description": "Para 21: izvor \"impact of the first injury on practical region\" preveden kao \"u parijetalnom predjelu\"; prevodilac je tiho ispravio očigledan OCR artefakt izvora i time dodao sadržaj koji u izvoru ne stoji.",
+      "suggestion": "Ostaviti blisko izvoru: \"usljed udarca prve povrede u praktičnom predjelu\" (ili dosljedno doslovno), bez samostalne korekcije."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 4: \"notice was issued to the State\" -> \"državi je upućen poziv\". \"Poziv\" je u glosaru rezervisan za show cause notice; za notice u sudskom kontekstu prirodnije je \"obavještenje\".",
+      "suggestion": "\"državi je upućeno obavještenje u pogledu prirode krivičnog djela\"."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "Isto lice (žalilac) označeno je naizmjenično kao \"žalilac\" i \"optuženi\" (para 3: \"podigli uzbunu, optuženi je pobjegao\" - \"the accused ran away\", prije optužnice; para 13: \"učinilac\" u tački (3), pa \"optuženi\" u tački (4)). Prema vodiču (dio 6) za isto lice u istom opisu predmeta treba isti termin, a prije optužnice \"okrivljeni\".",
+      "suggestion": "Para 3: \"okrivljeni je pobjegao\" (ili \"žalilac je pobjegao\"); para 13 tačka (4): \"učinilac\" radi dosljednosti sa tačkom (3)."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "\"Exception\" je naizmjenično \"Izuzetak 4\" (para 10, velikim slovom, u skladu sa glosarom) i \"izuzetak 4\" / \"izuzetak (4)\" malim slovom (para 7, 13-18).",
+      "suggestion": "Dosljedno \"Izuzetak 4\" / \"Izuzetak (4)\" kad se misli na odredbu Krivičnog zakonika Indije."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "gramatika/stil",
+      "description": "Para 3: \"zadao udarac sa Kassi (ašovom, ...)\" - nepravilna konstrukcija sa predlogom \"sa\" za sredstvo.",
+      "suggestion": "\"zadao udarac Kassijem (ašovom, oruđem sa oštrom reznom ivicom) u glavu pokojnog\"."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "registar/značenje",
+      "description": "Para 19: \"it would be perverse to conclude\" -> \"bilo bi očigledno nerazumno zaključiti\" - \"perverse\" u sudskom jeziku znači proizvoljan/neosnovan zaključak, a ne \"nerazumno\".",
+      "suggestion": "\"bilo bi neosnovano (proizvoljno) zaključiti da on nije imao namjeru da nanese povredu koju je nanio\"."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Para 14: \"the exception 4 engrafted to S. 300 is excepted\" -> \"izuzetak 4 uključen u član 300 je isključen\" - nespretno i djeluje kontradiktorno.",
+      "suggestion": "\"izuzetak 4 iz člana 300 se ne primjenjuje i izvršeno krivično djelo bilo bi ubistvo\"."
+    },
+    {
+      "id": "YxPY8EcFK1#0",
+      "severity": "minor",
+      "type": "glosar (napomena)",
+      "description": "Doslovna primjena glosara za \"culpable homicide\" daje tautološke rečenice (\"ubistvo iz nehata ili bez predumišljaja je ubistvo\", para 9, 12) koje su teško razumljive. Prevod je u skladu sa glosarom, ali se zbog toga gubi smisao izvornog \"culpable homicide is murder\".",
+      "suggestion": "Razmotriti u glosaru kraći stabilan termin (npr. \"ubistvo bez predumišljaja (culpable homicide)\") i dosljedno ga primijeniti u cijelom korpusu."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (35), svih 22 pasusa i sve rečenice prisutne, brojevi, citati (AIR 1958 SC 465, [1979] 1 SCC 132 i dr.) i članovi doslovni, nema ekavizama ni hrvatizama. Registar je prirodan i pravnički, glosar (žalilac, Visoki sud, uvaženi zastupnik, odbijena) dosljedno primijenjen; preostali nalazi su sitni stilski i terminološki."
+}

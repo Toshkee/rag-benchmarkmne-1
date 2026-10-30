@@ -1,0 +1,42 @@
+{
+ "n_blocking": 1,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "SmNqE40fAr#1",
+   "severity": "blocking",
+   "type": "dodat sadržaj",
+   "description": "U pasusu 25 dodato je prevodilačko objašnjenje koje ne postoji u izvoru: 'procjene vrijednosti goodwill-a (poslovnog ugleda firme)'. Izvor: 'the valuation of the goodwill, property, outstandings and the dead-stock'. Stilski vodič (dio 5) zabranjuje dodavanje objašnjenja u tekst.",
+   "suggestion": "Ukloniti zagradu: 'od procjene vrijednosti goodwill-a, imovine, potraživanja i osnovnog inventara.'"
+  },
+  {
+   "id": "SmNqE40fAr#1",
+   "severity": "minor",
+   "type": "nedosljednost imena",
+   "description": "Pasus 29: ime Chintamanrao je na jednom mjestu nesprecno deklinirano ('naložio Chintamanraou da podnese' - nepostojeći oblik) i 'prema procjeni Chintamanraoa', dok je u cijelom ostatku dijela (pasusi 28, 29, 30) nedeklinirano ('Chintamanrao podnese', 'Chintamanrao je podnio').",
+   "suggestion": "Ujednačiti: 'naložio Chintamanrau/Chintamanraou' zamijeniti nedeklinisanim oblikom kroz konstrukciju 'naložio da Chintamanrao podnese' i 'prema procjeni koju je dao Chintamanrao'."
+  },
+  {
+   "id": "SmNqE40fAr#1",
+   "severity": "minor",
+   "type": "dodato objašnjenje / engleski termin",
+   "description": "Pasus 21: 'osnovnog inventara (dead-stock)' - engleski termin u zagradi nije u izvoru kao glosa i nije dosljedan (u pasusima 17-31 'dead-stock' se prevodi samo kao 'osnovni inventar' bez zagrade).",
+   "suggestion": "Ukloniti '(dead-stock)' ili dosljedno koristiti glosu pri prvom pomenu; preporuka: ukloniti."
+  },
+  {
+   "id": "SmNqE40fAr#1",
+   "severity": "minor",
+   "type": "interpunkcija / navodnici",
+   "description": "Pasus 7 (citat lorda Wrenburyja): izvorna neuparena navodna ('note appended by the \"arbitrator stating') prenesena je kao ugniježđeni neuparen navodnik: 'napomena koju je dodao „arbitar u kojoj navodi razloge', što u prevodu stvara nepravilne ugniježđene navodnike unutar citata.",
+   "suggestion": "Ukloniti neuparen unutrašnji navodnik: 'napomena koju je arbitar dodao, u kojoj navodi razloge za svoju odluku'."
+  },
+  {
+   "id": "SmNqE40fAr#1",
+   "severity": "minor",
+   "type": "stil / registar",
+   "description": "Pasus 22: 'arbitar je nastojao da obesnaži izričita uputstva' (izvor: 'purported to set at naught the specific directions') i pasus 21/29: 'kupovna cijena', 'zastupnik žalioca' bez 'uvaženi' (izvor 'Counsel for the appellant' - bez 'learned', pa je prevod ispravan). Jedino 'obesnaži' je neuobičajen glagol u pravnom registru.",
+   "suggestion": "Zamijeniti sa 'nastojao da ostavi bez dejstva izričita uputstva data u tom pogledu'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 16 pasusa je prisutno (15 novih redova kao u izvoru), svi brojevi, citati sudske prakse (npr. [1923] 92 L.J. Ch. 136, L.R. 50 I.A. 324), iznosi (Rs. 32 lakha, Rs. 21,70,650/10/) i datumi su doslovno očuvani, bez ekavizama i hrvatskih oblika. Glosar je dosljedno primijenjen (stavljanje van snage, rješenje, tačka, član, ortaci koji istupaju, nijesu), a registar je prirodan i primjeren obrazloženju presude. Jedina suštinska zamjerka je dodato objašnjenje uz 'goodwill' u pasusu 25; ostalo su sitni stilski nedostaci."
+}

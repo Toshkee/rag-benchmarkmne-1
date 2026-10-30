@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00008",
+   "severity": "minor",
+   "type": "terminologija/vjernost",
+   "description": "Izvor: \"Therefore, there are no merits.\" Prevod: \"Stoga, žalba nije osnovana.\" Dodata je imenica (žalba) i promijenjen je oblik; izvor govori o odsustvu osnovanosti uopšte (dio citata Visokog suda).",
+   "suggestion": "\"Stoga, nema osnovanosti.\" ili \"Stoga, nema osnova.\""
+  },
+  {
+   "id": "00009",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"The order of the trial court convicting them all\". Prevod: \"Rješenje prvostepenog suda kojim su svi oglašeni krivim\". Glosar traži presuda/osuđujuća presuda za osuđivanje; \"oglašeni krivim\" i \"Svih pet optuženih oglašavaju se krivim\" odstupaju od glosara.",
+   "suggestion": "\"Presuda prvostepenog suda kojom su svi osuđeni završava se ovako: 'Svih pet optuženih osuđuje se za krivično djelo nereda...'\""
+  },
+  {
+   "id": "00010",
+   "severity": "minor",
+   "type": "semantika",
+   "description": "Izvor: \"the decision of the Chief Judicial Magistrate was likely to be pronounced on December 16, 1981\". Prevod: \"odluka glavnog sudskog magistrata trebalo da bude objavljena 16. decembra 1981. godine\". \"Likely\" (vjerovatno) je preneseno kao \"trebalo\" (obaveza/plan), što blago mijenja nijansu.",
+   "suggestion": "\"i da će odluka glavnog sudskog magistrata vjerovatno biti objavljena 16. decembra 1981. godine\""
+  },
+  {
+   "id": "00010",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"Central Mental Hospital, Yervada\" -> prevod \"Centralne psihijatrijske bolnice\"; \"Mental\" je zamijenjeno sa \"psihijatrijske\" (naziv ustanove). Takođe \"counter-affidavit\" -> \"izjava data pod zakletvom u odgovoru\" gubi \"counter\"; \"Intelligence Officer\" -> \"obavještajni službenik\" je neprirodno.",
+   "suggestion": "\"Centralne duševne bolnice, Yervada\"; \"izjava data pod zakletvom u odgovoru na navode (counter-affidavit)\"; \"službenik obavještajne službe\"."
+  },
+  {
+   "id": "00010",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"petition for a writ of habeas corpus\" prvi put je preveden \"zahtjev za izdavanje naloga habeas corpus\", a kasnije \"writ petition\" kao \"ustavna tužba (writ petition)\"; isti pojam (zahtjev pred Visokim sudom odnosno pred ovim sudom) različito imenovan. Takođe \"Izgleda stvarno\" za \"seem to be real\" je nespretno.",
+   "suggestion": "Ujednačiti prema glosaru (\"ustavna tužba (writ petition) za izdavanje naloga habeas corpus\") ili dosljedno \"zahtjev\"; \"izgleda da je stvarna\"/\"čini se stvarnom\"."
+  },
+  {
+   "id": "00011",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Izvor: \"connected with a Nursing Home\". Prevod: \"povezana sa jednom privatnom bolnicom\". Dodato je \"privatnom\" koje nije u izvoru, a \"nursing home\" nije bolnica.",
+   "suggestion": "\"koja je bila povezana sa jednim domom zdravlja/klinikom (Nursing Home)\" bez dodatka \"privatnom\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi _id-ovi se poklapaju, tokeni (P*, A1, L*, D*, Rs.) i svi brojevi se pojavljuju isti broj puta, nema ekavizama ni hrvatskih oblika, odnos broja riječi je 0.88-0.99. Registar je pravnički i dosljedno ijekavski (nijesu, sljedeći, žalilac, Visoki sud, Sesijski sud), uz glosarske termine; nađena su samo manja odstupanja u nijansama i terminologiji."
+}

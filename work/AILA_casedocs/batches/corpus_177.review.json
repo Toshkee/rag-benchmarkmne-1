@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "gramatika/terminologija",
+   "description": "Sintagma „transakcije hartijama od vrijednosti“ / „u vezi sa transakcijama hartijama od vrijednosti“ (st. 1, 2, 9-10, 12, 17, 19, 22, 24, 26) nije gramatički pravilna u crnogorskom (transakcija čime? / sa čime?). Izvor: „transactions in securities“. Dosljedno je primijenjeno, ali zvuči nepravnički.",
+   "suggestion": "Zamijeniti sa „transakcije sa hartijama od vrijednosti“ / „transakcijama sa hartijama od vrijednosti“ dosljedno u cijelom itemu."
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 12, posljednja rečenica: „iako se transakcije nijesu dogodile i čekovi je trebalo da budu vraćeni“ - nesaglasnost (izvor: „the cheques should have been returned“).",
+   "suggestion": "„... i čekove je trebalo vratiti, Banka zabunom nije vratila četiri čeka žaliocu.“"
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 7: „predmet Zakona je upravo one konkretne transakcije“ - nesaglasnost predikata sa množinom (izvor: „the object of Act is those particular transactions“). Slično „daju sva nadležnost, ovlašćenja i autoritet“ - nespretno.",
+   "suggestion": "„predmet Zakona jesu upravo one konkretne transakcije“; „daju se sva nadležnost, ovlašćenja i ovlast“ ili „svu nadležnost, ovlašćenja i ovlast“."
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "vjernost/registar",
+   "description": "Pasus 11: napomena na čeku „Not arranged for“ prevedena kao „Nije obezbijeđeno pokriće“ - tumačenje koje dodaje značenje (pokriće) kojeg izvor ne sadrži; riječ je o doslovnom citatu.",
+   "suggestion": "Bliže izvoru: „Nije obezbijeđeno“ ili „Nije dogovoreno“."
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 14 (član 138): „kazniće se zatvorom u trajanju do dvostrukog iznosa čeka, ili i jednim i drugim“ - izvor je sam nejasan („imprisonment ... twice the amount of the cheque, or with both“), ali „ili i jednim i drugim“ je neprirodno.",
+   "suggestion": "„... ili obje kazne“ / „ili objema“, uz zadržavanje doslovnosti izvora."
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "modalnost",
+   "description": "Pasus 2(b) i 13: „Such offence should be alleged to have been committed“ prevedeno „Mora se navoditi da je takvo krivično djelo učinjeno“ - „should“ pojačano u „mora“ (isti citat, dva puta).",
+   "suggestion": "„Treba se navoditi da je ...“ / „Potrebno je da se navodi da je ...“."
+  },
+  {
+   "id": "30pNIhsHFk#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljednost optuženi/okrivljeni: glosar traži „optuženi“ nakon podizanja optužnice; u pasusu 13 optužba je formulisana (charges framed), a u pasusima 29, 32, 38 „the accused“ je dosljedno „okrivljeni“ (npr. „teret se prebacuje na okrivljenog“). Navodi se i „Custodian“ kao „staratelj imovine (Custodian)“ samo pri prvom pomenu, dok je u naslovu predmeta „Custodian“ ostao.",
+   "suggestion": "Za citate o postupku nakon optužnice koristiti „optuženi“ ili jasno održati „okrivljeni“ za predmet Mino Mehta; dosljedno „staratelj imovine“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (38), nijedan pasus ni rečenica nijesu izostavljeni ni dodati, svi brojevi, tokeni (Rs. x5), citati sudske prakse i datumi tačni. Termini po glosaru (žalilac, protivna strana, uvaženi zastupnik, vijeće, član/stav, kror) i ijekavica su dosljedni, registar je prikladan obrazloženju presude; nedostaci su samo manje gramatičke i stilske prirode (transakcije hartijama, par nesaglasnosti)."
+}

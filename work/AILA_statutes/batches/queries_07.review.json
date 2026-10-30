@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„rođaci u prvom koljenu“ za „first cousins“ je neprecizno (prvo koljeno označava najbliže srodstvo, npr. braću/sestre).",
+   "suggestion": "„prvi rođaci“ / „braća i sestre od strica/tetke/ujaka“."
+  },
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "imena/titule",
+   "description": "„Malkiat Singh, patvari (PW4)“ – izvorno „Patwari“ (titula/zvanje) je izmijenjeno u transkripciju „patvari“; neujednačeno sa stilom očuvanja izvornih naziva.",
+   "suggestion": "„Malkiat Singh, Patwari (PW4)“ (ili „patvari (zemljišni službenik)“ uz dosljednost)."
+  },
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "rod/dosljednost",
+   "description": "Na početku „Podnositeljka prijave je podnijela zahtjev...“, a dalje svuda „Podnosilac prijave“; nedosljedna upotreba roda za isti termin (complainant).",
+   "suggestion": "Zadržati jedan oblik; izvor koristi „she“ samo u uvodu, pa je prihvatljivo, ali uskladiti sa glosarom („podnosilac prijave“) ili obrazložiti rod."
+  },
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "ijekavica/registar",
+   "description": "„gvozdene i plastične cijevi“ – „gvozdene“ je ekavsko-srpski leksem; u ijekavskom pravnom registru uobičajenije je „željezne“.",
+   "suggestion": "„željezne i plastične cijevi“ (dva mjesta: „gvozdene“ u iskazu P5 i u zaključku Visokog suda)."
+  },
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "„optužena lica“ (accused persons) i „optuženi“ – glosar predviđa okrivljeni/optuženi; „optužena lica“ je okolišno. Takođe „Sud je konstatovao“ (It noted) ne navodi da je riječ o Visokom sudu.",
+   "suggestion": "„optuženi“; „Visoki sud je konstatovao“."
+  },
+  {
+   "id": "00024",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Potražioci, protivna strana“ za „claimants Respondents“ – „potražioci“ nije pravnički termin za claimant u postupku eksproprijacije; množina „Respondents“ prevedena jednim izrazom u jednini „protivna strana“.",
+   "suggestion": "„Podnosioci zahtjeva za naknadu, protivne strane“ (ili „Tužioci–protivne strane“); isto za „potražioce“ na ostalim mjestima."
+  },
+  {
+   "id": "00024",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Deklaracija je izdata“ (declaration under Land Acquisition Act) – kalk; „Referentni sud“ i „kolektor“ su transkripcije koje nisu u glosaru.",
+   "suggestion": "„Izjava/proglas je izdat(a)“; zadržati „kolektor“ i „Referentni sud“ dosljedno ili dodati u glosar."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: nema izostavljenih ni dodatih rečenica, svi tokeni (P1–P10, Rs.), brojevi, datumi i iznosi su očuvani, a automatska provjera (_id, tokeni, odnos riječi 0.88 i 0.92, ekavski/hrvatski oblici) nije našla odstupanja. Registar je odgovarajući sudskoj naraciji na crnogorskom (ijekavica, „nijesu“, „Država“, „Visoki sud“), uz sitna terminološka odstupanja navedena iznad."
+}

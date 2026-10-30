@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "0pKGytvukF",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "'odgovornost kompanije Apple ni u kom slučaju neće premašiti veći od sljedećih iznosa' (izvor: 'shall in no event exceed the greater of') je nepravilna konstrukcija.",
+   "suggestion": "'neće premašiti veći od sljedeća dva iznosa: (1) ... ili (2) ...' ili 'neće premašiti veći iznos od: (1) ... i (2) ...'."
+  },
+  {
+   "id": "0pKGytvukF",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'DIO POGODBE IZMEĐU STRANA' ('part of the bargain between the parties'): 'pogodba' djeluje arhaično/regionalno u ugovornom registru; 'privremeno obustavi ili okonča rad' ('suspend or terminate') odstupa od glosara (privremeno ukinuti / ukinuti); 'primjernu' (exemplary) i 'indirektnu, posrednu' (indirect, consequential) su pomalo vještački.",
+   "suggestion": "'DIO DOGOVORA IZMEĐU STRANA'; 'privremeno ukine ili ukine rad ili pristup'; 'indirektnu, posljedičnu, eksemplarnu (primjernu), slučajnu ili kaznenu štetu'."
+  },
+  {
+   "id": "HteOtLAQvc",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'Primate k znanju i saglasni ste' ('You acknowledge and agree') zvuči kancelarijski/hrvatski; 'prouzrokovati nenadoknadivu štetu' ok, ali 'pribavi ... privremenu mjeru' za 'injunctive relief' sužava značenje.",
+   "suggestion": "'Potvrđujete i saglasni ste'; 'zabranu ili drugu pravičnu pravnu zaštitu (injunctive or equitable relief)'."
+  },
+  {
+   "id": "GCLgR0OVSn",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'pravo savezne države Kalifornije' ('State of California'): glosar (dio 6) izbjegava 'savezna država' za države; 'zastario' za 'is barred' i 'u kojoj boravite' za 'where you reside' su nešto slobodniji.",
+   "suggestion": "'pravo države Kalifornije'; 'je takav zahtjev ili osnov tužbenog zahtjeva izgubljen (preklud)' ; 'u kojoj imate prebivalište'."
+  },
+  {
+   "id": "LVOkVEUVB5",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "'u vlasništvu ili pod upravljanjem društava Facebook Inc.' dodaje riječ 'društava' kojoj nema ekvivalenta u izvoru; 'Facebook uslovi korišćenja usluge' ('Facebook Terms of Service') nedosljedno naspram 'uslovi korišćenja' drugdje; 'Saglasni smo da vam pružamo' je doslovno i neprirodno.",
+   "suggestion": "'u vlasništvu ili pod upravljanjem Facebook Inc., Facebook Ireland Limited ili njihovih povezanih lica'; 'Facebook uslovi korišćenja'; 'Obavezujemo se da vam pružamo Instagram Uslugu'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova, broj novih redova (13/9/1/28), brojevi (npr. 100.00, 30, šest mjeseci, jedna godina) i odnos riječi (0.91-0.99) se podudaraju, nema ekavizama ni hrvatskih oblika. Registar je formalan, ugovorni i dosljedan glosaru (uslovi korišćenja, nalog, treće lice, odgovornost, obeštetiti i zaštititi od odgovornosti); preostale primjedbe su stilske."
+}

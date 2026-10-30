@@ -1,0 +1,59 @@
+{
+  "batch": "corpus_093",
+  "checks": {
+    "same_ids": true,
+    "token_counts_equal": true,
+    "numbers_equal": true,
+    "newlines_equal": "17/17",
+    "word_ratio": 0.884,
+    "ekavian_or_croatian_forms": [],
+    "paragraphs_53_to_68_all_present": true
+  },
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "stil/registar",
+      "description": "Pasus 56: \"nemaju osnovno pravo da zahtijevaju da imaju pravo da budu preuzeta u službu\" (izvor: \"no fundamental right ... to claim that they have a right to be absorbed in service\") je tautološko i nezgrapno.",
+      "suggestion": "\"nemaju osnovno pravo da zahtijevaju da budu preuzeta u službu\" (ili \"... da tvrde da imaju pravo na preuzimanje u službu\")."
+    },
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 58: \"fair and equitable manner\" prevedeno kao \"pravičan i nepristrasan način\"; \"equitable\" nije \"nepristrasan\".",
+      "suggestion": "\"na pošten i pravičan način\" ili \"pravično i srazmjerno\" – npr. \"samo na pravičan i ravnopravan način\"."
+    },
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 64: \"cadre\" prevedeno kao \"kategorije\" (\"zaposlenima njihove kategorije u državnoj službi\"), dok je \"grade\" u istom pasusu \"razred\"; pojam kadra se gubi.",
+      "suggestion": "\"zaposlenima njihovog kadra u državnoj službi\"."
+    },
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 61: \"the aggrieved party\" prevedeno kao \"oštećena strana\"; po glosaru je \"oštećeni\" rezervisan za complainant u krivičnom kontekstu.",
+      "suggestion": "\"strana čije je pravo povrijeđeno\" ili \"nezadovoljna strana\"."
+    },
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "Oznaka \"Arts. 14 and 16\" prevedena je kao \"čl. 14 i 16\" (pasusi 55, 56, 57), dok je u pasusima 58-60 i 65 \"Art. 21\"/\"Art. 142\" prevedeno kao \"član 21\"/\"člana 21\"; glosar traži \"član\" (u pasusu 55 i \"u/art. 39(a)\" → \"prema članu\").",
+      "suggestion": "Ujednačiti na \"člana 14 i 16\" / \"članovima 14 i 16\" u pasusima 55-57."
+    },
+    {
+      "id": "nnBbuQzkCh#4",
+      "severity": "minor",
+      "type": "dodavanje/stil",
+      "description": "Pasus 65: \"will be allowed to compete\" prevedeno \"biće dozvoljeno da učestvuju u konkursu\" (dodat pojam \"konkurs\" kojeg nema u izvoru); pasus 67: \"Zilla Parishads\" prevedeno \"okružnih vijeća (Zilla Parishads)\" – ubačen opisni prevod; pasus 54 \"Public Service Commission\" → \"Komisija za javne službe\" (bolje \"Komisija za javnu službu\"). Pasus 55: \"extracting work from them\" → \"koristila njihov rad\" slabi nijansu.",
+      "suggestion": "Pasus 65: \"biće dozvoljeno da se takmiče\"; 67: \"Zilla Parishad\" zadržati kao ime ili dosljedno glosirati; 54: \"Komisija za javnu službu\"; 55: \"iskorištavala njihov rad\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svi pasusi 53-68 i završna rečenica su prisutni, brojevi, citati, brojevi članova i predmeta su doslovni, strane su dosljedne (žalioci/protivna strana, Visoki sud, vijeće (Division Bench), Indijska Unija, nalog (writ)). Registar je primjeren obrazloženju presude, ijekavica bez ekavskih i hrvatskih oblika, \"nijesu\" korišćeno dosljedno; nađene su samo manje stilske i terminološke nedosljednosti."
+}

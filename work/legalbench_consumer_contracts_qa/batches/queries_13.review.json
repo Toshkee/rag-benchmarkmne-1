@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00246",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Prevod \"nepunovažne\" za \"deemed invalid\" je arhaičan/nepravnički; u ugovornom registru uobičajeniji su \"ništave\" ili \"nevažeće\" (vidjeti glosar: djelimična ništavost).",
+   "suggestion": "\"...da su određene odredbe ugovora ništave, da li će i preostale odredbe postati ništave?\""
+  },
+  {
+   "id": "00249",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"mogu li da tražim da mi je plate\" je gramatički nespretno (izvor: \"can I demand payment for it\").",
+   "suggestion": "\"Ako Redditu dam odličnu komercijalnu ideju, mogu li da tražim da mi je plate?\" -> \"... mogu li da tražim naknadu za nju?\""
+  },
+  {
+   "id": "00253",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"koji hostuje\" je anglicizam za \"content that it hosts\".",
+   "suggestion": "\"...nad sadržajem koji se nalazi na njegovim uslugama?\" ili \"koji smješta (hostuje)\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se podudara, nema izostavljenih ni dodatnih sadržaja, brojevi (16, dvije godine) su tačni, pitanja su ostala pitanja, a nema ni ekavice, hrvatizama ni sadržaja iz polja context. Registar je dobar: laička pitanja su razgovorna, a formalna (parafrazirana) ostala formalna, uz glosarski dosljedne termine (uslovi korišćenja, povraćaj sredstava, pretplata, arbitraža). Postoje samo tri manja stilska/terminološka odstupanja."
+}

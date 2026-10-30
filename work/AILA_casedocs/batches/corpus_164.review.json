@@ -1,0 +1,57 @@
+{
+ "batch": "corpus_164",
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "omission",
+   "description": "Pasus 57, citat svjedoka: izvor 'by about 12.30 p.m. by bus' preveden kao 'oko 12.30 časova' - izostavljena oznaka p.m. (poslijepodne).",
+   "suggestion": "'oko 12.30 časova poslije podne' (ili 'oko 12.30 časova, poslijepodne')."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "addition",
+   "description": "Pasus 64: 'Additional Solicitor General' preveden kao 'Zamjenik generalnog pravobranioca (Additional Solicitor General)' - dodata je zagrada sa engleskim izvornikom koje u izvoru nema, a 'additional' nije 'zamjenik'; naziv nije u glosaru.",
+   "suggestion": "Npr. 'Dodatni generalni pravobranilac (Additional Solicitor General)' pri prvom pomenu ili bez zagrade; ostalo ostaviti dosljedno."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "register",
+   "description": "Pasusi 59 i 61: 'taking the statement ... at its face value' / 'took whatever his daughter told him at its face value' prevedeno kao 'uzmemo zdravo za gotovo' / 'uzimao zdravo za gotovo' - razgovorna fraza koja znači 'uzeti zdravo za gotovo (bez provjere)', pomjera značenje i nije pravnički registar.",
+   "suggestion": "'prihvatimo izjavu svjedoka onakvom kakva jeste' / 'prihvatao sve što mu je kćerka rekla bez ikakve provjere'."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "wording",
+   "description": "Pasus 51: 'advised her to get herself adjusted' preveden 'savjetovao da se prilagodi' - nedostaje objekat (kome); takođe 'Svjedok navodi da je, po dolasku...' ponavlja 'navodi' umjesto vjernog veznog prelaza.",
+   "suggestion": "'savjetovao joj je da se prilagodi situaciji...'."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "ambiguity",
+   "description": "Pasus 56: 'after 4th-5th June' preveden 'poslije 4. odnosno 5. juna' - 'odnosno' stvara alternativu umjesto okvirnog 'oko 4-5. juna'.",
+   "suggestion": "'poslije 4-5. juna' (ili 'poslije 4. i 5. juna')."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "Isto lice (Sharad) se u izvoru naizmjenično zove 'appellant' i 'accused'; prevod to prati ('žalilac' / 'optuženi'), pa unutar istog dijela isto lice nosi dva termina (npr. pasus 52 'žalioca, Sharada' pa 'optuženi'), što je u skladu s izvorom ali odstupa od pravila dosljednosti iz dijela 6.",
+   "suggestion": "Prihvatljivo kao vjerno izvoru; po želji ujednačiti na 'žalilac' tamo gdje izvor nema razlog za 'accused'."
+  },
+  {
+   "id": "sUkiH8G4Zp#3",
+   "severity": "minor",
+   "type": "register",
+   "description": "Pasus 58/62: 'most frank and rudimentary fashion' -> 'najotvoreniji i najgrublji način' ('rudimentary' nije 'grub'); 'turn turtle' -> 'potpuno promijenila ponašanje' (blago pojednostavljeno).",
+   "suggestion": "'na najotvoreniji i najprimitivniji (neuglađen) način'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (22), svi pasusi i rečenice prisutni, brojevi, datumi, P.W./Exh./Ex. oznake, imena i članovi (član 32 Zakona o dokazima) tačni, bez ekavizama i kroatizama. Registar je uglavnom primjeren obrazloženju presude, sa nekoliko stilskih i manjih terminoloških odstupanja (p.m., 'zdravo za gotovo', glosa uz Additional Solicitor General); nema blokirajućih grešaka."
+}

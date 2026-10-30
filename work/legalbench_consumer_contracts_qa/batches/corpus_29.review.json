@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "phlhHVlnES",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljedan prevod 'terminate': u tački 1 'terminate the Terms of Service' -> 'raskinuti Uslove korišćenja', a u tački 5 'modify or terminate ... the Terms of Service' -> 'izmijenimo ili ukinemo ... Uslove korišćenja'. Takođe 'escrow istrage' ostavljeno neprevedeno ('insurance or escrow investigation').",
+   "suggestion": "U tački 5: 'izmijenimo ili raskinemo ... Uslove korišćenja' (ukinuti samo za Nalog/Uslugu). 'escrow' prevesti kao 'istrage osiguravača ili istrage u vezi sa depozitom kod trećeg lica (escrow)'."
+  },
+  {
+   "id": "cmc5F9HpUl",
+   "severity": "minor",
+   "type": "dodavanje/terminologija",
+   "description": "'zahtjevi u pogledu escrow računa, provjere, dostave...' - riječ 'računa' ne postoji u izvoru ('escrow, screening, shipping...'); 'escrow' neprevedeno. Takođe nedosljedno 'eBay Pravila' vs 'kompanije eBay'.",
+   "suggestion": "'zahtjevi u pogledu depozita kod trećeg lica (escrow), provjere, dostave i/ili obrade plaćanja'."
+  },
+  {
+   "id": "Rtva1JyiNb",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'assignees' prevedeno kao 'pravni sljedbenici' (successors); preciznije je 'sticaoci prava / cesionari'. Dalje: 'takes no responsibility and assumes no liability' -> 'ne preuzima nikakvu odgovornost i ne snosi nikakvu odgovornost' (isti termin za dva pojma); nedosljedno 'korisnike eBay-a' vs 'kompanije eBay'.",
+   "suggestion": "'našim sticaocima prava (cesionarima)'; 'eBay ne prihvata nikakvu odgovornost niti snosi bilo kakvu pravnu odgovornost za ...'; 'korisnike kompanije eBay'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj redova/stavki, brojevi (30, 3, 60, 117A, 24) i odnos riječi (0.92-1.03) su u redu, nema ekavskih ni hrvatskih oblika, nema izostavljenog ni dodatog sadržaja. Registar je odgovarajući za uslove korišćenja (vi/mi, bezlično, bez zakonodavnog tona), glosar se uglavnom poštuje (Nalog, Usluge, treća lica, privremeno ukinuti, povraćaj sredstava), a pronađene su samo manje terminološke nedosljednosti."
+}

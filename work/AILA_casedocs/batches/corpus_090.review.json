@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "nnBbuQzkCh#1",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Pasus 28: izvor 'State of Haryana Vs. Piara Singh and Others' preveden je 'država Haryana protiv Piara Singh i drugi', dok je u istom dijelu 'and Others / & Ors.' dosljedno 'i dr.' (npr. 'država Pandžab protiv Jagdip Singh i dr.', 'B.N. Nagarajan i dr. protiv države Karnataka i dr.').",
+   "suggestion": "Zamijeniti 'Piara Singh i drugi' sa 'Piara Singh i dr.'."
+  },
+  {
+   "id": "nnBbuQzkCh#1",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Pasus 18: 'During the course of the arguments' preveden kao 'Tokom izlaganja' - neprecizno za pravni registar (izlaganje je šire od iznošenja argumenata stranaka).",
+   "suggestion": "'Tokom iznošenja argumenata' ili 'U toku rasprave'."
+  },
+  {
+   "id": "nnBbuQzkCh#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 25: 'in accordance with seniority' preveden 'u skladu sa radnim stažom'; u pasusu 26 (citat) dvije uzastopne rečenice počinju sa 'Stoga' ('Stoga bi neopravdano opterećivanje...', 'Stoga smo svoje naloge dali...') iako izvor ima 'Therefore' samo u jednoj, a druga je 'We have, therefore' - bez uticaja na značenje.",
+   "suggestion": "'u skladu sa starješinstvom (stažom u službi)'; u drugoj rečenici 'Zato smo svoje naloge dali...' radi izbjegavanja ponavljanja."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova se poklapa, svih 16 pasusa (15 novih redova) je prisutno u istom redoslijedu, brojevi, članovi (226, 32, 309, 162, 141), citati sudske prakse, datum 1. 7. 1984. i broj pasusa doslovno su očuvani, nema ekavizama ni kroatizama, a odnos riječi je 0,87. Glosar je primijenjen dosljedno (uvaženi zastupnik, Visoki sud, Vrhovni sud, Indijska Unija, država X, protivna strana, nijesu), a registar je prirodan i pravnički. Pronađene su samo sitne stilske nedosljednosti, bez blokirajućih propusta."
+}

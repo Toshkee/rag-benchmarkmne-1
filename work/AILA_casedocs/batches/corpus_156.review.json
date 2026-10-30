@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "jMPqPEBqUh#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 1: 'arraigned as offenders' prevedeno kao 'kojima je suđeno kao učiniocima'; 'arraigned' znači da su optuženi/izvedeni pred sud, a ne da im je suđeno, a 'kao učiniocima' implicira krivicu.",
+   "suggestion": "'...dvije različite grupe optuženih koji su optuženi kao učinioci događaja koji se odigrao 19. avgusta 1967. godine.'"
+  },
+  {
+   "id": "jMPqPEBqUh#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 13: 'were arraigned in a proceeding under Section 17' prevedeno kao 'bili obuhvaćeni postupkom po članu 17'; oslabljeno značenje (arraigned = protiv njih je vođen postupak/optuženi).",
+   "suggestion": "'protiv svjedoka optužbe 3 i 4 vođen je postupak po članu 17 Zakonika o krivičnom postupku zajedno sa ostalim članovima grupe optužbe'."
+  },
+  {
+   "id": "jMPqPEBqUh#0",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Odluka Visokog suda različito označena: 'order of conviction' -> 'rješenje o osuđujućoj presudi' (pasus 3), 'rješenje' (pasusi 4 i 15), a na drugom mjestu 'presude ... Visokog suda'. Osuđujuća odluka je presuda (conviction/judgment), 'rješenje o osuđujućoj presudi' je nepravnički spoj.",
+   "suggestion": "Pasus 3: 'Nezadovoljni ovom osuđujućom presudom Visokog suda'; pasus 15: 'ukidamo odluku/presudu Visokog suda kojom su optuženi oglašeni krivim i osuđeni' (ili dosljedno 'rješenje' po glosaru za 'order', ali ne uz 'presuda' za isti akt)."
+  },
+  {
+   "id": "jMPqPEBqUh#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 12: 'Harbans Missir had filed a criminal case against the informant' / 'a criminal case filed against them by their uncle' prevedeno 'krivičnu prijavu' / 'podnio krivičnu prijavu'; izvor kaže 'criminal case' (krivični predmet/postupak), a glosar rezerviše 'krivična prijava' za FIR.",
+   "suggestion": "'pokrenuo krivični postupak protiv podnosioca prijave i njegovog brata' i 'Protiv njih je i njihov stric Pardyuman pokrenuo krivični postupak'."
+  },
+  {
+   "id": "jMPqPEBqUh#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodati glosovi koji ne postoje u izvoru: 'zapisnički uzeo izjavu... Izvršio je i uviđaj (inquest)' i 'Krivičnog zakonika Indije (IPC)'; izvor ima samo 'held inquest' i 'IPC'. Takođe pasus 3 'Naloženo je da se njegove kazne izvršavaju istovremeno' pretvara jedninu 'His sentence' u množinu. Nijedan token/broj nije promijenjen, pa nije blokirajuće.",
+   "suggestion": "Zadržati bez glosa 'uviđaj' ili ostaviti samo 'inquest'; 'Naloženo je da se njegova kazna izvršava istovremeno' (konkurentno sa drugim kaznama)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 15 pasusa i završna rečenica 'Žalbe usvojene' su prisutni, broj novih redova (22) i svi brojevi, svjedoci (PW 1-16), članovi (302, 34, 304 dio II, 326, 17) i datumi se podudaraju; stranke su dosljedno označene (žalilac, optuženi, podnosilac prijave, prvostepeni sud, Visoki sud). Automatska provjera: isti _id, odnos riječi 0.89, nema ekavskih ni hrvatskih oblika. Registar je prirodan i pravnički prihvatljiv; nađena su samo manja terminološka odstupanja (arraigned, order of conviction, criminal case) i par dodatnih glosa."
+}

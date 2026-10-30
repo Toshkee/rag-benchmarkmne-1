@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "izostavljanje (neznatno)",
+   "description": "Pasus 23: izvor \"go back to his house to show his absence\"; prevod \"ode nazad kako bi prikazao svoje odsustvo\" izostavlja \"to his house\" (u svoju kuću). Izvor je i sam dvosmislen, pa se značenje ne mijenja bitno.",
+   "suggestion": "\"ode nazad u svoju kuću kako bi prikazao svoje odsustvo\" (ili ostaviti neutralno, ali dosljedno izvoru)."
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "preciznost značenja",
+   "description": "Pasus 72(iv): \"Sometimes even alarms are not raised unless the injuries caused are very painful and serious\" preveden kao \"Ponekad se uzbuna i ne diže ukoliko nanesene povrede nijesu veoma bolne i ozbiljne\". Konstrukcija \"ukoliko ... nijesu\" je dvosmislena i može se pročitati suprotno od izvora (\"unless\" = osim ako).",
+   "suggestion": "\"Ponekad se uzbuna i ne diže osim ako nanesene povrede nijesu veoma bolne i ozbiljne\" -> bolje: \"...ne diže, osim ako su nanesene povrede veoma bolne i ozbiljne.\""
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 11: \"Chief Justice of the High Court\" prevedeno kao \"predsjednik Visokog suda\". Za indijskog Chief Justice uobičajeniji i precizniji naziv je \"glavni sudija\"; \"predsjednik suda\" je u CG poseban funkcionerski naziv.",
+   "suggestion": "\"glavni sudija Visokog suda\" (i dosljedno ako se pojavi u drugom dijelu istog dokumenta)."
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "terminologija/rod",
+   "description": "\"žalilja br. 2\" / \"žalilju\" nije u glosaru (appellant -> žalilac) i rijetko je u pravničkom registru; množina \"žalioci\" za mješovitu grupu (sin i majka) je u redu, ali oblik za ženski rod valja ujednačiti sa ostalim batchevima.",
+   "suggestion": "Ujednačiti na nivou projekta: ili \"žalilac br. 2\" bez obzira na rod, ili dosljedno \"žalilja\" u svim dijelovima dokumenta (#1 koristi head)."
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 15: \"poslije 5.00 časova poslije podne\" – dvostruko \"poslije\" je nezgrapno. Takođe \"prigovor alibija\" za \"plea of alibi\" (pasusi 6, 7, 9, 14, 23) – uobičajeniji izraz je \"odbrana alibijem\"/\"tvrdnja o alibiju\".",
+   "suggestion": "\"nakon 5.00 časova poslije podne\"; \"odbrana alibijem\" dosljedno u cijelom itemu."
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 4: citat prijetnje \"You will have to give us\" preveden jednino \"Moraćeš da nam daš\" (neformalno ti), dok je u izvoru obraćanje Ramsinghu u službenom/poslovnom tonu; u uporednim presudama obično se koristi \"vi\" ili bezlično.",
+   "suggestion": "\"Morate da nam date iznos od Rs. 2000/-, inače nećemo poslati Bimlu ...\" (stilska preferencija)."
+  },
+  {
+   "id": "8Y7XsrSvBp#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 14: \"prisustvo optuženih\" za izvorno \"presence of accused\" (jednina, odnosi se na žalioca br. 1); pluralizacija neznatno širi značenje. Pasus 12: \"čestice čađi\" za \"carbon particles\" – interpretacija umjesto doslovnog \"čestice ugljenika\".",
+   "suggestion": "\"prisustvo optuženog\"; \"čestice ugljenika (čađi)\" ili \"čestice ugljenika\" radi doslovnosti."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 42 reda (isti broj novih redova), svi pasusi i rečenice prisutni, tokeni (PW/CW, Rs. 2000/-, brojevi članova 302/201/34, datumi, mjere) i broj pojavljivanja brojeva identični izvoru; nema ekavizama ni kroatizama; stranke su dosljedno označene (žalilac br. 1/br. 2, država, Visoki sud, vijeće (Division Bench) pri prvom pomenu). Registar je prirodan obrazloženju presude i u skladu sa glosarom; uočena su samo stilska i manja terminološka odstupanja, bez izostavljanja ili promjene značenja koja bi bila blokirajuća."
+}

@@ -1,0 +1,9 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {"id": "00138", "severity": "minor", "type": "terminology", "description": "Izvor: \"NYT makes no assurances whatsoever with respect to the accuracy\". Prevod: \"ne daje apsolutno nikakva uvjeravanja\". \"Uvjeravanje\" znači nastojanje da se neko ubijedi, a ne \"assurance\" (garancija/jemstvo).", "suggestion": "\"ne daje apsolutno nikakve garancije u pogledu tačnosti sadržaja koji stavlja na raspolaganje\""},
+  {"id": "00131", "severity": "minor", "type": "terminology consistency", "description": "Izvor: \"affected by the use of VPNs\". Prevod: \"upotreba VPN-ova\", dok se u istom batchu (00130, 00123) za \"use\" dosljedno koristi \"korišćenje\".", "suggestion": "\"...može uticati korišćenje VPN-ova ili sličnih tehnologija?\""}
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova (20), nema izostavljenih ni dodatih sadržaja, nema ekavizama ni hrvatskih oblika, brojevi i tokeni se poklapaju (NYtimes.com, 17 godina), a odnos riječi je 0.79-1.22. Registar je dobar: laička pitanja (00120, 00126, 00128, 00130, 00132, 00133, 00139) su ostala razgovorna, a formalna (00121, 00125, 00127, 00129, 00131, 00135, 00138) formalna; glosar (uslovi korišćenja, nalog, usluge, nijesam) je poštovan i nema sadržaja prenesenog iz polja context."
+}

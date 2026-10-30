@@ -1,0 +1,84 @@
+{
+ "n_blocking": 0,
+ "n_minor": 11,
+ "issues": [
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Zoom assumes no responsibility or liability' preveden kao 'ne preuzima nikakvu odgovornost niti obavezu'; 'liability' u glosaru je 'odgovornost', 'obaveza' mijenja nijansu.",
+   "suggestion": "'ne preuzima nikakvu odgovornost niti snosi odgovornost za kršenja' ili 'ne preuzima nikakvu odgovornost'."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Zooms Privacy Statement' -> 'Izjavi o privatnosti'; glosar za privacy policy je 'politika privatnosti' (nijesu isti naziv, ali nedosljedno sa batchem/datasetom).",
+   "suggestion": "Razmotriti 'Izjavi o privatnosti' kao doslovni naziv dokumenta i zadržati dosljedno kroz dataset, ili 'Politici privatnosti'."
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Naslov 'ELIGIBILITY' preveden kao 'ISPUNJENOST USLOVA' - dvosmisleno uz 'uslovi' (terms); 'fully able and competent' -> 'u potpunosti sposobni i kompetentni' (kalk).",
+   "suggestion": "'ISPUNJAVANJE USLOVA ZA KORIŠĆENJE' / 'PRAVO NA KORIŠĆENJE'; 'poslovno sposobni'."
+  },
+  {
+   "id": "2ceN59UAgN",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'EXPRESSLY DISCLAIM ALL WARRANTIES' -> 'IZRIČITO ODBIJAJU SVE GARANCIJE'; glosar: disclaimer = odricanje od odgovornosti.",
+   "suggestion": "'SE IZRIČITO ODRIČU SVIH GARANCIJA'."
+  },
+  {
+   "id": "2ceN59UAgN",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'without posting bond or other security' -> 'bez polaganja jemstva ili drugog obezbjeđenja'; 'jemstvo' je u glosaru bail (krivično).",
+   "suggestion": "'bez polaganja kaucije ili drugog obezbjeđenja'."
+  },
+  {
+   "id": "2ceN59UAgN",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'equitable relief' -> 'pravičnu pravnu zaštitu' (suvišno 'pravnu'); 'life support or weapons systems' -> 'sistemi za održavanje života ili sisteme naoružanja' (ili umjesto i).",
+   "suggestion": "'pravičnu zaštitu (equitable relief)'; 'i sisteme za održavanje života ili sisteme naoružanja'."
+  },
+  {
+   "id": "BovCzfAPxj",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'solely for accommodation purposes' -> 'služi isključivo radi olakšanja' - neprirodno.",
+   "suggestion": "'služi isključivo radi pogodnosti (informativno)'."
+  },
+  {
+   "id": "3MsHarAJOC",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "'transferred, removed or appealed to a different court' -> 'prenese, ustupi ili se po žalbi iznese'; 'removed' (upućen/prenesen iz jedne nadležnosti u drugu) preveden kao 'ustupi' (assign).",
+   "suggestion": "'ako se takav zahtjev prenese, preusmjeri ili se po žalbi iznese pred drugi sud'."
+  },
+  {
+   "id": "3MsHarAJOC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'honor valid claims of privilege' -> 'uvažavati valjane zahtjeve za privilegiju'; 'applicable substantive Law' -> 'važeće materijalne Zakone' (veliko slovo, množina); 'Section A or B' -> 'Odjeljkom A ili B'.",
+   "suggestion": "'poštovati valjane prigovore po osnovu privilegije (povjerljivosti)'; 'važeće materijalno pravo'; 'tačkom A ili B' (ili dosljedno 'Odjeljak')."
+  },
+  {
+   "id": "ZDYUvh7i71",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "'prepare derivative works of' -> 'prerađujete' - izgubljen pojam izvedenih djela.",
+   "suggestion": "'izrađujete izvedena djela na osnovu, rastavljate, dekompilujete ili vršite reverzni inženjering'."
+  },
+  {
+   "id": "ZDYUvh7i71",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljednost velikog/malog slova: 'kreiraju Nalog' ... 'kreiranje naloga' (prati izvor, ali glosar traži 'nalog'); 'veb-sajt' - neformalno.",
+   "suggestion": "Ujednačiti 'nalog'; 'veb-sajta' prihvatljivo, alternativa 'internet stranice'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova, isti brojevi (16, 20.x, 75,000, 13, 18, 10) i isti broj novih redova u svim itemima, bez ekavizama i hrvatskih oblika, odnos riječi 0.85-1.01. Registar je formalan ugovorni, ijekavica i glosar (usluge, nalog, Povezana lica, treće lice, saglasni ste, nijesu) dosljedno primijenjeni; ostaju samo manja terminološka odstupanja (jemstvo, odbijaju, ustupi, prerađujete)."
+}

@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "gender/agreement",
+   "description": "Pasus 16: \"Sudije su upozorile\" (izvor: \"Their Lordships cautioned\") - ženski rod množine za sudije.",
+   "suggestion": "\"Sudije su upozorile\" -> \"Sudije su upozorili\"."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Pasus 7 (tačka 3 citata): \"čak i kada je ad hoc ili privremeno zapošljavanje neophodno ..., on bi po pravilu trebalo da bude angažovan\" - zamjenica \"on\" se odnosi na \"zapošljavanje\" (srednji rod) umjesto na zaposlenog; izvor: \"he should ordinarily be drawn from the employment exchange\".",
+   "suggestion": "\"..., takvo lice bi po pravilu trebalo angažovati preko biroa rada\"."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasusi 11 i 12: \"stavio van snage\" za \"set aside\" (izvor: \"set aside the directions\", \"set aside the judgment\"); dio 9 stilskog vodiča propisuje \"ukinuta\".",
+   "suggestion": "\"Ovaj sud je ukinuo naloge ...\"; \"ukinuo je presudu Visokog suda\"."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"nalog\" se koristi za \"directions\"/\"direction\" (M9 \"Nalog da se zaposleni prevedu\", \"nalozi dati u predmetu Piara Singh\"; M11 \"naloge koje je Visoki sud dao\") iako je \"nalog (writ)\" rezervisan za writ i u istom itemu se pojavljuje \"ustavna tužba (writ petition)\".",
+   "suggestion": "Koristiti \"uputstvo/smjernica\" ili \"naredba\" za \"direction\" kako bi se izbjegla zabuna sa nalogom (writ)."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "naslov predmeta",
+   "description": "M12: \"direktor, Institute of Management Development, U.P. protiv Pushpa Srivastava\" - naziv stranke u naslovu predmeta počinje malim slovom (izvor: \"Director, Institute...\").",
+   "suggestion": "\"Direktor, Institute of Management Development, U.P. protiv Pushpa Srivastava (Smt.)\"."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "M10: \"visoki sudovi\" (malo slovo) za \"High Courts\", dok se na drugim mjestima piše \"Visoki sud\"; glosar: High Court -> Visoki sud.",
+   "suggestion": "\"Visoki sudovi nemaju ovlašćenje ...\", \"Visoki sudovi ne mogu donositi slična rješenja\"."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "ton",
+   "description": "M26: \"žalioci potpuno nijesu uspjeli da dokažu zakonsko pravo\" za \"appellants miserably fail to establish a legal right\" - izgubljen je intenzitet (\"miserably\"); takođe \"u smislu da\" za \"to the effect\".",
+   "suggestion": "\"žalioci očigledno ne uspijevaju da utvrde zakonsko pravo\" (ili \"jadno ne uspijevaju\")."
+  },
+  {
+   "id": "nnBbuQzkCh#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "M29: \"državni službenik\" za \"Government servant\" - glosar daje \"službeno lice\" za public servant; ostaje nedosljedno ako se isti pojam negdje drugdje prevodi drugačije; takođe naziv institucije \"Union Public Service Commission\" ostavljen neprevedenim.",
+   "suggestion": "Prihvatljivo, ali razmotriti \"Komisija za javnu službu Unije (Union Public Service Commission)\" i dosljedan termin."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (29), svi pasusi i rečenice prisutni, citati sudske prakse, brojevi članova i tokeni doslovni, bez ekavskih i hrvatskih oblika, odnos riječi 0,93. Registar je odgovarajući sudskom obrazloženju na crnogorskoj ijekavici, uz sitne gramatičke i terminološke nedosljednosti (rod, \"set aside\", \"nalog\" za direction)."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#12",
+   "severity": "minor",
+   "type": "untranslated_quotes",
+   "description": "Citati iz obdukcionog zapisnika ostavljeni na engleskom: \"can be a case of suicidal death\", \"time since the death\", \"mouth is closed with tip (something scored out) seen caught between the teeth\" (pasus 16 počinje cijelim engleskim citatom), \"caught between the teeth\", \"inside mouth\". Ostali citati u istom itemu su prevedeni, pa je nedosljedno i slabi pretraživost na crnogorskom.",
+   "suggestion": "Prevesti: \"može biti slučaj samoubistva\", \"vrijeme od smrti\", \"usta su zatvorena, vrh (nešto precrtano) viđen uklješten među zubima\", \"uklješten među zubima\", \"unutar usta\" (ili dosljedno ostaviti sve citate zapisnika u izvorniku sa prevodom u zagradi)."
+  },
+  {
+   "id": "sUkiH8G4Zp#12",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Pasus 202: \"na tu odluku pozivaju i nekoliko drugih odluka naših sudova\" je negramatično (izvor: the decision \"is referred to in several other decisions\"). Takođe \"odlomak iz te presude\" za izvor \"in this judgment\" mijenja referenta i miješa termine odluka/presuda za isti akt Tajnog savjeta.",
+   "suggestion": "\"a ta odluka se pominje u nekoliko drugih odluka naših sudova, biće potrebno da se relevantni odlomak navede u ovoj presudi\"; dosljedno \"odluka\" za Privy Council."
+  },
+  {
+   "id": "sUkiH8G4Zp#12",
+   "severity": "minor",
+   "type": "omission_minor",
+   "description": "Pasus 203: izostavljeno \"at first\" u \"Additional Solicitor General who had strongly relied ... at first proceeded in the end of his arguments\" (prevod: \"na kraju svog izlaganja pošao je od toga\").",
+   "suggestion": "\"koji se u početku u velikoj mjeri oslanjao ... na kraju svojih argumenata pošao je od toga da su neprihvatljivi\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#12",
+   "severity": "minor",
+   "type": "style",
+   "description": "Pasus 8: dodat prevodilački glos \"Law of Evidence (Dokazno pravo), autori Ratanlal i Dhirajlal\" (izvor: \"Law of Evidence by Ratanlal and Dhirajlal.\"); stilski vodič zabranjuje dodavanje objašnjenja. Takođe \"Njihovih Lordstava\"/\"Njihova Lordstva\" (veliko slovo) naspram \"Uvaženi lordovi\" za learned Lords - nedosljedno.",
+   "suggestion": "\"Law of Evidence, autori Ratanlal i Dhirajlal.\" i dosljedno \"lordovi\"/\"Njihova lordstva\"."
+  },
+  {
+   "id": "sUkiH8G4Zp#12",
+   "severity": "minor",
+   "type": "style",
+   "description": "Manje stilsko: \"zgodno ga je tretirao kao svjedoka optužbe\" (conveniently treated) - \"zgodno\" je kolokvijalno; \"unosi morali biti unijeti\" (entries must have been made) tautološko; \"Optužba ne tvrdi\" za \"It is not the case of the prosecution\" prihvatljivo.",
+   "suggestion": "\"oportuno ga je tretirao\" / \"unosi su morali biti upisani\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 27 pasusa i isti broj novih redova (26), svi tokeni, brojevi, citati (LR 66 IA 66, 1966 Cri 281, 66 Ind App 66), Exts. i P.Ws. oznake očuvani, bez ekavizama i hrvatizama, bez izostavljenih pasusa. Glosar je poštovan (žalilac, Visoki sud, uvaženi zastupnik, službenik koji vodi istragu, ukinuti, usvojiti, nijesu), strane su dosljedno označene; registar je pravnički prirodan, a nađeni problemi su samo stilski/manji (neprevedeni citati zapisnika, jedna negramatična rečenica)."
+}

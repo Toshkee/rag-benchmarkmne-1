@@ -1,0 +1,94 @@
+{
+  "n_blocking": 0,
+  "n_minor": 11,
+  "issues": [
+    {
+      "id": "TGUDWFgF6c",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Neslaganje u rodu: „Ministarstva i agencije koji se finansiraju ovim predlogom zakona obuhvataju“ (izvor: „The departments and agencies funded in the bill include“). Zbir srednjeg i ženskog roda traži „koja“.",
+      "suggestion": "„Ministarstva i agencije koja se finansiraju ovim predlogom zakona obuhvataju“."
+    },
+    {
+      "id": "TGUDWFgF6c",
+      "severity": "minor",
+      "type": "dodavanje / nedosljednost",
+      "description": "Dodata engleska glosa „Ministarstvo spoljnih poslova (State Department)“ koje nema u izvoru („the Department of State“). U prvoj listi (naslov zakona) ista institucija stoji bez glose, a u drugoj sa glosom. Isto u XFhmiXbIwX i 8H6h8l7qgA.",
+      "suggestion": "Izostaviti „(State Department)“ u cijelom batchu, ili ga dosljedno uvesti samo pri prvom pomenu u itemu."
+    },
+    {
+      "id": "Rtva1JyiNb",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Naslov „Zakon o energetski efikasnoj tehnologiji u državnoj upravi“ (izvor: „Energy Efficient Government Technology Act“). Prema glosaru „država“ je savezna jedinica, pa „državna uprava“ stvara zabunu sa vlastima država, a tekst govori o saveznoj vladi („u okviru savezne vlade“).",
+      "suggestion": "„Zakon o energetski efikasnoj tehnologiji u saveznoj upravi“ (ili „u saveznoj vladi“)."
+    },
+    {
+      "id": "x7tirfILLW",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„podaci ... koje dostavljaju potrošači i državni subjekti“ (izvor: „consumers and government entities“). „Državni“ se po glosaru veže za saveznu jedinicu (state), a izvor kaže „government“.",
+      "suggestion": "„koje dostavljaju potrošači i vladini subjekti“ ili „subjekti javne vlasti“."
+    },
+    {
+      "id": "FNhbxKl1Kv",
+      "severity": "minor",
+      "type": "stil / terminologija",
+      "description": "„propisuje se i obezbjeđivanje izvršavanja od strane Savezne trgovinske komisije (FTC) i država“ (izvor: „provides for enforcement by the Federal Trade Commission and by states“) je nezgrapno. Takođe „ugovora sa klijentom“ za „customer agreement“ i „pravo pojedinca na podnošenje tužbe“ za „private right to action“ nijesu dovoljno precizni.",
+      "suggestion": "„propisuje se i sprovođenje zakona od strane Savezne trgovinske komisije (FTC) i država“; „ugovora sa korisnikom/potrošačem“; „privatno pravo na tužbu“."
+    },
+    {
+      "id": "gMXAdx9G81",
+      "severity": "minor",
+      "type": "stil / terminologija",
+      "description": "„odriču se prava da ih sasluša sud“ (izvor: „forego the right to be heard before a court“). „Saslušati“ znači ispitati lice, a ne da se spor raspravi pred sudom.",
+      "suggestion": "„odriču se prava da se njihov spor raspravi pred sudom i prava na suđenje pred porotom“."
+    },
+    {
+      "id": "XFhmiXbIwX",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„progonjenim etničkim manjinskim grupama“ za „targeted ethnic minority groups“. „Progonjen“ je jače i drugačije od „targeted“. Takođe „pomoć za humanitarnu pomoć“ je tautologija, ali slijedi izvor („aid for humanitarian assistance“).",
+      "suggestion": "„etničkim manjinskim grupama koje su na meti“ ili „ciljanim etničkim manjinskim grupama“; „pomoć za humanitarno djelovanje“."
+    },
+    {
+      "id": "XFhmiXbIwX",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "„officials“ se u batchu prevodi različito: „visokih vojnih zvaničnika“ (XFhmiXbIwX) i „državnih službenika“ / „Strani državni službenici“ (cdWFMFzRfH).",
+      "suggestion": "Ujednačiti, npr. „službenici“ (ili „službena lica“) kao u stilskom vodiču; „državni“ takođe zamijeniti sa „vladini“ radi izbjegavanja zabune sa „država“."
+    },
+    {
+      "id": "4HZKjht3X1",
+      "severity": "minor",
+      "type": "nedosljednost",
+      "description": "„Geološkom zavodu SAD (USGS)“ je nedeklinirano, dok se drugdje u batchu piše „SAD-a“ („Kancelarije SAD-a“, „politike SAD-a“, „Agencija SAD-a“).",
+      "suggestion": "„Geološkom zavodu SAD-a (USGS)“."
+    },
+    {
+      "id": "WvTMVTucHY",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "„zemljište i vode ... koji su ... u vlasništvu savezne vlade“ (izvor: „the lands and waters ... that are owned by“). Zbir srednjeg i ženskog roda traži „koja“.",
+      "suggestion": "„zemljište i vode ... koja su, u trenutku osnivanja rezervata, u vlasništvu ...“."
+    },
+    {
+      "id": "q1GNLLKv0M",
+      "severity": "minor",
+      "type": "dodavanje (neutralno)",
+      "description": "„najviše rangiranog člana manjine“ za „ranking member“. Dodato „manjine“ kojeg nema u izvoru. Značenje je tačno (ranking member = najstariji član manjine), ali je to tumačenje, a ne doslovan prevod. „Predsjednika“ za „chairman“ je u kontekstu odbora prihvatljivo.",
+      "suggestion": "Dopustivo. Ako se želi doslovnost: „najviše rangiranog člana“ ili „predsjedavajućeg ili najvišeg člana odbora iz redova manjine“, uz dosljednost u batchu."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 17 _id-ova je isti i u istom redoslijedu, tokeni i brojevi se poklapaju, broj novih redova i struktura (prvi red = naziv, odjeljci sa listama) su očuvani, odnos riječi je u dozvoljenom rasponu, a nema ekavskih ni hrvatskih oblika. Glosar (predlog zakona, budžetska sredstva, fiskalna godina, GAO/agencije sa skraćenicama, „Ovim predlogom zakona...“, „shall“ u normativnom prezentu) primijenjen je dosljedno. Registar je prirodan i primjeren obrazloženju predloga zakona. Preostali nalazi su sitni (rodna slaganja, nekoliko terminoloških i nedosljednih rješenja, dodata glosa „State Department“) i ne mijenjaju značenje.",
+  "automatic_checks": {
+    "ids_match": true,
+    "order_match": true,
+    "token_mismatches": [],
+    "number_mismatches": [],
+    "newline_mismatches": [],
+    "word_ratio_out_of_range": [],
+    "ekavian_forms": [],
+    "croatian_forms": []
+  }
+}

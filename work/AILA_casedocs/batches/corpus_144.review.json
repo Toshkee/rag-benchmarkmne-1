@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "izmijenjen sadržaj (OCR artefakt u izvoru)",
+      "description": "Pasus 22: izvor kaže \"enemy candidate he had supported during the past many years for the Chairmanship\" (vjerovatno OCR greška za \"every\"), a prevod ima \"svaki kandidat kojeg je tokom proteklih mnogo godina podržavao\". Prevodilac je tiho 'popravio' izvor; riječ \"enemy\" nije prevedena.",
+      "suggestion": "Vjernije: \"da je kandidat protivnik kojeg je tokom proteklih mnogo godina podržavao za mjesto predsjednika Odbora bio uspješan\" (ili zadržati prevod uz odluku da se OCR greške ne čuvaju, ali to dosljedno primijeniti u cijelom korpusu)."
+    },
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "terminološka dosljednost (okrivljeni/optuženi)",
+      "description": "Pasus 22: \"Naveo je da je okrivljen na zahtjev lica Dharam Pal\" (izvor \"he was implicated\"), dok je u istom dokumentu za iste lica dosljedno \"optuženi\" (pasusi 1, 7, 21) i \"lažno okrivljeni\" (pasus 20). Glosar traži isti termin za isto lice unutar opisa predmeta.",
+      "suggestion": "Za \"implicated\" koristiti jedan oblik kroz cijeli dokument, npr. \"da je lažno optužen na inicijativu lica Dharam Pal\" i \"lažno optuženi\" u pasusu 20; \"at the instance of\" → \"na inicijativu\" umjesto \"na zahtjev\" (pasusi 20 i 22)."
+    },
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "terminologija (FIR)",
+      "description": "Pasus 9: \"krivičnu prijavu (First Information Report)\" i \"krivične prijave\" — glosar propisuje \"krivična prijava (FIR)\"; izvor ovdje ima \"First Information Report\" pa je gloss dozvoljen, ali se razvija u zagradi umjesto skraćenice; takođe \"head constable\" → \"viši policajac (head constable)\" je slobodna interpretacija.",
+      "suggestion": "\"krivičnu prijavu (First Information Report, FIR)\" pri prvom pomenu; \"head constable\" → \"starješina-policajac (head constable)\" ili ostaviti samo \"policajac (head constable)\"."
+    },
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "pogrešan/nepotpun termin",
+      "description": "Pasus 9: \"Rajendra Kumar Misra je šurak lica Radhey Shyam Sharma\" — izvor \"brother-in-law\" ne precizira vrstu srodstva; \"šurak\" sužava značenje (brat supruge). Pasus 7: \"cement road\" je preveden \"betonski put\" (cement ≠ beton). Pasus 14: \"Niwar of a cot\" → \"niwar trake kreveta\" miješa transkripciju i prevod.",
+      "suggestion": "\"brother-in-law\" → \"svak\" (neutralno); \"cement road\" → \"cementni put\"; \"inside the Niwar of a cot\" → \"iz unutrašnjosti niwar pletiva ležaja (cot)\" ili \"iz niwara na krevetu\"."
+    },
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "stil/registar",
+      "description": "Pasus 6: \"ubijedio obje strane da se raziđu\" (izvor \"persuaded both the parties to disperse\") — kolokvijalno za sudski registar; pasus 15: \"predao je sudu sudskog magistrata\" nezgrapno (izvor \"in the court of the Judicial Magistrate\"); pasus 14: zarez prije \"da su bila umiješana\" nepravilan.",
+      "suggestion": "\"nagovorio obje strane da se raziđu\"; \"predao je u sudu sudskog magistrata\"; ukloniti zarez: \"informacije koju je dao izvjesni Abdul Rahman da su bila umiješana\"."
+    },
+    {
+      "id": "RCQ5WMO5AH#0",
+      "severity": "minor",
+      "type": "terminologija (Superintendent of Police / Civil Hospital)",
+      "description": "Pasus 13: \"Superintendent of Police\" → \"načelnik policije\" i pasus 12 \"Civil Hospital\" → \"Civilna bolnica\" nisu pokriveni glosarom; za \"Superintendent of Police\" uobičajeniji je \"nadzornik policije\" (u pasusu 9 postoji i \"Deputy Inspector General\" → \"zamjenik generalnog inspektora\", pa je hijerarhija zbunjujuća).",
+      "suggestion": "\"Superintendent of Police\" → \"nadzornik policije (Superintendent of Police)\" pri prvom pomenu, dosljedno u pasusu 13; \"Civil Hospital\" → \"Građanska bolnica (Civil Hospital)\" ili zadržati uz gloss."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: automatska provjera potvrdila je isti _id, isti broj novih redova (32), identičan skup i broj svih brojeva, odnos riječi 0,91 (samo kratki red 6 izvan raspona 0,75–1,35 zbog zaglavlja), bez ekavskih i hrvatskih oblika; svih 26 pasusa i izdvojeni red prisutni su bez izostavljanja. Registar je ujednačen sudski ijekavski (glosar poštovan: žalilac, Visoki sud, Sesijski sud, uvaženi sudija, član/u vezi sa članom, izjava na samrti), a nađene su samo manje terminološke i stilske nedosljednosti (okrivljeni/optuženi, 'enemy candidate', šurak, bubanj/niwar)."
+}

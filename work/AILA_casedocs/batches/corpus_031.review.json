@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "significanca/negacija",
+      "description": "Red 12 (para 5): izvor 'Inconsistency in depositions of PWs, it was submitted, had also not been taken into consideration by the courts below' -> prevod 'da ni nižestepeni sudovi nijesu uzeli u obzir nedosljednosti'. Veznik 'ni' unosi značenje 'čak ni' (naglašavanje) umjesto 'takođe'; blago pomjera smisao.",
+      "suggestion": "'Istaknuto je da nižestepeni sudovi takođe nijesu uzeli u obzir nedosljednosti u iskazima svjedoka optužbe.'"
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Red 12: 'The Appellants ... have been implicated because of the enmity' -> 'žalioci okrivljeni zbog neprijateljstva'. 'Okrivljeni' je procesni status (accused), a ne 'lažno umiješan'; kasnije (red 16) 'falsely implicated' je 'lažno okrivio'.",
+      "suggestion": "'Tvrdilo se da su žalioci lažno optuženi/umiješani zbog neprijateljstva.'"
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Red 10: 'learned senior counsel' -> 'uvaženi viši zastupnik'; glosar daje 'uvaženi zastupnik'; 'viši' je neprirodan prevod za 'senior'. Takođe 'G. P.S. Mishra' (velikim slovom na početku rečenice) se može pročitati kao inicijal.",
+      "suggestion": "'Gospodin P.S. Mishra, uvaženi stariji zastupnik ...' ili 'Uvaženi zastupnik, g. P.S. Mishra, ...'; dosljedno 'g. Mishra' kasnije."
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Red 14: 'The injuries ... were homicidal in nature' -> 'ubilačke prirode'; 'ubilačke' je nenormativno/neprirodno u pravnom registru.",
+      "suggestion": "'bile su ubilačke prirode' -> 'bile su takve prirode da su izazvale smrt (ubistvene prirode)' ili 'povrede nanesene ... bile su ubistvene prirode'."
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "Nedosljedan prevod 'non-examination / not examined': red 11 'Neispitivanje' (izvor 'Non-examination'), red 17 'nesaslušanje', redovi 12/41/47/49 'nijesu saslušani'; 'examined' (svjedok) je svuda 'saslušan'.",
+      "suggestion": "Ujednačiti na 'nesaslušanje' / 'nijesu saslušani' (red 11: 'Nesaslušanje nezavisnih i nezainteresovanih svjedoka')."
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "dodavanje/odstupanje",
+      "description": "Red 29: '... at a distance of 2-4-10 Laggi from the Basti' -> 'od naselja (Basti)'; dodato 'naselja' kao objašnjenje uz lokalni izraz koje u izvoru ne postoji. Slično red 6: 'disappearance of his dead body' -> 'prikrivanja njegovog mrtvog tijela' (uže od 'nestanka/uklanjanja').",
+      "suggestion": "Red 29: 'od Basti'; red 6: 'nestanka njegovog mrtvog tijela' ili 'uklanjanja njegovog mrtvog tijela'."
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "stil/dosljednost",
+      "description": "Skraćenice svjedoka: 'PW 1, 2, 3 i 5' i 'PW-3' u tekstu, ali u redu 12 izvor 'PWs' (inconsistency in depositions of PWs) preveden raširenim 'svjedoka optužbe' (nema veze sa tokenima, ali je različit pristup). Takođe 'leš' (red 21) naspram 'mrtvo tijelo' svuda drugdje.",
+      "suggestion": "Ujednačiti: 'iskazima svjedoka PW' ili ostaviti 'PW'; 'leš' -> 'mrtvo tijelo'."
+    },
+    {
+      "id": "50OXirZRiR#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Red 11: 'the Appellants suffered grave prejudice' -> 'pretrpjeli tešku štetu'; 'prejudice' je ovdje povreda prava odbrane/nepovoljan položaj, a ne materijalna 'šteta'. Red 11: 'deliberately been withheld' -> 'uskratila' (bolje 'prećutala/nije izvela').",
+      "suggestion": "'usljed čega su žalioci pretrpjeli ozbiljnu povredu svojih prava (odbrane)'; 'namjerno nije izvela'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj redova (50), sve rečenice i pasusi (1-25) prisutni, citati sudske prakse, brojevi i datumi doslovni, nema ekavskih/hrvatskih oblika, odnos riječi 0.87. Glosar je primijenjen dosljedno (žalilac, država Bihar/Pandžab, Visoki sud, sudija Sesijskog suda, optužni akt, nijesu). Registar je prirodan obrazloženju presude; preostale su samo stilske i manje terminološke primjedbe."
+}

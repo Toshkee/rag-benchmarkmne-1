@@ -1,0 +1,90 @@
+{
+ "batch": "corpus_146",
+ "checks": {
+  "ids_match": true,
+  "items": 1,
+  "newline_count_src_tgt": [
+   29,
+   29
+  ],
+  "word_ratio": 0.9,
+  "token_diff": {},
+  "number_diff": {},
+  "ekavian_or_croatian_forms": []
+ },
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "RCQ5WMO5AH#2::m1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Paragraf 76: 'is set aside' preveden 'stavljaju se van snage'; dio 9 stila propisuje 'ukinuta' za set aside.",
+   "suggestion": "'osuđujuća presuda i kazna ... se ukidaju'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m2",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Dodavanje riječi 'lica' ispred imena koje u izvoru ne stoji: 'prisustvo lica Jhilmili i Ram Prakash' (51), 'izjave lica Jhilmili, Ram Prakash i Aryendra' (57), 'učešća lica Nathoo' (71), 'lica Nathoo' (73). Izvor: 'presence of Jhilmili and Ram Prakash', 'participation of Nathoo'.",
+   "suggestion": "Izostaviti 'lica' ili ga zadržati samo kad je potrebno zbog deklinacije stranih imena."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m3",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Umetnuti engleski izrazi u zagradama koji u izvoru ne postoje kao glosa: '(Sub-Divisional Magistrate)', '(Civil Surgeon)', '(case diary)', '(king maker)', '(reference)', '(Inquest Report)', '(U.P. Police Regulations)'. Stilski vodič zabranjuje dodavanje objašnjenja; glose su predviđene samo za writ/decree/Division Bench i sl.",
+   "suggestion": "Ukloniti glose u zagradama; npr. 'magistrat podokruga', 'civilni hirurg', 'dnevnik predmeta', 'zapisnik o uviđaju'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m4",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Paragraph 5 of the Notes of Inspection' -> 'Tačka 5 Zabilješki o uviđaju': paragraph je pasus, ne tačka.",
+   "suggestion": "'Pasus 5 Zabilješki o uviđaju'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Medical Officer of the District Hospital' -> 'ljekar Okružne bolnice' (68): gubi se naziv funkcije.",
+   "suggestion": "'medicinski službenik Okružne bolnice'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m6",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'the bullet, Ex. 25' -> 'metak' (72): u istoj rečenici su 'čaure' (empties); bullet je zrno/projektil, a 'metak' je čitav metak.",
+   "suggestion": "'zrno/projektil, Ex. 25'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'submission of the learned counsel' -> 'podnesak uvaženog zastupnika' (77): 'podnesak' je pisani akt, a ovdje je riječ o iznesenom navodu.",
+   "suggestion": "'navod/tvrdnju uvaženog zastupnika'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m8",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'The Civil services' -> 'Državni službenici' (67); 'commotion' -> 'gužva' (53) je razgovorno; 'Baithak' (53, 'u svojoj Baithak') nedeklinirano.",
+   "suggestion": "'Državna služba nema platformu...'; 'nered/komešanje'; 'u svojoj Baithak (prostoriji za sjedenje)' ili 'u Baithaku'."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m9",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'accused' (65) -> 'teretio optužene': u fazi istrage prije optužnice glosar traži 'okrivljeni'; dosljednost sa 'ostali optuženi' (79).",
+   "suggestion": "'teretio okrivljene' u par. 65, ili dosljedno 'optuženi' u presudi."
+  },
+  {
+   "id": "RCQ5WMO5AH#2::m10",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'order of acquittal' -> 'oslobađajuće presude' (79) i 'Sub-Divisional Magistrate' -> 'magistrat podokruga'; 'Investigating Officer' dosljedno 'službenik koji vodi istragu' (OK). Mala odstupanja od doslovnosti za 'order'.",
+   "suggestion": "'rješenje o oslobađanju' ili zadržati 'oslobađajuća presuda' dosljedno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 30 pasusa (51-80) je prisutno, broj novih redova (29), tokeni, brojevi, datumi i citati se podudaraju, nema ekavizama ni kroatizama. Registar je pravilan registar obrazloženja presude (ijekavica, 'nijesu', 'službenik koji vodi istragu', 'jemstvo') uz sitna terminološka odstupanja i umetnute engleske glose."
+}

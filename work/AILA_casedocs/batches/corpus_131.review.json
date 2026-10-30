@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "S87XwXaHCP#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Red 8 (pasus 3): 'Superintendent of Central Excise, Manjeri Range and party' preveden kao 'nadzornik centralne akcize, okrug Manjeri, sa ekipom'; 'Range' je upravna jedinica carine, ne 'okrug'.",
+   "suggestion": "'nadzornik centralne akcize, reon Manjeri, sa ekipom' (ili zadržati 'Manjeri Range')."
+  },
+  {
+   "id": "S87XwXaHCP#0",
+   "severity": "minor",
+   "type": "izostavljanje priloga",
+   "description": "Red 30 (pasus 14): 'but miserably failed in explaining the delay' -> 'ali da nije uspio da objasni kašnjenje'; priložna oznaka 'miserably' je izostavljena. Takođe 'laxity' -> 'neažurnost' (slabije od 'nemar/nehat').",
+   "suggestion": "'ali da potpuno (jadno) nije uspio da objasni kašnjenje'; 'laxity' -> 'nemarnost'."
+  },
+  {
+   "id": "S87XwXaHCP#0",
+   "severity": "minor",
+   "type": "odstupanje od glosara",
+   "description": "Red 26 (citat uz pasus 11): 'mechanically struck down' -> 'mehanički poništeno'; glosar za quash/set aside predviđa 'ukinuto'.",
+   "suggestion": "'mora mehanički biti ukinuto' (rješenje ... mora mehanički biti ukinuto)."
+  },
+  {
+   "id": "S87XwXaHCP#0",
+   "severity": "minor",
+   "type": "preciznost značenja",
+   "description": "Red 31 (pasus 15): 'vitiating the validity of the order of detention' -> 'čime je narušena valjanost rješenja'; 'vitiate' znači učiniti nevaljanim/ništavim, 'narušena' je preslabo.",
+   "suggestion": "'čime je rješenje o pritvoru obeskrijepljeno (učinjeno nevaljanim)' ili 'zbog čega je rješenje o pritvoru nevaljano'."
+  },
+  {
+   "id": "S87XwXaHCP#0",
+   "severity": "minor",
+   "type": "stil/vrijeme glagola",
+   "description": "Red 15 (pasus 6): 'are sought to be answered by the first Respondent in his counter' -> 'prva protivna strana nastoji da odgovori u svom odgovoru'; prezent i tautologija 'odgovori u odgovoru'; takođe red 7 'declaration' -> 'izjavu' je neodređeno.",
+   "suggestion": "'Na ova dva navoda prva protivna strana je pokušala da odgovori u svom odgovoru na žalbu, navodeći ...'; 'declaration' -> 'izjava/proglas prema članu 9(1)'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je isti (S87XwXaHCP#0), broj redova je 32/32, svi brojevi i tokeni (Rs., datumi, citati SCC/SCR/Indlaw, članovi) se podudaraju tačno, odnos riječi je 0.89, nema ekavizama ni hrvatizama, nijedan pasus ni rečenica nijesu izostavljeni. Registar je pravilan sudski (ijekavica, glosar dosljedno primijenjen: žalilac, protivna strana, uvaženi zastupnik, osporeno rješenje, ustavna tužba (writ petition), poziv za izjašnjenje (show cause notice)); nađena su samo manja stilska i terminološka odstupanja."
+}

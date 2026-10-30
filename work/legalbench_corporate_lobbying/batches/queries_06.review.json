@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00108",
+   "severity": "minor",
+   "type": "style",
+   "description": "Nedostaje veznik prije posljednje koordinirane radnje: „... od njenog uticaja, industrija Sjedinjenih Država štiti od nelojalne konkurencije“ (izvor: „and to protect United States industry from unfair competition“). Zarez bez „i“ čini da „industrija“ djeluje kao subjekat; uz to je mješavina množine („štite“) i jednine („štiti“).",
+   "suggestion": "„... od njenog uticaja, i da se industrija Sjedinjenih Država štiti od nelojalne konkurencije Narodne Republike Kine, i uređuju druga pitanja.“ ili „... štite od izvoza ... ili od njenog uticaja i štiti industrija Sjedinjenih Država od nelojalne konkurencije ...“."
+  },
+  {
+   "id": "00105",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "„Kancelarija za borbu protiv nasilja nad ženama“ dodaje „borbu protiv“; izvor je „Office on Violence Against Women“. Naziv nije u glosaru, pa treba doslovniji oblik, a isti naziv mora ostati dosljedan u korpusu.",
+   "suggestion": "„Kancelarija za nasilje nad ženama“ (ili „Kancelarija za pitanja nasilja nad ženama“), uskladiti sa korpusom."
+  },
+  {
+   "id": "00106",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "„Zakon o programu Head Start“ dodaje riječ „programu“ koje nema u izvoru („the Head Start Act“); „blok-grantu za brigu o djeci i razvoj“ je dvosmisleno („Child Care and Development Block Grant“).",
+   "suggestion": "„Zakon o Head Startu“ (ili „Zakon Head Start“) i „Zakon o blok-grantu za brigu o djeci i njihov razvoj iz 1990. godine“."
+  },
+  {
+   "id": "00115",
+   "severity": "minor",
+   "type": "fidelity",
+   "description": "Dodati su navodnici „Medicare za sve“ koji ne postoje u izvoru („Medicare-for-all national health insurance program“).",
+   "suggestion": "Ukloniti navodnike ili zadržati dosljedno sa korpusom: „... program zdravstvenog osiguranja Medicare za sve.“"
+  },
+  {
+   "id": "00110",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "„hours of service requirements“ preneseno kao „zahtjevima u pogledu radnog vremena“ — termin je propisani režim vremena vožnje i odmora vozača; „u pogledu ... u vezi sa“ je nespretno nagomilavanje prijedloga.",
+   "suggestion": "„Kojim se ministru saobraćaja nalaže da izmijeni odredbe o zahtjevima za radno vrijeme vozača u vezi sa prevozom određenih živih životinja i uređuju druga pitanja.“ (provjeriti usklađenost sa korpusom 00110)."
+  },
+  {
+   "id": "00109",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "„family detention“ → „pritvora porodica“; „pritvor“ je u glosaru za remand, a ovdje je riječ o administrativnom zadržavanju; „maloljetnim strancima bez pratnje“ je prihvatljivo ali treba dosljednost sa korpusom („unaccompanied alien children“).",
+   "suggestion": "„standardi zadržavanja porodica“ ili ostaviti „pritvora“ ako korpus tako koristi; uskladiti „strancima“/„djeci stranih državljana“ sa korpusom."
+  }
+ ],
+ "overall_quality": "Svih 20 upita je potpuno i vjerno preneseno: ID-evi se poklapaju, brojevi, datumi i tokeni su identični, nema ekavizama ni hrvatskizama, odnos dužine u granicama. Obrasci „Predlog zakona kojim se...“ (za „A bill“) i „Kojim se...“ (za „To ...“) primijenjeni su dosljedno, jedna rečenica, bez sadržaja iz polja context; glosar (ministar X, Ministarstvo X, budžetska sredstva, fiskalna godina) poštovan. Registar je prirodan i pravnički; preostale primjedbe su sitne stilske i terminološke."
+}

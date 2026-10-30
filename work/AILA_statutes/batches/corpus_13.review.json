@@ -1,0 +1,65 @@
+{
+ "batch": "corpus_13",
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "ekavizam",
+   "description": "'celishodno' ('necessary or expedient' -> 'potrebno ili celishodno') je ekavski oblik; u ijekavici je 'cjelishodno' (ili 'svrsishodno').",
+   "suggestion": "'potrebno ili cjelishodno'"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Stav (1): 'radi obezbjeđivanja bilo koje osnovne robe za odbranu Indije ili efikasno vođenje vojnih operacija' (izvor: 'or for securing any essential commodity for the defence of India or the efficient conduct of military operations') - drugi član je gramatički neusklađen sa 'radi obezbjeđivanja'.",
+   "suggestion": "'... za odbranu Indije ili radi efikasnog vođenja vojnih operacija'"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Stav (6): 'podnosi se oba doma Parlamenta' (izvor: 'laid before both Houses of Parliament') - pogrešan padež.",
+   "suggestion": "'podnosi se objema domovima Parlamenta, što je prije moguće, nakon njenog donošenja'"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Stav (5)(b)(ii): 'koji kao svjedoci potpisuju dva lica koja žive u susjedstvu' - izvor ('witnessed by two persons living in the neighbourhood') ne govori o potpisivanju; 'potpisuju' je dodato.",
+   "suggestion": "'koji svjedoče dva lica koja žive u susjedstvu' (ili 'u prisustvu dva lica ...')"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav (3C)(c): 'carinu ili porez ... plaćene ili koje treba platiti na to' za 'the duty or tax ... paid or payable thereon' - 'carina' sužava 'duty' (ovdje akciza/dažbina) i 'na to' je nezgrapno.",
+   "suggestion": "'dažbinu ili porez, ako ih ima, plaćene ili koje treba platiti na njega'"
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "'Government' se prevodi kao 'Centralna vlada'/'vlada države' (malo slovo), a u stavu (3D) kao 'Vlada' (veliko slovo) ('uputstvom koje izda Vlada'); glosar traži 'Vlada'. Takođe 'order' je preveden 'naredba' (glosar za 'order' nudi 'rješenje'; ovdje je izvršni akt pa je 'naredba' prihvatljiva, ali treba dosljedno).",
+   "suggestion": "Ujednačiti pisanje: 'Centralna vlada' / 'vlada države' / 'Vlada' kroz cijeli tekst; zadržati 'naredba' dosljedno."
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Fusnota: 'Brisane sljedeće riječi „ili pamučni tekstil“' (izvor: 'Omitted the following \"or cotton textiles\"') - nesklad roda; 'ili pamučni tekstil' nije u skladu sa originalom 'or cotton textiles' samo u padežu, ali glagolski oblik 'Brisane' ne slaže se sa 'riječi' u stilu ostalih fusnota ('Umetnuto', 'Zamijenjeno').",
+   "suggestion": "'Izostavljene su sljedeće riječi „ili pamučni tekstil“ ...' ili 'Izostavljeno: ...'; ujednačiti formu datuma ('12. 02. 2007.' vs '12. 2. 2007.')."
+  },
+  {
+   "id": "elKPoh3pKM",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav (1): 'supplies' u 'maintaining or increasing supplies' preveden kao 'zaliha' (stock), dok se 'supply' drugdje prevodi 'snabdijevanje'; blago pomjeranje značenja.",
+   "suggestion": "'radi održavanja ili povećanja snabdjevenosti/ponude bilo koje osnovne robe'"
+  }
+ ],
+ "auto_checks": "Isti skup _id (1/1); Naslov:/Opis: prisutni; odnos riječi 0.92; svi brojevi i tokeni (P/A/S/W/Rs.) identični po broju pojavljivanja; ekavizam: 'celishodno'; hrvatizama nema.",
+ "overall_quality": "Prevod je potpun i vjeran: sve odredbe, uslovi, brojevi, datumi i fusnote su prenijeti bez izostavljanja, dodavanja ili izmjene značenja, uključujući izmjene za Bihar, Maharaštru, Orisu i Utar Pradeš. Registar je pravnički i dosljedan glosaru (član/stav/tačka, Službeni list, izuzetno). Ostali su samo sitni jezički propusti (ekavizam 'celishodno', padež u stavu (6), pojedine formulacije)."
+}

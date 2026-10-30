@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "00098",
+   "severity": "minor",
+   "type": "style",
+   "description": "Nezgrabna formulacija \"obezbjeđuje ispunjavanje uslova za savezni Pell grant studentima DREAMer\" (izvor: \"to provide Federal Pell Grant eligibility to DREAMer students\"); \"Pell grant\" malim slovom, a riječ je o nazivu programa.",
+   "suggestion": "\"omogućava studentima DREAMer ispunjavanje uslova za savezni Pell Grant\""
+  },
+  {
+   "id": "00093",
+   "severity": "minor",
+   "type": "style",
+   "description": "Doslovan prevod \"pristup Amerikanaca glasačkoj kutiji\" (izvor: \"access to the ballot box\") zvuči neprirodno u pravnom registru.",
+   "suggestion": "\"poboljšava pristup Amerikanaca glasanju\" (ili zadržati doslovno ako se želi vjernost metafori)"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: sva 20 _id-ova se poklapaju, nema izostavljenja, dodavanja ni promjena značenja, a automatska provjera (tokeni, brojevi, odnos riječi, ekavizmi, hrvatizmi) nije dala nijedan nalaz. Obrasci \"Predlog zakona kojim se...\" odnosno \"Kojim se...\" dosljedno su primijenjeni, svaki upit je jedna rečenica bez prenosa sadržaja iz polja context, a glosar iz dijela 8 poštovan. Registar je prirodan i pravnički, uz dvije manje stilske primjedbe."
+}

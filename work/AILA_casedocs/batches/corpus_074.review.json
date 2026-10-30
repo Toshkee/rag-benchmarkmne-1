@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "pravopis/leksika",
+      "description": "Neispravan oblik 'odrično' u 'Ako žalbeni sud na to pitanje odgovori odrično' (izvor: 'answers the above question in the negative').",
+      "suggestion": "'odgovori odrečno' (ili 'negativno')."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "gramatika/registar",
+      "description": "'u oslobađajuću presudu se ne dira' (izvor: 'the order of acquittal is not to be disturbed') je gramatički nezgrapno; slično 'neće intervenisati u oslobađajuću presudu' (više mjesta) – 'intervenisati u' je kalk.",
+      "suggestion": "'oslobađajuća presuda se ne dira' / 'ne treba je mijenjati'; 'neće mijenjati oslobađajuću presudu' ili 'neće se miješati u oslobađajuću presudu'."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "stil",
+      "description": "'Visoki sud ne bi bio opravdan da interveniše' (izvor: 'would not be justified to interfere') – nepravilna konstrukcija; 'bi bio opravdan' znači da je sud opravdan, a ne da ima opravdanje.",
+      "suggestion": "'Visoki sud ne bi imao opravdanja da se umiješa u oslobađajuću presudu'."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'reasonable and plausible' prevedeno kao 'razuman i uvjerljiv'; 'possible and plausible' kao 'moguć i uvjerljiv'; 'substantial and compelling reasons' kao 'bitni i uvjerljivi razlozi' – 'uvjerljiv' se koristi za dva različita izvorna pojma (plausible, compelling).",
+      "suggestion": "plausible → 'vjerodostojan/prihvatljiv' (dosljedno); 'compelling' → 'neodoljivi/ubjedljivi razlozi' ili 'bitni i neodložni razlozi'."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "preciznost",
+      "description": "'who could have unfolded the genesis of the prosecution case' → 'koja su mogla da rasvijetle nastanak događaja iz optužbe' – blago parafrazirano ('genesis of the prosecution case' = nastanak/porijeklo optužnog slučaja). Takođe 'Nagraj' nije sklonjeno ('dobitniku izvlačenja, Nagraj') – prihvatljivo, ali neuobičajeno.",
+      "suggestion": "'koja su mogla da rasvijetle porijeklo (genezu) slučaja optužbe'; 'dobitniku izvlačenja Nagraju'."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Izvorno 'setting in judgment over an acquittal' prevedeno 'Prilikom odlučivanja o oslobađajućoj presudi' – gubi se značenje preispitivanja (sitting in judgment over); također 'Sud je naveo' (izvor 'the Court stated') u Alarakha citatu je ispravno, ali 'ovaj sud'/'Sud' se mijenja bez osnove ('this Court' vs 'the Court').",
+      "suggestion": "'Prilikom preispitivanja oslobađajuće presude'; zadržati razliku 'Sud' / 'ovaj sud' kao u izvoru."
+    },
+    {
+      "id": "TtLFxJpRa5#2",
+      "severity": "minor",
+      "type": "format",
+      "description": "Jednostruki ASCII navodnici u tački (3) ('bitni i uvjerljivi razlozi') i '...' dok su glavni navodnici „...“; u izvoru su jednostruki pa je to dosljedno, ali tačka (3) završava tačkom, a (1) i (2) tačkom-zarezom kao u izvoru; (4) i (3) zadržani – bez odstupanja. Takođe izvorna greška 'inn decree' tiho ispravljena u 'nevinosti' (ispravno u smislu značenja).",
+      "suggestion": "Bez potrebe za izmjenom; samo konstatacija."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (22), svi citati (SCC/AIR/Indlaw), brojevi pasusa i članova (378, 1973, 8, (1)-(5)) doslovno očuvani, nema izostavljenih ni dodatih rečenica, strane dosljedno označene (žalilac/optuženi, Visoki sud, prvostepeni sud). Registar je uglavnom prirodan pravnički ijekavski (nijesu, ljekar, časova), bez ekavizama i hrvatizama; postoje samo manje stilske i leksičke nezgrapnosti (odrično, 'intervenisati u presudu', 'uvjerljiv' za plausible)."
+}

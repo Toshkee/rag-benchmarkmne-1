@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "0pKGytvukF#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"record of crime\" preveden kao \"evidencija kriminala\" (npr. \"njihova evidencija kriminala najveća u državi\"); \"evidencija\" znači registar/popis, a ne kriminalni dosije ili učinak.",
+      "suggestion": "Zamijeniti sa \"kriminalni dosije\" / \"kriminalni dosije je najveći\" (ili \"broj počinjenih krivičnih djela\"), dosljedno na sva četiri mjesta."
+    },
+    {
+      "id": "0pKGytvukF#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Nezgrapna konstrukcija: \"u kojima je primjedbe ranije označene kao (a), (b) i (c) trebalo brisati\" (izvor: \"the remarks ... should have been expunged\"); \"expunged\" i \"stand expunged\" prevedeno jednostavno \"brisati/brišu se\".",
+      "suggestion": "\"... u kojima je trebalo primijeniti inherentnu nadležnost suda, a primjedbe ranije označene kao (a), (b) i (c) trebalo je izbrisati\"; \"nalažemo da navedene primjedbe budu izbrisane iz rješenja uvaženog sudije\"."
+    },
+    {
+      "id": "0pKGytvukF#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "\"Ni jedno ni drugo ne nalazimo u ovom predmetu\" i \"poništavaju sopstvenu svrhu\" (\"defeat their own purpose\") — doslovno i pomalo neprirodno za pravni registar.",
+      "suggestion": "\"Nijedno od toga ne nalazimo u ovom predmetu\"; \"obesmišljavaju sopstvenu svrhu\" / \"ne ostvaruju svoju svrhu\"."
+    },
+    {
+      "id": "3UDqpNVGMr#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"Police Constable\" preveden kao \"policijski pozornik\" (\"postavljen za policijskog pozornika\"); \"pozornik\" je hrvatski oblik, neuobičajen u propisima Crne Gore.",
+      "suggestion": "\"policajac\" / \"policijski službenik\", dosljedno na sva tri mjesta u stavu 2."
+    },
+    {
+      "id": "3UDqpNVGMr#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "U citatu (stavovi 7-8) \"prisoner\" je preveden \"zatvorenik\" (\"u korist zatvorenika\", \"istom zatvoreniku\"), dok je u istom tekstu \"accused\" → \"optuženi\"; u kontekstu citata \"prisoner\" označava optuženog, pa je nedosljedno i može zbuniti.",
+      "suggestion": "Zamijeniti sa \"optuženi\" (ili \"okrivljeni\"), ili ostaviti \"zatvorenik\" samo ako se želi doslovnost; u svakom slučaju dosljedno."
+    },
+    {
+      "id": "3UDqpNVGMr#0",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Naziv predmeta \"Sambasivam v. Public Prosecutor, Federation of Malaya\" preveden samo djelimično (\"Sambasivam protiv Public, Prosecutor, Federation of Malaya\"); ostalo je engleski, dok su drugi nazivi prevedeni (\"protiv države Pandžab\"). Takođe se \"uvaženog sudije pojedinca\" (learned Single Judge) i \"issue estoppel\" daju uz inline gloss samo pri prvom pomenu.",
+      "suggestion": "Naziv ostaviti u cjelini u izvornom obliku (ispravljajući zarez) ili dosljedno prevesti \"javni tužilac\"; ostalo prihvatljivo."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: nijedan pasus ni rečenica nijesu izostavljeni ili dodati, brojevi, citati (AIR, SCR, C.L.R., A.C., Indlaw), datumi i broj novih redova se podudaraju sa izvorom, a skup _id-ova je isti. Strane su dosljedno označene (podnosilac zahtjeva, protivna strana, žalilac), glosar je poštovan, ijekavica dosljedna bez ekavizama i hrvatizama (osim 'pozornik'), a registar je prirodan pravnički. Nađene su samo manje stilske i terminološke primjedbe."
+}

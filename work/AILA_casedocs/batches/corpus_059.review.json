@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "dodat sadržaj (gloss)",
+      "description": "Para 14: izvor \"hold a \"lien\" on the post\" preveden je kao \"pravo na „lien“ (pravo zadržavanja)\" - dodato je objašnjenje koje u izvoru ne postoji (stilski vodič zabranjuje dodavanje objašnjenja). Slično para 15: \"master and servant\" -> \"odnosu poslodavca i službenika (master and servant)\" i para 13: \"Osnovna pravila (Fundamental Rules)\" - zadržavanje engleskog izraza u zagradi je dozvoljeno kao gloss, ali \"pravo zadržavanja\" je prevodilačka dopuna.",
+      "suggestion": "Ukloniti \"(pravo zadržavanja)\": \"stiče pravo na „lien“ na tom radnom mjestu\"."
+    },
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "terminologija (kapitalizacija)",
+      "description": "Para 17: \"Judges of the different High Courts ... the same High Court\" -> \"visokih sudova ... istog visokog suda\" (malo slovo), dok glosar propisuje \"Visoki sud\".",
+      "suggestion": "\"sudija različitih Visokih sudova ... istog Visokog suda\"."
+    },
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "terminologija (kapitalizacija)",
+      "description": "Para 18/19: \"the President or the Governor\" -> \"Predsjednika ili guvernera\" - nedosljedna kapitalizacija (Predsjednik velikim, guverner malim slovom); funkcija iz Ustava treba isti tretman.",
+      "suggestion": "\"Predsjednika ili Guvernera\"."
+    },
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "registar / jasnoća",
+      "description": "Para 18: \"do not hold their respective offices during the pleasure of the President\" -> \"ne vrše svoje dužnosti dok je to po volji Predsjednika ili guvernera\" - nezgrapna konstrukcija sa dvostrukim poricanjem; \"hold office\" je preveden kao \"vrše dužnosti\", a u istom stavu \"hold\" kao \"zauzimati\" (para 19: \"zauzimaju radno mjesto\").",
+      "suggestion": "\"ne obavljaju svoje funkcije po volji Predsjednika ili guvernera, u zavisnosti od slučaja\"."
+    },
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "Para 21: \"Civil Service Regulations of 1902\" -> \"Pravilnik o civilnoj službi\", a \"1902 Rules\" -> \"Pravila iz 1902. godine\"; \"Rule 418\" -> \"Pravilo 418\" - pravilnik/pravila su pomiješani za isti akt.",
+      "suggestion": "Ujednačiti: \"(u daljem tekstu: Pravilnik iz 1902. godine)\" i \"Taj pravilnik iz 1902. godine ...\" (ili dosljedno \"Pravila\" u oba slučaja)."
+    },
+    {
+      "id": "YqWg21nYCs#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Para 16: \"The position may, therefore, be summarised\" -> \"Stanje se, stoga, može sažeti\" - \"stanje\" je preslikano doslovno; u pravnom registru prirodnije je \"stav\" / \"pravni položaj\". Takođe para 19 \"po našem mišljenju\" dvaput u jednoj rečenici (izvor: \"In our judgment ... in our view\" - OK) ali \"navodi se\" konstrukcije u para 20 (\"Tvrdi se ... i iznosi se\") su stilski teške.",
+      "suggestion": "\"Pravni položaj se, stoga, može sažeti na sljedeći način:\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id (YqWg21nYCs#1), isti broj novih redova (8) i pasusa (9), svi brojevi, članovi pravila i citati sudske prakse (npr. 1951 AIRAll) 793, 1957 AIR(P&H) 191) identični izvoru; odnos riječi 0,91; nema ekavizama ni hrvatskih oblika, nijesu/pravosnažni oblici u skladu sa vodičem. Registar je prirodan sudski/pravnički, glosar (član, stav, službeno lice, državni službenik, vršilac dužnosti) se dosljedno primjenjuje; ostali nalazi su sitni stilski i terminološki (kapitalizacija, jedan dodati gloss, Pravilnik/Pravila)."
+}

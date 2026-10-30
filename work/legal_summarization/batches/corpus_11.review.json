@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "gMXAdx9G81",
+   "severity": "minor",
+   "type": "terminology/ambiguity",
+   "description": "Izvor: \"...bluetooth and provider network and device performance\"; prevod: \"vrstu mrežne veze (...) i dobavljača, performanse mreže i uređaja\". \"provider network\" je svedeno na \"dobavljača\" (glosar: dobavljač = vendor), a \"network\" je pomjereno u \"performanse mreže\".",
+   "suggestion": "\"...i mrežu operatera, kao i performanse uređaja\" (ili \"i mrežu provajdera te performanse mreže i uređaja\")."
+  },
+  {
+   "id": "DO4lKNEfvu",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"liability expenses damages and costs\" -> \"obaveze, izdatke, štete i troškove\": \"liability\" je preneseno kao \"obaveze\", dok glosar daje \"odgovornost\"; \"od odgovornosti ... za sve obaveze\" je i stilski nezgrapno.",
+   "suggestion": "\"...i zaštititi ih od svake odgovornosti, izdataka, šteta i troškova po osnovu ...\""
+  },
+  {
+   "id": "DXQsedBEmL",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"testimonials\" -> \"lične preporuke\" i \"customers\" -> \"korisnika\" (\"zadovoljnih korisnika\", \"naše korisnike\"); \"customers\" i \"users\" se u batchu oba prevode kao \"korisnik\", a \"lične preporuke\" su pomjeranje značenja (testimonial = izjava/svjedočanstvo o zadovoljstvu).",
+   "suggestion": "\"lične izjave zadovoljnih korisnika/klijenata\" odnosno \"naše klijente\" za \"customers\"; ujednačiti sa ostalim itemima."
+  },
+  {
+   "id": "HteOtLAQvc",
+   "severity": "minor",
+   "type": "style",
+   "description": "\"ensures that they must give you full credit\" -> \"obezbjeđuju da vam moraju u potpunosti priznati autorstvo\": nezgrapna konstrukcija (obezbjeđuju da moraju).",
+   "suggestion": "\"...ali osiguravaju da vam drugi moraju dati puno priznanje autorstva\" ili \"uz obavezu da vam se u potpunosti prizna autorstvo\"."
+  },
+  {
+   "id": "IMDOShVnvZ",
+   "severity": "minor",
+   "type": "orthography/consistency",
+   "description": "Batch nedosljedno piše \"sajt\" (Bc3lF6k7Ha: \"na sajtu\", DXQsedBEmL: \"sajtovima trećih lica\") i \"veb-sajt\" (DXQsedBEmL, c0PkwBM2fY, wIptvRT1OU). Takođe, rečenice koje počinju imenom \"npm\" (EJwWtnleFz, h1Ba7mQiOj) ostaju malim slovom; prihvatljivo kao brend, ali nije u skladu sa pravilom o velikom slovu na početku rečenice.",
+   "suggestion": "Ujednačiti na \"veb-sajt\" u cijelom batchu; za rečenice koje počinju sa \"npm\" ili ostaviti brend ili preformulisati (\"Kompanija npm ne daje ...\"; \"Usluge npm-a mogu ...\")."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup i redoslijed _id-ova (25/25), svi brojevi (13, 3, 7, 8, 9, 30) i odnos riječi (0.77-1.12) u redu, bez izostavljanja, dodavanja ili izmjene značenja, bez ekavizama i hrvatizama. Registar je dosljedno formalan ugovorni (vi/mi, \"treće lice\", \"nalog\", \"mjerodavno pravo\", \"u viđenom stanju\", \"obeštetiti i zaštititi\"), ortografija normalna, glosar uglavnom poštovan; preostala su samo sitna terminološka i stilska odstupanja. Svi itemi su korpusni (nema upita), pa provjera razgovornog registra nije primjenjiva."
+}

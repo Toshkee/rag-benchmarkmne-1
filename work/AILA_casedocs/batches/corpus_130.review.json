@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'delay' (in 'no explanation for the delay', 'unexplained delay', 'delay in taking action') je dosljedno preveden kao 'odlaganje' (npr. 'nije bilo objašnjenja za odlaganje između 2. februara i 28. maja', 'neobjašnjenog odlaganja'). 'Odlaganje' znači 'postponement'; za kašnjenje/zastoj prirodnije je 'kašnjenje'.",
+      "suggestion": "Zamijeniti 'odlaganje' sa 'kašnjenje' (ili 'zastoj') dosljedno u pasusima 14, 16, 21."
+    },
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'lack of awareness on the part of the District Magistrate' → 'nedostatak svijesti' (pasus 17) zvuči kao medicinsko stanje (nesvjestica), ne kao neobaviještenost.",
+      "suggestion": "'nedostatak upoznatosti/obaviještenosti okružnog magistrata'."
+    },
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "značenje/registar",
+      "description": "'the impugned order cannot be said to be vitiated' → 'osporeno rješenje je nezakonito'. 'Vitiated' je blaže (narušeno/obesnaženo), 'nezakonito' sužava značenje.",
+      "suggestion": "'ne može se reći da je osporeno rješenje obesnaženo (narušeno) zbog toga što...'."
+    },
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "'immoral traffic offender' → 'učinilac krivičnih djela trgovine ljudima u nemoralne svrhe' (dodato 'trgovine ljudima', 'krivičnih djela'); u citiranoj odredbi ovo je blago proširenje izvora. Takođe 'they were all rolled up into one' → 'da su sve svrhe bile spojene u jednu' (dodato 'svrhe').",
+      "suggestion": "'učinilac krivičnih djela nemoralnog prometa' / 'lice koje se bavi nemoralnim prometom'; 'da su sve bile \"spojene u jednu\"'."
+    },
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "'debate at the Bar' → 'rasprava pred sudom' (pasus 20); 'by way of superscription' → 'u vidu uvodnog navoda'. Obje fraze su blago slobodne.",
+      "suggestion": "'nepotrebnu raspravu među advokatima'; 'dodate kao naslovni navod (superscription)'."
+    },
+    {
+      "id": "zKG5mSoyPs#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "'Okružni magistrat navodi da se ... uvjerio' (pasus 13) i 'Okružni magistrat je prilikom donošenja ... konstatovao' mijenjaju vrijeme/glagol u odnosu na 'It is averred by the District Magistrate'; takođe 'direktan i neposredan uzrok' za 'direct and proximate cause' je prihvatljivo, ali 'dejstvu' je srbizam.",
+      "suggestion": "'Okružni magistrat tvrdi/ističe'; 'o dejstvu' → 'o učinku' po želji."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (15), svi brojevi, datumi, citati sudske prakse i brojevi članova identični izvoru, nema izostavljenih ni dodatih pasusa, nema ekavskih ni hrvatskih oblika. Stranke su dosljedne (žalilac, okružni magistrat, Vlada države), glosar poštovan (nijesu, ustavna tužba (writ petition), odbijena). Registar je prirodan sudski; preostale primjedbe su samo sitne stilske/terminološke."
+}

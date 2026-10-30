@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "terminologija/pravna terminologija",
+      "description": "Odlomak 0: \"rušljivi zbog prevare\" za \"voidable for fraud\". \"Rušljiv\" je neuobičajen u pravnom registru; standardni termin je \"pobojan\".",
+      "suggestion": "\"ugovore ili pravne poslove koji su pobojni zbog prevare, lažnog prikazivanja ili zablude\"."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "Odlomak 14: \"klauzule o izuzeću\" za \"exception clauses\", dok se \"exemption clause\" u odlomcima 11, 13 i 16 prevodi kao \"klauzula o isključenju odgovornosti\". Isti pojam je unutar dijela preveden dvama terminima.",
+      "suggestion": "U odlomku 14: \"omogućava da se klauzule o isključenju odgovornosti primjenjuju uzimajući u obzir ono što je pravično i razumno\"."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "dosljednost termina",
+      "description": "\"strike down\" je preveden kao \"poništiti\" (odlomci 6, 20), a \"set aside\" kao \"staviti van snage\" (odlomak 0). Glosar za quash/set aside predviđa \"ukinuti / staviti van snage\".",
+      "suggestion": "Odlomak 20: \"... staviti van snage nepravičan i nerazuman ugovor\"; odlomak 6: \"stavljali van snage pogodbu\"."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "pravopis/dosljednost",
+      "description": "Nedosljedno pisanje titule \"Lord/lord\": \"lord Diplock je izložio\" (odlomak 4) naspram \"Lord Diplock je zatim ukazao\" (8), \"Lord Diplock je rekao\" (15), \"Lord Scarman je\" (17), \"Lord Wilberforce je\" (13), dok su kosi padeži sa malim slovom (\"lorda Denninga\").",
+      "suggestion": "Odabrati jedan oblik za cijeli dio, npr. uvijek \"lord\" malim slovom ispred imena (\"lord Diplock je zatim ukazao\") ili uvijek \"Lord\" velikim slovom."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "registar/doslovan prevod",
+      "description": "Odlomak 21: \"potpiše na isprekidanoj liniji\" za \"sign on the dotted line\" i \"putem svojih instrumentalnosti i agencija\" za \"instrumentalities and agencies\" zvuče doslovno i nepravnički.",
+      "suggestion": "\"da potpiše na označenom mjestu propisanog ili standardnog obrasca\"; \"putem svojih organa i agencija\"."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Odlomak 14: \"kako smatraju za shodno\" je nepravilna konstrukcija za \"as they think fit\". Odlomak 4: \"Lordovi sudije\" za \"The Law Lords\" je nespretno.",
+      "suggestion": "\"kako smatraju shodnim\" (ili \"kako smatraju prikladnim\"); \"Lordovi-sudije\" ili \"Pravni lordovi (Law Lords)\"."
+    },
+    {
+      "id": "FCIX3BYOtD#8",
+      "severity": "minor",
+      "type": "automatska provjera (informativno)",
+      "description": "Brojevi (\\d+) u izvoru i prevodu razlikuju se samo u OCR artefaktima izvora: \"unconsciou6\" i \"distre66\" (cifre 6, 66, u prevodu pravilno \"nesvjestan\" i \"nevolje\") te zalutalo \"1\" u \"at 1 least\" (odlomak 18). Svi stvarni brojevi (97-105, 5,000, 1975, 1977, 1978, 69, 605, 62, 174, 416, 138(2), 14) i token Rs. podudaraju se. Broj novih redova je 21/21, odnos riječi 0,874, nema ekavskih ni hrvatskih oblika, _id je isti.",
+      "suggestion": "Nije potrebna ispravka; prevod je ispravno očistio OCR artefakte. Ako validator strogo traži jednak broj cifara, izuzeti ova tri mjesta."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 22 pasusa (21 novi red) je prevedeno, bez izostavljanja, dodavanja ili izmjene značenja, a citati (Law Com. No. 69, H. C. 605), iznos Rs. 5,000, datumi, brojevi članova i numeracija pasusa 97-105 su doslovni. Ijekavica je dosljedna, a glosar (Država, protivna strana, Ustav, član 14, Dom lordova, tuženih) je uglavnom primijenjen. Registar je prirodan i prikladan sudskom obrazloženju, uz nekoliko sitnih stilskih i terminoloških nedosljednosti (klauzula o izuzeću/isključenju, Lord/lord, nekoliko doslovnih idioma), pa nema blokirajućih nalaza."
+}

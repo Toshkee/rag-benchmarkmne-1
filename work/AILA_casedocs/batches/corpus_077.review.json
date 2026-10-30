@@ -1,0 +1,37 @@
+{
+  "batch": "corpus_077",
+  "n_blocking": 0,
+  "n_minor": 4,
+  "issues": [
+    {
+      "id": "08YMNb5Zql#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 3: izvor 'on sustaining gun shot injuries in his chest'; prevod 'zadobivši strijelne povrede u grudima'. 'Strijelne' upućuje na strijelu (luk), ne na vatreno oružje; ostatak teksta dosljedno koristi 'povrede od vatrenog oružja'.",
+      "suggestion": "Zamijeniti sa 'zadobivši povrede od vatrenog oružja u grudima' (ili 'prostrijelne rane u grudima')."
+    },
+    {
+      "id": "08YMNb5Zql#0",
+      "severity": "minor",
+      "type": "izostavljanje (sitno)",
+      "description": "Para 8: izvor 'on 21.11.2001 at 12:10 p.m.'; prevod 'u 12:10 časova' — izostavljena oznaka p.m. (u paraleli, para 3 i 9 za 'a.m.' koriste 'ujutru').",
+      "suggestion": "'u 12:10 časova po podne' (ili 'u 12:10 časova'), radi dosljednosti sa a.m. → 'ujutru'."
+    },
+    {
+      "id": "08YMNb5Zql#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 17: 'any prejudice to the accused' → 'bilo kakvu štetu optuženima'; 'prejudice' u ovom kontekstu je povreda prava odbrane/nepovoljan položaj, ne materijalna šteta. Isto u citatu (para 38): 'no prejudice' → 'šteta'. Takođe 'On je dalje konstatovao' je dvosmisleno jer se prethodna rečenica završava službenikom koji vodi istragu, dok izvor ima 'It has further noted' (prvostepeni sud).",
+      "suggestion": "'kakvu povredu prava odbrane / kakav nepovoljan uticaj po optužene'; umjesto 'On je dalje konstatovao' → 'Prvostepeni sud je dalje konstatovao'."
+    },
+    {
+      "id": "08YMNb5Zql#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Para 38: 'Applying the above ratio in Pala Singh' → 'Primjenjujući navedeni stav iz predmeta Pala Singh'. Latinski izraz 'ratio' (ratio decidendi) treba da ostane po stilskom vodiču; 'stav' mijenja nijansu. Takođe 'Krivični zahtjev (Criminal Misc. Petition)' (para 2) izostavlja 'Misc.' i uvodi glosu u zagradi koja nije u izvoru u tom obliku.",
+      "suggestion": "'Primjenjujući navedeni ratio iz predmeta Pala Singh'; 'Razni krivični zahtjev (Criminal Misc. Petition)' ili ostaviti kako jeste."
+    }
+  ],
+  "automatic_checks": "Isti skup _id; tokeni (P/A/S/W/Rs.) i svi brojevi identični po broju pojavljivanja; broj novih redova 39=39; odnos riječi 0.92; nema ekavizama, hrvatskih oblika, 'osoba/stranka/nisu/dopušten/savezna'.",
+  "overall_quality": "Prevod je potpun i vjeran: nijedan pasus ni rečenica nijesu izostavljeni, svi brojevi, tokeni, citati (Jang Singh, Sandeep, Pala Singh, Bhajan Singh), datumi i iznosi (Rs.5000/- itd.) su doslovni, a procesne uloge (žalilac, država, vijeće, Visoki sud, uvaženi zastupnik) dosljedne glosaru. Registar je prirodan sudski stil sa ijekavicom i 'nijesu'; nađene su samo sitne stilske i terminološke nepreciznosti."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "r4Eh0C3BfQ#1",
+   "severity": "minor",
+   "type": "gramatika/značenje",
+   "description": "Pasus 20: 'jasno pokazuje' rečenica 'Sama činjenica da je navedena da izjavi da ima 18 godina' je negramatična; izvor: 'she was made to state that her age was 18 years'.",
+   "suggestion": "'Sama činjenica da je primorana da izjavi da ima 18 godina i da sa protivnom stranom živi kao supruga ...'"
+  },
+  {
+   "id": "r4Eh0C3BfQ#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'nalog zakonodavnog organa' (izvor: 'mandate of the Legislature', 2x u pasusu 19) – 'nalog' je u glosaru rezervisan za writ; zbunjuje i u RAG pretrazi.",
+   "suggestion": "'volja zakonodavnog organa' / 'zahtjev zakonodavca' (npr. 'suprotno volji zakonodavnog organa'; 'previdio volju zakonodavnog organa izraženu u članu 376(1)')."
+  },
+  {
+   "id": "r4Eh0C3BfQ#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'odmah uzme u pritvor radi izdržavanja preostalog dijela kazne' (izvor: 'taken in custody forthwith to serve out the remaining sentence') – 'pritvor' označava mjeru prije presude; ovdje je riječ o lišavanju slobode radi izdržavanja kazne.",
+   "suggestion": "'da se protivna strana odmah liši slobode radi izdržavanja preostalog dijela kazne' (ili 'uhapsi')."
+  },
+  {
+   "id": "r4Eh0C3BfQ#1",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "'crime/offence' prevedeno naizmjenično kao 'krivično djelo' i 'zločin/zločini' ('zločini protiv žena', 'Gnusni zločin silovanja', 'Javno gnušanje prema zločinu'); glosar: offence → krivično djelo. Takođe 'substantive sentences' → 'Glavne kazne' (preciznije 'materijalne/osnovne kazne zatvora').",
+   "suggestion": "'krivična djela protiv žena', 'Gnusno krivično djelo silovanja', 'Javno gnušanje prema krivičnom djelu'; 'Kazne zatvora izrečene za svako djelo'."
+  },
+  {
+   "id": "r4Eh0C3BfQ#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Pojedini izrazi su kolokvijalni ili nezgrapni: 'skrasile u životu' (izvor: settled down in life), 'Ali čak i pri tome' (izvor: But even in doing so), 'koja se može produžiti do doživotne' (izvor: may extend to life).",
+   "suggestion": "'ustalile u životu'; 'Međutim, čak i pri tome'; 'koja se može produžiti do doživotnog zatvora'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 12 novih redova je sačuvano, svi pasusi (19-24) i oba citata su prevedeni, brojevi, članovi, citati prakse (SCC, Indlaw) i token 'Rs.' se poklapaju (automatska provjera: identični nizovi brojeva, odnos riječi 0.87, nema ekavizama ni hrvatskih oblika). Strane su dosljedne (protivna strana, Visoki sud, uvaženi sudija) i glosar je poštovan; registar je prirodan sudski, uz nekoliko sitnih nezgrapnosti i terminoloških nedosljednosti (nalog, zločin, pritvor)."
+}

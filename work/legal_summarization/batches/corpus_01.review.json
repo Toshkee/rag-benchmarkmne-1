@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "OZM4OtBJTf",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pogrešan padež: prevod 'Po prijemu i potvrde roditeljstva i saglasnosti' (izvor: 'upon receipt of both parental verification and consent') - 'prijemu' traži genitiv, a 'i' pogrešno spaja prijem sa potvrdom.",
+   "suggestion": "'Po prijemu potvrde roditeljstva i saglasnosti, TPCI će roditelju omogućiti...'"
+  },
+  {
+   "id": "SMjzQ1fgUK",
+   "severity": "minor",
+   "type": "terminologija/stil",
+   "description": "'treća lica korisnici ... kao treće lice korisnik' (izvor: 'third party beneficiaries ... as a third party beneficiary') je nejasno i nezgrapno; pravni termin je korisnik prava iz ugovora u korist trećeg lica.",
+   "suggestion": "'treća lica kao korisnici ovih uslova' i 'sprovodi ove uslove prema vama kao korisnik u čiju korist su uslovi ugovoreni (third party beneficiary)'."
+  },
+  {
+   "id": "SMjzQ1fgUK",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Za 'applicable' koristi se i 'važeći' ('važećom garancijom', 'važećim zakonom') i 'primjenljiv' ('primjenljive uslove korišćenja trećih lica', 'ako je primjenljivo'); glosar daje 'važeći zakon, pravilo ili propis'.",
+   "suggestion": "Ujednačiti: 'sve važeće uslove korišćenja trećih lica', 'ako je to primjenjivo' (ili dosljedno 'važeći')."
+  },
+  {
+   "id": "mRtv5XqhPx",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'Niantic može odbiti bilo koji podnesak' za 'submissions' - 'podnesak' je procesni termin (podnesak sudu/organu) i neprirodan u ugovoru o korišćenju aplikacije.",
+   "suggestion": "'Niantic može odbiti bilo koji dostavljeni sadržaj za koji ... smatra da je korisnički sadržaj neprimjeren...'"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 5 itema ima iste _id-ove, isti raspored i format (title prazan), nema izostavljenih ni dodatih rečenica, brojevi (13, a)-d), i)-iii)) i nabrajanja se poklapaju, a ijekavica je dosljedna bez ekavskih i hrvatskih oblika. Registar je formalan ugovorni (vi/naš, malo slovo), glosar (uslovi korišćenja, politika privatnosti, nalog, korisnički sadržaj, treće lice, odgovornost, raskinuti/privremeno ukinuti, intelektualna svojina) se poštuje, a ortografija je normalna. Zaostaju samo manje stilske i terminološke primjedbe; URL-ovi su rekonstruisani iz normalizovanog izvora, što je prihvatljivo."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "8JHUdKF0j7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor 'API Credentials' preveden kao 'API Akreditiva' (tačka 5, dva puta). 'Akreditiv' u crnogorskom pravu znači bankarski akreditiv (letter of credit), pa je termin pogrešan; takođe je nesklonjen/miješan oblik.",
+   "suggestion": "Zamijeniti sa 'API pristupni podaci' (npr. 'vaših API pristupnih podataka'), dosljedno na oba mjesta."
+  },
+  {
+   "id": "8JHUdKF0j7",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Tačka 14: 'invalid' je 'nevažećom/nevažeća', a u istoj rečenici 'invalidity' je 'nevaljanost'; 'unenforceable' = 'neprimjenljivom' (bolje 'neizvršivom'). Nedosljedan korijen termina.",
+   "suggestion": "'takva ništavost/nevažnost, nezakonitost ili neizvršivost' dosljedno uz 'nevažeća, nezakonita ili neizvršiva odredba'."
+  },
+  {
+   "id": "WvTMVTucHY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Tačka 1: 'Shopify gives no assurance' -> 'ne daje nikakvo uvjerenje'. 'Uvjerenje' je potvrda/ubjeđenje, ne garancija.",
+   "suggestion": "'Shopify ne daje nikakvu garanciju da će određena Tema ostati dostupna za dodatna preuzimanja.'"
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "nedosljednost/dodavanje",
+   "description": "Tačka 7: 'credit card on file' -> 'kreditne kartice evidentirane na nalogu' (dodato 'na nalogu', malo slovo, dok se drugdje piše 'Nalog'); tačka 8: 'Store Owner' -> 'Vlasnik prodavnice' malim slovom, dok je 'Prodavnica' svuda velikim slovom (definisani termin).",
+   "suggestion": "'posljednje četiri cifre kreditne kartice koja je evidentirana kod nas' (ili 'u evidenciji'); 'Vlasnik Prodavnice' dosljedno."
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "'sole discretion' -> 'isključiva procjena' (tačke 3, 5), a 'sole judgment' -> 'isključiva ocjena' (tačka 8); u batchu je 'procjena' glosarski izbor. Takođe tačka 4 'bilo kog kupca Shopify-ja, zaposlenog, člana ili službenika Shopify-ja' – ponovljeno 'Shopify-ja' sužava/razdvaja okvir, ali značenje je očuvano.",
+   "suggestion": "Zadržati 'procjena' za discretion; za judgment dopušteno 'ocjena', ali dosljedno unutar batcha."
+  },
+  {
+   "id": "WvTMVTucHY",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Tačka 4: 'Shopify may be able to help you contact the designer' -> 'Shopify vam može pomoći da kontaktirate dizajnera' gubi ublaženje ('možda može').",
+   "suggestion": "'Shopify vam možda može pomoći da stupite u kontakt sa dizajnerom.'"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova i numerisanih tačaka u sva 4 itema, svi brojevi i URL-ovi identični, nema ekavizama ni hrvatizama, odnos riječi 0.83-0.94. Registar je dosljedno formalan ugovorni (vi/mi, 'uslovi korišćenja', 'politika privatnosti', 'treće lice', 'nijesu/nijeste'); nađena su samo manja terminološka odstupanja (npr. 'API Akreditiva', 'uvjerenje' za assurance)."
+}

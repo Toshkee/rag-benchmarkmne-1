@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "ArQEPcyLas#0",
+   "severity": "minor",
+   "type": "dodavanje glosa",
+   "description": "Prevodilac je u zagradama dodao izvorne riječi koje u izvoru ne postoje: 'kopljima (ballam), motkama (lathi), sjekirama (farsa) i srpovima (dharia)' (izvor: 'swords, Ballams, lathis, hockey sticks, farsas and dharias'), 'srpovima (dariya)', 'otli (Otla)'. Glosiranje je nedosljedno (st. 9 'srpovima, sjekirama, motkama' bez glosa) i 'Ballam'/'spear' se oba prevode kao 'koplje' (st. 2 'kopljima (ballam)', st. 10 'kopljem (ballam)'), pa se gubi razlika.",
+   "suggestion": "Ili glosirati dosljedno pri prvom pomenu, ili ostaviti samo izvorne riječi (Ballam, lathi, farsa, dharia) bez dodatnih zagrada; ballam ne prevoditi isto kao 'spear'."
+  },
+  {
+   "id": "ArQEPcyLas#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "St. 8: 'an order of acquittal' prevedeno kao 'rješenje o oslobađanju'; oslobađanje je presuda ('oslobađajuća presuda'), a ne rješenje. Takođe 'apelacioni sud' za 'appellate court' nije u glosaru (Visoki sud / žalbeni sud).",
+   "suggestion": "'apelacioni sud neće intervenisati u oslobađajuću presudu' (umjesto 'rješenje o oslobađanju'); razmotriti 'žalbeni sud' radi dosljednosti sa 'žalba/žalilac'."
+  },
+  {
+   "id": "ArQEPcyLas#0",
+   "severity": "minor",
+   "type": "nedosljednost oznake",
+   "description": "St. 2: 'čl. 147, 148, 307/149...' (skraćeno) naspram 'članu 25/27', 'članu 326' drugdje; St. 4: 'svjedoke optužbe PWs. 4, 6, 7, 9 i 10' miješa prevedenu i izvornu oznaku (izvor: 'injured PWs. 4, 6, 7, 9 and 10').",
+   "suggestion": "Koristiti 'člana 147, 148, ...' dosljedno; 'koja su napala i povrijedila svjedoke PWs. 4, 6, 7, 9 i 10'."
+  },
+  {
+   "id": "ArQEPcyLas#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "St. 6: 'data je korist sumnje' (izvor: 'benefit of doubt'); st. 6 'protivne strane 1 do 4 u žalbenom postupku' pa zatim 'žalioci' za ista lica - korektno po glosaru, ali moglo bi se jasnije naznačiti. Navodnici: u st. 18 ostaje jednostruki 'nedozvoljeno okupljanje' (kao u izvoru), dok je ostalo u „...“ - dozvoljeno, ali nedosljedno.",
+   "suggestion": "'primjenom pravila o koristi od sumnje' / 'jer joj je priznata korist od sumnje'; navodnike ujednačiti u „...“."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 pasusa, citati (Bhim Singh, Masalti, Dharam Pal, SCC/SCR/AIR/Indlaw), tokeni (Rs. x2), brojevi i broj novih redova (33) odgovaraju izvoru; razlike u brojkama (7, 8, 12) potiču isključivo od pretvaranja datuma u crnogorski oblik. Ijekavica je dosljedna, nema ekavizama ni hrvatizama, stranke su dosljedno označene (žalioci br. 1-4, država), a registar je primjeren obrazloženju presude. Nađene su samo stilske i terminološke sitnice (dodati glosi, 'rješenje o oslobađanju')."
+}

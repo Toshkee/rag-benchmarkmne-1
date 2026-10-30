@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "gMXAdx9G81#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 16: \"Najrelevantniji primjer je primjer nedozvoljene trgovine opojnim drogama\" - ponavljanje \"primjer\" (izvor: \"The most relevant example is that of drug trafficking\"). Takođe \"stroge kazne ... su opravdanije razlozima odvraćanja\" je nespretno za \"is justified more by deterrent rationales\".",
+   "suggestion": "\"Najrelevantniji primjer je nedozvoljena trgovina opojnim drogama\"; \"stroge kazne ... opravdavaju se više razlozima odvraćanja nego razlozima srazmjernosti\"."
+  },
+  {
+   "id": "gMXAdx9G81#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 20, u citatu [13]: \"Pozivajući se zatim na neke ranije odluke Suda ... primijetio je sljedeće:-\" - subjekat se gubi (izvor: \"it observed as under:-\"); \"sljedeće:-\" prenosi interpunkciju izvora.",
+   "suggestion": "\"Pozivajući se zatim na neke ranije odluke Suda u pasusu 14 presude, Sud je primijetio sljedeće:-\"."
+  },
+  {
+   "id": "gMXAdx9G81#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 18: \"nehatnog lišenja života (manslaughter)\" i \"nesavjesnom vožnjom\" za \"bad driving\" - nije u glosaru, odstupa od dosljednosti sa \"nehat\" u citatu; \"nesavjesna vožnja\" je uži pojam od \"bad driving\".",
+   "suggestion": "\"... kod ubistva iz nehata (manslaughter) i kod prouzrokovanja smrti lošom vožnjom\" ili ostaviti uz gloss."
+  },
+  {
+   "id": "gMXAdx9G81#1",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"(Naglasak dodat)\" za \"(Emphasis Added)\"; mješavina \"Rs. pedeset hiljada\" i \"pedeset hiljada rupija\" prati izvor (Rs. fifty thousand / rupees fifty thousand), što je prihvatljivo, ali \"dodat\" je neuobičajen oblik.",
+   "suggestion": "\"(Naglasak dodat)\" -> \"(Naglasak je dodat)\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, svih 25 pasusa/redova na mjestu (25=25 novih redova), tokeni (Rs.) i svi brojevi, citati i brojevi članova identični izvoru; nema ekavizama ni hrvatizama. Procesne uloge (žalilac, optuženi br.25/br.41, Visoki sud, Zakon) i termini iz glosara su dosljedni, a registar je prirodan sudski. Nađene su samo manje stilske nespretnosti, bez blokirajućih problema."
+}

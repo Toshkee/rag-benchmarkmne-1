@@ -1,0 +1,35 @@
+{
+  "n_blocking": 0,
+  "n_minor": 4,
+  "issues": [
+    {
+      "id": "YqWg21nYCs#0",
+      "severity": "minor",
+      "type": "terminologija (glosar: public servant)",
+      "description": "Izvorno 'public servant(s)' prevedeno kao 'javni službenik/javni službenici' (npr. 'make it possible for a public servant to enforce his claims' -> 'omogućavaju javnom službeniku'; 'public servants hold their office during the pleasure of the President' -> 'javni službenici obavljaju svoju dužnost'), a glosar propisuje 'službeno lice'. Javlja se više puta u pasusima 12 (dio 39) i dio 40.",
+      "suggestion": "Zamijeniti 'javnom službeniku' -> 'službenom licu', 'javni službenici' -> 'službena lica' (i odgovarajuće padeže) svuda u itemu."
+    },
+    {
+      "id": "YqWg21nYCs#0",
+      "severity": "minor",
+      "type": "ijekavica / pravopis",
+      "description": "'Djelove podvučene crvenom treba saopštiti' (izvor: 'Portions underlined red') i 'Relevantni djelovi člana 240' (izvor: 'relevant portions') - 'djelovi' je pogrešan oblik za dijelove; u istom itemu je ispravno 'Relevantni dio člana 96-B' i 'Dio XIV'.",
+      "suggestion": "'Dijelove podvučene crvenom treba saopštiti'; 'Relevantni dijelovi člana 240'."
+    },
+    {
+      "id": "YqWg21nYCs#0",
+      "severity": "minor",
+      "type": "preciznost značenja",
+      "description": "'who on relief reverts to Class III appointment' prevedeno 'koji se, po razrješenju, vraća na postavljenje u klasi III'. 'Razrješenje' u glosaru znači removal/otpuštanje; ovdje je riječ o smjeni sa dužnosti (kada bude razdužen), što može sugerisati otpuštanje.",
+      "suggestion": "'koji se, nakon što bude razdužen/smijenjen sa dužnosti, vraća na postavljenje u klasi III'."
+    },
+    {
+      "id": "YqWg21nYCs#0",
+      "severity": "minor",
+      "type": "gramatika / slaganje",
+      "description": "'stav (4) kojim je predviđena naknada za prijevremeni prestanak radnog odnosa u određenim slučajevima, koji ovdje nije potrebno navoditi' - relativna zamjenica 'koji' ne slaže se sa 'slučajevima' (izvor: 'in certain cases which it is not necessary to set out here').",
+      "suggestion": "'u određenim slučajevima, koje ovdje nije potrebno navoditi'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (40), nema izostavljenih ni dodatih rečenica, svi brojevi, članovi, datumi i citati (LR(P) 68, Indlaw SC 61, Letters Patent Appeal br. 28 iz 1955, Civil Writ 36D) su doslovno očuvani, a tokena P/A/S/W/Rs. nema ni u izvoru ni u prevodu. Stranke su dosljedno označene (žalilac / podnosilac zahtjeva / Indijska Unija), glosar sudova i postupka je poštovan (Visoki sud, vijeće (Division Bench), nalog (writ), ustavna tužba (writ petition)), nema ekavizama ni kroatizama. Registar je primjeren obrazloženju presude; preostale primjedbe su sitne (javni službenik umjesto službeno lice, 'djelovi' umjesto 'dijelovi', 'po razrješenju')."
+}

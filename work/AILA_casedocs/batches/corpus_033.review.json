@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "18Y2bTu5X1#0",
+      "severity": "minor",
+      "type": "glossary/format",
+      "description": "Zaglavlje: 'Appeal (Crl.) 1119-1120 of 1998' preneseno kao 'Appeal (Crl.) br. 1119-1120 iz 1998. godine' - riječ 'Appeal' ostala neprevedena.",
+      "suggestion": "'Krivična žalba br. 1119-1120 iz 1998. godine' (ili 'Appeal (Crl.) br. ...' ako se želi zadržati oznaka vrste predmeta, ali bez miješanja jezika)."
+    },
+    {
+      "id": "18Y2bTu5X1#0",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Pasus 3: 'the police arrested the two accused' -> 'policija je uhapsila oba optužena'. U trenutku hapšenja optužnica još ne postoji (prema glosaru: okrivljeni prije optuženja, optuženi nakon optužnice).",
+      "suggestion": "'policija je uhapsila oba okrivljena (A1-Sunil i A2-Ramesh)'."
+    },
+    {
+      "id": "18Y2bTu5X1#0",
+      "severity": "minor",
+      "type": "ambiguity",
+      "description": "Okolnost (3): 'who was in deep sleep when the mother of the child lifted her up' -> 'koji je čvrsto spavao kada ga je majka djeteta podigla'. Zamjenica 'ga' se gramatički može odnositi na Ramesha (koji), a ne na dijete.",
+      "suggestion": "'koji je čvrsto spavao kada je majka djeteta podigla dijete'."
+    },
+    {
+      "id": "18Y2bTu5X1#0",
+      "severity": "minor",
+      "type": "style",
+      "description": "Pasus 31: 'would render the discovery, at least, not free from doubt' -> 'učinilo bi otkrivanje, u najmanju ruku, ne oslobođenim od sumnje' - kalkirano i nezgrapno.",
+      "suggestion": "'učinilo bi otkrivanje, u najmanju ruku, podložnim sumnji' ili 'otkrivanje, u najmanju ruku, ne bi bilo oslobođeno sumnje'."
+    },
+    {
+      "id": "18Y2bTu5X1#0",
+      "severity": "minor",
+      "type": "consistency",
+      "description": "Nedosljedno pisanje titule: 'dr Basant Lal' (pasusi 7, 16, 18) naspram 'Dr Basant Lal' (pasus 12, na početku rečenice) i 'dr Gajrat Singh'. Takođe 'Član 100(5)' (pasus 32) zadržava format izvora, ali bi bez zagrade stava bilo dosljednije glosaru 'član 100 stav (5)'.",
+      "suggestion": "Ujednačiti na 'dr' (osim na početku rečenice) i po želji 'član 100 stav (5)'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (51), svih 52 redova, svi tokeni (A1, A2, PW...), brojevi, citati i članovi (364, 376, 377, 302, 34, 27, 161, 100(5), Glava VII) poklapaju se sa izvorom; odnos riječi 0,88, bez ekavizama i kroatizama. Strane su dosljedno označene (dvije protivne strane, Država, vijeće (Division Bench) pri prvom pomenu), a registar je prirodan i pravnički uz glosarsku terminologiju; preostale primjedbe su isključivo stilske."
+}

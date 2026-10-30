@@ -1,0 +1,70 @@
+{
+  "n_blocking": 0,
+  "n_minor": 9,
+  "issues": [
+    {
+      "id": "n62tOy4Cqp#1",
+      "severity": "minor",
+      "type": "terminologija/nedosljednost",
+      "description": "Pasus 26 i završna oznaka: izvor 'allowed these writ petitions' / 'Petition allowed' prevedeno je kao 'usvojili ove ustavne tužbe (writ petitions)' ali 'Zahtjev usvojen'. Isti postupak dobija dva naziva (ustavna tužba / zahtjev) u istom itemu.",
+      "suggestion": "Zamijeniti završnu oznaku 'Zahtjev usvojen' sa 'Ustavne tužbe usvojene' (ili 'Tužba usvojena')."
+    },
+    {
+      "id": "n62tOy4Cqp#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Isti izraz 'comments' (od State Government / od various departments) preveden je kao 'mišljenje/mišljenja', dok je u itemu gAk7Gdp0CX#0 'remarks' prevedeno kao 'primjedbe'; 'comments' je bliže 'primjedbe/komentari' nego 'mišljenje'.",
+      "suggestion": "Ujednačiti: 'nedostatka primjedbi Vlade države', 'dostavila primjedbe' ili dosljedno 'mišljenje' u oba itema."
+    },
+    {
+      "id": "n62tOy4Cqp#1",
+      "severity": "minor",
+      "type": "vjernost/značenje",
+      "description": "Pasus 20: 'to restore the \"liberty and freedom\"' -> 'kako bi „lična sloboda i sloboda“ bile vraćene' (tautologija, nejasno); 'allowed to become bad' -> 'dozvolila da postane nezakonit' je slobodnije od izvora (bad = neosnovan/nevaljan).",
+      "suggestion": "'kako bi se licu vratile „sloboda i slobode“' ili 'lična sloboda i slobodno kretanje'; 'dozvolila da postane nevaljan'."
+    },
+    {
+      "id": "n62tOy4Cqp#1",
+      "severity": "minor",
+      "type": "stil/dodavanje",
+      "description": "Dodate zagrade-gloze koje ne postoje u izvoru: 'glavnog ministra (Chief Minister)', 'Specijalnom odjeljenju (Special Branch)'. Vodič dozvoljava gloze samo za propisane termine (writ, Division Bench...).",
+      "suggestion": "Ukloniti gloze ili ih primijeniti dosljedno i u drugom itemu (gdje 'glavni ministar' stoji bez gloze)."
+    },
+    {
+      "id": "n62tOy4Cqp#1",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 20: 'dosljedno zadržavaju tromi odnos' i konstrukcija 'i sa predstavkom koju podnese lice ... postupa se' prilično slobodno prenose izvornu sintaksu ('the representation ... continue to be dealt with').",
+      "suggestion": "'...nastavljaju da se ponašaju ... a sa predstavkama koje podnose lica lišena slobode i dalje se postupa na isti način.'"
+    },
+    {
+      "id": "gAk7Gdp0CX#0",
+      "severity": "minor",
+      "type": "stil/nedosljednost",
+      "description": "Pasus 11: 'Mr. V.R. Reddy' preveden kao 'G. V.R. Reddy', što se može pročitati kao inicijal imena; vodič koristi 'g.' (npr. 'g. Ganguly').",
+      "suggestion": "'g. V.R. Reddy, uvaženi viši zastupnik (senior counsel) države Tamil Nadu'."
+    },
+    {
+      "id": "gAk7Gdp0CX#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 13: 'further detention must necessarily be disallowed' -> 'dalji pritvor nužno mora onemogućiti' (onemogućiti = spriječiti, ne 'ne dozvoliti'); glagolski oblik je i gramatički nezgrapan.",
+      "suggestion": "'dalji pritvor nužno ne smije biti dozvoljen' / 'mora se smatrati nedozvoljenim'."
+    },
+    {
+      "id": "gAk7Gdp0CX#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 8: 'It is a constitutional mandate' -> 'Ustavni je nalog kojim se ... nalaže'; riječ 'nalog' je u glosaru rezervisana za 'writ' pa može zbuniti u pretraživanju.",
+      "suggestion": "'Ustavna je obaveza (zahtjev) kojim se nadležnom organu ... nalaže da...'."
+    },
+    {
+      "id": "gAk7Gdp0CX#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 11: prevod doslovno prati pokvarenu izvornu rečenicu ('koju je primila Vlada države obavijestila o odbijanju predstavke 23.6.1992.') pa je teško čitljiva; takođe zakon 'the Act' (TN Act) u istom pasusu prevedeno 'Zakona' bez 'TN' (prihvatljivo, ali dvosmisleno).",
+      "suggestion": "Zadržati vjernost, ali dodati veznik: 'koju je primila Vlada države, koja je 23.6.1992. godine saopštila odbijanje predstavke'; 'Zakona TN'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: oba itema imaju isti _id, isti broj novih redova (8 i 24), istu raspodjelu brojeva i datuma, svi citati sudske prakse su doslovni, nijedan pasus ni rečenica nijesu izostavljeni, bez ekavizama i hrvatizama; odnos riječi 0.86 i 0.88 je u granicama. Stranke su dosljedne (žalilac, protivne strane, podnosilac zahtjeva), glosar je poštovan, a registar je prirodan sudski. Preostale primjedbe su isključivo stilske i terminološke (minor), bez blokirajućih grešaka."
+}

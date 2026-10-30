@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "terminology_inconsistency",
+   "description": "'conspiracy' se dosljedno prevodi kao 'zavjera', ali u pasusu 13 'it does not amount to a criminal conspiracy' glasi 'ne predstavlja zločinačko udruživanje'. Glosar daje 'zločinačko udruživanje (dogovor)' za criminal conspiracy, ali u presudi se isti pojam (conspiracy / criminal conspiracy, član 120-A/120-B) označava dvama različitim terminima.",
+   "suggestion": "Ujednačiti: ili svugdje 'zavjera' (pa 'ne predstavlja krivičnu zavjeru'), ili svugdje 'zločinačko udruživanje' u dijelovima koji prevode 'criminal conspiracy'."
+  },
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "terminology_inconsistency",
+   "description": "'unlawful act' / 'illegal act' prevedeno različito: 'nezakonita radnja' (pasus 12-13) i 'protivpravnu radnju' ('without the knowledge of the conspiracy' -> 'izvrše protivpravnu radnju'; 'specific unlawful act' -> 'konkretnu protivpravnu radnju').",
+   "suggestion": "Koristiti jedan termin (npr. 'nezakonita radnja') za illegal/unlawful act u cijelom dijelu."
+  },
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "glossary",
+   "description": "'Abdul Kader v. State' preveden 'Abdul Kader protiv State' (State ostavljeno neprevedeno), dok je 'Director of Enforcement', 'Director of public Prosecutions' takođe ostavljeno na engleskom. Nedosljedno u odnosu na 'Board of Trade protiv Owen' i glosar (State of X -> država X). Takođe 'Central Govt.' -> 'centralne vlade' (glosar: Vlada, veliko slovo).",
+   "suggestion": "'Abdul Kader protiv države' (ili ostaviti cijeli naziv strane kao u izvoru dosljedno); 'Centralne vlade'."
+  },
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'Managing Director of the Rayala Corporation Ltd.' -> 'generalni direktor'; uobičajeniji pravnički ekvivalent je 'izvršni direktor' (ili 'direktor'). 'Constitution Bench' -> 'Ustavno vijeće (Constitution Bench)' uz glosar 'Division Bench -> vijeće' je prihvatljivo, ali 'Ustavno vijeće' zvuči kao organ, bolje 'ustavno vijeće (Constitution Bench)'.",
+   "suggestion": "'izvršni direktor kompanije Rayala Corporation Ltd.'; 'vijeće za ustavna pitanja (Constitution Bench)'."
+  },
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "meaning_nuance",
+   "description": "'His statement of law now receives acceptance by House of Lords' -> 'Njegovo tumačenje prava sada je prihvatio Dom lordova' ('statement of law' = izlaganje/stav o pravu, a ne tumačenje); 'indictable s. 21' -> 'kažnjiva po članu 21' slabi značenje 'indictable' (krivično djelo za koje se podiže optužnica). U pasusu 4: 'object is either achieved or terminated or abandoned' -> 'dok sporazum ne prestane' (subjekat 'cilj' zamijenjen sa 'sporazum').",
+   "suggestion": "'Njegovo izlaganje prava sada je prihvatio Dom lordova'; 'ucjena za koju se podiže optužnica prema članu 21'; 'dok cilj ne bude ostvaren ili ne prestane da važi ili ne bude napušten'."
+  },
+  {
+   "id": "ZDYUvh7i71#1",
+   "severity": "minor",
+   "type": "style",
+   "description": "Mala slova i pravopis preuzeti iz izvora (npr. 'lennart Schussler-', 'cijeli sporazum' poslije tačke, 'po mom mišljenju' poslije tačke, 'zavjera D 2 Engleska') — vjerno izvoru; ali 'Njima je ... stavljena na teret' i sl. su u redu. Jedino 'Harward Research', 'Tuft' ostavljeni kao u izvoru. Registar je uglavnom prirodan sudski, ijekavica dosljedna, nema ekavizama ni kroatizama.",
+   "suggestion": "Bez obavezne ispravke; opciono ispraviti očigledne OCR greške samo ako je politika benchmarka da se normalizuju (inače ostaviti)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (18), svi tokeni (A. 1, A.2, brojevi članova, citati, godine, iznosi) su identični izvoru, odnos riječi 0.93, bez izostavljenih ni dodatih rečenica i bez ekavizama ili kroatizama. Registar je prirodan i pravnički (ijekavica, 'krivično djelo', 'nijesu', 'protivne strane', 'žalilac'); nađena su samo manja terminološka odstupanja (zavjera vs. zločinačko udruživanje, nezakonita vs. protivpravna radnja) i nekoliko stilskih nijansi."
+}

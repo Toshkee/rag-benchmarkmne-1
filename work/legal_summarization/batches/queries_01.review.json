@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00017",
+   "severity": "minor",
+   "type": "ortografija",
+   "description": "Prevod zadržava normalizovani artefakt \"termsofservice nianticlabs com.\" umjesto standardne ortografije adrese.",
+   "suggestion": "termsofservice.nianticlabs.com (ako se želi dosljedno lijepljenje sa korpusom; u suprotnom ostaviti kao u izvoru)."
+  },
+  {
+   "id": "00008",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"Ne ponašajte se kao kreten\" za \"don t be a jerk\" je grublje od izvora.",
+   "suggestion": "\"Ne budite bezobrazni.\" ili \"Ne budite neprijatni.\""
+  },
+  {
+   "id": "00007",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"A, i EU ljudima...\" djeluje neprirodno za \"oh and the eu gives people...\".",
+   "suggestion": "\"Ah, da, EU u nekim slučajevima daje ljudima pravo na povraćaj sredstava. Ali ne u ovom.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se poklapa, brojevi (13, 60, 1000, 3.0) i tokeni su očuvani, nema ekavizama ni hrvatizama, odnos riječi je u granicama. Upiti su dosljedno razgovorni, kratki i u ijekavici, sa terminologijom iz glosara (nalog, uslovi, korisnički sadržaj, nijesmo odgovorni), uz tri sitna stilska odstupanja."
+}

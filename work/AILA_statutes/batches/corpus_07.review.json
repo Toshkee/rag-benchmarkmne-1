@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "9NIQ0Wobtq",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Zakonom o Ustavu (Četrdeset četvrti amandman) iz 1978. godine“ za „Constitution (Forty-fourth Amendment) Act, 1978“ - naziv je ustavni amandman, ne „zakon o Ustavu“ (ponovljeno 4 puta).",
+   "suggestion": "„Ustavnim zakonom (Četrdeset četvrti amandman) iz 1978. godine“ ili „Zakonom o izmjeni Ustava (Četrdeset četvrti amandman) iz 1978. godine“, dosljedno."
+  },
+  {
+   "id": "ZESFqZ8pIx",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Izvor: „Substituted by the A.O. 1937“; prevod: „Zamijenjeno naredbom A.O. 1937“ - dodata riječ „naredbom“ kojе nema u izvoru (isto „naredbama A.O. 1937, A.O. 1948, A.O. 1950“, gdje je ponovljena skraćenica).",
+   "suggestion": "„Zamijenjeno A.O. 1937 umjesto ...“; „mijenjane su A.O. 1937, A.O. 1948, A.O. 1950 i Zakonom 3 iz 1951. godine“."
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„Z ... zakonito uhapsi A“ i „usljed hapšenja“ (izvor: „lawfully arrested ... by the arrest“) - kolokvijalno; „A se pojavi kao svjedok... A, ponesen ovim riječima iznenadnom strašću“ - nezgrapno. „slučajni prolaznik“ za „bystander“ mijenja značenje (prolaznik vs. prisutni posmatrač).",
+   "suggestion": "„zakonito liši slobode A“ / „usljed lišenja slobode“; „A, uzbuđen ovim riječima, iznenada zapadne u strast i ubije Z“; „A, prisutno lice (posmatrač)“."
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„provocation“ je prevedeno kao „izazivanje“ i mjestimično „isprovocirano“; „obedience to the law“ kao „izvršavanju zakona“ (umjesto postupanja po zakonu); „Provisos“ kao „odredbe o izuzetku“ uz „Prvo/Drugo/Treće“ - nedosljedno u odnosu na „Drugo/Treće/Četvrto“ u glavnom dijelu.",
+   "suggestion": "Ujednačiti „provokacija“ (ili „izazivanje“) kroz cijeli tekst; „u poslušnosti zakonu / postupajući po zakonu“."
+  },
+  {
+   "id": "Xoblu17rNy",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„wrongfully restrains any person“ -> „protivpravno ograniči slobodu kretanja“: smisao je prihvatljiv, ali sužava izvorni izraz (restrain) i dodaje „slobodu kretanja“ koje u izvoru nije izričito navedeno.",
+   "suggestion": "Dozvoljeno zadržati; po potrebi „Ko protivpravno spriječi neko lice u kretanju“ kao bliže izvoru."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 6 _id-ova je prisutno, tokeni i svi brojevi se tačno poklapaju, odnos riječi je 0.85-1.06, nema ekavizama ni hrvatskih oblika, svi počinju sa „Naslov:“ i sadrže „Opis:“. Glosar (culpable homicide, zločinačko udruživanje, službeno lice, kazna doživotnog zatvora, zatvor strogi/obični) je primijenjen dosljedno, a registar je primjeren propisu; nađena su samo manja stilska i terminološka odstupanja, bez izostavljanja ili promjene značenja."
+}

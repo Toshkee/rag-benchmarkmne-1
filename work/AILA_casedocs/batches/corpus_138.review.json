@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 3, posljednja rečenica: „Žalbeni sud bi stoga trebalo da preinači oslobađajuću presudu samo kada postoje ...“ — neslaganje (sud bi ... trebalo). Izvor: „The appellate court should, therefore, reverse an acquittal only when ...“",
+   "suggestion": "„Žalbeni sud stoga treba da preinači oslobađajuću presudu samo kada ...“"
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 3: navod „very substantial and compelling reasons“ preveden „veoma ozbiljni i uvjerljivi razlozi“; „substantial“ ne znači „ozbiljan“.",
+   "suggestion": "„veoma značajni i uvjerljivi razlozi“ (ili „veoma bitni i uvjerljivi razlozi“)."
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "pravopis/ijekavica",
+   "description": "Unutar citata iz Nandyja (dio 45): „Patrona sačmarice ima sljedeće djelove i sadržaj“ — „djelove“ je od „djelo“; izvor: „has the following parts“.",
+   "suggestion": "„sljedeće dijelove i sadržaj“."
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Para 23: „photo lash Ex. Ka-7“ preveden kao „zapisnik o uviđaju na lešu (photo lash) Ex. Ka-7“ — dodato objašnjenje kojeg nema u izvoru (zabranjeno dodavanje tumačenja). Slično: para 36 „'lateral' (bočno)“, para 13/19 „uvrnute prema unutra“, „Spajanje rane uvrnuto prema unutra“ (izvor: „inverted“), para 39 dodata dvotačka poslije „Pitanje“.",
+   "suggestion": "Izostaviti dodate glose: „fotografije leša (photo lash) Ex. Ka-7“ ili ostaviti samo „photo lash Ex. Ka-7“; „uvrnute“ bez „prema unutra“; „Pitanje Da li ...“ kao u izvoru."
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 11: „Prema iskazu optuženog datom prema članu 313 Zakonika o krivičnom postupku“ — dvostruko „prema“. Izvor: „According to the statement of the accused u/s. 313“.",
+   "suggestion": "„Prema iskazu optuženog datom na osnovu člana 313 Zakonika o krivičnom postupku“."
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Para 10: „The uncle of the deceased“ → „Stric pokojnog“ sužava značenje (samo stric po ocu); izvor ne precizira. Isto: para 51 „rug“ → „tkanina“; „In front of the cardboard, disc is placed the wad“ → „Ispred kartona, odnosno diska“ (nezgrapno, izvorna zapeta pogrešno protumačena).",
+   "suggestion": "Para 10: „Ujak ili stric“ nije moguće utvrditi — upotrijebiti neutralno „Ujak/stric pokojnog“ ili ostaviti „stric“ uz napomenu u reviziji; para 51: „Ispred kartonskog diska postavljen je čep“; „rug“ → „krpa/prostirka“."
+  },
+  {
+   "id": "XRvj7uff0L#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 22 izvora: „injuries ... were of fresh duration“ → „bile svježe“; fraza „fresh duration“ nije u potpunosti prenijeta. Para 23: „Medical Officer“ → samo „ljekar“.",
+   "suggestion": "„bile svježeg datuma“ / „nedavno nastale“; „ljekar-službenik (Medical Officer)“ ili „zdravstveni službenik“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (51), nijedan pasus ni rečenica nijesu izostavljeni, brojevi, datumi, citati i oznake (P.W., Ex., IPC, članovi 302/307/313/323) su očuvani, bez ekavizama i kroatizama. Strane su dosljedne (optuženi/pokojni, prvostepeni sud, Visoki sud, žalilac). Registar je prirodan sudski; nađene su samo manje stilske i pravopisne greške (npr. „djelove“, „bi ... trebalo“, dodate glose)."
+}

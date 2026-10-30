@@ -1,0 +1,22 @@
+[
+ {"_id": "00280", "title": "", "text": "Da li naknade uključuju porez?"},
+ {"_id": "00281", "title": "", "text": "Da li naknade koje se plaćaju uključuju sve primjenjive poreze?"},
+ {"_id": "00282", "title": "", "text": "Mogu li u principu dobiti povraćaj sredstava kad otkažem svoj nalog?"},
+ {"_id": "00283", "title": "", "text": "Da li Shopify po pravilu vrši povraćaj sredstava u slučaju otkazivanja naloga?"},
+ {"_id": "00284", "title": "", "text": "Mogu li jednostavno da dam svoj eBay nalog nekom drugom?"},
+ {"_id": "00285", "title": "", "text": "Prema ugovoru, da li se ikad desi da prođe više od 24 sata dok oglas ne postane dostupan u pretrazi?"},
+ {"_id": "00286", "title": "", "text": "Da li, shodno ugovoru, postoje okolnosti u kojima oglas može postati dostupan u pretrazi tek po isteku perioda dužeg od 24 sata od kreiranja tog oglasa?"},
+ {"_id": "00287", "title": "", "text": "Da li eBay obećava da će podaci o proizvodima koje pruža biti bar donekle tačni?"},
+ {"_id": "00288", "title": "", "text": "Da li eBay garantuje određeni nivo tačnosti u pogledu podataka o proizvodima koje pruža?"},
+ {"_id": "00289", "title": "", "text": "Da li eBay odlučuje ko mora da plati troškove odlaska na arbitražu?"},
+ {"_id": "00290", "title": "", "text": "Da li je eBay ovlašćen da odluči koja strana snosi troškove arbitraže?"},
+ {"_id": "00291", "title": "", "text": "Mogu li softver koji preuzmem prodati nekom drugom?"},
+ {"_id": "00292", "title": "", "text": "Da li je krajnjim korisnicima po pravilu dozvoljeno da preprodaju softver koji preuzmu?"},
+ {"_id": "00293", "title": "", "text": "Da li je školama zabranjeno da učenicima na času obezbijede Microsoftova česta pitanja (FAQ) i slične dokumente?"},
+ {"_id": "00294", "title": "", "text": "Mogu li koristiti Microsoft forume za sprovođenje ankete?"},
+ {"_id": "00295", "title": "", "text": "Da li Microsoft dozvoljava korišćenje Komunikacionih usluga za sprovođenje anketa?"},
+ {"_id": "00296", "title": "", "text": "Da li Microsoft pristaje da nadgleda kako se koriste njegove grupe za ćaskanje i slične usluge?"},
+ {"_id": "00297", "title": "", "text": "Da li Microsoft daje uvjeravanja da nadzire funkcionisanje grupa za ćaskanje i sličnih usluga koje pruža?"},
+ {"_id": "00298", "title": "", "text": "Hoće li mi biti plaćeno ako Microsoftu dam kvalitetne povratne informacije o njegovim proizvodima?"},
+ {"_id": "00299", "title": "", "text": "Da li Microsoft plaća korisnike da bi mu pružali kvalitetne povratne informacije u vezi sa njegovim uslugama?"}
+]

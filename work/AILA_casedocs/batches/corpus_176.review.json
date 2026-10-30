@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "7nvdE2ODH0#0",
+   "severity": "minor",
+   "type": "neprevedeno zaglavlje",
+   "description": "Zaglavlje \"Appeal (Crl.)  713-714 iz 2004. godine\" ostavlja \"Appeal (Crl.)\" neprevedeno (izvor: \"Appeal (Crl.)  713-714 of 2004\"); po dijelu 9 oznaka predmeta se formira kao \"C.A. br. ... iz ... godine\".",
+   "suggestion": "\"Krivična žalba br. 713-714 iz 2004. godine\" (ili \"Appeal (Crl.) br. 713-714 iz 2004. godine\")."
+  },
+  {
+   "id": "7nvdE2ODH0#0",
+   "severity": "minor",
+   "type": "terminološka nepreciznost",
+   "description": "Para 1: \"but one of the accused was discharged\" -> \"jedan od optuženih oslobođen (discharged)\". \"Oslobođen\" se može pročitati kao oslobađajuća presuda (acquittal), a u istom pasusu se \"acquitted/acquittal\" prevodi \"oslobodio/oslobađajuća presuda\".",
+   "suggestion": "\"jedan od optuženih razriješen optužbe (discharged)\" ili \"protiv jednog od optuženih postupak je obustavljen (discharged)\"."
+  },
+  {
+   "id": "7nvdE2ODH0#0",
+   "severity": "minor",
+   "type": "pogrešan nijansa značenja",
+   "description": "Para 5: \"the accused examined Gurjant Singh as DW-1\" -> \"optuženi saslušali Gurjant Singha kao DW-1\". Optuženi ne saslušavaju svjedoke; oni su ga izveli/predložili kao svjedoka odbrane.",
+   "suggestion": "\"pa su optuženi izveli Gurjant Singha kao svjedoka odbrane DW-1\"."
+  },
+  {
+   "id": "OZM4OtBJTf#1",
+   "severity": "minor",
+   "type": "kalk / registar",
+   "description": "\"has resulted in miscarriage of justice\" -> \"doveli do povrede pravde\" je doslovan kalk i nije ustaljeni pravnički izraz.",
+   "suggestion": "\"doveli do pogrešne i nepravične odluke (miscarriage of justice)\" ili \"doveli do neostvarivanja pravde\"."
+  },
+  {
+   "id": "7nvdE2ODH0#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Appeal disposed of\" / \"The appeals are accordingly disposed of\" -> \"Žalba je riješena\" / \"Žalbe su, shodno tome, riješene\"; u presudama \"disposed of\" znači okončan postupak po žalbi (bez ocjene da je usvojena ili odbijena), pa \"riješena\" je prihvatljivo ali nedovoljno određeno.",
+   "suggestion": "\"Žalbe su, shodno tome, okončane\" / \"Žalba je okončana\" (dosljedno u oba mjesta)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: oba itema imaju iste _id-ove, isti broj novih redova (4 i 20), identične brojeve i token Rs., nijedna rečenica nije izostavljena niti dodata, a procesne uloge (žalilac, optuženi, Visoki sud, Sesijski sud, država Pandžab, vijeće) su dosljedne i tačne, uključujući kazne (doživotni zatvor, 7 i 3 godine, Rs.2,000/-, 6 mjeseci) i članove 302/34/304/326/313. Nema ekavskih ni hrvatskih oblika; registar je prirodan obrazloženju presude uz uredne glose (Division Bench, FIR, Sarpanch). Preostale primjedbe su isključivo stilske ili terminološke nijanse."
+}

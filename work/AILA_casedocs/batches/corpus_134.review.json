@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "kWCRNYdWCs#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„delay in making an order of detention / delay in arresting“ preveden kao „odlaganje u donošenju rješenja ... odlaganje u hapšenju“; „odlaganje“ znači odgađanje (postponement), a izvor misli na zakašnjenje/proteklo vrijeme. Takođe „ne smije biti pogrešno shvaćeno“ je blago hrvatizirano.",
+   "suggestion": "Koristiti „kašnjenje“ (npr. „kašnjenje u donošenju rješenja o pritvoru“, „kašnjenje u hapšenju pritvorenika“) i „pogrešno shvaćeno“ → „pogrešno razumjeti“ ili „pogrešno protumačiti“."
+  },
+  {
+   "id": "u8zF9OHzlw#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "„allow the appeal and convert the conviction“ preveden kao „Stoga usvajamo žalbu i preinačujemo osuđujuću presudu ... iz osude prema članu 302 u osudu“; „preinačujemo“ nije u glosaru, a „iz osude ... u osudu“ je nezgrapno. Glagol „oglasiti krivim“ koristi se umjesto glosarskog „osuditi/osuđujuća presuda“ (dosljedno, ali odstupa od uobičajene sintagme).",
+   "suggestion": "„Stoga usvajamo žalbu i mijenjamo osuđujuću presudu protiv žalioca tako da se umjesto za član 302 osuđuje za član 326 u vezi sa članom 34.“"
+  },
+  {
+   "id": "u8zF9OHzlw#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Pojedini izrazi su doslovni/neprirodni: „oko 1.15 časova po podne“ (1.15 p.m.), „s više osnova mogla pripisati njemu“ (more properly attributable), „ubodna sjekotina“ (incised stab wound), „Jemstvene obaveze se poništavaju“ (bail bonds cancelled).",
+   "suggestion": "„oko 13.15 časova“ ili „oko 1.15 časova poslije podne“; „primjerenije bi se mogla pripisati njemu“; „ubodna rana“ ili „probodna rana sa sjekotinom“; „Jemstvo se stavlja van snage“."
+  }
+ ],
+ "overall_quality": "Oba itema su potpuna i vjerna: skup _id-ova je isti, svi brojevi, članovi, iznos Rs. 1000 i citati su doslovni, broj novih redova je isti (3 i 20), nema ekavskih ni hrvatskih oblika, a stranke (žalilac, država, pokojni) su dosljedne cijelim tekstom. Nijesu pronađena izostavljanja, dodavanja ni promjene značenja. Registar je prirodan sudski, uz nekoliko sitnih stilskih odstupanja."
+}

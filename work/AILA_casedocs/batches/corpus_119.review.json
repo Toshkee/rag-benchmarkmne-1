@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 5: \"od 27 radnika čiji je zahtjeve po osnovu otpremnine trebalo namiriti njih 14 primilo\" - pogrešan oblik (izvor: \"whose claims had to be settled\").",
+   "suggestion": "Ispraviti u \"čije je zahtjeve ... trebalo namiriti\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 3: \"izvolio da novčane zahtjeve ... i novčane zahtjeve radnika ... uputi arbitru\" - nepravilna konstrukcija (\"izvolio da ... uputi\"); izvor: \"was pleased to refer\".",
+   "suggestion": "\"Ovaj sud je 27. jula 1984. godine izvolio da ... uputi\" -> \"... izvolio je uputiti ... arbitru radi odlučivanja putem arbitraže\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "stil/smisao",
+   "description": "Para 10: \"sudija Ray, kako je uvaženi predsjednik Vrhovnog suda tada bio\" - nezgrapno i nejasno (izvor: \"Ray, J. as the learned Chief Justice then was\").",
+   "suggestion": "\"sudija Ray, koji je tada bio predsjednik Vrhovnog suda\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "dosljednost glosara",
+   "description": "Imena predmeta: \"Union of India protiv A.L. Rallia Ram\" i \"Allen Berry and Co. (P) Ltd. protiv Union of India, New Delhi\" - \"Union of India\" ostavljeno na engleskom, iako glosar traži \"Indijska Unija\"; takođe \"Hindustan Tea Co. protiv K. Sashikant Co. and another\" - \"and another\" neprevedeno, dok je u zaglavlju \"and Others\" -> \"i drugih\".",
+   "suggestion": "\"Indijska Unija protiv A.L. Rallia Ram\"; \"... protiv Indijske Unije, Nju Delhi\"; \"K. Sashikant Co. i drugog\" (citati i brojevi izvještaja ostaju doslovno)."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "smisao (blago)",
+   "description": "Para 8: \"ili kada je arbitražna odluka bila neodređena, odnosno kada je prigovor zakonitosti ... bio očigledan\" - \"where\" je preneseno sa \"odnosno\" (znači \"to jest\"), što blago mijenja logiku uslova.",
+   "suggestion": "\"neodređena, pri čemu je prigovor zakonitosti arbitražne odluke bio očigledan iz same odluke\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 9: \"final and conclusive\" -> \"konačna i obavezujuća\" (conclusive nije \"obavezujuća\"); para 11: \"alleged mistakes ... navodni propusti ili navodne greške\" - \"propusti\" ne odgovara \"mistakes\".",
+   "suggestion": "\"konačna i neprijeporna\" (ili \"konačna i pravosnažna\"); \"navodne pogreške ili navodne greške\" odnosno \"navodne zablude ili greške\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "smisao (blago)",
+   "description": "Para 3: \"zahtijevaju i podržavaju da se navedena arbitražna odluka proglasi\" - izvor kaže samo \"supporting that the said award be made a rule of the court\"; \"zahtijevaju\" je dodato.",
+   "suggestion": "\"podržavajući da se navedena arbitražna odluka proglasi odlukom suda (rule of the court) i da se donese presuda ...\"."
+  },
+  {
+   "id": "phlhHVlnES#0",
+   "severity": "minor",
+   "type": "vremena",
+   "description": "Para 11: \"Pravna greška, a ne činjenična greška ..., bila je ono što ovaj sud može ispraviti\" - nesklad vremena (izvor: \"was amenable\"); para 10 citat: \"znači\" za \"meant\".",
+   "suggestion": "\"... bila je ono što je ovaj sud mogao ispraviti\"; u citatu \"značila je\" ili dosljedno prezent u obje rečenice."
+  }
+ ],
+ "overall_quality": "Automatska provjera: isti _id, isti broj novih redova (19), identičan skup tokena (Rs. x2) i svih brojeva, odnos riječi 0.90, bez ekavskih i hrvatskih oblika. Prevod je potpun (svih 12 pasusa i završna linija), citati i brojevi članova doslovni, uloge stranaka dosljedne (podnosilac zahtjeva, protivne strane br. 1-5, arbitar). Registar je prirodan sudski ijekavski; nađeno samo manjih gramatičkih i terminoloških odstupanja, bez blokirajućih."
+}

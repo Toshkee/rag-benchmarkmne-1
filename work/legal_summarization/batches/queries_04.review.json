@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "00097",
+      "severity": "minor",
+      "type": "neprirodna formulacija",
+      "description": "\"koji imaju određeni broj godina\" za \"users of a certain age\" – doslovno \"određeni broj godina\" mijenja nijansu (određeni uzrast).",
+      "suggestion": "\"Ova usluga je dostupna samo korisnicima određenog uzrasta.\""
+    },
+    {
+      "id": "00089",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Dodata imenica \"Sadržaj objavljujete...\"; izvor (you publish under a free license) nema objekat. Takođe \"dvostranom\" je neobičan prevod za bilateral.",
+      "suggestion": "\"Objavljujete pod slobodnom licencom, a ne pod bilateralnom.\""
+    },
+    {
+      "id": "00087",
+      "severity": "minor",
+      "type": "dodavanje/terminologija",
+      "description": "\"izvještaja o padovima aplikacije\" – \"aplikacije\" nema u izvoru (crash logs); \"opciono\" je kalk.",
+      "suggestion": "\"...anonimne statistike korišćenja i dnevnika o padovima potpuno neobavezno\" (npr. \"da je dijeljenje podataka poput anonimne statistike korišćenja i dnevnika padova potpuno neobavezno\")."
+    },
+    {
+      "id": "00084",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"scrape\" je preveden opisno (\"automatski prikupljati sadržaj\"); gubi se termin koji upit pogađa i \"cannot\" je blaže od \"ne smiju\" (prihvatljivo).",
+      "suggestion": "\"Korisnici ne smiju da skrejpuju (automatski prikupljaju) sajt ove usluge.\" ili zadržati sadašnje uz \"ne mogu\" po izvoru."
+    },
+    {
+      "id": "00075",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Upit je formalan i skoro doslovan (\"Potvrđujete i saglasni ste\" za acknowledge and agree; \"njeni uslovi su dio ovih uslova\"), a upiti treba da su razgovorni; \"acknowledge\" je bliže \"priznajete\".",
+      "suggestion": "\"Priznajete i saglasni ste da internet nikada nije potpuno privatan ni bezbjedan...\"; opciono ublažiti ton."
+    },
+    {
+      "id": "00076/00096",
+      "severity": "minor",
+      "type": "registar/terminološka nedosljednost",
+      "description": "00076 je pravnički teško (\"koji se protiv njih istaknu\", \"odgovornost\" dvaput) umjesto razgovornog; \"claim\" je u 00076 \"potraživanja\", u 00096 \"zahtjeva\".",
+      "suggestion": "Ujednačiti claim -> \"zahtjev\" ili \"potraživanje\" u cijelom batchu; 00076 pojednostaviti: \"Saglasni ste da Appleu nadoknadite štetu i da njega i povezana lica zaštitite od svih zahtjeva i troškova zbog vašeg korišćenja sajta.\" (ako se zadrži red riječi izvora, \"responsibility\" ostaviti kao odgovornost)."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup i redoslijed _id-ova se poklapa, polje context je izostavljeno kao u ostalim batchevima, nema tokena/brojeva za poređenje, odnosi riječi su u opsegu 0.75-1.35, nema ekavizama ni hrvatizama, a ortografija je normalna (velika slova, interpunkcija, nijesu, ijekavica). Termini iz glosara (politika privatnosti, treće lice, lični podaci, na sopstveni rizik, u viđenom stanju, obeštetiti i zaštititi od odgovornosti) su dosljedno primijenjeni. Nema blokirajućih nalaza; upiti su mjestimično formalniji nego što bi laički sažetak trebalo da bude, uz nekoliko sitnih stilskih primjedbi."
+}

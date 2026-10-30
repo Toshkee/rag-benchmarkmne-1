@@ -1,0 +1,70 @@
+{
+  "n_blocking": 0,
+  "n_minor": 9,
+  "issues": [
+    {
+      "id": "ZXe1cb51JJ#0:honorific",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Izvor 'Shri R.K. Jain' prevedeno kao 'G. R.K. Jain' (par. 4), a 'Shri Kalyan Chandra Sarkar' kao 'g. Kalyan Chandra Sarkar' (par. 'On the order-sheet'): nedosljedno veliko/malo slovo, a 'G. R.K.' na početku rečenice može se pročitati kao inicijal.",
+      "suggestion": "Ujednačiti: 'Gospodin R.K. Jain' na početku rečenice, 'g. ...' u toku rečenice."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:trial",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'the trial court is directed to hold trial ... three days in a week' -> 'održava glavni pretres ... tri dana nedjeljno', dok se na drugim mjestima 'trial' prevodi kao 'suđenje' ('ubrza suđenje', 'suđenje okonča hitno'). Nedosljednost termina unutar itema.",
+      "suggestion": "'da održava suđenje u prosjeku najmanje oko tri dana sedmično' (ili 'nedjeljno'), dosljedno 'suđenje'."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:glosses",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Dodate prevodilačke napomene u zagradi koje izvor nema: 'Iz zapisnika (order-sheet) Suda...' (izvor: 'order-sheet'), 'višem šefu policije (Senior SP) Patne, kao i šefu policije (SP)' (izvor: 'Senior SP of Patna as well as SP'). Stilski vodič zabranjuje prevodilačke napomene/objašnjenja.",
+      "suggestion": "Prevesti bez dopisivanja: 'Iz zapisnika od 25. 2. 2003. godine...' i 'višem šefu policije Patne, kao i šefu policije' (ili ostaviti samo 'Senior SP' / 'SP' bez dvostrukog zapisa)."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:respondent-accused",
+      "severity": "minor",
+      "type": "dosljednost stranaka",
+      "description": "U istom pasusu isto lice označeno različito: 'nijesu priznali da je optuženi 26. 9. 2004. godine priredio zabavu' pa odmah 'priznali su da je ... protivna strana neovlašćeno posjetila zatvor' (izvor: 'accused' pa 'respondent'). Prema vodiču unutar opisa predmeta isti termin za isto lice.",
+      "suggestion": "Ujednačiti na 'protivna strana' (ili 'optuženi') u cijelom citiranom odlomku, uz napomenu da izvor ima 'accused' - zbog doslovnosti prihvatljivo i ostaviti, ali dosljedno rodno."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:gender",
+      "severity": "minor",
+      "type": "gramatika/registar",
+      "description": "Lice (Rajesh Ranjan Yadav, muškarac, izvor 'he/his/him') prikazano u ženskom rodu zbog imenice 'protivna strana': 'Čak ni nakon što je izabrana za poslanika', 'njen zahtjev', 'Nakon toga je vraćena u pritvor', 'koristila mobilni telefon koji joj je oduzet'. Zvuči neprirodno i zbunjuje čitaoca/retriever.",
+      "suggestion": "Ili koristiti 'protivnik/protivna strana' u muškom rodu, npr. 'Čak ni nakon što je izabran za poslanika ... njegov zahtjev ... vraćen u pritvor', ili ostati dosljedan ali izbjeći lične zamjenice."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:authorities",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'some of the jail authorities have been transferred' -> 'neki od zatvorskih službenika su premješteni', dok se 'authorities' na drugim mjestima prevodi kao 'organi' ('organi u izvještajima', 'zatvorski organi u Beuru').",
+      "suggestion": "'neki od zatvorskih organa/funkcionera su premješteni' - dosljedno 'organi' ili 'zatvorski službenici' u svim slučajevima."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:directions",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "'directions issued by this Court / High Court of Patna' prevedeno kao 'naloga koje je izdao ovaj sud' / 'naloga koji je izdao Visoki sud u Patni'. 'Nalog' je u glosaru rezervisan za writ/warrant; 'direction' je uputstvo/naredba.",
+      "suggestion": "'uputstava/naredbi koje je izdao ovaj sud' (ili 'na osnovu naredbe Visokog suda u Patni')."
+    },
+    {
+      "id": "ZXe1cb51JJ#0:controversy",
+      "severity": "minor",
+      "type": "značenje",
+      "description": "'It is now beyond any controversy that such visits ... are in violation' -> 'van svake sumnje'. 'Controversy' znači spor, ne sumnju; blaga promjena nijanse.",
+      "suggestion": "'Sada je van svakog spora da su takve posjete ... suprotne odredbama ...'"
+    },
+    {
+      "id": "ZXe1cb51JJ#0:senior-counsel",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "'learned senior counsel' -> 'uvaženi viši zastupnik' (par. 2 i 4). Glosar propisuje 'uvaženi zastupnik'; 'viši zastupnik' je mogući, ali neustaljen izraz za 'senior counsel' (vjerovatno 'uvaženi viši advokat/zastupnik').",
+      "suggestion": "Zadržati dosljedno 'uvaženi viši zastupnik' ili 'uvaženi zastupnik'; odluku unijeti u glosar."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj redova (46), nijedna rečenica ni pasus nijesu izostavljeni, citati (AIR/SCC/Indlaw), brojevi članova, pravila i datumi su očuvani (jedina razlika u brojevima je '5' iz izvornog tipfelera 'wi5tnesses', ispravno ispravljen), nema ekavskih ni hrvatskih oblika. Strane su dosljedno žalilac/protivna strana/podnosilac zahtjeva po glosaru i značenje nigdje nije izmijenjeno. Registar je prirodan i pravnički; nalazi su samo stilski i terminološki (rod za 'protivna strana', ubačene glose, 'trial' kao 'glavni pretres')."
+}

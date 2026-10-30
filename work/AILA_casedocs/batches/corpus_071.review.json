@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "RBT7qYHDBT#2",
+   "severity": "minor",
+   "type": "grammar/meaning of quotation",
+   "description": "Citat iz arbitražne odluke u pasusu 16 je gramatički pokvaren: izvor \"half share of the ownership of the appellant shall \"be now owned by Shri Ram Lal, the respondent...\"\" prevedeno je \"polovinom udjela u svojini žalioca „sada biti vlasnik Shri Ram Lal, protivna strana...\" (instrumental umjesto nominativa, nejasno ko je vlasnik čega).",
+   "suggestion": "Arbitražnom odlukom je utvrđeno da će polovina udjela u svojini žalioca „sada biti u vlasništvu Shri Ram Lala, protivne strane, pored njegove polovine udjela u vlasništvu na tim zemljištima“."
+  },
+  {
+   "id": "RBT7qYHDBT#2",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Glosar: movable property → pokretna stvar; prevod koristi \"pokretna imovina\" / \"nepokretna imovina\" (\"moveable property\" → \"pokretna imovina\"). Takođe \"stvarni (beneficijarni) interes\" za \"beneficial interest\" i kalk \"interes\" za \"interest\" (\"svi ortaci imaju interes\") djeluju nepravnički.",
+   "suggestion": "Ujednačiti prema glosaru (pokretna stvar / nepokretna stvar ili dosljedno imovina) i zamijeniti \"interes\" sa \"pravo/udio\" (npr. \"svi ortaci imaju pravo na udio\", \"korist (beneficijarno pravo)\")."
+  },
+  {
+   "id": "RBT7qYHDBT#2",
+   "severity": "minor",
+   "type": "terminology consistency",
+   "description": "\"firm\" se prevodi i kao \"ortačko društvo\" i kao \"ortakluk\" (\"imovina ortačkog društva\" vs \"imovina ortakluka\", \"partnership\" takođe \"ortakluk\"/\"ortačko poslovanje\"), pa je teško pratiti razliku firm/partnership u istom pasusu.",
+   "suggestion": "Dosljedno: firm → ortačko društvo; partnership → ortakluk; \"partnership business\" → ortačko poslovanje; izbjegavati miješanje u istoj rečenici."
+  },
+  {
+   "id": "RBT7qYHDBT#2",
+   "severity": "minor",
+   "type": "ambiguity",
+   "description": "Rečenica o iznosu: \"naknadu u iznosu od Rs. 17,000 uvećanu za polovinu iznosa naplativih potraživanja poslovanja, u korist protivne strane\" - zarez i \"u korist protivne strane\" ostavljaju nejasno da se naknada plaća protivnoj strani (izvor: \"...of the business to the respondent\"). Takođe \"Sud je u presudi ukazao\" (the court = vijeće) i \"sudija pojedinac\" su neprecizni.",
+   "suggestion": "\"...uz naknadu od Rs. 17,000 uvećanu za polovinu iznosa naplativih potraživanja poslovanja, koja se plaća protivnoj strani\"; \"Vijeće je zatim u presudi ukazalo\"; \"sudija pojedinac\" zadržati ali dosljedno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedna rečenica nije izostavljena niti dodata, svi brojevi, iznosi (Rs. 17,000; Rs. 100), citati (Indlaw, SCR, SCC), brojevi članova i oznake (i), (fi), (iii), (iv) su očuvani, broj novih redova (6) je isti, a ijekavica i glosar (žalilac, protivna strana, vijeće (Division Bench), Visoki sud, član, stavljamo van snage, usvajamo) su dosljedno primijenjeni; nema ekavskih ni hrvatskih oblika. Registar je prirodan i pravnički, uz manje terminološke nedosljednosti (ortačko društvo/ortakluk, pokretna imovina) i jednu lošu gramatičku konstrukciju u prevedenom citatu iz arbitražne odluke. Polja head i n_chunks nijesu prenesena, što je u skladu sa pravilima."
+}

@@ -1,0 +1,56 @@
+{
+  "n_blocking": 1,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "blocking",
+      "type": "pogrešno značenje (srodstvo)",
+      "description": "P3: izvor 'her sister-in-law Jamunabai' i 'her brothers and sister-in-law' preveden kao 'od svoje snahe Jamunabai' / 'braćom i snahom'. 'Snaha' je žena sina/brata, a 'sister-in-law' je zaova/jetrva/svastika; mijenja se srodstvo svjedokinje.",
+      "suggestion": "Zamijeniti 'snahe'/'snahom' sa 'zaove' (ili 'jetrve') i 'zaovom', dosljedno na oba mjesta."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "dosljednost naziva strane",
+      "description": "P3: 'the accused came to her house' (odnosi se na žalioca) preveden 'optuženi je došao u njenu kuću', dok se isto lice svuda drugdje u pasusu naziva 'žalilac'; vodič traži isti termin za isto lice.",
+      "suggestion": "'rekla je da je žalilac došao u njenu kuću oko 3-30 poslije podne'."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "dodavanje prevodilačke napomene",
+      "description": "P4: 'police head- constable' → 'Policijski narednik (head-constable)'; u zagradi je dodat izvorni termin, što vodič (dio 5) ne dozvoljava izvan glosarskih pojmova.",
+      "suggestion": "'Policijski narednik koji je bio na dužnosti...' bez zagrade."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "P6: 'The statute law in India' → 'Zakonsko pravo u Indiji' je nenatural; 'reverse' u citatu čl. 423(2) ('alter or reverse the verdict') → 'izmijeni ili preinači' (preinačiti je blisko 'alter').",
+      "suggestion": "'Zakonodavstvo u Indiji ...'; 'izmijeni ili ukine verdikt porote' (za 'reverse')."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "P7: 'sub-cl. (d)' → 'podtačka (d)'; glosar (dio 9) daje 'cl. (b)' → 'tačka (b)', 'sub-s.' → 'stav'.",
+      "suggestion": "'Član 537 tačka (d)'."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "nijansa značenja",
+      "description": "P8 (citat uputstva sudije): 'letter written at the instance of Shilavati' → 'napisano po nalogu Shilavati' ('nalog' sugeriše naređenje); 'the improved version' → 'dopunjena verzija' (improved = dorađena/poboljšana).",
+      "suggestion": "'napisano na zahtjev Shilavati' (dosljedno i u P9); 'dorađena verzija'."
+    },
+    {
+      "id": "JLQ6xVJGyO#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "P3: 'was asked to smell certain scents' → 'su joj ... dali da pomiriše neke mirise' mijenja pasiv i lica (bezlično 'dali'); 'Ananda, uncle' → 'ujak' sužava značenje na ujaka po majci.",
+      "suggestion": "'zamoljena je da pomiriše neke mirise'; 'Ananda, stric/ujak' razriješiti prema kontekstu ili 'ujak' ostaviti uz napomenu u glosaru."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (16), svi brojevi, datumi, citati i tokeni (Exhibit 4-G, P, W, 10, 3-30, 11-40) identični izvoru; odnos riječi 0.86; nema ekavizama ni kroatizama; glosar (žalilac, Visoki sud, Sesijski sud, uvaženi zastupnik, član/stav, posebna dozvola za žalbu) primijenjen dosljedno. Registar obrazloženja presude je prirodan i pravnički; jedina značajnija greška je 'snaha' umjesto 'zaova' za sister-in-law, a ostalo su manje stilske i terminološke nijanse."
+}

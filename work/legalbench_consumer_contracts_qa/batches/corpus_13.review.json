@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "aVNqTIAae2",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Izvor: 'libelous ... defamatory'. Prevod: 'klevetnički, opscen, obmanjujući, uvredljiv' - 'defamatory' je preveden kao 'uvredljiv' u prvoj tački, a na kraju iste odredbe ('defamatory' u posljednjoj tački) kao 'klevetnički'. Nedosljedan termin; 'uvredljiv' (offensive) pomjera značenje.",
+      "suggestion": "Za 'libelous' i 'defamatory' koristiti dosljedno 'klevetnički' (ili 'libelous' -> 'koji sadrži klevetu', 'defamatory' -> 'klevetnički'); izbjeći 'uvredljiv'."
+    },
+    {
+      "id": "aVNqTIAae2",
+      "severity": "minor",
+      "type": "spelling",
+      "description": "Prevod: 'nejavnim oblastima ili djelovima Usluge' - pogrešan oblik množine; ijekavski je 'dijelovima' (u istom tekstu ispravno 'dijela').",
+      "suggestion": "Zamijeniti 'djelovima' sa 'dijelovima'."
+    },
+    {
+      "id": "aVNqTIAae2",
+      "severity": "minor",
+      "type": "consistency/style",
+      "description": "Izvor: 'Your Content' / 'Service'. Prevod: 'Vaš sadržaj', 'Uslugu' (veliko slovo); glosar traži 'vaš' malim slovom i 'usluga'. Takođe 'usluga Netflix' malim slovom u stavkama 4 i 5 (nedosljedna kapitalizacija unutar batcha). 'tamper with' je prevedeno 'mijenjate' i premješteno iza objekta; 'hateful' -> 'mrziteljski' je neprirodno.",
+      "suggestion": "Koristiti 'vaš sadržaj'; ujednačiti 'Usluga'/'usluga' kroz batch; 'hateful' -> 'koji podstiče mržnju'; 'tamper with' -> 'neovlašćeno zadirete u'."
+    },
+    {
+      "id": "xG7YXipN2I",
+      "severity": "minor",
+      "type": "style",
+      "description": "Izvor: 'interpreted, governed and construed'. Prevod: 'tumačiće se, uređivati i primjenjivati u skladu sa pravom države Delaver' - nepravilna gramatička konstrukcija (futur + infinitivi) i 'construed' preveden kao 'primjenjivati'; dodato 'države' (izvor: 'laws of Delaware').",
+      "suggestion": "'tumačiće se i uređivati pravom Delavera' ili 'tumačiće se, regulisaće se i izvršavati u skladu sa pravom Delavera'; po potrebi izostaviti 'države'."
+    },
+    {
+      "id": "0lnXv2Rra6",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Izvor: 'other communications made available to you'. Prevod: 'u drugim obavještenjima koja su vam stavljena na raspolaganje' - 'obavještenje' je glosarski za 'notice', a ovdje je 'communications'.",
+      "suggestion": "'u drugim saopštenjima/komunikaciji koja vam je stavljena na raspolaganje'."
+    },
+    {
+      "id": "5F21rWz5FY",
+      "severity": "minor",
+      "type": "omission",
+      "description": "Izvor: 'for payment of your subscription fee'. Prevod: 'za plaćanje vaše pretplate' - izostavljeno 'fee' (naknada).",
+      "suggestion": "'za plaćanje naknade za vašu pretplatu'."
+    },
+    {
+      "id": "pkObaWoukd",
+      "severity": "minor",
+      "type": "style",
+      "description": "Izvor: 'ANY CLAIM OF HARM'. Prevod: 'ZAHTJEVA ZA NAKNADU ŠTETE KOJA JE PROUZROKOVANA UZROKOM VAN KONTROLE' - dodato 'za naknadu' (izvor samo 'claim of harm'); ponavljanje 'UZROKOM' neelegantno. Inače vjeran i potpun prevod.",
+      "suggestion": "'SVAKOG ZAHTJEVA ZBOG ŠTETE KOJA PROIZLAZI IZ UZROKA VAN KONTROLE INSTRUCTURE'."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran, potpun i dosljedan: isti _id-ovi, isti broj novih redova, identični brojevi (12, 12, 50, 30, numeracija 1.1-3.5) i nema ekavizama ni hrvatskih oblika. Registar je odgovarajući opštim uslovima poslovanja (vi/mi, 'nijesu/nijeste', 'privremeno ukinuti', 'u viđenom stanju', 'treće lice' prema glosaru); nađene su samo sitne stilske i terminološke nepreciznosti."
+}

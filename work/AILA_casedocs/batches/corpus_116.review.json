@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "terminologija/stil",
+      "description": "Zaglavlje: izvor 'judgment and decree' preveden kao 'presude i presude u parnici (dekreta)' - dvostruko 'presude', nezgrapno (glosar je primijenjen mehanički).",
+      "suggestion": "'žalba protiv presude i presude u parnici (dekreta) Visokog suda Pandžaba' ili 'protiv presude (judgment) i dekreta (presude u parnici)'."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 2: 'shall be final and conclusive' -> 'biće konačna i obavezujuća'; 'conclusive' nije 'obavezujuća' (tačnije: neosporiva/definitivna).",
+      "suggestion": "'biće konačna i neosporiva'."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Član 175(3): 'executed' preveden kao 'potpisuju se'/'potpisan'; pasus 8 raspravlja o značenju izraza 'executed' ('uses the expression executed but that does not ... contemplate execution of a formal contract') pa prevod 'koristi izraz potpisuju se ... potpisivanje formalnog ugovora' gubi pravni pojam (izvršenje/zaključenje u ime).",
+      "suggestion": "Koristiti dosljedno 'izvršavaju se' / 'izvršenje' ili 'sačinjavaju se' za 'executed'/'execution' u pasusima 6-9."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "nejasnoća",
+      "description": "Pasus 8, prva rečenica: 'a formal document executed on behalf of the Dominion of India, and the other contracting party' -> 'potpisana u ime Dominiona Indije i druge ugovorne strane' sugeriše da je isprava potpisana u ime druge strane; izvor znači potpisana u ime Dominiona i (od) druge ugovorne strane.",
+      "suggestion": "'formalna isprava potpisana u ime Dominiona Indije i od strane druge ugovorne strane'."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Pasus 8 (citat tačke 6/9/11): 'navela da je, voljna da ponudi cijenu' - doslovno preneseno izvorno 'he, was Willing'; nepravilna interpunkcija/konstrukcija.",
+      "suggestion": "'navela da je voljna da ponudi cijenu od Re. /8/3 po paklici samo pod uslovom ...'."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Nedosljednost u nazivu akta: 'acceptance note' -> 'izjava o prihvatanju' naspram 'acceptance letter' -> 'pismo o prihvatanju'; 'Dominion Indija' (nominativ) vs 'obavezuje Dominion Indiju' - promjenljiva deklinacija; 'Division III' -> 'Odsjek III' bez glosara.",
+      "suggestion": "Ujednačiti: 'akt/pismo o prihvatanju' ili dosljedno 'izjava o prihvatanju'; 'Dominion Indije' dosljedno; 'Odsjek' ostaviti uz izvorni 'Division III' pri prvom pomenu."
+    },
+    {
+      "id": "4HZKjht3X1#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "'mandatory and not directory' -> 'imperativne, a ne instruktivne' i 'Proizlazi da' za 'It appears that' - donekle neprirodno za crnogorski pravni registar; 'predlog' za 'motion' umjesto 'zahtjev'.",
+      "suggestion": "'obavezujuće, a ne usmjeravajuće (instruktivne)'; 'Čini se da'; 'zahtjev za stavljanje van snage'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (20), svi brojevi, iznosi (Rs.), citati (npr. [1962] 2 S.C. R. 880) i datumi su identični izvoru, nema izostavljenih ni dodatih rečenica, strane su dosljedno označene (respondent -> protivna strana, Union of India -> Indijska Unija), bez ekavizama i hrvatizama; odnos riječi 0.91. Registar je prirodan i primjeren obrazloženju presude; preostale primjedbe su stilske i terminološke (prevod 'executed', 'conclusive', zaglavlje 'presude i presude u parnici')."
+}

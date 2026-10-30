@@ -1,0 +1,70 @@
+{
+  "batch": "corpus_120",
+  "n_blocking": 0,
+  "n_minor": 7,
+  "automatic_checks": {
+    "ids_match": true,
+    "newlines_src_vs_mne": "60 = 60",
+    "word_ratio": 0.85,
+    "tokens_P_A_S_W_SectionS_Rs": "nema ih u izvoru ni u prevodu",
+    "number_counts_differ": "nijedan broj ne odstupa",
+    "ekavian_regex_hits": [],
+    "croatian_hits": [],
+    "extra_manual_ekavian": [
+      "celishodnim"
+    ],
+    "paragraphs_omitted": "nijedan pasus ni rečenica nijesu izostavljeni (poređenje 61 reda 1:1)"
+  },
+  "issues": [
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "ekavizam",
+      "description": "Red [48], stav (10) citiranog člana 45: 'što smatra neophodnim ili celishodnim' (izvor: 'necessary or expedient'). 'celishodnim' je ekavski oblik; miješa ekavicu i ijekavicu.",
+      "suggestion": "'neophodnim ili cjelishodnim' (ili 'svrsishodnim')."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "pravopis",
+      "description": "Red [8]: 'pojedinih djelova člana 45 Zakona' (izvor: 'some part of s. 45'). 'djelova' je genitiv od 'djelo', a ovdje je riječ o 'dio'.",
+      "suggestion": "'pojedinih dijelova člana 45 Zakona'."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "terminološka nedosljednost",
+      "description": "Red [54]: 'dostavi bankarskoj kompaniji (prenosiocu), kao i banci prenosiocu' (izvor: 'banking company (transferer) as also to the transferer bank'). Izvor ima pogrešnu grafiju za 'transferee bank', a u ostatku presude 'transferee bank' je dosljedno 'banka preuzimalac' (npr. u istom redu: 'primljenih od bankarske kompanije i banke preuzimaoca'). Prevod uvodi dva različita termina za isti subjekt.",
+      "suggestion": "'...dostavi bankarskoj kompaniji (prenosiocu), kao i banci preuzimaocu' (izvor ima očiglednu štamparsku grešku)."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "broj / strana u postupku",
+      "description": "Red [56]: 'Budući da protivna strana tvrdi da je isključenje naređeno...' (izvor: 'the case of the respondents', množina; riječ je o RBI, bankama preuzimaocima i Indijskoj Uniji).",
+      "suggestion": "'Budući da protivne strane tvrde da je isključenje naređeno...'."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "terminologija / dvosmislenost",
+      "description": "Red [10]: '(1) Zakon ne zahtijeva da nacrt šeme sadrži imena...' (izvor: 'Law does not require'). 'Zakon' s velikim slovom se u presudi koristi kao definisani pojam za Zakon o regulisanju bankarskog poslovanja iz 1949. godine ('Act'), pa se gubi razlika između opšteg 'Law' i 'the Act'.",
+      "suggestion": "'Pravo ne zahtijeva da...' ili 'Propisi ne zahtijevaju da...' (malo slovo)."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "stil / gramatika",
+      "description": "Red [36]: 'osim onih među njima koji, s obzirom na to da nijesu radnici u smislu Zakona o industrijskim sporovima iz 1947. godine, su izričito navedeni u šemi' (izvor: 'excepting such of them as not being workmen within the meaning of the ... Act, 1947 are specifically mentioned'). Nezgrapna konstrukcija sa uzročnim 's obzirom na to' koje izvor nema i neuobičajen red riječi 'koji, ..., su'.",
+      "suggestion": "'osim onih među njima koji nijesu radnici u smislu Zakona o industrijskim sporovima iz 1947. godine, a izričito su navedeni u šemi'."
+    },
+    {
+      "id": "HtYDZw69Cr#0",
+      "severity": "minor",
+      "type": "naziv zakona",
+      "description": "Red [45]: 'Zakona o bankarskim propisima (razne odredbe) iz 1963. godine' (izvor: 'Banking Laws (Miscellaneous Provisions) Act, 1963'). Nazivi 'bankarski propisi' i 'razne odredbe' odstupaju od glosara ('Miscellaneous' -> 'Ostale odredbe'); tvorba naziva nije dosljedna.",
+      "suggestion": "'Zakon o bankarskim zakonima (ostale odredbe) iz 1963. godine' ili 'Zakon o bankarskim propisima (ostale odredbe)'; usaglasiti sa glosarom."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 61 redova (60 novih redova) poklapa se 1:1 sa izvorom, brojevi, članovi, stavovi i datumi su očuvani, a nema izostavljenih ni dodatih rečenica niti promjene značenja ili strana u postupku. Terminologija prati glosar (Visoki sud, vijeće (Division Bench), ustavna tužba (writ petition), Indijska Unija, nijesu), a registar je prirodan i prikladan sudskom obrazloženju. Preostali nedostaci su sitni: jedan ekavizam (celishodnim), pravopisna greška (djelova), te nekoliko terminoloških i stilskih nedosljednosti."
+}

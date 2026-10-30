@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "\"web site\" je prevedeno kao \"internet stranica\" (\"ovom internet stranicom\", \"bilo koje stranice\"), dok je u drugim itemima batcha \"site\" dosljedno \"sajt\" (scEm5uaP4Z, mOXrcLFokc, 2qFl41sNLj). Isti pojam, dva termina; \"any site\" -> \"bilo koje stranice\" je i dvosmisleno.",
+   "suggestion": "Ujednačiti: \"ovog sajta\" / \"bilo kojeg sajta ili resursa koji su povezani...\" (ili dosljedno internet stranica svuda, a \"sajt\" samo kad izvor kaže \"site\")."
+  },
+  {
+   "id": "50OXirZRiR",
+   "severity": "minor",
+   "type": "register_precision",
+   "description": "\"if you create risk or legal exposure for us\" prevedeno kao \"izlažete nas pravnoj odgovornosti\"; \"legal exposure\" je izloženost pravnom riziku, a \"odgovornost\" je glosarski termin za liability.",
+   "suggestion": "\"ili ako za nas stvarate rizik ili pravnu izloženost\" / \"izlažete nas pravnom riziku\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup i redoslijed _id-ova (25/25), brojevi (18, 18) i svi iskazi očuvani, bez izostavljanja, dodavanja ili promjene značenja; odnos dužine 0.75-1.18, bez ekavizama i hrvatizama. Registar je formalan ugovorni uz dosljedno primijenjen glosar (uslovi korišćenja, politika privatnosti, treće lice, korisnički sadržaj, obeštetiti i zaštititi od odgovornosti, raskinuti, kolizione norme), ortografija normalna sa velikim slovima, apostrofima i interpunkcijom. Preostale primjedbe su samo stilske."
+}

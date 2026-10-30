@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "terminologija/značenje",
+      "description": "Paragraf 10: izvor 'Naidu, J. did not purport to proceed under s.439' preveden 'nije namjeravao da postupa prema članu 439'. 'Did not purport' znači 'nije tvrdio/nije formalno postupao' prema članu 439, a ne 'nije namjeravao'; blago pomjeren smisao (kasnije u istom pasusu se kaže da je zaista namjeravao da koristi ovlašćenja iz člana 439).",
+      "suggestion": "'sudija Naidu nije formalno postupao prema članu 439' (ili 'nije se pozvao na član 439')."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "registar/oznaka",
+      "description": "Paragraf 11: 'Mr. Choudhury' preveden 'G. Choudhury' (veliko G izgleda kao inicijal), dok je u paragrafu 10 'Mr. A. Gangadhara Rao' pravilno 'g. A. Gangadhara Rao'. Nedosljedno.",
+      "suggestion": "'g. Choudhury u ime žalioca ističe da ...'."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "dodatak",
+      "description": "Paragraf 4: 'Criminal M. P. No. 242 of 1958' preveden 'krivični predmet M. P. br. 242 iz 1958. godine' - dodata riječ 'predmet' i prevedena oznaka 'Criminal'; u izvoru je to oznaka vrste zahtjeva.",
+      "suggestion": "'(Krivični M. P. br. 242 iz 1958. godine)'."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "preciznost",
+      "description": "Paragraf 2: 'robbed the said victim of her four pairs of gold Konakammulu' preveden 'oduzela navedenoj žrtvi njena četiri para ...'; 'oduzela' ne prenosi značenje 'opljačkala/razbojništvom oduzela' i slabi vezu sa krivičnim djelom razbojništva.",
+      "suggestion": "'opljačkala navedenu žrtvu, odnijevši joj četiri para zlatnih Konakammulu ...'."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "preciznost citata",
+      "description": "Paragraf 3, citat: izvor 'convicted for the offence or proved by evidence to have been committed by her' preveden 'za krivično djelo ili djela za koja se dokazima dokaže da ih je izvršila' - dodato 'ili djela' (množina) kojeg u izvoru nema.",
+      "suggestion": "'osuđena za krivično djelo za koje se dokazima dokaže da ga je izvršila'."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Paragraf 2: 'Court of Sessions, Visakhapatnam Division' preveden 'Sesijskim sudom, oblast Visakhapatnam' - 'Division' kao 'oblast' nije u glosaru. Takođe 'pleader' (par. 7, 10) preveden 'branilac', iako se radi o zastupniku (pleader) stranke.",
+      "suggestion": "'Sesijski sud, odjeljenje Visakhapatnam'; 'pleader' -> 'zastupnik' (ili 'zastupnik (pleader)')."
+    },
+    {
+      "id": "pkObaWoukd#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Paragraf 9: 'conditioned by the said consideration' preveden 'uslovljena tim razlogom'; 'consideration' ovdje znači 'razmatranje/okolnost', ne 'razlog'. Takođe 'preinačiti' i 'ovlašćeni' uglavnom su dosljedni, ali 'Full Bench' je preveden 'prošireno vijeće' bez glosara (dosljedno u cijelom tekstu, pa samo napomena).",
+      "suggestion": "'uslovljena tom okolnošću'; za Full Bench zadržati 'prošireno vijeće (Full Bench)' pri prvom pomenu (već učinjeno u par. 5)."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (22), svi pasusi i rečenice prisutni, svi brojevi (članovi, brojevi predmeta, datumi, citirani pasusi) podudarni, odnos riječi 0,85, bez ekavizama i hrvatizama. Glosar se dosljedno primjenjuje (žalilac, protivna strana, Visoki sud, Sesijski sud, uvaženi, nijesu, Zakonik o krivičnom postupku), a registar je prirodan pravnički crnogorski; nađena su samo sitna odstupanja u nijansama."
+}

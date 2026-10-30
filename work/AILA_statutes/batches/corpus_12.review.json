@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "VHWGaub52Z",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"habitually accepts or obtains\"; prevod: \"uobičajeno prima ili pribavlja\". \"Uobičajeno\" znači 'kako je uobičajeno', a ne 'po navici/učestalo'. Takođe miješanje trajnog vida (\"prima\") i svršenog (\"pristane\", \"pokuša\") u istoj nabrojanoj radnji.",
+   "suggestion": "\"po navici prima ili pribavlja, ili pristaje da primi, ili pokušava da pribavi\" (isto u tački (b))."
+  },
+  {
+   "id": "VHWGaub52Z",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"Criminal misconduct by a public servant\" / \"commit the offence of criminal misconduct\"; prevod: \"Zloupotreba službenog položaja od strane službenog lica\" / \"krivično djelo zloupotrebe službenog položaja\". Nije u glosaru; \"criminal misconduct\" je širi pojam (uključuje i neobjašnjenu imovinu) i blizak glosarskom \"zloupotreba povjerenja\" (criminal breach of trust), pa može dovesti do zabune.",
+   "suggestion": "Razmotriti \"Krivično nedolično postupanje službenog lica\" / \"krivično djelo nedoličnog postupanja\" i dosljedno koristiti u cijelom korpusu."
+  },
+  {
+   "id": "8H6h8l7qgA",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"State Government\" je preveden \"Vlada savezne države\" (\"u obliku koji propiše Vlada savezne države\"); glosar daje Government → Vlada, State → Država. Dodatak \"savezne\" nije u izvoru, a u ovom batchu je ispravno dosljedan.",
+   "suggestion": "\"Vlada Države\" (ili uskladiti sa odlukom za cijeli korpus); ostaviti dosljedno."
+  },
+  {
+   "id": "8H6h8l7qgA",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Izvor: \"Provided that at the commencement of the inquiry or trial...\"; prevod: \"Izuzetno, na početku istrage ili suđenja, magistrat...\". Proviso je prikazan kao priloški početak rečenice i gubi se karakter odredbe o izuzetku. Takođe \"saopšti radnje koje je preduzeo\" (action taken) je nespretno.",
+   "suggestion": "\"Uz izuzetak da će, na početku istrage ili suđenja, magistrat...\"; \"saopšti mjere koje je preduzeo\"."
+  },
+  {
+   "id": "8H6h8l7qgA",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Skraćenica \"s.\" iz fusnota prevedena je kao \"čl.\" (\"Zamijenjeno Zakonom 18 iz 1923. godine, čl. 40\"), dok je u predmetu IqK3yn9Ffc isti tip fusnote preveden punim \"član 117\" (po stilskom vodiču). Nedosljednost unutar batcha.",
+   "suggestion": "Ujednačiti: \"član 40\" i \"član 23\" kao u stilskom vodiču."
+  },
+  {
+   "id": "Arp5B1Id9Z",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Izvor: \"shall regard ... as among its primary duties\"; prevod: \"Država smatra ... kao jednu od svojih primarnih dužnosti\". Singular \"jednu\" za tri nabrojana cilja, kalk \"smatra ... kao\", i indikativ \"nastoji\" umjesto ustavne normativne forme (\"shall endeavour\"). \"Konzumiranje\" nije ustavni registar.",
+   "suggestion": "\"Država podizanje nivoa ishrane i životnog standarda svog naroda i unapređenje javnog zdravlja ubraja među svoje primarne dužnosti, a posebno će nastojati da zabrani upotrebu, osim u medicinske svrhe, opojnih pića i droga štetnih po zdravlje.\""
+  },
+  {
+   "id": "IqK3yn9Ffc",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Izvor: \"any instrument which, used as a weapon of offence, is likely to cause death\"; prevod: \"može prouzrokovati smrt\". \"Is likely\" znači 'vjerovatno će', što je uži standard od \"može\". Takođe \"nekom nagrizajućom materijom\" je gramatički neskladno (\"nekom nagrizajućom\" -> \"nekom nagrizajućom materijom\" ok, ali \"nekim\" ponavljano kao kalk za \"any\"); prirodnije \"bilo kojim\".",
+   "suggestion": "\"koje, upotrijebljeno kao oružje za napad, će vjerovatno prouzrokovati smrt\"; ujednačiti \"any\" -> \"bilo kojim\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: sva četiri _id-a se poklapaju, svi brojevi (članovi, stavovi, godine, fusnote) i oznake [1], [2] su očuvani, nema izostavljenih ni dodatih rečenica, nema ekavskih ni hrvatskih oblika, a format Naslov:/Opis: je ispravan. Registar je uglavnom pravnički i blizak crnogorskim propisima (\"kazniće se\", \"službeno lice\", \"kaznom doživotnog zatvora\"), uz nekoliko manjih terminoloških i stilskih odstupanja, bez blokirajućih grešaka."
+}

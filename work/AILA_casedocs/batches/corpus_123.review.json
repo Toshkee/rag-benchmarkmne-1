@@ -1,0 +1,49 @@
+{
+ "n_blocking": 1,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "blocking",
+   "type": "pogrešno značenje (terminologija)",
+   "description": "'driving the piles' / 'driven' prevedeno kao 'pobijanje šipova' (npr. 'za pobijanje šipova kroz taj sloj', 'šipove duže od 30 stopa veoma teško pobiti', 'ispiranje mlazom vode ... radi pobijanja šipova'). 'Pobijati' znači opovrgavati (argument), ne zabijati šip; greška se ponavlja na ~7 mjesta (pasusi 2, 4, 7).",
+   "suggestion": "Zamijeniti sa 'zabijanje šipova' / 'zabiti šipove' / 'zabijanje maljem' (pasus 7: 'pri zabijanju šipova', 'prodiranju šipa pri zabijanju maljem'; pasus 2 u pismu: 'šipove duže od 30 stopa veoma je teško zabiti u Ernakulumu')."
+  },
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 7, citat: 'ali to ne znači da je on trebalo da vrši istražna bušenja' — pogrešan rod ('on ... trebalo').",
+   "suggestion": "'ali to ne znači da je on trebalo da vrši' → 'ali to ne znači da je on trebao da vrši istražna bušenja'."
+  },
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "minor",
+   "type": "dodavanje / prevodilački glosi",
+   "description": "Dodane zagrade koje ne postoje u izvoru: '(tendera)', '(jetting)' (više puta), '(Accountant General)', '(legal misconduct)', '(misconduct)', '(Subordinate Judge)'. Stilski vodič (dio 5) zabranjuje dodavanje objašnjenja; glosi su dozvoljeni samo za termine iz glosara (npr. writ, decree).",
+   "suggestion": "Ukloniti glose koji nijesu propisani glosarom ili ih ostaviti samo pri prvom pomenu i dosljedno; npr. 'glavnog računovođe' bez '(Accountant General)', 'pravno nedozvoljeno postupanje' bez '(legal misconduct)'. Zadržati ih jedino ako je odluka da se pravni pojam čuva izvorno, ali ujednačeno."
+  },
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Kraj pasusa 10: 'after giving opportunity to the parties' preveden kao 'nakon što stranama pruži mogućnost da se izjasne' — dodato 'da se izjasne' (u izvoru samo mogućnost/prilika strankama).",
+   "suggestion": "'i nakon što stranama pruži priliku' (ili 'mogućnost da budu saslušane' ako se želi eksplicitnost, ali izvor to ne kaže)."
+  },
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "'tender' se prevodi dvojako: 'obavještenje o raspisivanju ponuda' i 'u tenderu' (pasus 7: 'klasifikaciju koju je Odjeljenje dalo u tenderu'); u pasusu 2 dodat je glos '(tendera)'.",
+   "suggestion": "Ujednačiti: 'u obavještenju o raspisivanju ponuda' umjesto 'u tenderu'."
+  },
+  {
+   "id": "Rtva1JyiNb#0",
+   "severity": "minor",
+   "type": "stil / registar",
+   "description": "Neprirodne formulacije: 'podtla' (sub-soil), 'Izgleda da je kasnije ... podnio izvještaj' (It appears later on), 'Odluka glavnog inženjera' prevodi 'The Chief Engineer's decision' korektno, ali 'Odjeljenje' za 'Department' je dosljedno; ostatak registra je prikladan.",
+   "suggestion": "'podtla' → 'tla ispod površine'; 'Izgleda da je kasnije' → 'Čini se da je kasnije'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj redova (24), svi pasusi 1-10 i oba citirana pisma prisutni, svi brojevi i tokeni (P. 1, P. 10, P. 11, P. 16, 34, 30(a), A.S. br. 357, 10 SC/75-15) identični, odnos riječi 0,90, bez ekavskih ili hrvatskih oblika. Glosar (žalilac, protivna strana, Visoki sud, uvaženi zastupnik, osporena odluka, ukinuta, usvaja se, član) dosljedno primijenjen, a registar je prikladan sudskoj naraciji. Jedina suštinska greška je 'pobijanje' umjesto 'zabijanje' šipova; ostalo su manji stilski glosi i gramatička omaška."
+}

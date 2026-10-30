@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "4HZKjht3X1#2",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "Para 24: \"pravo o naknadi štete me obavezuje da dosudim kamatu\" za \"the law of compensation compels me\" je nezgrapno (pogrešan predlog).",
+   "suggestion": "\"pravo naknade štete me obavezuje\" ili \"pravila o naknadi štete me obavezuju da dosudim kamatu\"."
+  },
+  {
+   "id": "4HZKjht3X1#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 26 (citat): \"dug koji mu pripada\" za \"a debt which is due to him\" - dug ne \"pripada\" povjeriocu, nego mu je dospio/duguje se.",
+   "suggestion": "\"dug koji mu se duguje\" / \"dospjeli dug\"."
+  },
+  {
+   "id": "4HZKjht3X1#2",
+   "severity": "minor",
+   "type": "dosljednost glosara",
+   "description": "Za \"set aside\" prevod koristi \"stavljena van snage\" / \"stavljanju van snage\" (zadnji pasus), dok dio 9 propisuje \"ukinuta\" (dio 3 dopušta oba oblika).",
+   "suggestion": "Ujednačiti prema dijelu 9: \"arbitražna odluka superarbitra ukinuta u dijelu u kojem ...\" i \"ne podliježe ukidanju\"."
+  },
+  {
+   "id": "4HZKjht3X1#2",
+   "severity": "minor",
+   "type": "pravni registar",
+   "description": "\"neće biti rješenja o troškovima postupka ni u jednoj instanci\" za \"no order as to costs throughout\" je doslovno i neprirodno u pravnom registru.",
+   "suggestion": "\"neće biti odluke o troškovima postupka u svim instancama\" ili \"svaka strana snosi svoje troškove u svim instancama\"."
+  },
+  {
+   "id": "4HZKjht3X1#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 25: \"protivčinidba za njegovo plaćanje izostala\" za \"consideration for the payment has failed\" - preuski/neprirodan termin; \"morala da se organizuje tako što je pozajmila novac\" za \"make arrangements by borrowing\" (para 29) je slobodno; \"pravičnih i razumnih cijena\" za \"fair and reasonable rates\" (rates = stope/tarife).",
+   "suggestion": "\"osnov plaćanja otpao\"; \"morala da obezbijedi sredstva pozajmljivanjem od bankara\"; \"na osnovu pravičnih i razumnih stopa/tarifa\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (17), svi brojevi (iznosi u indijskoj notaciji, članovi, citati L.R./A.C./S.C.R., godine) identični izvoru, nijedan pasus ni rečenica nijesu izostavljeni niti dodati, stranke dosljedno označene (protivna strana, Indijska Unija, Vlada Indije). Odnos riječi 0.86 je u granicama; nema ekavskih ni hrvatskih oblika. Registar je primjeren obrazloženju presude, uz manje neprirodne formulacije navedene gore."
+}

@@ -1,0 +1,70 @@
+{
+  "n_blocking": 1,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "blocking",
+      "type": "promijenjeno značenje (obrnut smjer potkrepljivanja)",
+      "description": "Pasus 29: izvor \"The evidence of PW 2 receives corroboration from PW 1\" (iskaz PW 2 potkrepljuje PW 1) preveden kao \"Iskaz PW 2 potkrepljuje PW 1\", što se čita da PW 2 potkrepljuje PW 1 - suprotan smjer od izvora (PW 1 potkrepljuje PW 2) i bez riječi \"iskaz\" uz PW 1.",
+      "suggestion": "\"Iskaz PW 2 potkrepljuje se iskazom PW 1.\""
+    },
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "minor",
+      "type": "registar/leksika",
+      "description": "Pasus 26: \"murderous attack\" -> \"ubilačkom napadu\" je neprirodno za pravnički registar.",
+      "suggestion": "\"napadu na KK sa namjerom da ga se liši života\" ili \"smrtonosnom napadu\"."
+    },
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Pasus 26: \"He along with Dhruv\" -> \"On je zajedno sa licem po imenu Dhruv\"; dodato \"licem po imenu\" kojeg nema u izvoru.",
+      "suggestion": "\"On je zajedno sa Dhruvom podigao KK iz Nali...\" (ili \"sa Dhruv\")."
+    },
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 29: \"The reason ... is fanciful\" -> \"je proizvoljan\"; \"fanciful\" znači nerealan/izmišljen, \"proizvoljan\" pomjera nijansu.",
+      "suggestion": "\"je nerealan\" ili \"neutemeljen\"."
+    },
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 34: \"The plea of alibi has not been pursued\" -> \"Prigovor alibija nije dalje istican\"; alibi se ističe kao odbrana/tvrdnja, ne prigovor. Takođe izvorno \"sec. 82/83 Cr. Penal Code\" je preveden kao \"Zakonika o krivičnom postupku\" (usklađeno sa pasusom 36, ali odstupa od izvora).",
+      "suggestion": "\"Odbrana alibijem nije dalje isticana\"; razmotriti da se dosljedno koristi jedan naziv (izvor je nedosljedan), što je ovdje prihvatljivo."
+    },
+    {
+      "id": "qWCA79ISjs#1",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Pasus 27: \"street mercury light\" -> \"ulična živina svjetiljka\" je nespretno.",
+      "suggestion": "\"svjetiljka sa živinom parom na ulici\" ili \"ulična živina lampa\"."
+    },
+    {
+      "id": "JHS64k2k59#0",
+      "severity": "minor",
+      "type": "izostavljanje",
+      "description": "Citat odobrenja (Exh. P-16): \"Sri Mohd. Iqbal Ahmed\" -> \"Mohd. Iqbal Ahmed\"; izostavljena titula \"Sri\" u doslovnom citatu. Takođe \"Section Officer\" -> \"šefa Odsjeka\" (šef je jači izraz od službenika).",
+      "suggestion": "\"g. (Sri) Mohd. Iqbal Ahmed\"; \"službenika Odsjeka za urbanizam\" (uz glosar: Officer -> službenik)."
+    },
+    {
+      "id": "JHS64k2k59#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 2: \"Prema navodima optužbe, žalilac je navodno ugovorio\" - dvostruko \"navod/navodno\" (izvor: \"According to the prosecution the appellant is said to have\").",
+      "suggestion": "\"Prema optužbi, žalilac je navodno ugovorio primanje mita...\""
+    },
+    {
+      "id": "JHS64k2k59#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 3: \"government servants\" -> \"državnim službenicima\", a \"public servant\" -> \"službenog lica\"; u istom pasusu dva različita termina, a glosar traži \"službeno lice\" za public servant. Takođe \"Committee\" -> \"Odbor\" naspram \"Stalni odbor\" (prihvatljivo).",
+      "suggestion": "Za \"government servants\" može ostati \"državni službenici\", ali razmotriti \"službena lica\" radi dosljednosti."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: oba itema imaju isti _id, isti broj novih redova, identične brojeve i tokene (Rs. 250/-, Rs. 125/-, Exh. P-16, 34. novembra 1977. itd.), nema izostavljenih rečenica, nema ekavizama ni kroatizama, a glosar (žalilac, Visoki sud, uvaženi zastupnik, ukinuta, usvojena, Organ za davanje odobrenja) je dosljedno primijenjen. Registar je pretežno prirodan i pravnički; jedina ozbiljnija greška je obrnut smjer potkrepljivanja u pasusu 29 prvog itema, a ostalo su sitne stilske nijanse."
+}

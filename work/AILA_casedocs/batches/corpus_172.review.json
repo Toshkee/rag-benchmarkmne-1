@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 'In these circumstances...': izvor 'he being no other than her own husband' preveden kao 'njen rođeni muž'. 'Rođeni muž' je neprirodno i sugeriše srodstvo/porijeklo.",
+   "suggestion": "'njen muž' ili 'njen zakoniti muž'."
+  },
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "nejasnoća",
+   "description": "'during Manju's second/third visit to Beed' preveden kao 'tokom druge posjete Manju Beedu' (pasusi koji počinju 'I do not recollect...', 'The evidence of P.W. 6...', '199.'): zbog nedeklinabilnog 'Manju' čita se kao 'posjeta Manju (kome?)'.",
+   "suggestion": "'tokom Manjuine druge posjete Beedu' / 'kada je Manju po drugi put boravila u Beedu'."
+  },
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "nedosljednost / citat",
+   "description": "Citat 'Hate Singh Bhagat Singh v. State of Madhya Bharat 1951 Indlaw SC 81, Shamu Babu Chaugale v. State of Maharashtra, and1975 Indlaw SC 464Harijan Megha Jesha v. State of Gujarat 1979 Indlaw SC 439': u prevodu je '1975 Indlaw SC 464' postavljeno ispred 'Harijan Megha Jesha', pa se čita kao njegov citat, dok izvorna (pokvarena) oznaka pripada predmetu Shamu Babu Chaugale. Brojevi su sačuvani, ali je pripisivanje dvosmisleno.",
+   "suggestion": "'Shamu Babu Chaugale protiv države Maharashtra 1975 Indlaw SC 464 i Harijan Megha Jesha protiv države Gujarat 1979 Indlaw SC 439'."
+  },
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "neprevedeni tekst",
+   "description": "Citirani tekst obdukcionog uvjerenja ostavljen na engleskom: 'can be a case of suicidal death' (dva puta) i 'time of death'. Ostatak je preveden, pa je ovo odstupanje od potpunosti prevoda (važno za RAG upite na crnogorskom).",
+   "suggestion": "Prevesti u navodnicima: 'može biti slučaj samoubistva', 'vrijeme smrti'."
+  },
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "značenje (blaga sužavanje)",
+   "description": "'her in-laws' preveden kao 'njeni svekar i svekrva' (u citatima 'ill-treated ... by her husband and her in-laws' i 'her husband and her in-laws'), čime se sužava na roditelje muža.",
+   "suggestion": "'njen muž i porodica njenog muža' ili 'njen muž i njegova rodbina'."
+  },
+  {
+   "id": "sUkiH8G4Zp#11",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "'before ... had left his hands' preveden doslovno kao 'napustio njegove ruke'; 'sanction of the test' kao 'potvrda putem provjere'; 'posredni iskaz (hearsay)' i 'posredni dokazi' (circumstantial evidence) koriste isti pridjev za različite pojmove; 'our High Courts' kao 'visokih sudova' (malim slovom).",
+   "suggestion": "'izašao iz njegovih ruku' / 'otišao iz njegovog posjeda'; 'indicijalni (posredni) dokazi' za circumstantial evidence; 'naših Visokih sudova'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 22 pasusa (21 novi red) prisutan, tokeni (P.W., Ext., članovi, brojevi, datumi, citati AIR/Indlaw) tačno očuvani, nema ekavizama ni hrvatizama, glosar dosljedno primijenjen (žalilac, Visoki sud, vijeće (Division Bench), član, Zakon o dokazima, nijesu). Registar je prirodan i pravnički; nađena su samo stilska i manja terminološka odstupanja bez uticaja na značenje."
+}

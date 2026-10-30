@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "MbyIbNiCdx",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Izvor: \"keep your account information current\"; prevod: \"redovno ažurirate informacije o svom nalogu\". Dodato \"redovno\" kojeg nema u izvoru (blago pomjera značenje: ažurno vs. redovno).",
+   "suggestion": "\"da vaše informacije o nalogu održavate ažurnim\" (bez \"redovno\")."
+  },
+  {
+   "id": "JXke1Mo4iC",
+   "severity": "minor",
+   "type": "izostavljanje",
+   "description": "Izvor: \"for any reason whatsoever\"; prevod: \"iz bilo kog razloga\". Izgubljeno naglašavanje \"whatsoever\".",
+   "suggestion": "\"iz bilo kog razloga, ma kakav on bio\" ili \"iz bilo kojeg razloga\" uz \"uopšte\"."
+  },
+  {
+   "id": "8IRh1E2JDB",
+   "severity": "minor",
+   "type": "dodavanje/proširenje",
+   "description": "Tačka 5: izvor \"the content is not authorized by the rights owner\"; prevod \"korišćenje sadržaja nije odobrio nosilac prava\" (dodato \"korišćenje\"). Tačka 6: \"under penalty of perjury\" prošireno u \"pod prijetnjom krivične odgovornosti za davanje lažnog iskaza\" (eksplikacija). Tačka 1: \"physical signature\" → \"svojeručni potpis\" (pomjereno značenje).",
+   "suggestion": "Tačka 5: \"sadržaj nije odobrio nosilac prava, njegov zastupnik ili zakon\"; tačka 6: \"pod prijetnjom kazne za lažno svjedočenje\" ili kraće; tačka 1: \"elektronski ili fizički potpis\"."
+  },
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"suspend or terminate\" prevedeno \"privremeno ukinuti ili okončati\"; glosar traži raskinuti/ukinuti. \"okončati Uslugu\" i \"nakon prestanka Usluge\" - odstupanje od glosara. Naslov \"RASKID\" a tijelo \"okončati\" - nedosljedno.",
+   "suggestion": "\"privremeno ukinuti ili ukinuti vaše korišćenje Usluge\"; \"Usluga\" → \"prestanak pružanja Usluge\"."
+  },
+  {
+   "id": "QsKDGAUuRq",
+   "severity": "minor",
+   "type": "registar/dosljednost",
+   "description": "Stilski vodič traži vi/vaš malim slovom, a prevod miješa \"vaši fajlovi\" / \"vaše odobrenje\" i \"Vaš sadržaj\" / \"Vašeg sadržaja\" / \"Vaš sadržaj pripada vama\" (velikim slovom). Isto u MbyIbNiCdx (\"Vaš sadržaj\") i eNo41eoPni (\"Vaš sadržaj\").",
+   "suggestion": "Zadržati definisani termin \"Vaš sadržaj\" velikim slovom samo kao definisani pojam dosljedno u svim itemima, ili svuda \"vaš sadržaj\" (glosar: vaš sadržaj)."
+  },
+  {
+   "id": "QsKDGAUuRq",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"personally identifiable information\" → \"informacije na osnovu kojih se može utvrditi identitet\"; glosar: personal information → lični podaci. Isto u JXke1Mo4iC (\"informacije na osnovu kojih se može utvrditi vaš identitet\").",
+   "suggestion": "\"lični podaci na osnovu kojih se može utvrditi identitet\" ili jednostavno \"lični podaci\"; uskladiti između itema."
+  },
+  {
+   "id": "JXke1Mo4iC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"when applicable\" / \"applicable\" prevedeno \"primjenljivo\" (\"kada je to primjenljivo\", \"primjenljive na bilo koju određenu Komunikacionu uslugu\"), dok su drugdje \"važeći\" (\"važeće zakone\"). Glosar: applicable → važeći.",
+   "suggestion": "\"kada je to relevantno/primjenjivo\" → uskladiti: \"važeće smjernice\"."
+  },
+  {
+   "id": "VHWGaub52Z",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"MAKES NO ASSURANCES\" → \"NE DAJE NIKAKVA UVJERAVANJA\" je neprirodno za pravni registar; \"umjetnička djela\" za \"artwork\" i \"Politika o dostavljanju\" za \"Submission Policy\" blago nespretni.",
+   "suggestion": "\"NE DAJE NIKAKVE GARANCIJE/JAMSTVA\"; \"Politika u vezi sa dostavljanjem nezatraženih ideja\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun, vjeran i strukturalno tačan: isti _id-ovi, isti broj novih redova, tokeni i brojevi se poklapaju, nema ekavizama ni hrvatizama, a odnos riječi je 0.95-1.04. Registar je primjeren opštim uslovima poslovanja (vi/vaš, nijesu, saglasni ste), uz sitne terminološke nedosljednosti (okončati, informacije vs lični podaci, velika/mala slova u \"Vaš sadržaj\") i par minornih dodavanja."
+}

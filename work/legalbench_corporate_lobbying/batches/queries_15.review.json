@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00283",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"okviri za municiju velikog kapaciteta\" za \"large capacity ammunition feeding devices\": izostavljen pojam feeding device, a \"velikog kapaciteta\" se sintaksički odnosi na municiju.",
+   "suggestion": "Kojim se uređuju uređaji za dovod municije velikog kapaciteta."
+  },
+  {
+   "id": "00294",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"međusektorska radna grupa\" za \"interdivisional taskforce\"; division u SEC je organizaciona jedinica (odjeljenje).",
+   "suggestion": "međuodjeljenska radna grupa"
+  },
+  {
+   "id": "00297",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"dugoročno nezaposlena lica\" za \"long-term unemployed\".",
+   "suggestion": "dugotrajno nezaposlena lica"
+  },
+  {
+   "id": "00298",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"životno važnim terapijama\" za \"life-saving therapies\": vital umjesto life-saving.",
+   "suggestion": "terapijama koje spašavaju život"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 20 _id-ova, brojevi (49, 1986, 1974, 1970) očuvani, nema ekavizama ni hrvatskih oblika, odnos riječi 0.75-1.32. Obrasci „Predlog zakona kojim se...“ (za „A bill to“) i „Kojim se...“ (za „To“) su dosljedni, jedna rečenica, bez sadržaja iz context polja; registar je primjeren propisima. Nađene su samo manje terminološke nepreciznosti."
+}

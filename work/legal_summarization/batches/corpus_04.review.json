@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "A4dhjkuRv6",
+   "severity": "minor",
+   "type": "stil/sintaksa",
+   "description": "Izvor: \"by using the sites you agree to be bound by these terms\". Prevod: \"saglasni ste da ste obavezani ovim uslovima i odredbama\" - nezgrapno, tautološko. Takođe \"(zajednički)\" za \"collectively\" stoji izdvojeno i nejasno.",
+   "suggestion": "\"Korišćenjem sajtova saglasni ste da vas obavezuju ovi uslovi i odredbe\"; \"(zajednički, sajt ili sajtovi)\" uklopiti u rečenicu."
+  },
+  {
+   "id": "A4dhjkuRv6",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"your assent to these terms\" -> \"vašim pristankom\"; glosar daje \"saglasnost\" za consent, a u istom itemu koristi se \"saglasni ste\".",
+   "suggestion": "\"vašom saglasnošću na ove uslove\"."
+  },
+  {
+   "id": "MbyIbNiCdx",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"trade names\" -> \"trgovačka imena\" i \"trade dress\" -> \"izgled proizvoda\"; \"trgovačka\" je bliže hrvatskoj varijanti, a \"trade dress\" je preciznije \"izgled robe/ambalaže\". Takođe \"does not convey any interest\" -> \"nikakav interes\" (bolje \"nikakvo pravo\"). Znak ™ dodat umjesto normalizovanog \"trade\" - prihvatljivo.",
+   "suggestion": "\"poslovna imena\"; \"izgled proizvoda i pakovanja (trade dress)\"; \"ne prenosi nikakvo pravo\"."
+  },
+  {
+   "id": "MbyIbNiCdx",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"you acknowledge that tldr does not endorse any content\" -> \"Prihvatate da TLDR ne podržava...\"; acknowledge je \"potvrđujete/priznajete\". Isto u RBT7qYHDBT. Anglicizam \"hostuju\" (hosted by third parties).",
+   "suggestion": "\"Potvrđujete da...\"; \"koji su postavila treća lica na nezavisnim sajtovima\"."
+  },
+  {
+   "id": "RBT7qYHDBT",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Početak itema je fragment (\"c. ...\", \"d. ...\", \"k. ...\") vjerno prenesen iz izvora; označavanje stavova je očuvano, ali \"TLDR pozdravlja uredničko korišćenje\" je nešto kolokvijalno za ugovorni registar.",
+   "suggestion": "\"TLDR podstiče uredničko korišćenje sajtova i sadržaja\" (opciono)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id isti, brojevi (13, 3.0, 4(b)) i tokeni očuvani, odnos riječi 0.90-0.93, nema ekavizama ni kroatizama, a ortografija je normalizovana (velika slova, interpunkcija, URL-ovi restaurirani). Registar je dosljedno formalan ugovorni, sa glosarskim terminima (uslovi, treće lice, licenca, odgovornost, vi/vaš); uočena su samo manja stilska i terminološka odstupanja, bez izostavljenog ili promijenjenog sadržaja."
+}

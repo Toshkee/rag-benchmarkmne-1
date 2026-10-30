@@ -1,0 +1,35 @@
+{
+ "n_blocking": 1,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00120",
+   "severity": "blocking",
+   "type": "pogrešno značenje / nejasan subjekat",
+   "description": "Izvor: \"if you offer suggestions to the service they become the owner of the ideas\" (they = usluga). Prevod: \"Ako usluzi ponudite neke prijedloge, onda oni postaju vlasnik ideja\" - zamjenica \"oni\" gramatički upućuje na \"prijedloge\" (množina), pa rečenica kaže da prijedlozi postaju vlasnik ideja; vlasnik je zapravo usluga.",
+   "suggestion": "\"Ako usluzi ponudite neke prijedloge, ona postaje vlasnik ideja koje ste joj dali.\""
+  },
+  {
+   "id": "00110",
+   "severity": "minor",
+   "type": "stil / nezgrapna konstrukcija",
+   "description": "\"ali se iz vašeg ranijeg prihvatanja ne podrazumijeva da ih i dalje prihvatate\" je nezgrapno i pomalo apstraktno za razgovorni upit; izvor: \"your continued acceptance is not inferred from an earlier acceptance flow\".",
+   "suggestion": "\"Uslovi se mogu promijeniti, ali se vaša saglasnost ne pretpostavlja samo zato što ste ih ranije prihvatili.\""
+  },
+  {
+   "id": "00124",
+   "severity": "minor",
+   "type": "registar / terminologija",
+   "description": "Upit zvuči prilično formalno, a \"zahtjev ... podnijeti\" za \"claim\" je preusko; \"podnijetim\" je manje uobičajeno od \"podnesenim\".",
+   "suggestion": "\"... možete podnijeti tužbu samo u svoje ime\" i \"zahtjevima podnesenim u predstavničkom svojstvu\"."
+  },
+  {
+   "id": "00119",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"ne preuzima nikakvu odgovornost za bilo kakve gubitke ili štete koji proizlaze iz bilo čega u vezi sa uslugom\" je ugovorno formalno, a upiti treba da budu razgovorni i kratki.",
+   "suggestion": "\"Ova usluga ne odgovara ni za kakav gubitak ili štetu u vezi sa uslugom.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 25 _id-ova, brojevi i tokeni se poklapaju, odnos dužine je u granicama, nema ekavizama ni kroatizama. Registar je pretežno razgovoran i kratak, uz dosljedne glosarske termine (uslovi korišćenja, treća lica, lični podaci, kolačići, kolektivna tužba), ortografija je normalna i ijekavica dosljedna. Jedini sadržajni problem je nejasan subjekat u 00120; ostalo su stilske sitnice. Napomena: automatska provjera je označila razliku u ključevima (nema polja context u prevodu), što je očekivano jer se upiti prevode odvojeno od korpusa."
+}

@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "pkObaWoukd#1",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Par. 17: \"uz obrazloženje da je žalilac trebalo da bude osuđen za ubistvo\" - nepravilna konstrukcija (srednji rod uz muški subjekat). Izvor: \"the appellant should have been convicted of murder\".",
+      "suggestion": "\"uz obrazloženje da je žalilac trebalo da bude osuđen\" -> \"da je žalilac trebalo da bude osuđen\" zamijeniti sa \"da je žalilac trebao biti osuđen za ubistvo\"."
+    },
+    {
+      "id": "pkObaWoukd#1",
+      "severity": "minor",
+      "type": "dodatak/glosar",
+      "description": "Par. 17: dodata zagrada \"Tajnog savjeta (Privy Council)\" kojoj nema pandana u izvoru (\"a decision of the Privy Council\"). Sitna dopuna, ali stilski vodič zabranjuje dodavanja.",
+      "suggestion": "Ukloniti \"(Privy Council)\" i ostaviti \"odluku Tajnog savjeta\"."
+    },
+    {
+      "id": "pkObaWoukd#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Par. 14-19: \"order of conviction/acquittal\" dosljedno prevedeno \"rješenje o osudi/oslobađanju\"; glosar za conviction/acquittal predviđa osuđujuću/oslobađajuću presudu (rješenje je za order). Prevod je dosljedan unutar dijela, pa je odstupanje samo kalk. Takođe \"reverse\" -> \"poništiti\" (par. 15) naspram \"set aside\" -> \"ukinuti\" (par. 18, 25, 26) - razlika je opravdana izvorom, ali \"poništiti\" nije u glosaru.",
+      "suggestion": "Razmotriti \"osuđujuću presudu / oslobađajuću presudu\" gdje izvor kaže \"order of conviction/acquittal\"; ili ostaviti kao dosljedan izbor. \"poništiti\" zadržati samo za \"reverse\"."
+    },
+    {
+      "id": "pkObaWoukd#1",
+      "severity": "minor",
+      "type": "stil/pravopis",
+      "description": "Par. 18: \"nije nanijeta nikakva šteta\" (izvor: \"no prejudice had thereby been caused\") - nestandardan oblik participa; par. 20: \"transpoziciju kazne\" (izvor: \"transpose the sentence\") je nepravnički kalk; par. 25: \"oprostimo zakašnjenje\" (izvor: \"condoning the delay\") nenaravan pravni izraz.",
+      "suggestion": "\"nije nanesena nikakva šteta\"; \"preinačenje/zamjenu kazne\" umjesto \"transpoziciju\"; \"da ne uzmemo u obzir zakašnjenje\" ili \"da opravdamo zakašnjenje\"."
+    },
+    {
+      "id": "pkObaWoukd#1",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Par. 23: \"razmatrajući prigovor\" za \"entertaining the plea\" - \"plea\" je ovdje navod/zahtjev protivne strane prema članu 403, ne prigovor. Par. 16: izvor je sintaktički pokvaren (\"Section. 236 deals with cases where separately enacted...\"), prevod ga vjerno prati (\"Član 236 odnosi se na slučajeve u kojima posebno donesen kako bi\") i ostaje nerazumljiv; dozvoljeno jer se ne smije popravljati.",
+      "suggestion": "\"razmatrajući navod koji je protivna strana istakla prema članu 403\". Par. 16 ostaviti kao jeste."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 13 pasusa (14-26) i završne dvije linije ishoda su prisutni, broj novih redova (15), svi brojevi, citati sudske prakse, brojevi članova i oznake predmeta su doslovno očuvani, a automatska provjera (_id, tokeni, brojevi, odnos riječi 0,87, ekavski/hrvatski oblici) nije našla nijedno odstupanje. Strane su dosljedne (žalilac, protivna strana, država, puno vijeće, Visoki sud), a glosar je poštovan, uz nekoliko sitnih stilskih i terminoloških nezgrapnosti. Registar je primjeren obrazloženju presude, ijekavica dosljedna; nema blokirajućih problema."
+}

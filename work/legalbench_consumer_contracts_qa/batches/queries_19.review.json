@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00361",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"manually scrape information\" prevedeno kao \"ručno da prikupljam informacije\"; \"scrape\" (page-scrape u korpusu) gubi tehničko značenje.",
+   "suggestion": "\"Da li smijem ručno da \"strugam\" (page-scrape) informacije sa Apple-ovog veb-sajta?\" ili \"ručno da preuzimam (scrape) informacije\"; uskladiti sa 00362."
+  },
+  {
+   "id": "00362",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"manual scraping\" prevedeno \"ručno prikupljanje podataka\" - ista nedosljednost kao u 00361; takođe \"Apple-ovi\" vs \"Apple\" (00370/00371).",
+   "suggestion": "Koristiti isti izraz za scraping u 00361 i 00362."
+  },
+  {
+   "id": "00370",
+   "severity": "minor",
+   "type": "dosljednost termina",
+   "description": "\"Apple sajtovi\" (00370) i \"Apple veb-sajtova\" (00371) naspram \"veb-sajt\" u ostalim upitima; nedosljedan oblik za \"website/site\" unutar batcha.",
+   "suggestion": "Svuda \"veb-sajt\": \"Da li Apple veb-sajtovi u svim zemljama imaju iste funkcije?\""
+  },
+  {
+   "id": "00378",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"stiče prava svojine na sadržaju ili u odnosu na sadržaj\" - nespretan doslovan prevod za \"ownership rights in or to content\".",
+   "suggestion": "\"Da li Instagram stiče prava svojine nad sadržajem koji korisnici objave na platformi Instagram?\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 20 _id-ova, nijedan izostavljen ni dodat sadržaj, brojevi (30) očuvani, bez ekavizama i hrvatizama, ijekavica dosljedna (obavijesti, nijesam, prije, ovdje). Registar je ispravno razdvojen: laička pitanja (prvo lice) ostala su laička, a formalna (\"dužan da dostavi\", \"privrednom subjektu\") formalna; sadržaj iz polja context nije prenesen. Preostale su samo manje stilske i terminološke nedosljednosti (scrape, sajt/veb-sajt)."
+}

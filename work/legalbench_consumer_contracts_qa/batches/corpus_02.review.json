@@ -1,0 +1,70 @@
+{
+ "n_blocking": 0,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "QR6FEecAtp",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pogrešan padež/oblik: \"masovnih slanja pošte\" (izvor: \"mass mailings\").",
+   "suggestion": "\"masovnog slanja pošte\" ili \"masovnih slanja poruka\" -> \"masovnog slanja pošte\"."
+  },
+  {
+   "id": "QR6FEecAtp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"prava na javni identitet\" za \"publicity rights\" i \"komercijalnog pribavljanja klijenata\" za \"commercial solicitation\" nijesu uobičajeni pravni termini.",
+   "suggestion": "\"prava na publicitet (pravo na lik)\"; \"komercijalnog nuđenja/reklamiranja\"."
+  },
+  {
+   "id": "QR6FEecAtp",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ne preuzima nikakvu odgovornost niti snosi bilo kakvu odgovornost\" (izvor: \"takes no responsibility and assumes no liability\") je tautološko jer se oba termina prevode isto.",
+   "suggestion": "\"ne preuzima nikakvu odgovornost niti prihvata obavezu naknade za bilo koji sadržaj ...\"."
+  },
+  {
+   "id": "22wjZRL9Oa",
+   "severity": "minor",
+   "type": "sintaksa",
+   "description": "\"od vas se može zahtijevati da budete prijavljeni na nalog i da je sa njim povezan važeći način plaćanja\" mijenja subjekt unutar iste konstrukcije (izvor: \"you may be required to be logged in ... and have a valid payment method associated with it\").",
+   "suggestion": "\"... da budete prijavljeni na nalog i da imate povezan važeći način plaćanja\"."
+  },
+  {
+   "id": "AwFv0Yg7NZ",
+   "severity": "minor",
+   "type": "vjernost naslova",
+   "description": "Naslov \"PRIGOVORI ZBOG POVREDE INTELEKTUALNE SVOJINE\" dodaje \"povrede\" (izvor: \"INTELLECTUAL PROPERTY COMPLAINTS\").",
+   "suggestion": "\"PRIGOVORI U VEZI SA INTELEKTUALNOM SVOJINOM\"."
+  },
+  {
+   "id": "g3iCPU6zUj",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ljudima koje bi mogao zanimati\" (izvor: \"people who might be interested\") je nezgrapno; \"Politici o podacima\" za \"Data Policy\" je u redu kao naziv, ali nije u skladu sa glosarom \"politika privatnosti\" (naziv akta, dozvoljeno).",
+   "suggestion": "\"ljudima kojima bi mogao biti zanimljiv\"."
+  },
+  {
+   "id": "850kEnydx9",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"ponovno preispitivanje\" (izvor: \"another review\") zvuči hrvatski; \"naškoditi našoj zajednici\" je neuobičajeno.",
+   "suggestion": "\"ponovni pregled\" / \"preispitivanje odluke\"; \"našteti našoj zajednici korisnika\"."
+  },
+  {
+   "id": "850kEnydx9",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Nedosljedna velika/mala slova za \"Terms\": \"naših Uslova ili Politika\" naspram \"ove uslove\"/\"naše uslove i politike\" u istom itemu; takođe \"Proizvoda\" naspram \"proizvode\" prati izvor, ali \"Uslova\" ne.",
+   "suggestion": "Koristiti malo slovo: \"naših uslova ili politika\"."
+  },
+  {
+   "id": "850kEnydx9",
+   "severity": "minor",
+   "type": "značenje (blago)",
+   "description": "\"Ste osuđeni za krivično djelo protiv polne slobode\" sužava \"convicted sex offender\".",
+   "suggestion": "\"Ste osuđeni za polno krivično djelo / seksualni prestupnik koji je osuđen\" (npr. \"Ste osuđeni za krivično djelo seksualne prirode\")."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup _id-ova, isti broj novih redova, nijesu promijenjeni brojevi, URL-ovi ni iznosi, nema ekavizama ni hrvatizama, glosar (nalog, usluge, uslovi korišćenja, mjerodavno pravo, obeštetiti, treće lice) dosljedno primijenjen. Registar je formalan i primjeren općim uslovima poslovanja (vi/mi), uz nekoliko sitnih stilskih i terminoloških nezgrapnosti. Nema blokirajućih problema."
+}

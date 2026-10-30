@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00274",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„sva prava, pravo svojine i interes“ — „interest“ preveden kao „interes“ (u pravnom smislu pogrešan prevod; to je pravni interes/udio). Takođe „rojaltija“ je neprirodan oblik.",
+   "suggestion": "„sva prava, pravo svojine i pravni interes u odnosu na procentualni dio iznosa naknada za eksploataciju (rojalti) ...“"
+  },
+  {
+   "id": "00260",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„kredita „Pokrenimo Ameriku““ — „credits“ su poreski krediti (tax credits), a naziv „Move America“ je naveden samo uz obveznice, ne i uz kredite.",
+   "suggestion": "„... radi uvođenja obveznica „Pokrenimo Ameriku“ (Move America) i poreskih kredita „Pokrenimo Ameriku“.“"
+  },
+  {
+   "id": "00263",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„Kojim se propisuje da se država Vašington, D.C. primi u Uniju“ — nepotrebno opisno u odnosu na „provide for the admission“.",
+   "suggestion": "„Kojim se uređuje prijem države Vašington, D.C. u Uniju.“"
+  },
+  {
+   "id": "00269",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Zakon o energetskoj politici i uštedi energije“ — „Conservation“ je preveden kao „ušteda energije“; ustaljeniji prevod je „očuvanje“.",
+   "suggestion": "„Zakon o energetskoj politici i očuvanju energije“ (ili zadržati dosljedno u cijelom korpusu)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova je identično, brojevi (1986, 1977, 1934) su očuvani, nema ekavskih ni hrvatskih oblika, a odnos dužine je 0.79–1.30. Obrasci „Predlog zakona kojim se...“ i „Kojim se...“ su ispravno primijenjeni, jedna rečenica, bez sadržaja iz context polja; glosar (ministar, Ministarstvo, država, i uređuju druga pitanja) je poštovan. Registar je primjeren propisima; preostale primjedbe su manje terminološke."
+}

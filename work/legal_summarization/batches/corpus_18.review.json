@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "1iHq2eebFb",
+   "severity": "minor",
+   "type": "syntax",
+   "description": "Rečenica „Lične podatke koje dostavite Qwant nikada ne otkriva niti prodaje trećim licima“ je sintaksički nejasna: „Qwant“ je nesklonjeno (izgleda kao dativ) a glagol „ne otkriva“ nema jasan subjekt. Izvor: „personal data that you transmit are never disclosed or sold by qwant to third parties“. Značenje se može rekonstruisati, pa nije blocking.",
+   "suggestion": "„Lične podatke koje dostavite, Qwant nikada ne otkriva niti prodaje trećim licima, osim prijava za posao, koje mogu biti podijeljene sa partnerima za zapošljavanje, osim ako od nas ne zatražite da to ne činimo.“"
+  },
+  {
+   "id": "GRfPpvPx0I",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "„enforce our agreements“ preneseno kao „sproveli naše ugovore“ — ugovori se ne „sprovode“, već se ostvaruju prava iz njih.",
+   "suggestion": "„...riješili sporove i ostvarili prava iz naših ugovora.“ (ili „obezbijedili primjenu naših ugovora“)"
+  },
+  {
+   "id": "dSJeCwEJwp",
+   "severity": "minor",
+   "type": "orthography",
+   "description": "Fragment iz izvora „pagereference content twitter com legal en privacy chapter 2 chapter 2 3 tooltips overlays content not hungry.“ ostavljen je doslovno malim slovima, nenormalizovan (artefakt crawla). Vjerno izvoru, ali odudara od pravila o normalnoj ortografiji i unosi ekavski/engleski šum usred tekstualnog toka.",
+   "suggestion": "Prihvatljivo zadržati kao u izvoru (da se ne gubi sadržaj); opciono prilagoditi ortografiju: „pagereference content twitter.com/legal/en/privacy chapter 2 chapter 2 3 tooltips overlays content not hungry.“"
+  },
+  {
+   "id": "lQlkFxAIiK",
+   "severity": "minor",
+   "type": "ambiguity",
+   "description": "„ali ne i sa oglašivačima i partnerima za oglašavanje, kojima je pristup takvim informacijama potreban radi obavljanja poslova za nas“ — zarezom je odnosna rečenica nedvosmisleno vezana za oglašivače, dok je izvor („who need access“) dvosmislen i može se odnositi i na dobavljače/konsultante.",
+   "suggestion": "Zadržati istu dvosmislenost kao izvor, npr. bez zareza: „...ali ne i sa oglašivačima i partnerima za oglašavanje kojima je pristup takvim informacijama potreban radi obavljanja poslova za nas.“"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 25 _id-ova se poklapa, nema izostavljenih ni dodatih rečenica, brojevi (7 dana, 3 mjeseca, 6 mjeseci, 13/18 godina, 30 dana, član 6 II) i tokeni su očuvani, a automatske provjere (odnos riječi, ekavizmi, kroatizmi) nijesu našle ništa. Registar je dosljedno formalan ugovorni (vi/mi, malim slovom), ortografija normalna, a glosar poštovan (nalog, korisnički sadržaj, treća lica, politika privatnosti, kolačići, privremeno ukinuti/ukinuti, nijesu). Ostaju samo četiri sitne stilske primjedbe, od kojih je jedino sintaksa u 1iHq2eebFb vrijedna ispravke."
+}

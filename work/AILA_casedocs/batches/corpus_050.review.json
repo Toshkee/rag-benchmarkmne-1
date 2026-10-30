@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "gramatika/značenje (blizu blocking)",
+      "description": "Par. 5: \"ograničenu na pitanje da Visoki sud nije bio opravdan da žalbu odbije po skraćenom postupku\" — nepravilna konstrukcija (izvor: \"the High Court was not justified in dismissing the appeal summarily\"); \"nije bio opravdan\" se odnosi na osobu/sud, a ne na postupanje.",
+      "suggestion": "\"...ograničenu na pitanje da li je Visoki sud bio opravdan/imao opravdanje da žalbu odbije po skraćenom postupku\" (ili \"da odbijanje žalbe po skraćenom postupku nije bilo opravdano\")."
+    },
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "gubitak nijanse",
+      "description": "Par. 15: izvor \"a weapon which, if used as a weapon of offence, was likely to cause death\"; prevod \"moglo prouzrokovati smrt\" gubi stepen vjerovatnoće (\"likely\"), a to je element člana 148.",
+      "suggestion": "\"...koje je, ako bi se upotrijebilo kao oružje za napad, vjerovatno moglo prouzrokovati smrt\" (ili \"čija je upotreba za napad mogla izazvati smrt\" uz \"vjerovatno\")."
+    },
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "dvosmislenost",
+      "description": "Par. 1: \"kazne strogog zatvora u trajanju od 5 godina, odnosno 3 mjeseca strogog zatvora, za krivična djela ... čl. 307 i 148\" — izvorno \"respectively\" jasno vezuje 5 godina za čl. 307, a 3 mjeseca za čl. 148; \"odnosno\" u crnogorskom može značiti i \"to jest\", pa je veza nejasna.",
+      "suggestion": "\"...kazne strogog zatvora u trajanju od 5 godina, odnosno 3 mjeseca strogog zatvora, za krivična djela kažnjiva prema članu 307 odnosno članu 148...\" ili \"... od 5 godina i 3 mjeseca strogog zatvora, redom, za ...\"."
+    },
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "skraćenica člana",
+      "description": "Par. 1: \"prema čl. 307 i 148\" — stilski vodič (dio 9) traži \"član\"; u ostatku teksta dosljedno je \"član\" (npr. \"iz člana 147\").",
+      "suggestion": "\"prema članovima 307 i 148\" ili \"prema članu 307 odnosno 148\"."
+    },
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "terminologija/dosljednost",
+      "description": "Par. 5: \"protiv ovog rješenja Visokog suda\" (izvor: \"this order of the High Court\") dok je u par. 1 isti akt \"presude Visokog suda\" (izvor: \"judgment\"); isti akt ima dva naziva. Takođe par. 6 \"usvojeni postupak\" (izvor: \"the procedure adopted\") je neprirodno.",
+      "suggestion": "Par. 5 zadržati \"rješenje\" po izvoru ili uskladiti kao \"odluke\"; \"usvojeni postupak\" → \"primijenjeni postupak\" / \"postupak koji je Visoki sud primijenio\"."
+    },
+    {
+      "id": "B19sMLT6mn#0",
+      "severity": "minor",
+      "type": "dosljednost termina (optuženi)",
+      "description": "Par. 1 i 3: za ostala lica \"bila su optužena još četiri lica\" / \"četiri ostala optužena\" ali sa \"oglašena krivim\" u istoj rečenici; izvor \"were arrayed ... who were convicted\". Miješanje 'optuženi' i 'oglašeni krivim' je dopustivo, ali par. 3 \"koji su zajedno sa žaliocem bili optuženi\" ponavlja isto; ništa ne nedostaje.",
+      "suggestion": "Opciono: \"bila su još četiri lica optužena zajedno sa njim\" (bez blocking efekta)."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 28 novih redova, 16 numerisanih pasusa, pet tačaka (1)-(5), svi brojevi (datumi, članovi, Rs. 100/-, 1/2\") i _id se poklapaju sa izvorom; nema ekavizama ni hrvatizama, glosar je dosljedno primijenjen (žalilac, Visoki sud, Sesijski sud, uvaženi zastupnik, krivična prijava (FIR), izjava na samrti, nijesu). Registar je prirodan i prikladan obrazloženju presude; nađeno je samo nekoliko stilskih i nijansnih nedostataka (par. 5, 15, 1), bez izostavljanja ili izmjene značenja."
+}

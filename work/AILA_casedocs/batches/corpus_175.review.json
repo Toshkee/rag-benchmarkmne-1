@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "izostavljen detalj",
+      "description": "Para 3: izvor \"at about 12.15 P.M.\" - prevod \"oko 12.15 časova\" gubi oznaku P.M. (doba dana).",
+      "suggestion": "\"oko 12.15 časova poslije podne\"."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 13: \"Officer-in-Charge at the Police Station\" prevedeno \"dežurnom starješini\" (duty officer), a u para 5 \"Station House Officer\" je \"starješina policijske stanice\"; ista funkcija, različiti termini i pomak značenja.",
+      "suggestion": "\"starješini policijske stanice\" (ili \"rukovodiocu policijske stanice\" dosljedno na oba mjesta)."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "nedosljednost",
+      "description": "Para 16: \"order of acquittal\" je \"oslobađajuće rješenje\" (Chandrappa dio), a drugdje \"oslobađajuća presuda\" (para 9), a \"judgment and order of acquittal\" je \"oslobađajuća presuda i rješenje\".",
+      "suggestion": "Ujednačiti: \"oslobađajuća presuda\" za acquittal, \"rješenje\" samo za \"order\" gdje je izvorno odvojeno."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Para 3: FIR prvi put prevedeno \"krivična prijava\" bez glose, a tek u para 14 \"krivičnom prijavom (FIR)\"; glosar traži \"krivična prijava (FIR)\" pri prvom pomenu.",
+      "suggestion": "U para 3: \"registrovana krivična prijava (FIR)\"; u para 14 samo \"krivičnom prijavom\"."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 3: \"The case was committed by the learned Magistrate to the Additional Sessions Court\" prevedeno \"ustupio predmet\"; \"committed\" je upućivanje predmeta na suđenje. Takođe \"sudu magistrata podokruga Nurpur\" (Sub-Divisional Magistrate) je dvosmisleno.",
+      "suggestion": "\"uputio predmet na suđenje dodatnom Sesijskom sudu\"; \"sudu magistrata podoblasti Nurpur\" / \"podokružnog magistrata u Nurpuru\"."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Para 11: \"to go with male members\" prevedeno \"sa muškim članovima porodice\" - dodato \"porodice\" kojeg nema u izvoru.",
+      "suggestion": "\"da se ide sa muškarcima radi pomoći pri porođajima\"."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Para 14: \"da je, u odsustvu bilo kakve povrede ..., Visoki sud trebalo da ne povjeruje verziji tužilaštva\" - nepravilna konstrukcija (izvor: \"the High Court should have disbelieved the prosecution story\").",
+      "suggestion": "\"da je Visoki sud, u odsustvu bilo kakve povrede na polnim organima žrtve, trebalo da ne povjeruje verziji tužilaštva\" ili \"da Visoki sud nije smio povjerovati verziji tužilaštva\"."
+    },
+    {
+      "id": "OZM4OtBJTf#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Para 10: \"zapažanje dodatnog sudije ... da je činjenica da žrtva nije imenovala krivce ... u suprotnosti sa navodima tužilaštva\" - nezgrapno i uvodi \"činjenica\" koje nema u izvoru (\"observation ... that the victim did not name the culprits ... contradicts the prosecution case\").",
+      "suggestion": "\"zapažanje ... da žrtva nije imenovala krivce ... protivrječi navodima tužilaštva, ne može se smatrati ispravnim\"."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: sva 22 reda i svi pasusi (1-16) su prisutni, brojevi, citati (Scale, Indlaw, Crl.L.J.), Rs. iznosi i datumi su doslovno očuvani, strane su dosljedno označene (žalilac/optuženi/država), a odnos riječi je 0,83. Registar je pravilan ijekavski sudski stil sa glosarskim terminima (uvaženi zastupnik, Visoki sud, strogi zatvor, nijesu); ostaju samo manje terminološke i stilske nedosljednosti."
+}

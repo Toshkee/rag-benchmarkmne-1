@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "stil/leksika",
+   "description": "Pasus 11, citat (ii): 'very casual fashion' prevedeno kao 'vrlo olak način' - 'olak' nije standardan pridjev u ovom značenju.",
+   "suggestion": "'a vrlo nemaran (lakomislen) način na koji je navedena radnja preduzeta čini je utoliko neprihvatljivijom'."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "izostavljanje (sitno)",
+   "description": "Pasus 3, obavještenje: 'at 11 A.M.' -> 'u 11 časova' (izostavljeno A.M.).",
+   "suggestion": "'u 11 časova prije podne'."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 3 (bilješka dostavljača): 'Submitted for orders' -> 'Dostavlja se radi donošenja naloga'; po glosaru 'order' = rješenje, a 'nalog' je rezervisan za writ/warrant.",
+   "suggestion": "'Dostavlja se radi donošenja rješenja (odluke)'."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 15: 'samo po sebi nije bilo naročito uvredljiv dokument' - nesaglasnost roda (obavještenje/dokument) za 'not, by itself, a very offensive document'.",
+   "suggestion": "'samo po sebi nije bilo naročito uvredljiv dokument' -> 'samo po sebi nije predstavljalo naročito uvredljiv dokument'."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "latinski izraz",
+   "description": "Pasus 15: izvorno 'ex-facie' prevedeno kao 'ex facie' (uklonjena crtica); sadržinski ispravno, ali nije doslovno.",
+   "suggestion": "Dozvoljeno; po želji zadržati 'ex-facie' doslovno."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "format/OCR",
+   "description": "Automatska provjera: broj '11' 15 (izvor) vs 14 (prevod). Razlika potiče iz OCR artefakta u izvoru pasusa 11 ('11l the reply affidavit' = 'In the reply affidavit'); prevod ('U izjavi datoj pod zakletvom u odgovoru') ispravno ne prenosi smeće. Takođe, polje 'n_chunks' iz izvora nije prisutno u prevodu (samo _id, title, text).",
+   "suggestion": "Nije potrebna ispravka teksta; po potrebi dodati 'n_chunks': 1 ako pipeline to zahtijeva."
+  },
+  {
+   "id": "QMgV0Lh8Wv#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 6 (izvještaj, citat): 'Pred ovim sudom su u toku istrage i u više drugih sličnih slučajeva...' - 'pending enquiry before this Court' nespretno raspoređeno, moglo bi se pročitati kao da su istrage u toku u slučajevima.",
+   "suggestion": "'Pred ovim sudom je u toku istraga u više drugih sličnih slučajeva lažnog predstavljanja i podnošenja lažnih izjava datih pod zakletvom.'"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 50 redova (isti broj novih redova, 49), svi pasusi 1-21, citati i brojevi članova, datumi, iznosi (Rs. 1,000/), brojevi predmeta i imena su preneseni; ekavskih i hrvatskih oblika nema, strane su dosljedno žalilac/protivna strana/podnosilac zahtjeva (u citatima). Registar je prirodan sudski, u skladu sa glosarom; nađene su samo manje stilske i terminološke nepreciznosti."
+}

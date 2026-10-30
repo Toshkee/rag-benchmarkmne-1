@@ -1,0 +1,35 @@
+{
+ "n_blocking": 2,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "LojIIf94Ch",
+   "severity": "blocking",
+   "type": "omission",
+   "description": "Izostavljeno 'of a State' u stavu (3): izvor 'under the Government of, or any local or other authority within, a State or Union territory' -> prevod 'u Vladi, ili u bilo kom lokalnom ili drugom organu vlasti u okviru savezne države ili teritorije Unije'. Vlada savezne države/teritorije Unije svedena je na 'Vladi' (nejasno koje).",
+   "suggestion": "'... na funkciju 1 u službi Vlade savezne države ili teritorije Unije, ili bilo kog lokalnog ili drugog organa vlasti u okviru savezne države ili teritorije Unije, ...'"
+  },
+  {
+   "id": "LojIIf94Ch",
+   "severity": "blocking",
+   "type": "changed_number",
+   "description": "Izmijenjen redoslijed brojeva u datumu: izvor 'w.e.f.06-17-1995' -> prevod 'stupilo na snagu 17. 06. 1995. godine' (niz brojeva 06,17 postaje 17,06), dok je drugi datum 'w.e.f. 09-06-2000' ostao istim redom ('09. 06. 2000.'). Nedosljedno normalizovanje; provjera brojeva ne prolazi.",
+   "suggestion": "Zadržati redoslijed iz izvora ('06-17-1995' / '09-06-2000') ili oba datuma pisati dosljedno u crnogorskom obliku ('17. juna 1995. godine', '9. juna 2000. godine')."
+  },
+  {
+   "id": "LojIIf94Ch",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'neprihvatljiv za bilo koje zaposlenje' za 'ineligible for ... any employment'; 'savezna država' za 'a State' (glosar: Država, a ustavni 'the State' = Država); 'Umetnuto' za 'Inserted'; 'u Vladi' (umjesto 'u službi Vlade').",
+   "suggestion": "'nepodoban/ne može biti isključen iz zaposlenja'; razmotriti dosljedan termin za 'a State' (savezna jedinica) uz napomenu u glosaru; 'Dodato'/'Unijeto'."
+  },
+  {
+   "id": "zHzmA4KR1V",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'pribavljanja iskaza' za 'obtaining the evidence' (evidence = dokaz, testimony = iskaz); 'okrivljenim licima' za 'accused persons' u toku suđenja (glosar: optuženi nakon optužnice); 'sudija okružnog suda' za 'District Judge' bez glosara.",
+   "suggestion": "'u cilju pribavljanja dokaza'; 'pri suđenju optuženim licima'; 'okružni sudija (District Judge)'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran u 5 od 6 itema: tokeni, brojevi, struktura (Naslov:/Opis:) i _id-ovi se podudaraju, bez ekavizama i kroatizama, odnos riječi 0.76-1.0. Registar je primjeren propisima (Ko ... kazniće se, shodno, uslov), glosar uglavnom poštovan; problemi su koncentrisani u dugom ustavnom itemu LojIIf94Ch (izostavljeno 'of a State' i izmijenjen redoslijed brojeva u datumu)."
+}

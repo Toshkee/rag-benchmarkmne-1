@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "18Y2bTu5X1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„the latter terms shall control“ prevedeno kao „mjerodavni su potonji uslovi“; „mjerodavno“ je rezervisano za governing law. Takođe, „odnosno uslova koji se na njih primjenjuju“ nespretno razdvaja „terms posted for or applicable to a specific portion of the Site“.",
+   "suggestion": "„primjenjuju se potonji uslovi“ ili „potonji uslovi imaju prednost“; „uslova objavljenih za pojedini dio Sajta ili primjenjivih na njega, odnosno za bilo koju uslugu ...“."
+  },
+  {
+   "id": "RcoreogrNw",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Facebook Company Products“ → „proizvodima kompanija Facebook“ (množina) djeluje neprirodno; „ponovljeno povređujete“ je kalk.",
+   "suggestion": "„proizvodima kompanije Facebook“; „opetovano povređujete“."
+  },
+  {
+   "id": "u8zF9OHzlw",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„Propust ... da insistira na strogom ispunjenju ovih Uslova korišćenja ili da ga sprovede“ — zamjenica „ga“ nejasna (ispunjenje vs. Uslovi).",
+   "suggestion": "„ili da obezbijedi njihovo strogo ispunjenje“."
+  },
+  {
+   "id": "DO4lKNEfvu",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„Ne smijete biti osuđeni za seksualno krivično djelo“ — izvor „convicted sex offender“ označava status lica.",
+   "suggestion": "„Ne smijete biti osuđeno lice za seksualno krivično djelo“ (opciono)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova isti, brojevi (13, 30, 90) i broj novih redova se poklapaju, nema ekavizama ni hrvatskizama, glosar (uslovi korišćenja, nalog, treće lice, ukinuti, nijesu) se poštuje. Registar je formalan, ugovorni, prikladan korpusu, uz manje stilske primjedbe."
+}

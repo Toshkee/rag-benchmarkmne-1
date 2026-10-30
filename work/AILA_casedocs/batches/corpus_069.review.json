@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "terminology_consistency",
+   "description": "Pojam 'partnership' je prevođen nedosljedno: 'u ortakluku' (para 1, 7 'djelatnost u ortakluku'), 'ortačka društva' ('both partnerships' / Partnership Act -> 'Zakon o ortačkim društvima'), a u para 28-29 'imovina ortakluka', 'raspuštanje ortakluka'. Isti pojam ima dva-tri prevoda; 'ortakluk' je i neuobičajen u pravnom registru.",
+   "suggestion": "Odabrati jedan termin (npr. 'ortačko društvo' za partnership/partnership firm, 'ortaštvo' za odnos) i primijeniti dosljedno u cijelom itemu."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "addition",
+   "description": "Zaglavlje: izvor 'Hon'ble Justice A. M. Ahmadi' preveden 'uvaženi sudija A. M. Ahmadi'; vodič (dio 9) propisuje 'Presudu je izrekao: sudija D. P. Madon' bez pridjeva.",
+   "suggestion": "'Presudu je izrekao: sudija A. M. Ahmadi'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "addition",
+   "description": "Pasus 17: izvor 'joint house property Rent Account' preveden 'zajednički račun zakupnine za kućnu imovinu (Rent Account)' - u zagradi je dodata izvorna fraza kao prevodilačka napomena, što stilski vodič (dio 5) zabranjuje.",
+   "suggestion": "Ukloniti '(Rent Account)'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 28: 'subject to contract between the partners' prevedeno 'zavisno od ugovora između ortaka' (i dvaput 'zavisno od ugovora'); pravnički tačnije 'podložno ugovoru' / 'ako ugovorom nije drugačije određeno'.",
+   "suggestion": "'podložno ugovoru između ortaka'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 27: 'It made no order as to costs' -> 'Nije donijelo rješenje o troškovima postupka' - doslovno i dvosmisleno (zvuči kao da odluka o troškovima nije donesena).",
+   "suggestion": "'Nije odlučivalo o troškovima postupka' / 'Svaka strana snosi svoje troškove'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "meaning_nuance",
+   "description": "Pasus 18: 'properties falling to the share of the disputants' -> 'imovina koja pripada udjelima strana u sporu' - nespretno (imovina ne pripada udjelima).",
+   "suggestion": "'imovina koja je pripala u dio stranama u sporu'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 24: 'granted a stay against the operation of the award' -> 'odložio dejstvo arbitražne odluke'; za 'stay' je prikladnije 'obustavio dejstvo' / 'odobrio odlaganje izvršenja'.",
+   "suggestion": "'obustavio dejstvo arbitražne odluke'."
+  },
+  {
+   "id": "RBT7qYHDBT#0",
+   "severity": "minor",
+   "type": "source_artifact",
+   "description": "Pasus 28: OCR artefakt izvora 'defines partnership a,-, a relationship' preveden 'definiše a,-, kao odnos', a 'admitted to the, benefits' -> 'primljenog u, pogodnosti' - besmisleni fragmenti preneseni u prevod (vjerno izvoru, ali ometa čitljivost).",
+   "suggestion": "Opciono: 'definiše ortakluk kao odnos', 'primljenog u pogodnosti ortakluka' (bez artefakata), ili zadržati radi vjernosti."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (29), svi brojevi, citati, brojevi članova i datumi identični izvoru, nema izostavljenih ni dodatih pasusa, nema ekavizama ni hrvatskih oblika. Glosar je dosljedno primijenjen (žalilac, protivna strana, vijeće (Division Bench), presuda u parnici (dekret), usvojiti/ukinuti/odbiti), registar je prirodan sudski. Preostali problemi su stilski: nedosljedno prevođenje 'partnership' (ortakluk/ortačko društvo) i nekoliko nespretnih formulacija."
+}

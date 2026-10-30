@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "HNdc06PVz0",
+   "severity": "minor",
+   "type": "sintaksa/jasnoća",
+   "description": "Rečenica „Njime se takođe krivične kazne iz HIPAA primjenjuju na protivpravno objelodanjivanje evidencija“ (izvor: „It also applies HIPAA criminal penalties to wrongful disclosures“) je nezgrapna, a zamjenica „Njime“ je dvosmislena.",
+   "suggestion": "„Predlogom zakona se takođe na protivpravno objelodanjivanje evidencija o pacijentima sa SUD primjenjuju krivične kazne iz HIPAA.“"
+  },
+  {
+   "id": "bvfLuxsyf3",
+   "severity": "minor",
+   "type": "pravopis/nedosljednost",
+   "description": "„sastavnim djelovima Nacionalnog sistema“ (izvor: „components“) — u istoj rečenici je „određeni dijelovi rijeka“; oblik „djelovima“ je nedosljedan i nije crnogorska norma.",
+   "suggestion": "„sastavnim dijelovima Nacionalnog sistema divljih i slikovitih rijeka“."
+  },
+  {
+   "id": "bvfLuxsyf3",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„mogu se steći radi rada centra za posjetioce“ (izvor: „for the purpose of operating a visitor center“) — nezgrapno „radi rada“.",
+   "suggestion": "„radi upravljanja centrom za posjetioce“."
+  },
+  {
+   "id": "bvfLuxsyf3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„oslobađaju se određena područja koja se proučavaju kao potencijalna područja divljine“ (izvor: „releases specified wilderness study areas“) — „oslobađaju“ ne prenosi pravno značenje ukidanja statusa područja.",
+   "suggestion": "„ukida se status određenih područja koja se proučavaju kao potencijalna područja divljine“ ili „izuzimaju se iz tog statusa“."
+  },
+  {
+   "id": "p44eyyurC2",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "U naslovu i tekstu dodato „rada“: „Zakon o odobrenju i unapređenju rada Pomorske uprave“, „više aspekata rada Pomorske uprave SAD-a“ — izvor: „Maritime Administration Authorization and Enhancement Act“, „several aspects of the U.S. Maritime Administration“.",
+   "suggestion": "„Zakon o odobrenju i unapređenju Pomorske uprave“; „više aspekata Pomorske uprave SAD-a (MARAD)“."
+  },
+  {
+   "id": "YRsMfihslQ",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„ukida se period čekanja“ (izvor: „waives“) i „podobnim za davanja“ (izvor: „deemed eligible“) — odstupanje od glosara (eligible → koji ispunjava uslove); „waive“ za pojedinačna lica je izuzeće.",
+   "suggestion": "„licima sa dijagnozom ... ne primjenjuje se period čekanja od 24 mjeseca“; „lica koja se smatraju licima koja ispunjavaju uslove za davanja“."
+  },
+  {
+   "id": "ld6DYyeNdj",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„raketa srednjeg i kratkog dometa“ (izvor: „Intermediate-Range and Shorter-Range Missiles“) — „Shorter-Range“ je „kraćeg dometa“.",
+   "suggestion": "„raketa srednjeg i kraćeg dometa“."
+  },
+  {
+   "id": "hF4vTYYojm",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "„plemena ili organizacije američkih starosjedilaca“ (izvor: „Native American tribes or organizations“) — pridjev „Native American“ vezan samo za organizacije.",
+   "suggestion": "„indijanska plemena ili organizacije američkih starosjedilaca“ (ili „organizacije indijanskih plemena“ prema kontekstu), uz dosljednost sa „indijansko pleme“ iz glosara."
+  },
+  {
+   "id": "erqtHioRRd",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„propisane informacije o tom izvještaju“ (izvor: „specified information“) — „propisane“ pomjera značenje; „specified“ je „određene/navedene“.",
+   "suggestion": "„određene informacije o tom izvještaju“."
+  },
+  {
+   "id": "j51I4TAtzS",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "Dodate skraćenice koje ne postoje u izvoru: „Ministarstvo poljoprivrede (USDA)“, „Agenciju za zaštitu životne sredine (EPA)“, „Ministarstvo zdravlja i socijalnih usluga (HHS)“, „Vladinu kancelariju za reviziju (GAO)“ (isto u erqtHioRRd, fpwFPq9bzC); u izvoru nema skraćenica. Dozvoljeno glosarom, ali dodaje tokene.",
+   "suggestion": "Dosljedno zadržati ili ukloniti; prihvatljivo prema dijelu 8 glosara."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup od 13 _id-ova, isti brojevi, isti broj novih redova, bez ekavizama i hrvatskih oblika, bez izostavljenih ili dodanih rečenica i bez promjena značenja. Registar odgovara obrazloženju predloga zakona („Ovim predlogom zakona...“, „Predlogom zakona se...“), glosar se dosljedno primjenjuje (država, indijansko pleme, budžetska sredstva, fiskalna godina, GAO, nijesu). Preostale su samo manje stilske i terminološke korekcije."
+}

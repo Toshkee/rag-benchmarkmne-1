@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "terminologija/naziv zakona",
+   "description": "Naziv zakona nepotpun: izvor 'Conservation of Foreign Exchange and Prevention of Smuggling Activities Act 1974', prevod 'Zakona o očuvanju deviza i sprječavanju krijumčarenja iz 1974. godine' izostavlja 'Activities'.",
+   "suggestion": "'Zakona o očuvanju deviza i sprječavanju krijumčarskih aktivnosti iz 1974. godine'."
+  },
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "dosljednost termina",
+   "description": "Skraćenica zakona različito pisana: 'Zakona Cofeposa' / 'Zakon Cofeposa' (par. 6) naspram 'COFEPOSA' (par. 1, 6, 7, 13), 'Zakonom COFEPOSA' (par. 13). Izvor ima 'Cofeposa Act' u par. 6, ali je isti zakon.",
+   "suggestion": "Ujednačiti: 'Zakona COFEPOSA' u cijelom tekstu."
+  },
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "značenje/registar",
+   "description": "'invalid' prevedeno kao 'nezakonito' (par. 4 'dalje trajanje pritvora ... stoga bilo nezakonito'; par. 12 'postalo bi nezakonito'; par. 8 i 10 'nezakonito'/'nezakonitim'); izvor kaže 'invalid'/'vitiated', što je bliže 'nevaljano'.",
+   "suggestion": "'bilo nevaljano', 'postalo bi nevaljano', 'učinilo nevaljanim upućivanje' radi preciznosti."
+  },
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'It appears that' prevedeno 'Proizlazi da' (par. 2 i 3); to je jače od izvornog 'Čini se da'.",
+   "suggestion": "'Čini se da'."
+  },
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "stil/vjernost",
+   "description": "'fresh mind is brought to bear upon it' -> 'da joj se pristupi sa svježim pogledom' (par. 7, citat); 'Instructions for the more convenient transaction of the business' -> 'Uputstva za efikasnije obavljanje poslova' (par. 5): 'convenient' i 'mind' preoblikovani.",
+   "suggestion": "'da se na nju primijeni nov (neopterećen) razum/ocjena'; 'Uputstva za pogodnije/lakše obavljanje poslova Vlade'."
+  },
+  {
+   "id": "8EE5GXTeLY#0",
+   "severity": "minor",
+   "type": "glosar/gloss",
+   "description": "Gloss '(writ petition)' ponovljen u par. 3 ('ustavnu tužbu (writ petition)') iako je već dat u zaglavlju; vodič traži gloss pri prvom pomenu u itemu. Takođe 'cl. (4) of Art. 22' -> 'stav (4) člana 22', a 'cl. (b)/(f) of s. 8' -> 'tačka', što je prihvatljivo po kontekstu, ali nije ujednačeno sa dijelom 9 (cl. -> tačka).",
+   "suggestion": "U par. 3 pisati 'ovu ustavnu tužbu'; razmotriti 'tačka (4) člana 22' ili objasniti izuzetak za Ustav."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 13 numerisanih pasusa je prisutno, broj novih redova je isti (30), svi brojevi i datumi se tačno poklapaju, nema ekavskih ni hrvatskih oblika, strane su dosljedno označene (podnositeljka zahtjeva, pritvorenik, Vlada države), citati i brojevi članova su doslovni. Registar je prirodan i pravnički, u skladu sa glosarom; preostale primjedbe su sitne (naziv zakona, 'nezakonito' za 'invalid', nijanse u stilu)."
+}

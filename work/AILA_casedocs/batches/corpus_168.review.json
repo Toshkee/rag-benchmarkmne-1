@@ -1,0 +1,36 @@
+{
+ "batch": "corpus_168",
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#7",
+   "severity": "minor",
+   "type": "stil/pleonazam",
+   "description": "Red 3 (stav (4)): 'je preminula umrla usljed unošenja kalijum-cijanida' za 'the deceased had died' — tautologija (preminula + umrla).",
+   "suggestion": "'... da je smrt nastupila usljed unošenja kalijum-cijanida' ili 'da je preminula usljed unošenja kalijum-cijanida'."
+  },
+  {
+   "id": "sUkiH8G4Zp#7",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Pasus 139: 'Djelo Dr. Modi's Medical Jurisprudence and Toxicology pokazuje' — dodata je riječ 'Djelo' kojom izvor ne raspolaže ('Dr. Modi's Medical Jurisprudence and Toxicology shows'); 'Dr.' nije u skladu sa 'dr' u ostatku teksta.",
+   "suggestion": "'Dr. Modi's Medical Jurisprudence and Toxicology pokazuje...' ili 'Prema djelu ...' uz ujednačeno 'dr'. Takođe razmotriti gubitak glose '(paperbook)' u pasusu 138 ('Dijelu I štampanog spisa predmeta (paperbook)') — dodatak izvan izvora, ali bezopasan."
+  },
+  {
+   "id": "sUkiH8G4Zp#7",
+   "severity": "minor",
+   "type": "gramatika/pravopis",
+   "description": "Pasus 138: 'Ni okolnosti br. 11 i 12 nijesu ni od kakve pomoći optužbi' (izvor: 'also of no assistance') — dvostruka negacija/nezgrapno; 'negdje drugo' umjesto 'negdje drugdje'. Pasus 141: 'ne može crpsti' — nepravilan infinitiv.",
+   "suggestion": "'Okolnosti br. 11 i 12 takođe nijesu od pomoći optužbi'; 'negdje drugdje'; 'ne može crpjeti' (ili 'izvući').'"
+  },
+  {
+   "id": "sUkiH8G4Zp#7",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 135: 'dok je preminula bila pregledana' — neprirodan trpni oblik; pasus 5 (red 'Kada je žalilac ušao...'): 'da pošalju po dr Lodhu' sa nejasnim subjektom.",
+   "suggestion": "'dok je preminula pregledavana/dok su pregledali preminulu'; 'da se pošalje po dr Lodhu'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 45 novih redova u izvoru i prevodu, svi tokeni (P.W., Exh., A-3, brojevi pasusa, datumi, vremena) tačno očuvani, ponovljena rečenica u pasusu 123 zadržana. Nema ekavizama ni hrvatskih oblika; glosar (žalilac, Visoki sud, uvaženi zastupnik, optuženi br. 1, nijesu) primijenjen dosljedno. Registar je prirodan obrazloženju presude; preostale su samo manje stilske nezgrapnosti."
+}

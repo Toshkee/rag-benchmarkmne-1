@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "7nJ6iUo8k2",
+      "severity": "minor",
+      "type": "glosar (skraćenica)",
+      "description": "Izvor: \"The Government Accountability Office must issue a report\". Prevod: \"Vladina kancelarija za reviziju izrađuje izvještaj\". Glosar traži \"Vladina kancelarija za reviziju (GAO)\" pri prvom pomenu.",
+      "suggestion": "\"Vladina kancelarija za reviziju (GAO) izrađuje izvještaj ...\""
+    },
+    {
+      "id": "7nJ6iUo8k2",
+      "severity": "minor",
+      "type": "terminologija / registar",
+      "description": "Izvor: \"project developers and operators\". Prevod: \"nosioci razvoja i operateri projekata\". \"Nosioci razvoja\" je neprirodno i nepravnički.",
+      "suggestion": "\"investitori i operateri projekata\" (ili \"nosioci projekata i operateri\")"
+    },
+    {
+      "id": "pxYyhIKHQI",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Izvor: \"state- and tribe-run job-assistance programs\". Prevod: \"koje sprovode države i plemena\". Glosar: Indian tribe → indijansko pleme.",
+      "suggestion": "\"koje sprovode države i indijanska plemena\""
+    },
+    {
+      "id": "pxYyhIKHQI",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Izvor: \"Dislocated workers\". Prevod: \"Otpušteni radnici\". Pojam obuhvata radnike koji su ostali bez posla zbog zatvaranja/restrukturiranja, a ne samo otpuštene; sužava značenje.",
+      "suggestion": "\"Radnici koji su ostali bez posla zbog gubitka radnog mjesta\" (ili \"radnici kojima je prestao radni odnos bez njihove krivice\")"
+    },
+    {
+      "id": "JHS64k2k59",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Izvor: \"Construction and Operation and Maintenance of Family Housing\". Prevod: \"izgradnju, rad i održavanje porodičnog stanovanja\". \"Rad\" ne prenosi \"operation\" (upravljanje/eksploatacija).",
+      "suggestion": "\"izgradnju, upravljanje i održavanje porodičnog stanovanja\""
+    },
+    {
+      "id": "I0YzH1D2De",
+      "severity": "minor",
+      "type": "stil / tautologija",
+      "description": "Izvor: \"Advisory Council on Historic Preservation\". Prevod: \"Savjetodavni savjet za očuvanje istorijskog nasljeđa\" (tautologija); i \"National Endowment\" → \"Nacionalni fond\" uz \"Nacionalnu fondaciju\" za \"National Foundation\".",
+      "suggestion": "\"Savjetodavno vijeće za očuvanje istorijskog nasljeđa\"; \"Nacionalna zadužbina za umjetnost\" / \"Nacionalna zadužbina za humanističke nauke\" radi razlikovanja od \"fondacije\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 10 _id-ova se poklapa, broj redova i pasusa je isti, naziv zakona je sam u prvom redu, svi brojevi (95%, 50%, 90%, $2,000, 1974, 2020-2024, 21. vijek) su očuvani, nema ekavizama ni kroatizama i nema izostavljenih ni dodatih rečenica. Registar je dosljedan obrascu \"Ovim predlogom zakona uređuje se / Predlogom zakona se nalaže\" i normativnom prezentu, a glosar (budžetska sredstva, fiskalna godina, država, Ministarstvo X, grant) se primjenjuje dosljedno; ostala su samo manja terminološka i stilska odstupanja."
+}

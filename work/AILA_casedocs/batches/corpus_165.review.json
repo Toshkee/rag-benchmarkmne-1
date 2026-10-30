@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#4",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Oznaka dokaza je nedosljedna: u izvoru \"(Exhs. 30, 32 and 33)\", \"(Exs. 30, 32, 33)\", \"(Exts. 30, 32, 33)\" ostavljene su kao Exhs./Exs./Exts., ali \"(Exhibits 30, 32, 33)\" (pasus 72) prevedeno je kao \"(dokazi 30, 32, 33)\". Isti pojam ima dva oblika, a \"dokazi\" je i opšti termin za evidence.",
+   "suggestion": "Pasus 72: \"(dokazi 30, 32, 33)\" -> \"(Exhibits 30, 32, 33)\" ili dosljedno \"(prilozi 30, 32, 33)\" u cijelom itemu, u skladu sa ostalim pojavljivanjima Exhs./Exs./Exts."
+  },
+  {
+   "id": "sUkiH8G4Zp#4",
+   "severity": "minor",
+   "type": "stil/gramatika",
+   "description": "Pasus 70: \"Kako je već naznačeno da pisma (Exs. 30, 32, 33) jasno pokazuju da Manju nikada nije željela...\" je gramatički nespretno (izvor: \"As already indicated that the letters ... clearly show\").",
+   "suggestion": "\"Kao što je već naznačeno, pisma (Exs. 30, 32, 33) jasno pokazuju da Manju nikada nije željela da zabrinjava ili uznemirava svoje roditelje...\""
+  },
+  {
+   "id": "sUkiH8G4Zp#4",
+   "severity": "minor",
+   "type": "dosljednost termina (stranke)",
+   "description": "Isto lice (Sharad) je u pasusu 67 označeno kao \"optuženi\" (\"the accused had a chemical factory\" -> \"optuženi je imao hemijsku fabriku\"), a u ostatku dijela kao \"žalilac\" (appellant). Izvor takođe koristi oba termina, pa je prevod vjeran, ali čitaocu nije jasno da je riječ o istom licu.",
+   "suggestion": "Prihvatljivo kako jeste; po želji \"optuženi (žalilac)\" pri prvom pomenu, ali to bi dodalo sadržaj, pa se preporučuje ostaviti."
+  },
+  {
+   "id": "sUkiH8G4Zp#4",
+   "severity": "minor",
+   "type": "značenje/registar",
+   "description": "Pasus 72: \"was introduced to castigate the appellant\" -> \"da bi se žalilac osudio zbog svog lošeg odnosa\"; \"osuditi\" u pravnom tekstu asocira na osuđujuću presudu, a \"castigate\" znači oštro kritikovati/prikazati u lošem svjetlu.",
+   "suggestion": "\"...unesena da bi se žalilac oštro prekorio / prikazao u lošem svjetlu zbog svog lošeg odnosa prema Manju.\""
+  },
+  {
+   "id": "sUkiH8G4Zp#4",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Pasus 79: \"the witness proves the letters (Exts. 30 and 32)\" -> \"svjedokinja dokazuje pisma\"; pravnički je preciznije da svjedok dokazuje autentičnost/potvrđuje pisma. Takođe \"Ona takođe ... Ona takođe\" ponavljanje u pasusu 79.",
+   "suggestion": "\"Nakon toga svjedokinja potvrđuje autentičnost pisama (Exts. 30 i 32).\""
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (18), svi brojevi, datumi (uključujući izvorne greške poput 1932. i \"Shared\"), imena i oznake P.W./PW/Exs. očuvani, odnos riječi 0.92, bez ekavizama i hrvatizama; nijedan pasus ni rečenica nijesu izostavljeni. Procesne uloge i glosar (žalilac, Visoki sud, prvostepeni sud, član 32 Zakona o dokazima, optuženi br. 2) primijenjeni su dosljedno; registar je prirodan obrazloženju presude. Nađene su samo manje stilske i terminološke primjedbe."
+}

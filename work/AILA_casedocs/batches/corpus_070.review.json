@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "RBT7qYHDBT#1",
+   "severity": "minor",
+   "type": "register",
+   "description": "Izvor: \"we shall at you own expense, execute and deliver a document registered\"; prevod: \"mi ćemo o vašem trošku sačiniti i predati registrovanu ispravu\". Konstrukcija \"o vašem trošku\" je razgovorna.",
+   "suggestion": "\"o vašem trošku\" -> \"na vaš trošak\"."
+  },
+  {
+   "id": "RBT7qYHDBT#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Izvor: \"the learned Single Judge\"; prevod: \"uvaženi sudija pojedinac\". Izraz nije u glosaru; \"uvaženi\" je glosarski samo za learned counsel. Takođe \"firma\"/\"ortak\"/\"ortakluk\" za firm/partner/partnership nijesu u glosaru, ali se koriste dosljedno u cijelom itemu.",
+   "suggestion": "Razmotriti \"sudija pojedinac Visokog suda\" ili ostaviti; terminološki ostaviti dosljedno ortak/ortakluk."
+  },
+  {
+   "id": "RBT7qYHDBT#1",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "Izvor: \"a reference was made to the High Court\" / \"the High Court allowed the reference\"; prevod: \"Visokom sudu je upućeno pitanje (reference)\", dalje \"prihvatio upućeno pitanje\", \"po upućenom pitanju\". Pojam reference se prvi put glosira, ali kasnije se mijenja formulacija. Takođe \"Trust\" ostaje velikim slovom neprevedeno, a \"tribunal\" je malim slovom (u skladu s glosarom).",
+   "suggestion": "Ujednačiti \"zahtjev za upućivanje pitanja (reference)\" pri prvom pomenu, dalje \"upućeno pitanje\"; po želji \"Trust\" -> \"trust (Trust)\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 11 novih redova je sačuvano, tokeni Rs. (4) i svi brojevi, citati (SCR, AIR, Indlaw) i brojevi članova poklapaju se s izvorom; odnos riječi 0,88 i nema izostavljenih rečenica ni promjene strana u postupku. Ijekavica je dosljedna, bez ekavskih ili hrvatskih oblika, registar je primjeren obrazloženju presude i glosar je poštovan (tribunal, vijeće (Division Bench), presuda u parnici (dekret), izuzetak, nijesu). Nađene su samo sitne stilske primjedbe."
+}

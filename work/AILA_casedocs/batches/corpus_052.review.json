@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "2qFl41sNLj#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'order dated 29.11.1980 of Shri Abdullahi Amin' prevedeno kao 'nalog od 29. 11. 1980. godine' (i 'nalog od 29. 11. 80'); glosar: order -> rješenje. 'nalog' je i dio termina 'nalog (writ)' i 'nalog za hapšenje', pa može zbuniti.",
+   "suggestion": "Zamijeniti 'nalog od 29. 11. 1980. godine' / 'naloga od 29. 11. 80' / 'nalog od 29. 11. 80' sa 'rješenje' / 'rješenja' (dosljedno u sva četiri pojavljivanja)."
+  },
+  {
+   "id": "2qFl41sNLj#1",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'non application of the mind of the detaining authority' -> 'nije savjesno razmotrio stvar' unosi ocjenu savjesnosti koje u izvoru nema; izvor govori o nepostojanju samostalnog razmatranja.",
+   "suggestion": "'organ nadležan za određivanje pritvora nije samostalno (primjenom svog uvjerenja) razmotrio stvar' ili 'nije ispoljio pravilno rasuđivanje'; npr. 'nije samostalno razmotrio stvar'."
+  },
+  {
+   "id": "2qFl41sNLj#1",
+   "severity": "minor",
+   "type": "register",
+   "description": "'Clerical mistake' -> 'administrativna greška' (i 'administrativna'): u pravnom registru uobičajenije 'greška u pisanju' / 'tehnička greška'.",
+   "suggestion": "'tehnička greška' (ili 'greška u pisanju'), dosljedno na tri mjesta."
+  },
+  {
+   "id": "2qFl41sNLj#1",
+   "severity": "minor",
+   "type": "fidelity-grammar",
+   "description": "Izvorna rečenica sadrži štamparsku grešku ('though it was against the public interest'); prevod 'koji je ... smatrao da je, iako, protivno javnom interesu' doslovno prenosi 'though' kao 'iako' i daje negramatičnu rečenicu koja djeluje kao koncesija.",
+   "suggestion": "Uz vjernost izvoru: 'bio taj koji je smatrao da je protivno javnom interesu da se otkrije izvor obavještajnih podataka i činjenice sadržane u njima' (izbaciti 'iako,'), jer 'though' u izvoru očito stoji umjesto 'that'."
+  },
+  {
+   "id": "2qFl41sNLj#1",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "'W.P. br. 2690/81' ostavljeno kao skraćenica, dok se u istom itemu 'Writ Petition' prevodi kao 'ustavna tužba (writ petition)' / 'ustavna tužba br. 3241 iz 1981. godine'. Takođe 'Shodno tome' za 'In the result' i 'zatraženo izuzeće' za 'privilege was claimed' su pomalo slobodni.",
+   "suggestion": "'ustavna tužba br. 2690/81 se odbija' (uz W.P. kao prvo pominjanje po potrebi: 'ustavna tužba (writ petition) br. 2690/81'); 'Prema tome' / 'Slijedom navedenog'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedna rečenica nije izostavljena ni dodata, broj novih redova (4) i svi brojevi/datumi/oznake predmeta (29.11.1980, 2690/81, 3241 iz 1981) se poklapaju sa izvorom, odnos riječi je 0,89 a ijekavica je dosljedna bez ekavizama i hrvatskih oblika. Glosar je uglavnom poštovan (uvaženi zastupnik, Vlada, država, protivne strane, odbijena, ustavna tužba (writ petition)). Registar je prirodan sudski; preostali nedostaci su stilski/terminološki (nalog umjesto rješenje, administrativna greška, 'iako,' u rečenici zbog greške u izvoru)."
+}

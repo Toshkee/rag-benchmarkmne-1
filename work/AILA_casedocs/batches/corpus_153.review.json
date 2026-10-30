@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Para 2 i 20: 'reversed the judgment of acquittal' / 'while reversing the order of acquittal' prevedeno kao 'preinačio' / 'preinačujući oslobađajuću presudu', dok je u para 15 'set aside' prevedeno 'ukinuo'. 'Preinačiti' nije u glosaru; ista radnja Visokog suda označena različitim terminima.",
+   "suggestion": "Ujednačiti prema glosaru: 'Visoki sud je ukinuo oslobađajuću presudu...' i 'ukidajući oslobađajuću presudu'."
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 1: 'Criminal R.C. No. 691' prevedeno 'u krivičnom predmetu revizije (Criminal R.C.) br. 691' - odstupa od glosara (revision -> zahtjev za preispitivanje (revizija)).",
+   "suggestion": "'u krivičnom zahtjevu za preispitivanje (revizija, Criminal R.C.) br. 691 iz 1991. godine'."
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Para 3: 'Kratke činjenice koje su neophodne za rješavanje predmeta rekapituliraju se kako slijedi' - 'Brief facts' prevedeno doslovno, neprirodno u pravničkom registru.",
+   "suggestion": "'Činjenice potrebne za rješavanje predmeta ukratko se iznose kako slijedi:'"
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "stil/gramatika",
+   "description": "Para 11 (drugi pasus): 'a da je njegova tvrdnja da je postignut dogovor o 35 suverena' - nepravilna konstrukcija (izvor: 'it is his case that an agreement was reached at 35 sovereigns').",
+   "suggestion": "'a da je on tvrdio da je postignut dogovor o 35 suverena.'"
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "Para 13, 14, 20(1): 'suicide note' dosljedno prevedeno 'oproštajno pismo' - uvodi konotaciju 'farewell letter' koje izvor nema; nije u glosaru.",
+   "suggestion": "Razmotriti 'pismo koje je pokojna ostavila prije samoubistva' pri prvom pomenu, dalje 'pismo o samoubistvu' (ili zadržati 'oproštajno pismo' dosljedno kroz sve dijelove docid-a)."
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 9: 'turned hostile' -> 'postao neprijateljski svjedok' (kalk); u glosaru nema odrednice.",
+   "suggestion": "'koji je kasnije promijenio iskaz (hostile witness)' ili 'postao neprijateljski svjedok (hostile witness)'."
+  },
+  {
+   "id": "gQH8wylh0C#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 20(3): 'Iz braka postoje dvoje male djece' - neprirodan glagol za 'There are two small children out of the wedlock'.",
+   "suggestion": "'Iz braka je rođeno dvoje male djece.'"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (51), svi tokeni (P.W./A-/Rs.) i svi brojevi, citati i datumi identični izvoru, bez izostavljenih ni dodatih rečenica; strane (žalilac, optuženi br. 1-3, prvostepeni sud, Visoki sud) dosljedno označene i bez ekavskih/hrvatskih oblika. Registar je prirodan obrazloženju presude, a nađena su samo manja terminološka i stilska odstupanja (preinačiti/ukinuti, revizija, 'Brief facts', 'oproštajno pismo')."
+}

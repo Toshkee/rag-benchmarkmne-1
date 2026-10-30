@@ -1,0 +1,50 @@
+{
+  "batch": "corpus_035",
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "terminologija/dosljednost",
+      "description": "Para 1 i 14: 'order of acquittal' prevedeno kao 'rješenje o oslobađanju' / 'intervenisati u rješenje o oslobađanju', dok je u para 15 'appeals against acquittals' prevedeno 'oslobađajućih presuda'. Isti pojam (odluka o oslobađanju) dobija dva različita termina; glosar za acquittal je 'oslobađajuća presuda'.",
+      "suggestion": "Ujednačiti: 'osporavajući oslobađajuću presudu koju je donio Visoki sud u Allahabadu' (para 1) i 'neće intervenisati u oslobađajuću presudu' (para 14)."
+    },
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "dodatak u tekstu",
+      "description": "Para 5: 'Magistrat pododjeljenja (Sub-Divisional Magistrate) i tehsildar (Tehsildar)' — engleski izrazi u zagradi dodati su kao prevodilačka napomena, a u ostatku teksta (para 10, 23-25) se ne koriste; stil vodič zabranjuje dodavanja u tekst izvan propisanih glosa.",
+      "suggestion": "Ukloniti zagrade: 'Magistrat pododjeljenja i tehsildar, koji su bili počasni gosti na priredbi, ...'"
+    },
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 8: 'warrant of attachment' -> 'nalog za zaplijenu'; glosar traži odrednicu uz 'nalog' (hapšenje/pretres), a za zaplijenu imovine nema propisanog termina; 'zaplijena' je neuobičajen oblik, uobičajeno 'zapljena'/'privremeno oduzimanje imovine'.",
+      "suggestion": "'proglas i nalog za zaplijenu imovine' ili 'nalog za privremeno oduzimanje imovine' i dosljedno 'imovina optuženog je zaplijenjena'."
+    },
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Para 14: 'over-riding powers under Article 136' -> 'nadređena ovlašćenja' je kalk i nije uobičajen pravni izraz.",
+      "suggestion": "'Ovaj sud ne vrši svoja posebna/prevashodna ovlašćenja iz člana 136 da bi ponovo ocjenjivao dokaze.'"
+    },
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Para 13: 'With these and other conclusions' -> 'Sa ovim i drugim zaključcima' je doslovan kalk; nije prirodno u obrazloženju presude. Isto para 12 'svjedok dijete' (tekst izvora ima tačku umjesto zareza, pa je prenesena nezgrapna interpunkcija).",
+      "suggestion": "'Na osnovu ovih i drugih zaključaka, Visoki sud je odbacio tezu optužbe.'; para 12: 'on je svjedok dijete, da nije bio naveden ...' (ili zadržati izvornu interpunkciju)."
+    },
+    {
+      "id": "qWCA79ISjs#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 8: 'proclamation and warrant of attachment ... were obtained and executed properly' i 'Rest of the evidence of prosecution' — 'tezu'/'tezi' se koristi za 'case' (para 8: 'u prilog svojoj tezi', para 9, 13, 15), dok se 'prosecution story/version' prevodi kao 'verzija optužbe'; 'case' kao predmet i kao teza se miješaju (npr. 'odbaciti predmet' vs 'teza optužbe').",
+      "suggestion": "Za 'prosecution case' dosljedno 'optužna teza' / 'slučaj optužbe', a 'case' u smislu spora 'predmet'; nije blokirajuće."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 42 reda (isti broj novih redova), numeracija pasusa, citati sudske prakse, brojevi, iznosi (Rs.2,500), datumi i oznake dokaza (PW, DW, Ex. Ka.) poklapaju se sa izvorom, a automatske provjere (skup _id, tokeni, brojevi, ekavizmi, hrvatizmi) bez nalaza; odnos riječi 0.88. Terminologija glosara (žalilac nije korišten jer su u izvoru stranke protivna strana/optuženi, Visoki sud, Vrhovni sud, Sesijski sud, prvostepeni sud, nijesu) primijenjena je dosljedno, a registar je prirodan obrazloženju presude. Preostala odstupanja su stilska ili terminološka (oslobađanje: rješenje vs presuda, kalkovi, zagrade u para 5)."
+}

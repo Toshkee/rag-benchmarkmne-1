@@ -1,0 +1,50 @@
+{
+ "batch": "corpus_01",
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "3npgW2zMj5",
+   "severity": "minor",
+   "type": "terminologija/logika",
+   "description": "Izvor: \"You may not use this content without that person or organisations permission, or as otherwise allowed by law.\" Prevod: \"bez dozvole tog lica ili organizacije, odnosno osim ako je to na drugi način dozvoljeno zakonom\". Veznik \"odnosno\" i dvostruka konstrukcija zamagljuju značenje (dozvola ILI zakonsko ovlašćenje).",
+   "suggestion": "\"Ovaj sadržaj ne smijete koristiti bez dozvole tog lica ili organizacije, osim kako je na drugi način dozvoljeno zakonom.\""
+  },
+  {
+   "id": "9NIQ0Wobtq",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"Google Account naloga\" (izvor: \"Google Accounts\") miješa engleski naziv i glosarski \"nalog\"; u HtYDZw69Cr isti pojam je preveden \"Google nalog\" i \"Google Account naloga\" (\"iz svog Google Account naloga\"), dakle nedosljedno unutar batcha.",
+   "suggestion": "Svuda \"Google nalog\" (npr. \"ukidamo ili zatvaramo Google naloge lica koja ponovljeno krše autorska prava\"; u HtYDZw69Cr \"iz svog Google naloga\")."
+  },
+  {
+   "id": "HtYDZw69Cr",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"iz svog Google Account naloga\" nasuprot \"vaš Google nalog\" u istom itemu.",
+   "suggestion": "\"iz svog Google naloga\"."
+  },
+  {
+   "id": "wmq6OLkTkx",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Age Requirements\" prevedeno \"Uslovi u pogledu uzrasta\"; \"uslovi\" je u ovom batchu rezervisan za \"terms\", pa naslov može da zbuni (u istom itemu \"ovi uslovi\" = terms).",
+   "suggestion": "\"Uzrasni zahtjevi\" ili \"Starosna granica\"."
+  },
+  {
+   "id": "wmq6OLkTkx",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"Svi ostali linkovi ili upućivanja\" (izvor: \"links or references\") - kolokvijalni anglicizam u formalnom ugovornom registru.",
+   "suggestion": "\"Sve ostale veze (linkovi) ili upućivanja\" ili \"sve ostale hiperveze\"."
+  },
+  {
+   "id": "P9K63LSFZH",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"dajete saglasnost na ličnu nadležnost tih sudova\" (izvor: \"consent to personal jurisdiction\") - \"lična nadležnost\" nije ustaljen pravni termin.",
+   "suggestion": "\"saglasni ste sa personalnom nadležnošću tih sudova\" / \"pristajete na personalnu nadležnost tih sudova\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, isti broj novih redova, nijedna rečenica nije izostavljena niti dodata, brojevi i tokeni se poklapaju, a odnos riječi je 0.91-1.05. Registar je dosljedno formalan ugovorni (vi/mi, ijekavica, nijesu, glosar poštovan), uz samo sitne terminološke i stilske primjedbe; nema blokirajućih problema."
+}

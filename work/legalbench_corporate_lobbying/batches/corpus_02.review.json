@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "r9HE60Dlgk",
+      "severity": "minor",
+      "type": "dodat sadržaj / terminologija",
+      "description": "U prvoj rečenici je u prevodu dodata zagrada koje u izvoru nema: „Ministarstvo spoljnih poslova (State Department)“, izvor: „the Department of State“. Isti pojam se dalje prevodi bez zagrade, a u glosaru je obrazac Department of X → Ministarstvo X.",
+      "suggestion": "Ukloniti dodatnu zagradu „(State Department)“ i dosljedno koristiti „Ministarstvo spoljnih poslova“."
+    },
+    {
+      "id": "r9HE60Dlgk",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„Fondaciju Azija“ za „the Asia Foundation“ je nepravilno skloniv oblik naziva.",
+      "suggestion": "„Fondaciju Azije“ ili „Azijsku fondaciju (Asia Foundation)“."
+    },
+    {
+      "id": "4gfjlGYqyx",
+      "severity": "minor",
+      "type": "nedosljednost naslova",
+      "description": "Naslov: „Zakon o produženju važenja mjera za unapređenje registracije pesticida“ za „Pesticide Registration Improvement Extension Act“. Dodato je „važenja mjera“ kojih u izvoru nema.",
+      "suggestion": "„Zakon o produženju unapređenja registracije pesticida iz 2018. godine“."
+    },
+    {
+      "id": "jdg3vSFkpB",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Izvor: „improve the energy or efficiency of water, wastewater, and water reuse systems“ (izvorna rečenica je gramatički nepotpuna). Prevod: „poboljšava energetska ili ukupna efikasnost sistema“. Riječ „ukupna“ nema osnova u izvoru.",
+      "suggestion": "„kojima se poboljšava energetska efikasnost ili efikasnost sistema za vodosnabdijevanje, ...“ (bez „ukupna“)."
+    },
+    {
+      "id": "NpOSWe9DyF",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„bezbjednosnu provjeru“ za „background check“. Izraz sugeriše sigurnosnu provjeru, a ne provjeru podobnosti kupca.",
+      "suggestion": "„provjeru podobnosti kupca“ ili „provjeru iz evidencija (background check)“."
+    },
+    {
+      "id": "CKEVm3Vpaz",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„uređaja za hemijsku detekciju“ za „chemical screening device“. „Screening“ je preliminarna provjera/testiranje, a ne detekcija.",
+      "suggestion": "„uređaja za hemijsko skrining testiranje“ ili „uređaja za hemijsku provjeru (screening)“."
+    },
+    {
+      "id": "oqdUPfvH8K",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„profitne ustanove visokog obrazovanja (IHE)“ za „for-profit institutions of higher education“, i „plaćeno zaposlenje“ za „gainful employment“. Prvo je neprirodno, a drugo sužava pojam.",
+      "suggestion": "„ustanove visokog obrazovanja koje posluju radi sticanja dobiti“; „gainful employment“ → „zaposlenje koje obezbjeđuje primjerena primanja (gainful employment)“."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je identičan, broj pasusa i novih redova je isti kao u izvoru, svi brojevi, iznosi, datumi i naslovi propisa su očuvani, a automatske provjere (tokeni, brojevi, odnos riječi, ekavizmi, kroatizmi) nijesu pokazale odstupanja. Registar odgovara obrazloženju predloga zakona („Ovim predlogom zakona...“, „Predlogom zakona nalaže se...“), ijekavica je dosljedna, a glosar (budžetska sredstva, fiskalna godina, GAO, EPA, Ministarstvo X, država, nijesu) poštovan. Nađene su samo manje terminološke i stilske primjedbe."
+}

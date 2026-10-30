@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "U pasusu 18 izvor kaže 'and here again the same raw-materials ... are used by both industries'; prevod: 'industrija vlakana smatra se nezavisnom od industrije plastike, iako i ovdje obje industrije koriste iste sirovine' - dodata je koncesivna veza 'iako' koje u izvoru nema.",
+   "suggestion": "Zamijeniti sa: '... nezavisnom od industrije plastike, a i ovdje obje industrije koriste iste sirovine ...'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 15: 'da je „sintetičke smole“ izraz koji se koristi za opis osnovnog materijala' (izvor: '\"synthetic resins\" is a term used') - neslaganje u broju.",
+   "suggestion": "'da su „sintetičke smole“ izraz koji se koristi ...'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "terminologija/stil",
+   "description": "Tačka (iii) u citatu: 'Not otherwise specified' preveden kao 'Koji nijesu drugačije navedeni' - množinski oblik bez uporišta; u pravnom tekstu uobičajeno je bezlično.",
+   "suggestion": "'Nije drugačije navedeno.'"
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Explanation:' u stavki 15A(2) preveden kao 'Napomena:'; u propisima je 'Explanation' = 'Objašnjenje' (napomena je bliža 'note').",
+   "suggestion": "'Objašnjenje: Za potrebe podstavke (2) ...'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "pravopis/norma",
+   "description": "'plastificirani ili ne' i 'plastificirani celulozni nitrat' - oblik na -irani djeluje hrvatski; u crnogorskoj/srpskoj normi 'plastifikovani'.",
+   "suggestion": "'plastifikovani ili ne, i plastifikovani celulozni nitrat'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 3: 'Polimerni čips koji proizvode društva poreski obveznici' (izvor: 'produced by the assessees companies') - nezgrapna apozicija.",
+   "suggestion": "'koji proizvode društva - poreski obveznici' ili 'koji proizvode društva poreskih obveznika'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "terminološka dosljednost",
+   "description": "Entry se prevodi kao 'pozicija' (pasusi 4, 12, 30, 34), a Item kao 'stavka' (pasusi 1, 13, 14, 38-40), iako se odnosi na istu 'Entry/Item 15A'; u istom pasusu 30/37 slijede 'pozicija 15A' i 'tadašnji tekst stavke'. Glosar to ne propisuje, ali za retrieval je bolje jedinstveno.",
+   "suggestion": "Odabrati jedan termin (npr. 'stavka') za Entry i Item 15A kroz cijeli dokument; 'sub-item' ostaje 'podstavka'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 39: 'nakon izmjene poslije 28. 2. 1964. godine' - redundantno (izvor: 'as amended after 28.2.1964').",
+   "suggestion": "'Stavka 15A je, međutim, kako je izmijenjena poslije 28. 2. 1964. godine, glasila:-'."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 1: 'Radi jednostavnosti' za 'For the sake of convenience' - neprirodno u pravnom registru. Dupliran izvorni fragment ('we are period 1962 to 1972. For the sake of convenience...') je doslovno preslikan ('Radi jednostavnosti mi smo period od 1962. do 1972. godine. Radi jednostavnosti iznosimo'), što je u skladu sa zabranom popravljanja izvora.",
+   "suggestion": "'Radi lakšeg izlaganja'; duplikat zadržati."
+  },
+  {
+   "id": "NbrnTP3fAb#0",
+   "severity": "minor",
+   "type": "format",
+   "description": "Izvorni objekat ima polje 'n_chunks' (=2) koje nedostaje u prevodu (prevod ima samo _id, title, text). _id i title (prazan) su ispravni.",
+   "suggestion": "Provjeriti da li pipeline traži n_chunks u .mne.json; ako da, dodati vrijednost 2."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 49 redova (broj novih redova 48=48), svi tokeni, brojevi, citati (SCR, AIR, ELT, Indlaw), datumi i iznosi poklapaju se sa izvorom (odnos riječi 0.92), bez izostavljanja, dodavanja ili izmjene značenja; nema ekavizama ni hrvatskih oblika. Registar je prirodan i primjeren obrazloženju presude uz dosljedne termine (poreski obveznik, poreska uprava, Indijska Unija, Sud). Zamjerke su isključivo stilske i terminološke sitnice."
+}

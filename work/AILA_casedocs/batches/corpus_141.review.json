@@ -1,0 +1,82 @@
+{
+ "n_blocking": 0,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Pasus 77: 'U predmetu C. Antony v. K.G. Raghavan Nair ... morao je ponovo da se izloži pravni stav' je nepravilna konstrukcija (izvor: 'had to reiterate the legal position').",
+   "suggestion": "'U predmetu C. Antony v. K.G. Raghavan Nair ... Sud je morao ponovo da izloži pravni stav u predmetima u kojima su prvostepeni sudovi donijeli oslobađajuću presudu.'"
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "terminološka dosljednost",
+   "description": "'acquittal' je prenijet naizmjenično kao 'rješenje o oslobađanju', 'oslobađajuća presuda' i 'oslobađanje' za isti pojam; npr. pasus 76/12 'appeal either against an order of acquittal or conviction' -> 'rješenje o oslobađanju ili ... osuđujuće presude' (asimetrično), a u 'order of acquittal to one of conviction' -> 'rješenje o oslobađanju u osuđujuću presudu'.",
+   "suggestion": "Zadržati glosar (order -> rješenje) samo za 'order of acquittal', ali ujednačiti par: 'rješenje o oslobađanju / rješenje o osudi' ili dosljedno 'oslobađajuća / osuđujuća presuda' unutar citata."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'very substantial and compelling reasons' / 'substantial' preveden kao 'veoma bitni i uvjerljivi razlozi'; 'bitan' (essential/material) se u istom tekstu koristi i za 'material' ('bitne i relevantne', 'bitne dokaze'), čime se gubi razlika.",
+   "suggestion": "'substantial' -> 'znatni' ('veoma znatni i uvjerljivi razlozi'), 'material' -> 'bitni'."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "značenje (ublaženo)",
+   "description": "Pasus 76/11: 'the animus of witnesses' -> 'stav (animus) svjedoka'; 'stav' ne prenosi značenje (pristrasnost/motiv). Takođe 'on fanciful grounds' -> 'po osnovu proizvoljnih razloga' (bolje: nategnutih/neosnovanih).",
+   "suggestion": "'pristrasnost/motiv (animus) svjedoka'; 'po osnovu neutemeljenih razloga'."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "značenje (ublaženo)",
+   "description": "Pasus 86: 'without placing the very substantial reasons given by it' (vjerovatno štamparska greška za 'displacing') -> 'ne razmotrivši veoma bitne razloge'. Prevod nagađa tumačenje; smisao 'ne otklonivši' bi bio bliži kontekstu pasusa 76/12 ('dispel those reasons').",
+   "suggestion": "'ne otklonivši veoma znatne razloge koje je on naveo u prilog svom zaključku'."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Kalkirano 'intervenisati u rješenje o oslobađanju / u odluke prvostepenog suda' (više puta) i 'Sistematizacijom cjelokupnih dokaza' za 'On marshalling the entire evidence' – neprirodno za crnogorski pravni jezik.",
+   "suggestion": "'miješati se u / mijenjati rješenje'; 'Nakon cjelovite ocjene (sagledavanja) svih dokaza'."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "značenje (ublaženo)",
+   "description": "Pasus 90: 'unless required in any other case' -> 'osim ako se ne traži njegovo zadržavanje u nekom drugom predmetu': dodato 'zadržavanje' (nema u izvoru), a 'osim ako se ne' je dvostruka negacija.",
+   "suggestion": "'osim ako nije potreban u nekom drugom predmetu' (ili 'osim ako se ne zahtijeva njegovo prisustvo/lišenje slobode u drugom predmetu' ako se želi eksplicitnost)."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 75: 'fundamental principles of criminal jurisprudence' -> 'osnovnih načela krivičnog prava' (jurisprudence = pravna nauka/praksa); u pasusu 88 'criminal jurisprudence' -> 'krivičnog prava', u 80(4) isto. Dosljedno, ali neprecizno.",
+   "suggestion": "'krivičnopravne nauke i prakse' ili ostaviti 'krivičnog prava' svjesno; nije nužno."
+  },
+  {
+   "id": "XRvj7uff0L#3",
+   "severity": "minor",
+   "type": "glosar/stil",
+   "description": "'u/ss. 378 and 386' -> 'prema čl. 378 i 386' – skraćenica 'čl.' umjesto 'članovima' (guide: 'prema članu'); 'Criminal Procedure Code, 1973' i 'Code of Criminal Procedure, 1973' ujednačeno prevedeni kao 'Zakonik o krivičnom postupku iz 1973. godine' (ispravno).",
+   "suggestion": "'prema članovima 378 i 386 Zakonika o krivičnom postupku iz 1973. godine'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 53 reda/pasusa su prisutni, broj novih redova je isti (53), brojevi članova, godine i citati (SCC, Indlaw) identični, nema ekavizama ni hrvatizama, odnos riječi 0,87. Glosar je poštovan (žalilac, Visoki sud, prvostepeni sud, usvojena, ukinuti, 'nijesu'); registar je uglavnom prirodan i pravnički, uz nekoliko kalkova ('intervenisati u', 'sistematizacija dokaza') i jednu nepravilnu rečenicu u pasusu 77. Nema blokirajućih problema.",
+ "auto_checks": {
+  "ids_equal": true,
+  "newlines": [
+   53,
+   53
+  ],
+  "word_ratio": 0.87,
+  "tokens_equal": true,
+  "numbers_equal": true,
+  "ekavian": [],
+  "croatian": []
+ }
+}

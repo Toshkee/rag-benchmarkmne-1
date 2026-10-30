@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "3MsHarAJOC",
+      "severity": "minor",
+      "type": "dodat sadržaj / naziv zakona",
+      "description": "Prvi red: izvor „...Act or the ANTIQUITIES Act“, prevod „..., odnosno Zakon o starinama (ANTIQUITIES Act)“. „Zakon o starinama“ je izmišljen prevod skraćenice (u izvoru je samo bekronim) i dupliranje naziva; vodič traži oblik „Zakon ... (ANTIQUITIES Act)“.",
+      "suggestion": "Zakon „Prirodna blaga Amerike neizmjernog kvaliteta ujedinjuju, inspirišu i zajedno unapređuju privrede država“ (ANTIQUITIES Act)"
+    },
+    {
+      "id": "3MsHarAJOC",
+      "severity": "minor",
+      "type": "terminologija / sintaksa",
+      "description": "Posljednji pasus: „upravlja sa približno 100 akri zemljišta BLM-a“ (izvor: „shall manage approximately 100 acres of BLM land“) – nepravilna rekcija glagola „upravljati“.",
+      "suggestion": "„upravlja zemljištem BLM-a površine približno 100 akri u Novom Meksiku, označenim kao ...“"
+    },
+    {
+      "id": "0pKGytvukF",
+      "severity": "minor",
+      "type": "dodavanje / preciznost",
+      "description": "„objedinjuje uslove svih saveznih agencija za zaštitu javnog zdravlja i bezbjednosti...“ – dodato „svih“ (izvor: „consolidate across federal agencies requirements to protect...“); formulacija je dvosmislena (agencije za zaštitu zdravlja).",
+      "suggestion": "„objedinjuje, na nivou saveznih agencija, uslove za zaštitu javnog zdravlja i bezbjednosti, ... u jedinstveni skup prijava...“"
+    },
+    {
+      "id": "R6IIl92EtE",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Naslov: „za fiskalne 2018. i 2019. godinu“ – nesaglasnost broja/padeža (izvor: „for Fiscal Years 2018 and 2019“).",
+      "suggestion": "„za fiskalne 2018. i 2019. godine“ (ili „za fiskalnu 2018. i 2019. godinu“)"
+    },
+    {
+      "id": "AwFv0Yg7NZ",
+      "severity": "minor",
+      "type": "terminologija / dosljednost",
+      "description": "Naslov: „Combat Online Predators Act“ → „internet predatora“, dok se u istom batchu (KvSNkimmdv) „online platforms“ prevodi „onlajn platforme“. Nedosljedan prevod „online“.",
+      "suggestion": "Ujednačiti na jedan oblik, npr. „Zakon o borbi protiv predatora na internetu“ i „platforme na internetu“, ili obje „onlajn“."
+    },
+    {
+      "id": "KvSNkimmdv",
+      "severity": "minor",
+      "type": "dodat sadržaj",
+      "description": "„izmjenom zahtjeva u pogledu obaveznih napomena o naručiocu političkih oglasa“ za „revising disclaimer requirements for political advertising“ – „o naručiocu“ dodato; i „profitnog subjekta“ za „for-profit entity“ je neprirodno.",
+      "suggestion": "„izmjenom zahtjeva u pogledu obaveznih napomena (disclaimer) u političkom oglašavanju“; „privrednog subjekta koji posluje radi sticanja dobiti“"
+    },
+    {
+      "id": "g3iCPU6zUj",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "„prelaznu javnu zdravstvenu opciju“ za „transitional public health option“ – dvosmisleno (javno zdravlje vs. javna opcija osiguranja).",
+      "suggestion": "„prelaznu javnu opciju zdravstvenog osiguranja“"
+    },
+    {
+      "id": "PNLbWphJeV",
+      "severity": "minor",
+      "type": "sintaksa",
+      "description": "„usklađeni sa navedenim standardom Nacionalnog udruženja za zaštitu od požara, Međunarodnim kodeksom ... ili Međunarodnim kodeksom...“ – izvor: „specified standard of the NFPA, the International Fire Code, or the International Residential Code“; padeži se miješaju (genitiv/instrumental), pa nije jasno da se „navedeni standard“ odnosi na sva tri izvora. Napomena: odsustvo novog reda između naslova i teksta potiče iz izvora i ispravno je očuvano.",
+      "suggestion": "„usklađeni sa navedenim standardom Nacionalnog udruženja za zaštitu od požara, Međunarodnog kodeksa o zaštiti od požara ili Međunarodnog kodeksa za stambene objekte“"
+    }
+  ],
+  "overall_quality": "Prevod batcha corpus_01 (11 itema) je vjeran i potpun: isti skup i redoslijed _id-ova, isti brojevi i broj novih redova u svim itemima, odnos riječi 0.86–1.18, bez ekavizama i hrvatskih oblika; nema izostavljenih ni promijenjenih rečenica, a glosar (ministarstvo, budžetska sredstva, fiskalna godina, država, uprava/FDA, USDA, HHS) se dosljedno primjenjuje. Registar odgovara obrascu „Ovim predlogom zakona uređuje se... / Predlogom zakona se...“ i normativnom prezentu; zamjerke su samo sitne (naziv ANTIQUITIES zakona, nekoliko gramatičkih i terminoloških nepreciznosti)."
+}

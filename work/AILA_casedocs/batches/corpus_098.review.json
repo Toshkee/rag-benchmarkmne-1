@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Odlomak 1: 'These petitions' / 'Different petitions' prevedeno kao 'Ovim zahtjevima' / 'Različiti zahtjevi', dok se isti pojam (writ petitions) kasnije dosljedno prevodi 'ustavne tužbe' (odlomci 4, 9, 12). Nedosljednost unutar itema.",
+   "suggestion": "'Ovim ustavnim tužbama nastoji se osporiti ...'; 'Različite ustavne tužbe odnose se na različite činjenice.'"
+  },
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "naziv zakona",
+   "description": "'Tamil Nadu Buildings (Lease and Rent Control) Act, 1960' -> 'Zakon o zgradama države Tamil Nadu (zakup i kontrola zakupnine) iz 1960. godine': 'države' je dodato (Tamil Nadu je dio naziva); isto u odlomku 17.",
+   "suggestion": "'Zakon o zgradama Tamil Nadua (zakup i kontrola zakupnine) iz 1960. godine' ili 'Zakon o zgradama (zakup i kontrola zakupnine) Tamil Nadua'; bez dodatka 'države'."
+  },
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'celishodno' (odlomak 1, 'bilo bi celishodno razmotriti') zvuči srpski/arhaično, nije uobičajeno u crnogorskim propisima; 'Apelacioni sud' (odlomak 2, 'the Appellate Court') nije u glosaru.",
+   "suggestion": "'svrsishodno' (ili 'primjereno'); 'Žalbeni sud'."
+  },
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'struck down as violative of Art. 14' -> 'poništen je kao suprotan članu 14' (odlomak 8); glosar za quash/set aside daje 'ukinuti / staviti van snage'. Takođe 'vires' -> 'ustavnost (vires)' šire od izvora (vires = nadležnost/ovlašćenje za donošenje).",
+   "suggestion": "'stavljen je van snage kao suprotan članu 14'; 'osporiti ustavnost/zakonitost (vires)'."
+  },
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'Learned Attorney General' -> 'Uvaženi Attorney General (glavni državni pravobranilac)': dodato objašnjenje u zagradi koje izvor ne sadrži (stilski vodič zabranjuje dodavanje objašnjenja); 'Constitution Bench' -> 'ustavno vijeće (Constitution Bench)' i 'Court of Small Causes' su prihvatljivi.",
+   "suggestion": "'Uvaženi Attorney General' ili 'Uvaženi generalni državni zastupnik' bez dodatnog glosa, dosljedno u cijelom itemu."
+  },
+  {
+   "id": "ZESFqZ8pIx#0",
+   "severity": "minor",
+   "type": "format",
+   "description": "Izlazni objekat nema polje 'n_chunks' (izvor: n_chunks=3), a prevod citata u odlomku 35 mijenja navodnik: izvor \"application'\" -> prevod 'primjenu’' (tipografski apostrof umjesto jednostrukog navodnika).",
+   "suggestion": "Ako šema zahtijeva, dodati 'n_chunks': 3; u odlomku 35 koristiti isti znak kao u izvoru ili zatvoriti citat sa ‘...’ dosljedno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (37), nijedan pasus ni rečenica nijesu izostavljeni, svi brojevi, članovi, datumi, rokovi (tri mjeseca, jedan mjesec, pet godina), citati sudske prakse i tokeni su identični izvoru, a strane (podnosilac zahtjeva, protivna strana, zakupodavac, zakupac) su dosljedno označene; nema ekavskih ni hrvatskih oblika. Registar je prirodan i pravnički (obrazloženje presude), uz sitne terminološke i stilske nedosljednosti navedene gore."
+}

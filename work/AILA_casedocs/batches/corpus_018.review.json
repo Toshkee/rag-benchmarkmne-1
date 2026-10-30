@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "pravopis/ijekavica",
+   "description": "Pogrešan oblik 'djelovi' / 'djelovima' (od 'dio', ne od 'djelo'): 'čiji su djelovi povezani kao karike u lancu' i 'u različitim djelovima svijeta' (izvor: 'its parts ... in different parts of the globe'). Ijekavski oblik je 'dijelovi / dijelovima'.",
+   "suggestion": "Zamijeniti sa 'čiji su dijelovi povezani kao karike u lancu' i 'u različitim dijelovima svijeta'."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'overt act' preveden kao 'radnja izvršenja (overt act)' (i 'radnje izvršenja' u stavovima 24-25). Overt act nije radnja izvršenja krivičnog djela nego izražena/očigledna radnja preduzeta radi ostvarenja dogovora. Takođe nespretno: 'poželjnost zajedničkog suđenja za krivična djela svih radnji izvršenja' (izvor: 'trying the offences of all the overt acts').",
+   "suggestion": "Koristiti dosljedno npr. 'konkretna radnja (overt act)'; rečenicu ispraviti: 'poželjnost zajedničkog suđenja za sve radnje (overt acts) preduzete shodno zločinačkom udruživanju je očigledna'."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "imena predmeta",
+   "description": "'R.K. Dalmia v. Delhi Administration' preveden kao 'R.K. Dalmia protiv Uprave Delhija' – nazivi stranaka su djelimično preveden i deklinirani, što je nedosljedno sa ostalim nazivima predmeta i otežava pretragu.",
+   "suggestion": "'R.K. Dalmia protiv Delhi Administration' ili 'protiv Uprave Delhi' (dosljedno sa pravilom iz dijela 9 da se imena stranaka čuvaju u izvornom obliku)."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "dodavanje/objašnjenje",
+   "description": "U prevodu su dodata pojašnjenja kojih nema u izvoru: 'NRI (indijske državljane nerezidente)' (izvor: 'the NRI'); 'eksploziv može biti deaktiviran' (izvor: ''D' may be killed or escape or may be diffused' – dodat subjekat 'eksploziv'); 'radi falsifikovanja isprava' u st. 27 (izvor: 'to forge').",
+   "suggestion": "Ukloniti dodatno objašnjenje: 'za NRI'; 'ili može biti deaktivirano (diffused)'; 'radi falsifikovanja'. Stilski vodič zabranjuje dodavanje objašnjenja."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'native State, Mysore' preveden kao 'domorodačkoj državi Mysore' – 'native State' u britansko-indijskom kontekstu označava kneževsku državu pod vlašću domaćeg vladara, a 'domorodačka' je neprirodno. Takođe 'centralne vlade' (Central Govt./Central Government) malim slovom, a glosar traži 'Vlada'.",
+   "suggestion": "'u kneževskoj državi (native State) Mysore'; 'odobrenja Centralne vlade' (veliko slovo)."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "stil/interpunkcija",
+   "description": "Rečenica koja počinje malim slovom: 'Obilježje krivičnog djela je dogovor, a ne boravište. saglasnost volja više od dva lica je primarni uslov.' (preuzeto iz izvora 'meeting of minds ...'). Takođe 'usljed' umjesto ijekavskog 'uslijed' (st. 25).",
+   "suggestion": "'Saglasnost volja ...' velikim slovom (normalizacija očiglednog artefakta); 'uslijed toga'."
+  },
+  {
+   "id": "ZDYUvh7i71#2",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Naslovi djela: 'Wright u djelu Conspiracies and Agreements, Smith u djelu Crimes i Russel u djelu Crime' – izvorni naslovi su 'Wright on Conspiracies and Agreements', 'Smith on Crimes', 'Russel on Crime' (cjeloviti naslovi udžbenika); razlaganje na 'u djelu' mijenja naslov. Takođe tempus: 'stated' → 'navode' (sadašnje vrijeme umjesto 'su naveli/navodili').",
+   "suggestion": "'Archbold, Criminal Pleadings, Evidence and Practice, 42. izdanje (1985), glava 23; Wright on Conspiracies and Agreements; Smith on Crimes; Russel on Crime, 12. izdanje, navodi ...' (naslovi neprevedeni)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: ista _id, 14 redova kao u izvoru, svi brojevi, članovi, citati sudske prakse (SCR, AIR, Indlaw) i latinski izrazi očuvani, nijedna rečenica nije izostavljena, a strane su dosljedno označene (žalilac, optuženi, Vlada Burme). Registar je prirodan i primjeren obrazloženju presude, ijekavski i bez hrvatskih oblika; uočeni nedostaci su sitni (djelovi/dijelovi, prevod 'overt act', nekoliko dodatih pojašnjenja)."
+}

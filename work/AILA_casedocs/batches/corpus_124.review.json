@@ -1,0 +1,64 @@
+{
+  "batch": "corpus_124",
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "gramatika/slaganje",
+      "description": "Pasus 1: 'Pogoni žalioca su priznate izvozne kuće' (izvor: 'The units of the Appellant are recognized export houses') - neslaganje roda ('pogoni ... priznate').",
+      "suggestion": "'Pogoni žalioca su priznate izvozne kuće' -> 'Jedinice žalioca su priznate izvozne kuće'."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "izostavljanje",
+      "description": "Pasus 2: 'failure on the part of the DRI Department to file a complaint' prevedeno 'Pošto DRI nije podnijela prijavu' - izostavljeno 'Department'.",
+      "suggestion": "'Pošto odjeljenje DRI nije podnijelo prijavu protiv žalioca ...'."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Ljekarska izjava: 'he was under the custody of DRA authorities' -> 'nalazio se pod nadzorom organa DRA'. 'custody' je drugdje u dijelu 'pritvor'/'lišen slobode'; 'nadzor' je neodgovarajući termin.",
+      "suggestion": "'nalazio se u pritvoru organa DRA' (ili 'pod stražom organa DRA')."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Pasus 14 (citat): 'the status report had negated the passing of the order of detention' -> 'negirao je potrebu za donošenjem rješenja o pritvoru' - dodata riječ 'potrebu' koje nema u izvoru.",
+      "suggestion": "'izvještaj o stanju predmeta negirao je donošenje rješenja o pritvoru' (ili 'bio je protiv donošenja rješenja o pritvoru')."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "blago odstupanje značenja",
+      "description": "Pasus 16: 'no material had been brought on record' -> 'nije pribavljen nikakav materijal' (pribavljen = obtained; izvor: dostavljen u spis).",
+      "suggestion": "'nikakav materijal nije priložen spisu predmeta čak ni radi pokretanja krivičnog gonjenja'."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "dodavanje/stil",
+      "description": "Pasus 10 (citat): 'turn the detention order as a dead letter' -> 'mrtvo slovo na papiru' - dodato 'na papiru'.",
+      "suggestion": "'pretvoriti rješenje o pritvoru u mrtvo slovo'."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "tumačenje umjesto doslovnog prevoda",
+      "description": "Pasus 9: 'A pre-detention order can be quashed only on a limited ground' -> 'Rješenje o pritvoru prije njegovog izvršenja' - prevodilac je protumačio izvor (u citatu stoji 'pre-execution').",
+      "suggestion": "Doslovnije: 'Rješenje o pritvoru u fazi prije pritvaranja može se ukinuti samo po ograničenom osnovu'."
+    },
+    {
+      "id": "r9HE60Dlgk#0",
+      "severity": "minor",
+      "type": "registar/preciznost",
+      "description": "Pasus 5/stav (iii): 'Delay in issuing the order of detention is not fatal' -> 'nije odlučujuće' (slabije od 'nije fatalno'); pasus 6(iv): uzročna veza preoblikovana ('pa je, budući da je ... ono donijeto mala fide').",
+      "suggestion": "(iii) 'Kašnjenje ... nije presudno za ishod/ne dovodi do ništavosti'; 6(iv) držati strukturu izvora: 'a rješenje o pritvoru, kako je doneseno u nedozvoljenu svrhu, bilo je mala fide'."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, 52 reda kao izvor, nijedan pasus ni rečenica nijesu izostavljeni, citati (SCC/AIR/Indlaw), brojevi članova, datumi i iznosi (Rs.60 lakha) su doslovni, a stranke i glosar (žalilac, protivna strana, Visoki sud, nalog/ustavna tužba (writ petition)) su dosljedni. Jezik je dosljedna ijekavica sa 'nijesu', bez ekavizama i hrvatizama, u prirodnom registru obrazloženja presude; ostaju samo sitne stilske i terminološke neprecizosti."
+}

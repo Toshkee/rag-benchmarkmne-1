@@ -1,0 +1,63 @@
+{
+ "n_blocking": 1,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "00042",
+   "severity": "blocking",
+   "type": "dodat sadržaj iz context polja",
+   "description": "Prevod „bolnicama sa nesrazmjernim udjelom pacijenata sa niskim primanjima“ za „disproportionate share hospital payments“ dodaje objašnjenje preuzeto iz context polja (DSH = hospitals that receive additional payment for treating a large share of low-income patients); izvorni upit ga ne sadrži. Takođe „plaćanjima takvim bolnicama“ dodaje „takvim“.",
+   "suggestion": "...za plaćanja u okviru programa Medicaid bolnicama sa nesrazmjernim udjelom (disproportionate share hospital) ... da daju prioritet plaćanjima bolnicama sa nesrazmjernim udjelom na osnovu stopa korišćenja stacionarnog liječenja u okviru programa Medicaid i stopa korišćenja od strane lica sa niskim primanjima..."
+  },
+  {
+   "id": "00040",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„prosječnu potrošnju goriva korporativnog voznog parka“ za „corporate average fuel economy“ je doslovan i netačan prevod (CAFE je prosjek proizvođača, ne „korporativni vozni park“).",
+   "suggestion": "„korporativni prosjek potrošnje goriva (CAFE)“ ili „prosječnu potrošnju goriva (CAFE)“."
+  },
+  {
+   "id": "00043",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„Kojim se uređuje položaj malih preduzeća“ — „položaj“ nema u izvoru („To provide for small business concerns located in Puerto Rico“).",
+   "suggestion": "„Kojim se uređuju mala preduzeća koja se nalaze u Portoriku i uređuju druga pitanja.“"
+  },
+  {
+   "id": "00055",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„područja očuvanja prirode“ za „conservation areas“ dodaje „prirode“.",
+   "suggestion": "„područja očuvanja“ (ili „zaštićena područja“ uz dosljednost u korpusu)."
+  },
+  {
+   "id": "00056",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„korisnika dodijeljenog zemljišta“ za „allottees“ je opisno i pomalo neprecizno.",
+   "suggestion": "„nosilaca dodijeljenih parcela (allottees)“."
+  },
+  {
+   "id": "00058",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "„ponovo odobrava i mijenja“ za „reauthorize and amend“: u ostatku batcha amend = „mijenja i dopunjuje“; „ponovo odobrava“ je neuobičajeno za reauthorize.",
+   "suggestion": "„Predlog zakona kojim se produžava važenje i mijenja i dopunjuje Zakon o osnivanju Nacionalne fondacije za ribe i divlji svijet.“"
+  },
+  {
+   "id": "00048",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„onlajn političkih oglasa“ — anglicizam u pravnom registru.",
+   "suggestion": "„političkih oglasa na internetu“ / „internet političkih oglasa“."
+  },
+  {
+   "id": "00059",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„predsjednik“ malim slovom za „the President“ (SAD) — u propisima se šef države piše velikim slovom u ovakvom kontekstu; i dosljednost sa „Predsjednik“ u ostalim batchevima.",
+   "suggestion": "„Kojim se Predsjednik ovlašćuje...“ (uskladiti sa ostalim batchevima)."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi (20/20), brojevi i datumi očuvani, nema ekavizama ni hrvatizama, obrasci „Predlog zakona kojim se...“ / „Kojim se...“ pravilno primijenjeni, jedna rečenica po upitu, glosar (budžetska sredstva, fiskalna godina, država, Ministarstvo X) poštovan. Registar je prikladan obrazloženju predloga zakona; jedini sadržinski problem je dodatak iz context polja u 00042, a ostalo su sitne terminološke i stilske primjedbe."
+}

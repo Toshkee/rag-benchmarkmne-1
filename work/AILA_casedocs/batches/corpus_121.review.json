@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 16 (Kraipak citat): 'prevent miscarriage of justice' preneseno kao 'spriječe izigravanje pravde'; 'izigravanje' znači zaobilaženje/izigravanje, a ne pogrešan ishod pravde.",
+   "suggestion": "'da spriječe nepravdu (pogrešan ishod postupka)' / 'da spriječe povredu pravde'"
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "dosljednost termina",
+   "description": "'rules of natural justice' prevedeno nedosljedno: 'načela prirodne pravde' (pasus 11) naspram 'pravila prirodne pravde' (ostatak). Takođe 'ministerial', 'executive' i 'administrative' → 'izvršni/izvršna' i 'upravni' (pasus 12 'čisto izvršne' i 'izvršnim' za ministerial; pasus 14 'izvršna aktivnost' za executive), čime se 'ministerial' i 'executive' ne razlikuju; 'administratively' (pasus 21) → 'administrativno' umjesto 'upravno'.",
+   "suggestion": "Ujednačiti na 'pravila prirodne pravde'; 'ministerial' → 'ministarske/provedbene'; 'administratively' → 'upravno'."
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Pasus 12 (Wells J.): 'whether one can fairly call something \"ministerial\" or \"administrative\", or \"quasi-judicial\"' → '... „upravnim“, odnosno „kvazisudskim“'; 'odnosno' ne odgovara izvornom 'or' (alternativa).",
+   "suggestion": "'... „izvršnim“ ili „upravnim“, ili „kvazisudskim“'"
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 13: 'sub-cl. (10)' → 'podtačkom (10)', dok je u pasusu 25 'sub-s. (7)' → 'stavom (7)'. Glosar ne propisuje 'podtačka'; u izvoru je riječ o istom odjeljku 45.",
+   "suggestion": "Ujednačiti: 'stavom (10)'."
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 18 (State of Horsily): 'the case of the State' → 'o stavu države'; 'case' je ovdje navodi/slučaj države, ne 'stav'.",
+   "suggestion": "'o slučaju države' / 'o navodima države'"
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 22: 'the decision ... was bad' → 'odluka ... bila nezakonita'; izvor kaže 'bad' (neispravna/nevaljana), 'nezakonita' pojačava značenje. Pasus 24: 'scores of years' → 'desetine godina' (doslovno: dvadesetine godina, tj. veoma dugo).",
+   "suggestion": "'bila neispravna (nevaljana)'; 'mnogo decenija'"
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Pasus 26: u prevod su dodate engleske zagrade 'neoborivog dokaza' (conclusive proof) i 'konačnog dokaza' (conclusive evidence) – prevodilačka napomena koje nema u izvoru (Stilski vodič dio 5); osim toga 'conclusive proof' i 'conclusive evidence' dobili su različite prevode, iako ih sud poistovjećuje.",
+   "suggestion": "Ukloniti zagrade; 'conclusive proof' → 'neoboriv dokaz', 'conclusive evidence' → 'neoboriv dokaz (konačni dokaz)' dosljedno, ili oba 'konačan dokaz'."
+  },
+  {
+   "id": "HtYDZw69Cr#1",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "Pasus 21: 'show cause' → 'poziv za izjašnjenje' bez izvornog izraza; glosar traži 'poziv za izjašnjenje (show cause notice)' pri prvom pomenu. Pasus 24: 'radi lakšeg praćenja' za 'for convenience' – prirodnije 'radi preglednosti'.",
+   "suggestion": "'poziv za izjašnjenje (show cause)'; 'radi preglednosti'"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (26), svi brojevi, citati (SCC/SCR/SASR/AER, Indlaw) i latinski izrazi identični izvoru, nema izostavljenih ni dodatih pasusa, nema ekavizama ni hrvatizama, stranke (RBI, banke preuzimaoci, isključeni zaposleni, protivne strane, država) označene dosljedno. Registar je prirodan sudski, glosar (Centralna vlada, Visoki sud, ustavno vijeće, vijeće (Division Bench), predstavka, rješenje, strane, nijesu) pretežno poštovan; nalazi su samo manje terminološke i stilske prirode."
+}

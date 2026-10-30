@@ -1,0 +1,73 @@
+{
+ "batch": "corpus_019",
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 14: izvorno 'caused grave prejudice to the appellant resulting in failure of justice' prevedeno kao 'nanijelo ozbiljnu štetu' — 'prejudice' ovdje znači povredu prava odbrane/povoljnog položaja u postupku, a ne materijalnu štetu. Isto u pasusu 23: 'no prejudice has been caused to him' -> 'njemu nije nanijeta nikakva šteta'.",
+   "suggestion": "Pasus 14: 'što je žaliocu nanijelo ozbiljnu povredu prava odbrane, što je dovelo do uskraćivanja pravde'. Pasus 23: 'time žaliocu nije povrijeđeno pravo na odbranu' (ili 'nije nastupila nikakva šteta po njegov položaj u postupku'), dosljedno u oba pasusa."
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "proper_name",
+   "description": "'Bandra (West)' (pasusi 1 i 2) prevedeno kao 'Bandra (zapad)' — '(West)' je dio naziva mjesta, a stilski vodič traži zadržavanje naziva mjesta u izvornom obliku.",
+   "suggestion": "Zadržati 'Bandra (West)' u oba pasusa."
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "Pasus 17: 'članu 304 dio II IPC i članu 338 IPC, koja nijesu krivična djela iste kategorije' — relativna zamjenica 'koja' se ne slaže s antecedentom 'članu' (izvor: 'which are not the offences of the same category').",
+   "suggestion": "'... jer je optužen samo po članu 304 dio II IPC i članu 338 IPC, a to nijesu krivična djela iste kategorije.'"
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 25(i): 'single act of the same transaction' -> 'jednu radnju u okviru istog događaja'; 'transaction' je pravni termin (niz povezanih radnji), 'događaj' blago pomjera značenje.",
+   "suggestion": "'za jednu radnju u okviru iste transakcije' (ili 'istog radnog sklopa')."
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "style",
+   "description": "Pasus 25: naslov 're: question (i)' preveden kao 'u vezi sa: pitanjem (i)' — suvišna dvotačka, neprirodno.",
+   "suggestion": "'u vezi sa pitanjem (i)'."
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "style",
+   "description": "Pasus 22: 'Jai Prakash protiv Države (Uprava Delhija)' — 'Države' velikim slovom u imenu predmeta (izvor: 'State (Delhi Administration)'), dok je svuda drugdje 'država X' malim slovom; a 'Delhi Administration' je prevedeno ('Uprava Delhija') iako je naziv institucije.",
+   "suggestion": "'Jai Prakash protiv države (Delhi Administration)' ili 'protiv države (Uprava Delhija)' sa malim slovom."
+  },
+  {
+   "id": "tST18iwItC#0",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "Pasus 15: 'reckless and negligent driving' -> 'bezobzirna i nehatna vožnja'; 'reckless' je u istom itemu inače kontekstualno 'rash' -> 'nepromišljen'. 'Bezobzirna' nije uobičajen krivičnopravni ekvivalent.",
+   "suggestion": "'nepromišljena i nehatna vožnja' ili 'bezobzirna' uz napomenu u glosaru; zadržati jedinstven izbor kroz batch."
+  }
+ ],
+ "checks": {
+  "ids_match": true,
+  "newlines_equal": {
+   "ZDYUvh7i71#3": "3/3",
+   "tST18iwItC#0": "40/40"
+  },
+  "numbers_equal": true,
+  "tokens_equal": true,
+  "Rs_count": "3/3 u tST18iwItC#0",
+  "word_ratio": {
+   "ZDYUvh7i71#3": 0.96,
+   "tST18iwItC#0": 0.91
+  },
+  "ekavian_croatian_hits": 0,
+  "omissions": "none found; all 26 paragraphs, 18 PW witness names and all case citations present verbatim"
+ },
+ "overall_quality": "Prevod je potpun i vjeran: nijedan pasus, citat, broj člana, iznos ni PW oznaka nije izostavljen ni izmijenjen, a stranke su dosljedno označene (žalilac, država Maharashtra, uvaženi zastupnik, Visoki sud, prvostepeni sud). Registar je prirodan sudski ijekavski (nijesu, sljedeći, takođe, lakha, strogi/obični zatvor) i u skladu sa glosarom. Nađeni su samo manji stilski i terminološki propusti (prejudice, naziv mjesta, slaganje rodova)."
+}

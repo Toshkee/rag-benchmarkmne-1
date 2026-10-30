@@ -1,0 +1,60 @@
+{
+  "batch": "corpus_149",
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "logika uslova / značenje (član 39(5))",
+      "description": "Izvor: 'no appeal shall be entertained unless it is filed within sixty days ... and the appellate authority is satisfied that the amount of tax assessed has been paid'. Prevod: 'žalba se neće uzeti u razmatranje ako nije izjavljena u roku ... i ako se žalbeni organ ne uvjeri' - dvostruka negacija sa 'i' dopušta čitanje da se žalba odbija samo kad nijesu ispunjena OBA uslova, što je suprotno izvoru (potrebna su oba).",
+      "suggestion": "'žalba se neće uzeti u razmatranje osim ako je izjavljena u roku od šezdeset dana ... i žalbeni organ se uvjeri da je razrezani iznos poreza plaćen.'"
+    },
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "terminologija (petition)",
+      "description": "U citatu C. A. Abraham: 'the petition filed by the appellant' -> 'zahtjev koji je podnio žalilac', dok je isti postupak (član 226) na drugim mjestima 'ustavna tužba' (writ petition). Nedosljedno u istom itemu.",
+      "suggestion": "'ustavna tužba koju je podnio žalilac nije trebalo da bude uzeta u razmatranje' (ili 'zahtjev (petition)' dosljedno)."
+    },
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "glosar (set aside)",
+      "description": "Dio 9 propisuje 'set aside -> ukinuta', a prevod koristi 'stavljamo van snage' (para 9 i 12: 'stavljamo van snage presude vijeća', 'stavljamo van snage rješenja žalbenih organa'). Dio 3 dopušta oba, ali je dosljedno primijenjen oblik koji nije preferiran u dijelu 9.",
+      "suggestion": "'ukidamo presude vijeća ...' i 'ukidamo rješenja žalbenih organa ...' (dosljedno u para 9 i 12)."
+    },
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "stil / kalk",
+      "description": "'pogriješio kada se ustanovio kao žalbeni sud' (constituting itself into a court of appeal) i 'na zadovoljstvo navedenog prvog žalbenog organa' (to the satisfaction of) su kalkovi; 'Protiv odnosnih rješenja' za 'respective orders' je nejasno.",
+      "suggestion": "'pogriješio kada je sebe postavio za žalbeni sud'; 'na način koji zadovoljava navedeni prvi žalbeni organ'; 'Protiv pojedinačnih rješenja o razrezu'."
+    },
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "stil / terminologija",
+      "description": "'ball dance' -> 'bal' (bal je događaj, ne vrsta plesa); 'rare music' -> 'rijetka muzika' doslovno; 'customers' u hotelu/restoranu -> 'gosti' dok je u istom pasusu 'customers' i u kontekstu usluga - prihvatljivo, ali 'Messrs Gopi Nath and Sons i drugih' miješa engleski naziv i crnogorski veznik.",
+      "suggestion": "'balski ples' ili 'plesovi'; 'rijetka (neuobičajena) muzika'; naziv stranke ostaviti cijeli ('... Messrs Gopi Nath and Sons and Others') ili dosljedno prevesti 'i ostali'."
+    },
+    {
+      "id": "BGjxrzuLWO#0",
+      "severity": "minor",
+      "type": "vjernost izvoru (greška u izvoru)",
+      "description": "Izvor u para 3 kaže 'the appellants did not confine their challenge' (vjerovatno greška izvora za 'respondents'), prevod doslovno 'žalioci nijesu ograničili'. Vjerno izvoru, ali može zbuniti jer su u ostatku teksta žaliocu poreski organ. Takođe u izvoru 'tad' (tax) preveden kao 'poreza' - ispravno.",
+      "suggestion": "Zadržati doslovno radi benchmarka; nije potrebna izmjena."
+    }
+  ],
+  "checks": {
+    "ids_match": true,
+    "newlines_src_vs_mne": "27 = 27",
+    "tokens_P_A_S_W_Rs_counts": "identični",
+    "numbers_diff": "nema razlika",
+    "word_ratio": 0.859,
+    "ekavian_forms": [],
+    "croatian_forms": [],
+    "omissions": "nijesu pronađeni; svi pasusi 1-13, citati (Indlaw, ITO, član 226, 39(5)) i iznos Rs 5000 doslovno očuvani"
+  },
+  "overall_quality": "Prevod je potpun, vjeran i tačan: nema izostavljenih ni dodatih rečenica, strane su dosljedno označene (žalilac, protivna strana, poreski organ), citati, brojevi članova i iznos Rs 5000 su doslovni, a broj redova je isti. Registar je prirodan pravnički ijekavski, uz nekoliko kalkova i manja odstupanja od glosara (ukinuti, petition) te jedan dvosmislen uslov u članu 39(5)."
+}

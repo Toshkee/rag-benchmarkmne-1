@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "ekavski_oblik",
+   "description": "Par. 31: 'Bilo bi celishodno da se najprije razmotre žalbe' - 'celishodno' je ekavski oblik (izvor: 'It would be convenient').",
+   "suggestion": "'Bilo bi cjelishodno ...' (ili 'Prikladno je da se najprije razmotre ...')."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "znacenje_registar",
+   "description": "Par. 36: 'factitious loyalties' preveden kao 'frakcijske lojalnosti' (factional); 'factitious' znači vještačke/nepravedne, ne frakcijske.",
+   "suggestion": "'bili snažno vezani za vještačke (neiskrene) lojalnosti'."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "terminoloska_doslednost",
+   "description": "Par. 3 i 30 (izvor je izmiješan/pokvaren): prevod doslovno prenosi izmiješan tekst ('pitanje za razmatranje u intervenisanju u pogledu rješenja Sesijski sud'); 'order of acquittal' je ovdje 'rješenje', a drugdje 'oslobađajuća presuda'; 'Sesijski sud' u nominativu umjesto pada.",
+   "suggestion": "Zadržati doslovnost redoslijeda, ali 'order of acquittal' dosljedno 'oslobađajuća presuda' i bar gramatički ispraviti padeže gdje to ne mijenja redoslijed riječi; izvorna izmiješanost se ne rekonstruiše."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "dodavanje_glosa",
+   "description": "Par. 35 i 40: dodati glosi koji ne postoje u izvoru: 'vakil (advokat)' (izvor: 'Vakil') i 'bataidar (napoličar)' (izvor: 'Bataidar'); par. 27 'stranke Congress (R)' (izvor: 'Congress (R)').",
+   "suggestion": "Ostaviti 'Vakil' / 'Bataidar' bez dodatnog tumačenja, ili ostaviti glosu samo u zagradi ako se projekat tako dogovori; 'Congress (R)' bez 'stranke' gdje nije u izvoru."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "terminologija_glosar",
+   "description": "Par. 27: 'First Information Report' preveden kao 'krivična prijava (First Information Report)' i 'krivična prijava (F.I.R.)' - glosar propisuje 'krivična prijava (FIR)'. Par. 35: 'section 307, Penal Code' -> 'Krivičnog zakonika' bez 'Indije' pri prvom pomenu (glosar dio 6).",
+   "suggestion": "Dosljedno 'krivična prijava (FIR)' pri prvom pomenu; pri prvom pomenu 'Krivičnog zakonika Indije', dalje 'Krivičnog zakonika'."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "preciznost_znacenja",
+   "description": "Par. 37: 'dis-interested bystanders' -> 'nezainteresovani posmatrači' može se pročitati kao 'ravnodušni'; značenje je 'nepristrasni/bez interesa u sporu'. Par. 35: 'murderous assault' -> 'ubilački napad' je neprirodno. Par. 50: 'at its face value' -> 'onakav kakav jeste' je slobodno.",
+   "suggestion": "'nepristrasni posmatrači'; 'napad u namjeri da se ubije'; 'na prvi pogled / bez provjere'."
+  },
+  {
+   "id": "RCQ5WMO5AH#1",
+   "severity": "minor",
+   "type": "stil_oslobodjen",
+   "description": "Par. 27: 'convicted' preveden 'oglasio krivim' umjesto glosarskog 'osudio / izrekao osuđujuću presudu'. Par. 33/39/49: 'brother-in-law' -> 'šurak' sužava značenje (izvor ne precizira stranu srodstva).",
+   "suggestion": "'osudio'; razmotriti 'tast/zet/svak' neutralno ('srodnik po ženidbi') ili zadržati 'šurak' dosljedno kao odabrano."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id, 24 reda kao u izvoru, svi paragrafi i rečenice prisutni, tokeni (Rs. x4) i svi brojevi identični, odnos riječi 0,94, bez ekavskih i hrvatskih oblika po regex-u (jedini ručno nađen ekavizam: 'celishodno'). Registar je prirodan sudski, glosar poštovan (žalilac, Visoki/Sesijski sud, uvaženi, član 136, nijesu), stranke dosljedne; preostali nalazi su sitni stilski i terminološki."
+}

@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Red 12: izvor 'PW 2 is alleged to have showered filthy abuses' a prevod 'zasuo prisutne prostim psovkama' dodaje objekat 'prisutne' kojeg nema u izvoru.",
+   "suggestion": "'zasuo proste psovke' / 'izgovarao proste psovke' bez 'prisutne'."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "značenje/nijansa",
+   "description": "Red 10: 'They were initially put off' prevedeno 'Isprva su odbijani uz odlaganje' - 'odbijani' sugeriše odbijanje, a izvor znači odugovlačenje.",
+   "suggestion": "'Isprva su ih odlagali' / 'Isprva su ih zavlačili'."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'undue advantage' preveden 'nepriličnu prednost' (red 18, 24, 26); 'nepriličan' znači neprikladan, a ne neopravdan/nedozvoljen. Dosljedno je u cijelom itemu, ali je netačan registar.",
+   "suggestion": "'neopravdanu prednost' (dosljedno na sva tri mjesta)."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Red 30: 'Pod ovim okolnostima' - neprirodan predlog; izvor 'Under these circumstances'.",
+   "suggestion": "'U ovim okolnostima' / 'U datim okolnostima'."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "datum",
+   "description": "Red 9: 'za 7. decembar 1974. godine' - stilski vodič traži u tekstu genitiv ('7. decembra 1974. godine'); ostali datumi u itemu su u genitivu.",
+   "suggestion": "'zakazano za 7. decembra 1974. godine'."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "format",
+   "description": "Red 0: 'Union Territory, Chandigarh' - u prevodu 'teritorije Unije Chandigarh' izgubljen je zarez iz naslova.",
+   "suggestion": "'Surinder Kumar protiv teritorije Unije, Chandigarh'."
+  },
+  {
+   "id": "DIq2AnHTmt#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Red 27: 'izvadio džepni nožić iz džepa' - redundancija (izvor: 'taken out a pen knife from his pocket'); red 13 'sa takvim izražavanjem' pomalo kancelarijski.",
+   "suggestion": "'izvadio džepni nožić' / 'izvadio je iz džepa džepni nožić' bez ponavljanja; 'takvog jezika'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun: isti _id, isti broj novih redova (33), svi tokeni, brojevi, članovi i datumi se podudaraju, nema izostavljenih ni dodatih rečenica osim sitnog 'prisutne'. Glosar je primijenjen dosljedno (žalilac, Visoki sud, Sesijski sud, uvaženi, ukinuti, usvojena), ijekavica bez ekavizama i hrvatizama; registar je prirodan sudski. Preostale primjedbe su isključivo stilske."
+}

@@ -1,0 +1,21 @@
+{
+  "n_blocking": 0,
+  "n_minor": 2,
+  "issues": [
+    {
+      "id": "00095",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Izvor: \"problematic content that users downloaded from its services\". Prevod: \"koji su korisnici preuzeli putem njegovih usluga\". \"putem\" blago mijenja nijansu (preuzeto iz usluge vs. posredstvom usluge).",
+      "suggestion": "\"koji su korisnici preuzeli iz njegovih usluga\" ili \"sa njegovih usluga\"."
+    },
+    {
+      "id": "00094",
+      "severity": "minor",
+      "type": "style",
+      "description": "Izvor: \"bear the consequences of problematic content\". Prevod: \"snosim posljedice za problematičan sadržaj\". Veza \"posljedice za\" je pomalo nespretna.",
+      "suggestion": "\"da ću ja morati da snosim posljedice problematičnog sadržaja koji preuzmem sa platforme\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je identičan, svih 20 upita je očuvano kao pitanja, nema izmijenjenih brojeva ni tokena, odnos broja riječi je 0.79-1.25, a nema ni ekavskih ni hrvatskih oblika. Laička pitanja ostala su laička (npr. \"Hoće li mi Netflix i dalje naplaćivati...\"), a formalna formalna, terminologija je u skladu sa glosarom (uslovi, nalog, odgovornost, arbitraža, pretplata) i dosljedna u batchu, bez sadržaja prenesenog iz polja context. Pronađene su samo dvije manje stilske primjedbe."
+}

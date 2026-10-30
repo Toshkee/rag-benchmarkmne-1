@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "00256",
+   "severity": "minor",
+   "type": "gramatika/interpunkcija",
+   "description": "„za fiskalne 2018, 2019. i 2020. godinu“ — množina „fiskalne“ uz jedninu „godinu“ i nedostaje tačka iza 2018 (izvor: „fiscal years 2018, 2019, and 2020“).",
+   "suggestion": "„za fiskalne 2018, 2019. i 2020. godine“"
+  },
+  {
+   "id": "00256",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Račun za upravljanje zajednicom“ (izvor: „the Community Management Account“) je nejasno bez određenja zajednice; nabrajanje „Vlade Sjedinjenih Država, Račun ... i Sistem ...“ gubi paralelizam (tri stavke za koje se odobravaju sredstva).",
+   "suggestion": "„... aktivnosti Vlade Sjedinjenih Država, za Račun za upravljanje obavještajnom zajednicom i za Sistem penzijskog i invalidskog osiguranja Centralne obavještajne agencije i uređuju druga pitanja.“ (ili zadržati doslovno uz „Račun za upravljanje zajednicom“ ako se želi strogo preslikavanje)"
+  },
+  {
+   "id": "00241",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "„nalaže veća transparentnost tih programa“ — nominativ umjesto akuzativa uz „nalaže“; takođe „commodity“ prevedeno kao „poljoprivrednih proizvoda“ (dodato „poljoprivrednih“, mada je kontekst poljoprivredni).",
+   "suggestion": "„nalaže veća transparentnost“ → „nalaže veću transparentnost tih programa“; „programa promocije robe (commodity)“ ili zadržati „poljoprivrednih proizvoda“ dosljedno u korpusu."
+  },
+  {
+   "id": "00246",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„putem zdravstvenih domova“ za „through health homes“ — u Crnoj Gori „zdravstveni dom“ je postojeća ustanova primarne zdravstvene zaštite, a „health home“ je Medicaid model koordinisane njege (tim/pružalac).",
+   "suggestion": "„putem modela „health home“ (zdravstveni dom u smislu koordinisane njege)“ ili „putem koordinatora njege (health homes)“; bar dodati izvorni termin u zagradi."
+  },
+  {
+   "id": "00240",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "„djecu iz porodica sa niskim prihodima“ za „low-income children“ — dodato „iz porodica“; „program dopunskih obrazovnih usluga koje pohađaju“ — slaganje „koje“ s „usluga“, a ne s „programom“.",
+   "suggestion": "„djecu sa niskim prihodima“ (ili „djecu iz domaćinstava sa niskim prihodima“ ako se želi pojašnjenje); „... program dopunskih obrazovnih usluga koji pohađaju“."
+  },
+  {
+   "id": "00252",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "„transportation“ prevedeno različito: „opcijama prevoza“ i „saobraćajne infrastrukture“; „authorize programs“ → „odobravaju programi“ umjesto ovlašćenja.",
+   "suggestion": "Ujednačiti na „saobraćaj“ (glosar: Ministarstvo saobraćaja): „opcija saobraćaja/prevoza“ → „saobraćajnih opcija“ i „Kojim se ovlašćuju programi i aktivnosti ...“ ili zadržati „odobravaju“ dosljedno u batchu."
+  },
+  {
+   "id": "00247",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„u domovima obnovljenim uz učešće zajednice“ — „domovi“ u crnogorskom prije upućuje na ustanove (npr. dom zdravlja, dom starih); izvorno „homes“ = stambeni objekti.",
+   "suggestion": "„u stambenim objektima/kućama obnovljenim uz učešće zajednice“."
+  },
+  {
+   "id": "00244",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„nacionalnim vanrednim stanjem“ za „national emergency“ — pravni termin vanrednog stanja u CG je ustavna kategorija; „u vezi sa ... u odnosu na Siriju“ ima dvostruki prijedložni izraz.",
+   "suggestion": "„u vezi sa nacionalnim vanrednim stanjem proglašenim u odnosu na Siriju“ ili „u vezi sa nacionalnom vanrednom situacijom u odnosu na Siriju“."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova je očuvano, brojevi i godine (1965; 2018, 2019, 2020) se poklapaju, nema ekavizama ni hrvatizama, a obrasci „Predlog zakona kojim se...“ odnosno „Kojim se...“ ispravno su primijenjeni, uz jednu rečenicu po itemu i bez sadržaja iz polja context. Registar je primjeren obrazloženju predloga zakona, glosar (budžetska sredstva, fiskalna godina, ministar, država) dosljedno primijenjen; preostali nalazi su sitne gramatičke i terminološke prirode, bez izmjena značenja."
+}

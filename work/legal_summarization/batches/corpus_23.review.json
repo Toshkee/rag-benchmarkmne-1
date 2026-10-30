@@ -1,0 +1,11 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {"id": "oaj9WvyKGT", "severity": "minor", "type": "omission", "description": "Izvor: \"the recipient organisation\"; prevod: \"obezbjeđuje da primalac dijeli i obrađuje vaše podatke\" - izostavljena je riječ \"organisation\".", "suggestion": "\"...da organizacija primalac dijeli i obrađuje vaše podatke u skladu sa standardima EU.\""},
+  {"id": "hT66y97cL5", "severity": "minor", "type": "terminologija", "description": "Izvor: \"to edit, refuse to post or to remove\"; prevod: \"da uređuje, odbije da objavi ili ukloni\" - \"uređuje\" je nezgrapno, a oblik je neusklađen sa glagolima \"odbije\" i \"ukloni\".", "suggestion": "\"ili da izmijeni, odbije da objavi ili ukloni bilo koje informacije ili materijale...\""},
+  {"id": "jMPqPEBqUh", "severity": "minor", "type": "terminologija", "description": "Izvor: \"re users\" (reusers); prevod: \"Ponovni korisnici\" - zvuči kao da su to korisnici koji se ponavljaju.", "suggestion": "\"Korisnici koji ponovo koriste tekst mogu postupati u skladu sa bilo kojom od ovih licenci ili sa obje.\""},
+  {"id": "MVHcDME931", "severity": "minor", "type": "izostavljanje", "description": "Izvor: \"please make sure that you have your parent guardian s permission\"; prevod: \"obezbijedite da imate dozvolu svog roditelja ili staratelja\" - izostavljeno \"please\" (ljubaznost), a \"parent guardian\" je preveden bez \"zakonski\" iz glosara.", "suggestion": "\"molimo da se, prije nego što nam date lične podatke, uvjerite da imate dozvolu svog roditelja ili zakonskog staratelja.\""}
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 23 _id-ova se podudara, nema izostavljenih ni dodatih rečenica, brojevi (30 dana, 14 radnih dana, 12 mjeseci, 18 godina, 3.0, datum 1. juna 2018, telefon) su očuvani, a automatske provjere (tokeni, brojevi, odnos riječi, ekavizmi, hrvatizmi) nijesu dale nijedan nalaz. Registar je dosljedno formalan ugovorni (vi/mi, uslovi korišćenja, politika privatnosti, treće lice, kolačići, nalog, isključiva procjena), ijekavica i normalna ortografija su ispoštovane; nađene su samo četiri sitne stilske ili terminološke primjedbe, bez blokirajućih problema."
+}

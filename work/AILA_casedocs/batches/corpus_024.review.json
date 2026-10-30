@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "efQrSO42uK#0",
+   "severity": "minor",
+   "type": "broj/uloga stranaka",
+   "description": "Para 1: 'The respondents faced trial' prevedeno u jednini: 'Protivnoj strani je suđeno' (izvor: množina, više optuženih). 'optužene iz protivne strane' (za 'the accused respondents') i 'Supruga Lila Kishan iz protivne strane' (za 'wife of respondent Lila Kishan') su nezgrapni; para 2 koristi 'pripadnici protivne strane', para 15 'lica iz protivne strane' - nedosljedno.",
+   "suggestion": "'Protivnim stranama je suđeno ...'; 'optužene protivne strane'; 'supruga protivne strane Lila Kishan'; ujednačiti oblik kroz cijeli tekst."
+  },
+  {
+   "id": "efQrSO42uK#0",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "'Leave granted.' -> 'Dozvola se odobrava.' Nedostaje odrednica 'za žalbu' (glosar: leave (to appeal) -> dozvola (za žalbu)); sadašnje vrijeme je neuobičajeno za konstataciju suda. Takođe 'suspension of sentence' -> 'odlaganje izvršenja kazne' (tačnije: obustava izvršenja kazne).",
+   "suggestion": "'Dozvola za žalbu je odobrena.'; 'obustavu izvršenja kazne'."
+  },
+  {
+   "id": "efQrSO42uK#0",
+   "severity": "minor",
+   "type": "značenje (blago)",
+   "description": "Para 2: 'offence under Section 307 IPC is not made out' -> 'krivično djelo iz člana 307 ... nije dokazano' (izvor: nije ostvareno/utvrđeno biće djela). Para 5: 'his foot jaw has been chopped off' -> 'mu je dio stopala odsječen' ('jaw' izostavljeno; izvor je očito izobličen).",
+   "suggestion": "'nije utvrđeno postojanje krivičnog djela iz člana 307'; para 5 prihvatljivo uz nejasan izvor."
+  },
+  {
+   "id": "efQrSO42uK#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Para 13: 'per se require exemplary treatment' -> 'sam po sebi zahtijeva primjeran tretman'; vodič čuva latinske izraze. Skraćenica 'IPC' zamijenjena sa 'Krivični zakonik' kroz tekst (uz definiciju 'u daljem tekstu') - u skladu sa glosarom. Automatska razlika broja '7' (3 vs 1) potiče od ispravnog pretvaranja '21.7.1987' i '22.7.1988' u '21. jula 1987. godine' / '22. jula 1988. godine' (godine sačuvane) - nije greška.",
+   "suggestion": "'per se zahtijevaju primjeran tretman'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 17 pasusa, citirani član 307, citati sudske prakse (SCC/AIR/JT/US), iznosi (Rs.500/-, Rs.20,000/-), brojevi članova, PW oznake i broj novih redova (29) su očuvani, bez izostavljanja ili dodavanja; nema ekavskih ni hrvatskih oblika; glosar (Visoki sud, žalilac, protivna strana, uvaženi zastupnik, osporena presuda, ukinuta, usvojena, dacoity sa glosom) je dosljedno primijenjen. Registar je primjeren obrazloženju presude; preostale primjedbe su sitne (jednina 'protivnoj strani', 'Dozvola se odobrava', 'per se')."
+}

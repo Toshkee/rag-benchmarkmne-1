@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "4HZKjht3X1#1",
+   "severity": "minor",
+   "type": "dodavanje glosa",
+   "description": "Dodati glosi koji nijesu u izvoru ni obavezni po glosaru: 'odgovor na tužbu (written statement)', 'superarbitru (umpire)', 'Sudski komitet (Judicial Committee)'. Stilski vodič zabranjuje dodavanje objašnjenja u tekst; ovi glosi unose engleski tekst koji ne postoji u izvoru.",
+   "suggestion": "Ukloniti zagrade: 'odgovor na tužbu', 'superarbitru', 'Sudski komitet'. Isto 'na ime kamata/superarbitar' dosljedno bez glosa."
+  },
+  {
+   "id": "4HZKjht3X1#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'The umpire in paragraph (xi) of his award' preneseno kao 'u stavu (xi)'; 'stav' je glosarski za sub-section, a ovdje je riječ o pasusu odluke.",
+   "suggestion": "'Superarbitar je u pasusu (xi) svoje arbitražne odluke primijetio:'"
+  },
+  {
+   "id": "4HZKjht3X1#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'incidental expenses' preneseno kao 'usputni troškovi' / 'usputnih troškova' (više puta); neprirodno u pravnom registru.",
+   "suggestion": "'sporedni troškovi' (ili 'dodatni troškovi'), dosljedno u cijelom dijelu."
+  },
+  {
+   "id": "4HZKjht3X1#1",
+   "severity": "minor",
+   "type": "značenje/registar",
+   "description": "'The law of compensation compels me to hold' -> 'Pravo o naknadi štete me obavezuje'; netačna konstrukcija ('pravo o'). Takođe 'final and conclusive' -> 'konačna i neoboriva' (neoboriva je jače od izvora).",
+   "suggestion": "'Pravila o naknadi štete me obavezuju da zaključim'; 'konačna i obavezujuća'."
+  },
+  {
+   "id": "4HZKjht3X1#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'argumentative claim petition' -> 'obrazloženi podnesak sa zahtjevom'; 'argumentative' znači sa pravnom argumentacijom, a 'obrazloženi' je neutralnije; 'claim petition' bliže 'zahtjev/tužbeni zahtjev' — izraz 'tužbene zahtjeve' i 'zahtjev' miješaju se sa 'claim'.",
+   "suggestion": "'podnesak sa argumentovanim zahtjevom' i dosljedno 'zahtjev' za claim."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 25 redova, citati (L.R., S.C.R., A.C., A.I.R.), iznosi (Rs./Re.), datumi i brojevi pasusa i članova su očuvani, a ekavskih i hrvatskih oblika nema. Strane su dosljedno označene (protivna strana, Unija/Vlada Indije), a registar je primjeren obrazloženju presude uz manje terminološke nezgrapnosti. Pronađeni su samo sitni stilski nedostaci; _id odgovara izvoru, a polja head/n_chunks se, shodno vodiču, ne prevode."
+}

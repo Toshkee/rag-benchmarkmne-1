@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "modalnost",
+      "description": "Para 15: izvor 'one may not entirely agree with invocation of doctrine of proportionality' preveden kao 'ne mora u potpunosti složiti' (nije obavezno), što blago mijenja modalnost (izvor: moguće neslaganje).",
+      "suggestion": "'... može se i ne složiti u potpunosti sa primjenom doktrine srazmjernosti ...'"
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "preciznost",
+      "description": "Citat iz Prem Sagar, tačka 7: 'A sentence is a judgment on conviction of a crime' preveden kao 'Kazna je presuda kojom se neko osuđuje za krivično djelo' – pomjera značenje (kazna se izriče nakon osude, ne njome).",
+      "suggestion": "'Kazna je presuda donesena po osuđivanju za krivično djelo.'"
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Para 12: 'An offence which affects the morale of the society should be severely dealt with' → 'Prema krivičnom djelu koje utiče na moral društva treba postupati strogo' (nezgrapno, nepravnički); isto 'Prema krivičnim djelima koja utiču na javno zdravlje mora se postupati strogo'.",
+      "suggestion": "'Krivična djela koja utiču na moral društva treba strogo kažnjavati.' / 'Krivična djela koja utiču na javno zdravlje moraju se strogo kažnjavati.'"
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Para 12: 'Necessity of the guidelines on the judicial side' → 'Potreba za smjernicama na sudskoj strani' je doslovan kalk.",
+      "suggestion": "'Potreba za smjernicama u sudskoj praksi istaknuta je ...'"
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "dosljednost stranaka",
+      "description": "Ista osoba (Bablu Natt) označena je naizmjenično kao 'protivna strana' (st. 1-2, 4, 11), 'optuženi' (st. 3, citat 22, 10) i 'žalilac' (st. 4 'žalilac je znao', citat Visokog suda), dok u st. 6 'žalilac' znači Državu, a u citatu Visokog suda 'protivne strane' Državu. Prevod vjerno prati izvor (appellant/respondent/accused), ali čitaocu je zbunjujuće.",
+      "suggestion": "Zadržati doslovno radi vjernosti izvoru; po želji ne mijenjati. Nije potrebna ispravka (ne dodavati napomene)."
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "'Mr.' preveden velikim 'G. Vibha Datta Makhija' / 'G. Anish Kumar Gupta'; vodič koristi 'g.' (malo slovo).",
+      "suggestion": "'g. Vibha Datta Makhija', 'g. Anish Kumar Gupta'."
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "leksika",
+      "description": "Visoki sud je 'interfered with the quantum of sentence' → 'intervenisao u pogledu visine kazne' (stran registar); 'Charges ... were framed' → 'Podignuta je optužba' (framed ≠ podignuta, optužbu formuliše/utvrđuje sud).",
+      "suggestion": "'izmijenio je visinu kazne'; 'Utvrđena je optužba' / 'Optužba je formulisana'."
+    },
+    {
+      "id": "r4Eh0C3BfQ#0",
+      "severity": "minor",
+      "type": "preciznost",
+      "description": "Citat Bala alias Balaram: 'and shall also be liable to fine' u drugom pomenu → 'i izriče se i novčana kazna' (izvor: liable to fine, tj. može biti novčano kažnjen), dok je u prvom pomenu korektno 'i novčanom kaznom'.",
+      "suggestion": "'i takođe novčanom kaznom' (dosljedno glosaru: 'i novčanom kaznom')."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (47), nijedan pasus ni rečenica nijesu izostavljeni ni dodati, tokeni (Rs. x2), brojevi članova, citati (SCC/Scale/Indlaw) i iznosi su očuvani (razlike u brojevima su samo pretvaranje datuma u mjesece), bez ekavizama, hrvatskih oblika i oblika 'nisu'. Glosar je dosljedno primijenjen (Visoki sud, uvaženi zastupnik, odredba o izuzetku, zatvor (strogim ili običnim), 'nijesu'). Registar je uglavnom primjeren sudskom obrazloženju; nađena su samo manja stilska i modalna odstupanja, bez blokirajućih grešaka."
+}

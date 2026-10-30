@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00304",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'contribute content' prevedeno kao 'postavljam sadržaj' (\"Mogu li anonimno da postavljam sadržaj?\"); izvor naglašava doprinos sadržaja (contributor of Your Content).",
+   "suggestion": "Mogu li anonimno da doprinosim sadržajem? (ili 'objavljujem sadržaj'); isto za 00305."
+  },
+  {
+   "id": "00305",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'anonymously contribute content to the platform' -> 'anonimno postavljaju sadržaj na platformu'; vidi 00304, mora biti isto u oba itema.",
+   "suggestion": "Da li korisnici imaju pravo da anonimno doprinose sadržajem platformi?"
+  },
+  {
+   "id": "00309",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'Sadržaj' veliko slovo usred rečenice (\"da će Sadržaj pregledati\"), dok je u 00308 'sadržaj' malim slovom; izvor ima 'Content' kao definisani termin ali je normalizovan.",
+   "suggestion": "Da li Instructure preuzima obavezu da će sadržaj redovno pregledati?"
+  },
+  {
+   "id": "00310",
+   "severity": "minor",
+   "type": "izostavljanje nijanse",
+   "description": "'provide my full personal details' -> 'navedem sve svoje lične podatke'; 'full' je preneseno kao 'sve', a izvor misli na potpune podatke.",
+   "suggestion": "...i navedem svoje potpune lične podatke?"
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, nema promjena brojeva ni tokena, nema ekavizama ni kroatizama, a razmjera dužine je u granicama. Laička pitanja su ostala razgovorna, a formalna formalna; terminologija je u skladu sa glosarom (uslovi korišćenja, nalog, usluge, mjesto suđenja). Nađeno je samo nekoliko manjih stilskih i terminoloških odstupanja."
+}

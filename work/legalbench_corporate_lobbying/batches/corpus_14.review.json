@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "8gOqY4d9n0",
+   "severity": "minor",
+   "type": "nedosljednost broja",
+   "description": "\"Centri za Medicare i Medicaid (CMS) testiraju pokrivenost...\" (plural) pa zatim \"CMS (1) utvrđuje... obezbjeđuje\", \"CMS proširuje\", \"CMS plaća\" (singular); izvor: \"The CMS shall test ... The CMS must ... shall expand ... shall pay\".",
+   "suggestion": "Ujednačiti broj: npr. \"CMS testira pokrivenost...\" (kad je skraćenica dalje u tekstu)."
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"nalaže se Ministarstvu odbrane (DOD) da utvrdi strategiju\" za izvor \"to provide a strategy\" (provide = dostaviti/podnijeti, ne utvrditi); u NASA itemu isti glagol \"submit\" prevodi se \"podnosi\".",
+   "suggestion": "\"da dostavi strategiju za postizanje...\"."
+  },
+  {
+   "id": "9OBGhnuKon",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"kapaciteta za povraćaj energije i kogeneraciju\" za \"energy recovery and cogeneration capabilities\"; \"povraćaj\" nije uobičajen tehnički termin.",
+   "suggestion": "\"kapaciteta za rekuperaciju (povrat) energije i kogeneraciju\"."
+  },
+  {
+   "id": "CPwdHnAnqZ",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "\"izvještajima o imovini i prihodima tog člana\" za \"financial disclosure reports\"; dodata specifikacija (imovina i prihodi) koje izvor ne navodi. Takođe \"link ka\" je kolokvijalno.",
+   "suggestion": "\"izvještajima o finansijskom objelodanjivanju tog člana\"; \"veza (link) ka\"."
+  },
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "\"oporezive isplate stipendija koje nijesu namijenjene školarini i isplate naknada\" za \"taxable non-tuition fellowship and stipend payments\": kvalifikatori (oporezive, nenamijenjene školarini) odnose se na obje vrste isplata, a u prevodu važe samo za prvu; \"fellowship\" i \"stipend\" nijesu jasno razlikovani.",
+   "suggestion": "\"oporezive isplate stipendija (fellowship) i naknada (stipend) koje nijesu namijenjene školarini\"."
+  },
+  {
+   "id": "efQrSO42uK",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Naslov \"Zakon o unapređenju penzionisanja i štednji\" za \"Retirement Enhancement and Savings Act\": \"penzionisanje\" je radnja odlaska u penziju, a \"štednji\" je nezgrapno.",
+   "suggestion": "\"Zakon o unapređenju penzijskog obezbjeđenja i štednje iz 2019. godine\"."
+  },
+  {
+   "id": "nuVxUZpfbH",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"ponovo se uspostavlja ispunjavanje uslova za saveznu pomoć studentima za određene studente\" (izvor: \"reestablishes federal student aid eligibility for certain students\") je nezgrapno, uz ponavljanje \"studentima/studente\".",
+   "suggestion": "\"ponovo se uspostavlja pravo na saveznu pomoć za određene studente osuđene za...\" ili \"ponovo se omogućava ispunjavanje uslova za saveznu studentsku pomoć za određene studente...\"."
+  },
+  {
+   "id": "DIq2AnHTmt",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"državnom trezoru\" za \"the Treasury\" (US Treasury); pojam nije u glosaru i može se pomiješati sa trezorom Crne Gore.",
+   "suggestion": "\"Trezoru SAD\" ili \"Ministarstvu finansija SAD (Trezor)\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: sve stavke, brojevi (14 dana, $5,000, 80%, 30 dana, 2029/2030), tokeni, broj novih redova i vodeći razmaci podudaraju se sa izvorom, naslov je ostao sam u prvom redu, a ekavskih i hrvatskih oblika nema. Registar je dosljedan obrazloženju predloga zakona (\"Ovim predlogom zakona...\", \"nalaže se\", normativni prezent) i glosar je poštovan; nađene su samo manje terminološke i stilske nepreciznosti (nijedna ne mijenja značenje)."
+}

@@ -1,0 +1,43 @@
+{
+ "batch": "corpus_135",
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "ndZ4szi6sE#0",
+   "severity": "minor",
+   "type": "semantika/slabljenje značenja",
+   "description": "Para 9: izvor 'in support of the plea of alibi examined DW-2, DW-3, DW-4 and DW-5' (odbrana je saslušala/izvela svjedoke); prevod 'predložili saslušanje DW-2, DW-3, DW-4 i DW-5' znači samo da su predložili, ne da su svjedoci saslušani, što je blago odstupanje.",
+   "suggestion": "'...i u prilog prigovoru alibija saslušali svjedoke DW-2, DW-3, DW-4 i DW-5' (ili 'izveli kao svjedoke')."
+  },
+  {
+   "id": "ndZ4szi6sE#0",
+   "severity": "minor",
+   "type": "tumačenje izvora",
+   "description": "Para 9: izvor 'fictional rivalry in the village' (očigledna greška izvora za 'factional'); prevod 'frakcijskog suparništva' tiho ispravlja izvor. Konzistentno s para 5 ('two factions' -> 'dvije suprotstavljene frakcije'), ali nije doslovno.",
+   "suggestion": "Prihvatljivo; ako se želi doslovnost: 'fiktivnog suparništva u selu'. Ostaviti kao svjesnu odluku."
+  },
+  {
+   "id": "ndZ4szi6sE#0",
+   "severity": "minor",
+   "type": "terminologija/glosar",
+   "description": "'benefit of doubt' preveden kao 'pravilo o sumnji (benefit of doubt)' pri prvom pomenu (para 10) pa 'primijeniti pravilo o sumnji u korist' (para 17, 22). Termin nije u glosaru i nije uobičajen u crnogorskoj praksi (uobičajeno: 'primjena načela u korist okrivljenog / in dubio pro reo'); 'imaju pravo da se u njihovu korist primijeni pravilo o sumnji' je okretno.",
+   "suggestion": "Zadržati dosljedno kroz batch, ali razmotriti 'korist sumnje (benefit of doubt)' ili 'načelo in dubio pro reo' i dodati u glosar."
+  },
+  {
+   "id": "ndZ4szi6sE#0",
+   "severity": "minor",
+   "type": "registar/leksika",
+   "description": "Neprirodne ili nepravničke fraze: 'oko 1.00 čas poslije ponoći' (bolje 'oko 1.00 čas poslije ponoći' prihvatljivo, ali 'u 7.30 časova ujutru' i 'oko 1.00 čas' nedosljedno u oblicima 'čas/časova'); 'podnesen je optužni akt (challan) i ona su konačno upućena na suđenje' ('ona' bez jasne reference, bolje 'ova lica su upućena'); 'Prelazimo sada na predmet A-2' (bolje 'na slučaj A-2'); 'prigovor alibija' za 'plea of alibi' (uobičajenije 'odbrana alibijem'); 'Žalbe su riješene' za 'Appeals disposed of' (bolje 'Žalbe okončane/riješene').",
+   "suggestion": "Glatke zamjene: 'ova lica su ... upućena na suđenje'; 'oko 1.00 čas poslije ponoći' -> 'oko 1.00 čas poslije ponoći' uz dosljedno 'u 7.30 časova'; 'Prelazimo sada na slučaj A-2'; 'odbrana alibijem' (ako se uvede, dosljedno u paragrafima 9, 10, 20)."
+  },
+  {
+   "id": "ndZ4szi6sE#0",
+   "severity": "minor",
+   "type": "format/zaglavlje",
+   "description": "Zaglavlje: 'Mr. Lalit' preveden 'G.  Lalit' (para 11, sa dvostrukim razmakom i velikim slovom, što liči na inicijal) a kasnije 'g. Lalitom' (para 18) malim slovom; u zaglavlju '(From the Judgment and Order ...)' -> 'Protiv presude i rješenja' ('From' nije 'Protiv'); 'Judgment and Order' -> 'presude i rješenja' u skladu sa glosarom.",
+   "suggestion": "Ujednačiti 'g. Lalit' (malo slovo) u paragrafima 11 i 18; 'Iz presude i rješenja od 15. novembra 1984. godine ...' umjesto 'Protiv'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (37), nijedan pasus ni rečenica nijesu izostavljeni ni dodani, svi tokeni (A-1..A-36, PW/DW/LW, Ex. P-1, IPC/CrPC), brojevi članova, datumi i odnos riječi (0.89) su očuvani. Ijekavica i crnogorski pravni registar su dosljedni (nijesam, nijesu, uopšte, lice, službenik koji vodi istragu, žalilac, Visoki sud, vijeće po glosaru), bez ekavskih ili hrvatskih oblika; stranke su dosljedno označene. Nađene su samo manje stilske i terminološke nedoumice (alibi, benefit of doubt, 'predložili saslušanje')."
+}

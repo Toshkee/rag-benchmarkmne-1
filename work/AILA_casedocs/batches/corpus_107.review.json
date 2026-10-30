@@ -1,0 +1,77 @@
+{
+ "batch": "corpus_107",
+ "checks": {
+  "ids_match": true,
+  "items": 1,
+  "newlines_src": 19,
+  "newlines_mne": 19,
+  "word_ratio": 0.876,
+  "token_diff": "nema",
+  "number_diff": "nema",
+  "ekavizmi": "nema",
+  "hrvatizmi": "nema",
+  "citati_sudske_prakse": "doslovno sačuvani",
+  "paragraphs_omitted": "nijedan (28–44, 'Conclusions:' i 'Appeals disposed of' prisutni)"
+ },
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "850kEnydx9#1:p41,p43",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„seniority“ prevedeno kao „staž“ (par. 41: „monetary benefits, seniority etc.“ → „novčane pogodnosti, staž itd.“; par. 43: „monetary benefits and seniority“ → „novčane pogodnosti i staž“). „Staž“ je dužina radnog staža, a „seniority“ ovdje znači mjesto/prvenstvo na listi (kontekst: uvrštavanje iznad protivnih strana 3 i 9).",
+   "suggestion": "Zamijeniti sa „starješinstvo“ (ili „prvenstvo na listi“) na oba mjesta, dosljedno."
+  },
+  {
+   "id": "850kEnydx9#1:p34",
+   "severity": "minor",
+   "type": "nijansa značenja",
+   "description": "„it is liable to be struck down as ultra vires Article 14“ → „ona se mora proglasiti nevažećom kao ultra vires u odnosu na član 14“. „Liable to be“ znači „podložna je“, a „mora se“ je obaveza; takođe „struck down“ je glosarski „ukinuti“, a ne „proglasiti nevažećom“.",
+   "suggestion": "„podložna je ukidanju kao ultra vires u odnosu na član 14 Ustava Indije“."
+  },
+  {
+   "id": "850kEnydx9#1:p44",
+   "severity": "minor",
+   "type": "dodatak",
+   "description": "Dodata fraza koje nema u izvoru: „The cost of the appellant herein“ → „Troškove žalioca u ovom postupku“ („u ovom postupku“ je dodatak).",
+   "suggestion": "„Troškove žalioca snosiće država Džamu i Kašmir, utvrđene u iznosu od 10,000“ (po glosaru: „troškovi postupka“ ako se želi precizirati)."
+  },
+  {
+   "id": "850kEnydx9#1:p44",
+   "severity": "minor",
+   "type": "registar",
+   "description": "„These appeals are disposed of accordingly.“ → „Ove žalbe se shodno tome rješavaju.“ Nenaravna, nepravnička konstrukcija (prezent sa „se“); u presudama CG uobičajeno je „okončane su“ / „riješene su“.",
+   "suggestion": "„Žalbe su time okončane.“ (a završna oznaka „Žalbe riješene“ može ostati)."
+  },
+  {
+   "id": "850kEnydx9#1:p30",
+   "severity": "minor",
+   "type": "dosljednost/dodatak",
+   "description": "„any viva voce test“ → „nikakav usmeni ispit (viva voce)“: u zagradi je ostavljen izvorni izraz, dok se u par. 32, 33, 34, 36 „viva voce test“ prevodi samo kao „usmeni ispit“. Nedosljedno i predstavlja glosu koju stilski vodič ne traži za ovaj izraz.",
+   "suggestion": "„Pravilo 8 ne predviđa nikakav usmeni ispit.“ ili dosljedno „usmeni ispit (viva voce)“ pri prvom pomenu u itemu i dalje bez glose."
+  },
+  {
+   "id": "850kEnydx9#1:p43",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„directions of the High Court“ / „our aforementioned direction“ → „nalozima Visokog suda“ / „našem ... nalogu“. U glosaru je „nalog“ rezervisan za „writ“ (nalog (writ)) i „nalog za hapšenje/pretres“; upotreba za „directions“ unosi dvosmislenost.",
+   "suggestion": "„da u potpunosti postupi po uputstvima/naređenjima Visokog suda“ i „podložno našem prethodno navedenom naređenju“; „order ... must be passed“ → „rješenje“ je u redu."
+  },
+  {
+   "id": "850kEnydx9#1:p28",
+   "severity": "minor",
+   "type": "neprevedeni termin",
+   "description": "„Jammu & Kashmir Medical (Gazetted) Service Recruitment Rules“ → „Pravilnika o zapošljavanju u medicinskoj službi (Gazetted) Džamua i Kašmira“: „Gazetted“ ostaje neprevedeno, a redoslijed riječi je neprirodan (Džamu i Kašmir treba da stoji uz naziv akta).",
+   "suggestion": "„Pravilnika o zapošljavanju u medicinskoj službi Džamua i Kašmira (Gazetted) iz 1979. godine“ ili sa prevodom „(službenici sa statusom iz Službenog lista)“ uz zadržan izvorni izraz; po potrebi „donijeti“ → „doneseni“ (množina: Rules)."
+  },
+  {
+   "id": "850kEnydx9#1:p28",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„The Public Service Commission is also required to be consulted“ → „Sa Komisijom za javne službe takođe se moraju obavljati konsultacije“ — krut pasiv; „moraju obavljati“ (trajno) umjesto „moraju obaviti“. Takođe „Public Service Commission“ je preveden u množini „javne službe“, što je prihvatljivo, ali je dosljedan kroz cio item.",
+   "suggestion": "„Sa Komisijom za javne službe takođe se moraju obaviti konsultacije o pitanjima nabrojanim u članu 133.“"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 17 numerisanih pasusa, međunaslov i završna oznaka su prisutni, broj redova (19) i svi brojevi, citati i datumi su očuvani, nema ekavizama ni hrvatizama, a strane su dosljedno označene (žalilac / protivna strana). Registar je uglavnom odgovarajući obrazloženju presude (nijesu, ijekavica, glosar poštovan: Visoki sud, obavještenje, država), uz nekoliko manjih terminoloških i stilskih odstupanja (seniority→staž, nalog za 'directions', nenaravno 'rješavaju se')."
+}

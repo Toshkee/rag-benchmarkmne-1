@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "6JDWYlgAAC",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"pen names\" prevedeno kao \"književna imena\" (\"Ne smijete koristiti pseudonime ni književna imena\"); neprirodno za ugovorni registar.",
+      "suggestion": "\"Ne smijete koristiti pseudonime ni umjetnička imena.\""
+    },
+    {
+      "id": "OLsgd9N1qS",
+      "severity": "minor",
+      "type": "neprirodan izraz",
+      "description": "\"we scramble your data\" prevedeno kao \"ispremještamo vaše podatke\"; neuobičajen glagol, nije jasno značenje (izmiješati/šifrovati).",
+      "suggestion": "\"izmiješamo vaše podatke u našoj bazi podataka\" ili \"prikrivamo (anonimizujemo)\" uz zadržavanje značenja 'scramble'."
+    },
+    {
+      "id": "r4Eh0C3BfQ",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"expressly deny any warranty\" -> \"izričito odbijaju bilo kakvu garanciju\"; \"we recognize the possibility\" -> \"prihvatamo mogućnost\". Pravni registar traži \"odriču se\" i \"svjesni smo\".",
+      "suggestion": "\"izričito se odriču bilo kakve garancije za tačnost...\"; \"svjesni smo mogućnosti ljudske i/ili mehaničke greške\"."
+    },
+    {
+      "id": "V1YFjtFi02",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "\"personally identifiable information\" je dosljedno \"podaci o ličnosti na osnovu kojih se može utvrditi identitet\" (i u ILft9SGVZe, RzhbuXMZ5f), dok glosar (dio 7) za personal data/information propisuje \"lični podaci\". Dosljedno unutar batcha, ali odstupa od glosara; nepotrebno dugo.",
+      "suggestion": "Koristiti \"lični podaci na osnovu kojih se može utvrditi identitet\" (ili \"lični podaci koji omogućavaju identifikaciju\") u sva tri itema."
+    },
+    {
+      "id": "8NBQv2WNl7",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "\"tos dr\" -> \"Čitanje sajta ToS;DR\": dodata riječ \"sajta\" koje nema u izvoru; i \"bound\" -> \"obavezani\" je nezgrapno.",
+      "suggestion": "\"Čitanje ToS;DR ni na koji način ne zamjenjuje čitanje cjelovitih uslova koji vas obavezuju.\""
+    },
+    {
+      "id": "ILft9SGVZe",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Dodata engleska zagrada \"(Pennsylvania Right to Know Act)\" i opisni naziv \"Zakon o pravu na pristup informacijama države Pennsylvania\"; izvor ima samo \"pennsylvania right to know act\". Ostali tokeni (65 P.S. 66.1) očuvani.",
+      "suggestion": "\"Zakonu o pravu na informisanje Pensilvanije (Pennsylvania Right to Know Act)\" ili samo transkribovan naziv bez dodatnog parafraziranja; bez promjene brojeva."
+    },
+    {
+      "id": "9vOWOU6mbj",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Dodati navodnici i doslovna sintagma: \"datum „posljednji put ažurirano“\"; izvor ne citira oznaku. Suvišno \"mi\".",
+      "suggestion": "\"Kada objavimo izmjene ove politike privatnosti, izmijenićemo datum posljednjeg ažuriranja na vrhu ove politike privatnosti.\""
+    },
+    {
+      "id": "efrZ4v7rLm",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Suvišan zamjenik \"Mi možemo povremeno...\" (u izvoru nema isticanja subjekta).",
+      "suggestion": "\"Ovu politiku privatnosti možemo povremeno ažurirati, po našoj isključivoj procjeni.\""
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je identičan, svi brojevi i tokeni (500px, 65 P.S. 66.1, readingpa.gov) očuvani, bez ekavizama i hrvatizama, ortografija normalna uprkos normalizovanom izvoru. Korpus je u dosljednom formalnom ugovornom registru (vi/mi, nijesu, kolačići, politika privatnosti, uslovi korišćenja, nalog, treća lica). Nađene su samo sitne stilske i terminološke zamjerke; blokirajućih problema nema."
+}

@@ -1,0 +1,70 @@
+{
+ "n_blocking": 1,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "blocking",
+   "type": "promijenjeno značenje",
+   "description": "Pasus 71: izvor 'any court acting reasonably and judiciously' preveden je 'nijedan sud koji postupa razumno i u skladu sa sudskom praksom'. 'Judiciously' znači razborito/mudro, a ne 'u skladu sa sudskom praksom' (dodat pojam sudske prakse kojeg u izvoru nema).",
+   "suggestion": "'koji postupa razumno i razborito' (ili 'razumno i savjesno')."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 66 uvod/pasus 57: 'Kania, C.J.' preveden kao 'Predsjednik suda Kania'; Chief Justice nije 'predsjednik suda' u glosaru ni u ustaljenoj praksi.",
+   "suggestion": "'glavni sudija Kania' (ili 'sudija Kania, glavni sudija')."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 71: 'miscarriage of justice' → 'izigravanje pravde' (znači podsmijavanje pravdi, neprirodno).",
+   "suggestion": "'povredu pravde' / 'nepravdu u ishodu postupka'."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 65: 'An appellant aggrieved by the overturning...' → 'Žalilac koji je oštećen preinačenjem'; 'oštećen' u pravnom jeziku označava žrtvu/oštećenog.",
+   "suggestion": "'Žalilac koji je pogođen (kome je uskraćeno pravo usljed) preinačenjem njegove oslobađajuće presude'."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "'order of acquittal' dosljedno 'rješenje o oslobađanju' (po glosaru order→rješenje), ali u istim pasusima 'judgment of acquittal' i 'acquittal' → 'oslobađajuća presuda'; 'order of conviction' → 'rješenje o osudi'. Naizmjenično rješenje/presuda za isti pojam.",
+   "suggestion": "Ujednačiti: 'oslobađajuća presuda' / 'osuđujuća presuda' svuda za acquittal/conviction (order of ... se ne prevodi kao rješenje)."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 62: 'perverse' → 'izopačena/izopačen' (pasusi 62, 71); u pravnom registru neprirodno.",
+   "suggestion": "'očigledno nerazumna / neosnovana (perverse)'."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Pasus 72: 'čl. 378 i 379' (skraćenica) umjesto 'članovima 378 i 379'; 'Visoki sud nije trebalo da dira' nije gramatički uredno.",
+   "suggestion": "'prema članovima 378 i 379 Zakonika o krivičnom postupku'; 'Visoki sud nije trebalo da dira' → 'Visoki sud nije trebao da dira'."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 64: 'found them not guilty' → 'proglasio nevinim' (nije isto što i 'nije kriv'; sugeriše utvrđenu nevinost, pa i narušava pretpostavku nevinosti).",
+   "suggestion": "'utvrdio da nijesu krivi'."
+  },
+  {
+   "id": "XRvj7uff0L#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'inter alia' preveden 'između ostalog' (pasus 69), dok vodič nalaže da latinski izrazi ostaju.",
+   "suggestion": "Zadržati 'inter alia'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti skup _id-ova, 40/40 redova, svi tokeni, brojevi, citati (AIR/SCC/Indlaw) i brojevi članova identični izvoru, odnos riječi 0,87, bez ekavizama i kroatizama. Registar je uglavnom prirodan sudski, glosar poštovan (Visoki sud, žalilac, prvostepeni sud, član/tačka, Sesijski sud, država Pandžab); jedna značenjska greška ('judiciously') i nekoliko terminoloških nedosljednosti (rješenje/presuda o oslobađanju)."
+}

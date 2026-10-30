@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00023",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"da li je Facebook saglasan da obavijesti korisnika\" — izvor \"does Facebook agree to inform\"; \"saglasan\" (consent) je blago neprecizno za obavezivanje.",
+   "suggestion": "\"da li Facebook pristaje da obavijesti korisnika\" ili \"da li se Facebook obavezuje da obavijesti korisnika\"."
+  },
+  {
+   "id": "00034",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"naplatiti sa moje kreditne kartice\" — kalk \"sa\" umjesto standardnog obuhvata; u 00035 isti pojam je preveden sa \"tereti\", pa je termin nedosljedan unutar batcha.",
+   "suggestion": "\"Može li Verizon ponekad teretiti moju kreditnu karticu i kad je istekla?\" (usklađeno sa 00035)."
+  },
+  {
+   "id": "00039",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"nastoji da isključi odgovornost\" za \"purport to exclude liability\" — \"purport\" znači \"tvrdi/navodno\", ne \"nastoji\".",
+   "suggestion": "\"Da li Zoom navodno isključuje odgovornost u pogledu aktivnosti krajnjih korisnika?\" ili \"Da li Zoom tvrdi da isključuje odgovornost ...\"."
+  },
+  {
+   "id": "00020-00039",
+   "severity": "minor",
+   "type": "format",
+   "description": "Prevedeni objekti nemaju polje \"context\" (izvor ga ima; skup ključeva se razlikuje). _id-ovi i title se podudaraju, a sadržaj iz contexta nije prenesen u upite.",
+   "suggestion": "Potvrditi da pipeline spaja context iz izvora; ako ne, dodati \"context\" kao u izvoru ili ga namjerno izostaviti."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se podudara, nema izostavljenja, dodavanja ni promjene značenja, nema ekavizama ni hrvatizama, a odnosi dužine su u granicama (jedino 00023 = 0.75 i 00025 = 1.32, oba sadržajno ispravna). Registar je ispravan: laička pitanja (00020, 00022, 00024, 00026, 00028, 00030, 00032, 00034) su razgovorna, a formalna pitanja formalna, uz dosljedan glosar (usluge, nalog, odgovornost, privremeno ukinuti/ukinuti, uslovi korišćenja). Preostale su samo manje stilske stavke."
+}

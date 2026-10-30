@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "FCIX3BYOtD#1",
+   "severity": "minor",
+   "type": "ortografija/ijekavica",
+   "description": "Množina imenice 'dio' pisana je nedosljedno: 'djelova', 'djelovima', 'djelove' (npr. 'djelovi III i IV Ustava', 'u svim njenim djelovima', 'u posebnim djelovima cjeline') naspram ispravnog 'dijela', 'Dijelu', 'Dijela VI' u istom tekstu. Izvor: 'Parts III and IV', 'all its parts'.",
+   "suggestion": "Zamijeniti 'djelovima/djelova/djelove' sa 'dijelovima/dijelova/dijelove' (npr. 'u dijelovima III i IV Ustava', 'u svim njenim dijelovima')."
+  },
+  {
+   "id": "FCIX3BYOtD#1",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "'trading company / trading activity' prevedeno kao 'trgovačko društvo / trgovačku djelatnost' (4 pojavljivanja), što je oblik bliži hrvatskom registru; u propisima CG uobičajeno je 'trgovinsko' odnosno 'privredno'.",
+   "suggestion": "'trgovinsko društvo' i 'trgovinsku djelatnost', dosljedno u cijelom itemu."
+  },
+  {
+   "id": "FCIX3BYOtD#1",
+   "severity": "minor",
+   "type": "manje dodavanje/odstupanje",
+   "description": "'Public Enterprises Selection Board' dato kao 'Odbor za izbor kadrova javnih preduzeća' (dodato 'kadrova'); u tački (3) dodata je glosa '(Memorandum of Association)' koje nema u izvoru ('objects clause in its Memorandum of Association'); 'relative powers' prevedeno 'odnosna ovlašćenja' (tačnije 'srazmjerna/relativna ovlašćenja'); 'Constitution' u 'its Constitution' dato malim slovom 'ustavu'.",
+   "suggestion": "'Odbor za izbor javnih preduzeća' (ili 'Odbor za selekciju u javnim preduzećima'); izostaviti dodatnu glosu ili je zadržati samo ako je politika glosiranja uvedena; 'relativna ovlašćenja'; 'u njenom Ustavu' radi usklađenosti sa izvorom."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 52 pasusa (51 novi red) je prevedeno bez izostavljanja ili dodavanja, svi brojevi, citati članova, godine, oznake stranica (D, G, J, H, B, 305) i brojevi predmeta se tačno poklapaju sa izvorom; stranke (Korporacija, Sengupta, Indijska Unija kao druga protivna strana, žalioci) su dosljedno i ispravno označene, a glosar (writ, Division Bench, Special Leave, rule nisi, Zakon o izmjeni Ustava) primijenjen je ispravno. Registar je prirodan sudski, ijekavski, bez ekavizama i kroatizama; preostali problemi su samo manje ortografske i terminološke prirode."
+}

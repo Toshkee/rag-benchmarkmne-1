@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav (3): izvor 'except where such suit or other proceeding is stayed by the High Court' preveden 'osim kada Visoki sud zastane sa takvom parnicom ili drugim postupkom' - neprirodno ('zastane' nije pravnički izraz); aktivna radnja pogrešno pripisana sudu.",
+   "suggestion": "'osim kada je Visoki sud odgodio (obustavio) takvu parnicu ili drugi postupak'."
+  },
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'substituted' je prevedeno kao 'Umjesto člana 115 ... unosi se sljedeći član' (Madhya Pradesh, Orissa, Utar Pradeš), a u fusnotama 'Substituted' kao 'Zamijenjeno' - nedosljedno; 'unosi se' bliže značenju 'inserted'.",
+   "suggestion": "'Član 115 osnovnog zakona zamjenjuje se sljedećim članom, i to:-'; dosljedno 'zamjenjuje/Zamijenjeno'."
+  },
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "stil",
+   "description": "'bilo Visokom sudu bilo bilo kom sudu nižem od njega' (stav 2, više puta) - dvostruko 'bilo' djeluje kao greška.",
+   "suggestion": "'ili Visokom sudu ili bilo kojem sudu nižem od njega'."
+  },
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'w.e.f.' prevedeno nedosljedno: u uglastim zagradama 'stupilo na snagu', u fusnotama 'sa dejstvom od'; 'failure of justice' = 'uskraćivanje pravde' (preciznije: 'nepravda/neostvarivanje pravde'); 'Saving' = 'Prelazna odredba' (preciznije 'odredba o očuvanju postojećih radnji').",
+   "suggestion": "Ujednačiti na 'stupilo na snagu' / 'dejstvo od'; razmotriti 'Odredba o očuvanju dejstva'."
+  },
+  {
+   "id": "3UDqpNVGMr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'STATE AMENDMENTS' = 'IZMJENE SAVEZNIH DRŽAVA' - u glosaru 'the State' je 'Država'; 'izmjene država' ili 'Izmjene na nivou država' je blaže; nedosljedno i sa 'Zakon države Orissa' / 'Zakon M.P.'; 'the District Judge in any older case' (greška izvora) tiho ispravljeno u 'drugom predmetu'.",
+   "suggestion": "Prihvatljivo; po želji 'DRŽAVNE IZMJENE'. Greška izvora ('older') je pretvorena u 'drugom' - dopustivo, ali odstupa od doslovnosti."
+  },
+  {
+   "id": "0lnXv2Rra6",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'improperly procured' = 'pribavljena na nedozvoljen način' (preciznije 'nepropisno/nepravilno pribavljena'); 'superseding the arbitration' = 'arbitraža se ukida' (preciznije 'kojim se arbitraža zamjenjuje/obustavlja').",
+   "suggestion": "'pribavljena nepropisno'; 'kojim se arbitraža stavlja van snage/obustavlja'."
+  },
+  {
+   "id": "2qFl41sNLj",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'verified' = 'ovjereni' sugeriše ovjeru (notar/sud); u parničnom postupku 'verification' je potvrđivanje istinitosti navoda ('potvrđeni/verifikovani').",
+   "suggestion": "'Odgovori na tužbu moraju biti potpisani i potvrđeni' (dosljedno i za tužbe)."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svi _id-ovi se poklapaju, svi brojevi/datumi/članovi identični izvoru, nema izostavljanja ni dodavanja, format Naslov:/Opis: ispravan, nema ekavizama ni hrvatizama, odnos riječi 0.94-1.08. Registar je pravnički i odgovara jeziku propisa (glosar poštovan: Visoki sud, izuzetak, član, stav), uz manja terminološka i stilska odstupanja."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00301",
+   "severity": "minor",
+   "type": "gramatika/terminologija",
+   "description": "\"poreski oslobođenog finansiranja\" (izvor: \"tax-exempt financing\") je nepravilan prilog uz pridjev.",
+   "suggestion": "\"finansiranja oslobođenog od poreza\" ili \"poreski izuzetog finansiranja\"; \"organa vlasti\" za \"government-owned\" može biti \"u državnom/javnom vlasništvu\"."
+  },
+  {
+   "id": "00300",
+   "severity": "minor",
+   "type": "sintaksa",
+   "description": "\"radi uvođenja sigurne luke ... , nalaže pojačano izvještavanje\" (izvor: \"to provide a safe harbor..., to require increased reporting\") prekida paralelnu strukturu \"radi\" glagolskom imenicom i konačnim glagolom.",
+   "suggestion": "\"... radi uvođenja sigurne luke (safe harbor) za utvrđivanje razvrstavanja radnika, propisivanja pojačanog izvještavanja i uređuju druga pitanja\" (ili \"i nalaganja pojačanog izvještavanja\")."
+  },
+  {
+   "id": "00304",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"ponovo odobravaju određene odredbe\" za \"reauthorize certain provisions\" je kalk; glosar za authorize daje \"odobriti\", ali za zakonske odredbe preciznije je produženje ovlašćenja.",
+   "suggestion": "\"Kojim se ponovo ovlašćuje primjena određenih odredbi Zakona o javnoj zdravstvenoj službi koje se odnose na autizam i uređuju druga pitanja\"."
+  },
+  {
+   "id": "00305",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"očuvanje američkog nasljeđa aktivnosti u prirodi\" za \"America's outdoor heritage\" je nejasno.",
+   "suggestion": "\"očuvanje američke baštine aktivnosti na otvorenom\"."
+  },
+  {
+   "id": "00307",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "\"isključenja iz oporezivog prihoda\" dodaje \"iz oporezivog prihoda\" kojeg nema u izvoru (\"the exclusion\"); \"kredita\" bez \"poreskog\" odstupa od glosara (tax credit).",
+   "suggestion": "\"povećanja isključenja za pomoć u brizi o izdržavanim licima koju obezbjeđuje poslodavac\"; koristiti \"poreskog kredita\" ako kontekst to traži."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova se poklapa, brojevi i tokeni su očuvani, nema ekavizama ni kroatizama, odnos broja riječi je u granicama, a svaki upit je jedna rečenica u pravilnom obrascu (\"Predlog zakona kojim se...\" odnosno \"Kojim se...\"), bez sadržaja iz polja context. Registar je prikladan zakonodavnom jeziku, glosar (Zakonik o unutrašnjim prihodima, budžetska sredstva, fiskalna godina, Ministarstvo X, indijansko pleme) dosljedno primijenjen; preostale primjedbe su stilske."
+}

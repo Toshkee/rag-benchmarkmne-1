@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00172",
+   "severity": "minor",
+   "type": "terminology/grammar",
+   "description": "Prevod \"mijenja i dopunjuje XVIII Zakona o socijalnom osiguranju\" nema oznaku \"glava\" (izvor: \"amend XVIII of the Social Security Act\" ima isti propust), pa je fraza nepotpuna; za razliku od 00162 gdje stoji \"glava XVIII\". Takođe \"korisnike programa Medicare u okviru programa Medicare\" je tautološko.",
+   "suggestion": "\"Predlog zakona kojim se mijenja i dopunjuje glava XVIII Zakona o socijalnom osiguranju radi obezbjeđivanja blagovremenijeg pristupa uslugama kućne zdravstvene njege za korisnike programa Medicare.\" (ili zadržati \"u okviru programa Medicare\" samo ako se insistira na doslovnosti)"
+  },
+  {
+   "id": "00170",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"telehealth services\" prevedeno kao \"usluga telemedicine\"; telehealth je širi pojam od telemedicine. Takođe doslovno \"efekat\" umjesto \"dejstvo/uticaj\" je prihvatljivo, ali nije pravnički registar.",
+   "suggestion": "\"...ispita uticaj uključivanja telezdravstvenih usluga u modele reforme pružanja zdravstvene zaštite...\" i isti termin dosljedno u cijelom korpusu."
+  },
+  {
+   "id": "00175",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"annual financial disclosure report\" prevedeno kao \"godišnji izvještaj o finansijskom stanju\" - izgubljen smisao objelodanjivanja (disclosure).",
+   "suggestion": "\"godišnji izvještaj o objelodanjivanju finansijskih podataka\" ili \"godišnji izvještaj o finansijskom objelodanjivanju\"."
+  },
+  {
+   "id": "00179",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"spectrum planning\" prevedeno \"planiranje spektra\" - nedovoljno precizno u telekomunikacionom kontekstu.",
+   "suggestion": "\"planiranje radiofrekventnog spektra\"."
+  },
+  {
+   "id": "00163",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"the President\" prevedeno \"predsjedniku\" bez odrednice; u korpusu je jasno, ali u upitu bez konteksta može biti nejasno ko je predsjednik.",
+   "suggestion": "\"predsjedniku Sjedinjenih Država\" (opciono)."
+  }
+ ],
+ "overall_quality": "Svih 20 upita je vjerno i potpuno prevedeno: isti skup _id-ova, brojevi i iznosi ($5,000, 30, 180 itd.) očuvani, nema ekavizama ni kroatizama, obrasci \"Predlog zakona kojim se...\" odnosno \"Kojim se...\" ispravno primijenjeni, jedna rečenica po upitu, bez sadržaja iz polja context. Glosar (budžetska sredstva, savezna vlada, ministar, Ministarstvo, Zakonik o unutrašnjim prihodima) poštovan; registar je dosljedan i prikladan; preostali nalazi su manje terminološke prirode."
+}

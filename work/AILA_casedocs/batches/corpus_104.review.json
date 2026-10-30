@@ -1,0 +1,49 @@
+{
+  "n_blocking": 1,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "blocking",
+      "type": "pogrešno značenje (subjekat radnje)",
+      "description": "Pasus 4: izvor 'The respondents were also purported to be relying on or on the basis of the additional affidavit directed by the High Court to file their counter-affidavits and produce the records' znači da su se protivne strane (respondents) oslanjale na dodatnu izjavu, a Visoki sud im je naložio podnošenje odgovora i spisa. Prevod 'Protivnim stranama je, kako se navodi, oslanjajući se na dodatnu izjavu datu pod zakletvom, odnosno na osnovu nje, Visoki sud takođe naložio da podnesu...' pripisuje oslanjanje na izjavu Visokom sudu, pa je promijenjen subjekat.",
+      "suggestion": "4. Za protivne strane se takođe navodi da su se oslanjale na dodatnu izjavu datu pod zakletvom, odnosno da su postupale na osnovu nje, a Visoki sud im je naložio da podnesu svoje odgovore date pod zakletvom i dostave spise koji se odnose na osnivanje Posebnog istražnog tima i njegovo rasformiranje."
+    },
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "minor",
+      "type": "format polja",
+      "description": "Izvorni item ima polja _id, title, n_chunks (2); prevod ima samo _id i title (nedostaje n_chunks). Tekst, _id i broj novih redova (34) se poklapaju.",
+      "suggestion": "Prekopirati n_chunks iz izvora ako pipeline to očekuje."
+    },
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "minor",
+      "type": "zaglavlje / neprevedeno",
+      "description": "Zaglavlje: 'Appeal (civil) 3137 of 1999' preveden samo djelimično kao 'Appeal (civil) 3137 iz 1999. godine'; oznaka vrste predmeta ostala na engleskom, za razliku od obrasca 'C.A. br. 4412 iz 1985. godine' iz vodiča.",
+      "suggestion": "'Žalba (građanska) br. 3137 iz 1999. godine' (ili 'Appeal (civil) br. 3137 iz 1999. godine' ako se želi zadržati izvorna oznaka)."
+    },
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "minor",
+      "type": "terminološka nedosljednost (petition / PIL)",
+      "description": "'petition'/'writ petition' se prevodi raznoliko: 'ustavna tužba' (većina mjesta), ali 'zahtjev' u pasusu 19 ('Sri N. K. Prasada requested him not to withdraw the petition' -> 'da ne povlači zahtjev') i pasusu 28 ('for filing my own petition' -> 'podnošenja sopstvenog zahtjeva'), a 'Public Interest Litigation' kao 'tužba u javnom interesu' (pasus 27) i 'PIL-u', dok je u pasusima 1, 2 i 14 'postupak u javnom interesu'. Isto lice je ponegdje 'podnosilac ustavne tužbe', a ponegdje 'podnosilac zahtjeva' (pasusi 10, 11, 12 i 15 citata).",
+      "suggestion": "Ujednačiti: petition u kontekstu writ postupka -> 'ustavna tužba'; PIL -> 'postupak u javnom interesu' (npr. 'po postupku u javnom interesu koji je podnio B. Kistaiah'); 'writ petitioner' -> 'podnosilac ustavne tužbe' u cijelom tekstu."
+    },
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "minor",
+      "type": "terminologija (admittedly / Apex Court / cause of action)",
+      "description": "'admittedly' (pasusi 6, 7, 29) prevedeno kao 'kako je nesporno' - izvor kaže da je to priznato (stranke su priznale), što je preciznije od 'nesporno'. 'The weapon invented by the Apex Court' -> 'Oružje koje je najviši sud stvorio' (glosar: Vrhovni sud). 'The cause of action' -> 'Kao osnov za podnošenje' (glosar: osnov tužbenog zahtjeva).",
+      "suggestion": "'kako je priznato' / 'kako je nesporno priznato'; 'Oružje koje je Vrhovni sud stvorio'; 'Osnov tužbenog zahtjeva za podnošenje ustavne tužbe br. 5717 iz 1997. godine takođe je navodno bilo donošenje...'."
+    },
+    {
+      "id": "2BGCSzOjD8#0",
+      "severity": "minor",
+      "type": "registar / stil",
+      "description": "Pojedini dijelovi su doslovni i nezgrapni: 'ne osporava pravilnost, odnosno nepravilnost osporene presude' (izvor 'correctness or otherwise'), 'Protiv lica Digumarthi Premchand pokrenut je postupak', 'Iznenađujuće, za navedeni zahtjev je navodno naloženo da se iznese na hitno razmatranje', 'Chief Justice' -> 'predsjednik (Visokog) suda' bez dosljednog termina, 'bivšim MLA' pored 'poslanik Zakonodavne skupštine' za isti pojam. Tekst je inače vjeran i bez ekavizama/hrvatizama.",
+      "suggestion": "'ne osporava osnovanost osporene presude'; 'Protiv Digumarthi Premchanda'; ujednačiti 'MLA' (poslanik Zakonodavne skupštine) i 'Chief Justice' (predsjednik suda / glavni sudija) u cijelom tekstu."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (34), svi tokeni (Rs., A1-A3, W.P.) i svi brojevi se poklapaju, odnos riječi 0.93, bez ekavizama i hrvatizama, citati i članovi IPC-a doslovni. Jedino ozbiljno odstupanje je promijenjen subjekat u pasusu 4 (ko se oslanjao na dodatnu izjavu). Ostalo su terminološke nedosljednosti (petition/PIL, admittedly) i stilska doslovnost; registar je pretežno prirodan pravnički, uz glosar poštovan (žalilac, protivna strana, Visoki sud, vijeće, nalog za hapšenje, ustavna tužba (writ petition))."
+}

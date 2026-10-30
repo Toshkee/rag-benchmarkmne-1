@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "gramatika/dosljednost imena",
+   "description": "Stav 8: \"Ali A.4-Ram Prasad Yadao je pokazao svoju zabrinutost zbog toga što Ramu Somani nije ubijen\" - ime ostaje u nominativu, dok je svuda drugdje dekliniran (\"Ramua Somanija\"). Izvor: \"why Ramu Somani was not killed\".",
+   "suggestion": "\"...zbog toga što Ramu Somani nije ubijen\" -> \"...zbog toga što Ramua Somanija nijesu ubili\" (ili \"Ramu Somani nije ubijen\" dosljedno koristiti u cijelom tekstu, bez deklinacije)."
+  },
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "terminologija/dosljednost skraćenica zakonika",
+   "description": "Stav 4 koristi \"Krivičnog zakonika\" za IPC (\"Section 302 IPC read with Sections 109 and 150 IPC\"), a od stava 15 \"Zakonik\" znači Zakonik o krivičnom postupku (\"for short the Code\"). Isti pojam \"Zakonik\" za dva različita akta unutar dokumenta može dovesti do zabune.",
+   "suggestion": "U stavu 4 pisati \"Krivičnog zakonika Indije\" u oba pomena ili \"Krivičnog zakonika (IPC)\"; \"Zakonik\" ostaviti samo za Zakonik o krivičnom postupku."
+  },
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "terminologija (glosar)",
+   "description": "Stav 4: \"Visoki sud je preinačio oslobađajuću presudu\" za \"reversed the acquittal\"; stav 3: \"postupak po žalbi ... je obustavljen\" za \"the appeal ... got abated\". Glosar za set aside/quash predviđa \"ukinuti\"; \"abated\" je tehnički \"prestao\" (žalbeni postupak prestaje smrću žalioca).",
+   "suggestion": "\"Visoki sud je ukinuo oslobađajuću presudu\"; \"postupak po žalbi u odnosu na njega je prestao\"."
+  },
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "dodaci u zagradama",
+   "description": "Prevodilac dodaje glose koje izvor nema: \"dat oprost (pardon)\", \"svjedok saradnik (approver)\", \"izbornoj jedinici (Ward)\", \"lice u pritvoru (detenue)\", \"viši policajac (Head Constable)\". Stil. vodič (dio 5) zabranjuje dodavanje objašnjenja; engleski izrazi u zagradi su dodatni sadržaj, iako informativno bezopasni.",
+   "suggestion": "Ukloniti engleske glose u zagradama (\"dat oprost\", \"svjedok saradnik\", \"izbornoj jedinici\", \"lice u pritvoru\", \"policajac (Head Constable)\" zadržati samo ako je potrebno kao naziv čina)."
+  },
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Stav 31: \"povjerenje sudske svijesti u istinitost iskaza\" za \"confidence in judicial mind\" je nezgrapno; stav 16: \"da bi se ona uvukla u okvir člana 32\" (\"wiggle it into the cassette of Section 32\") je razgovorno za presudu.",
+   "suggestion": "\"povjerenje suda u istinitost iskaza PW.2\" (ili \"uvjerenje sudije\"); \"da bi se mogla podvesti pod član 32\"."
+  },
+  {
+   "id": "P9K63LSFZH#0",
+   "severity": "minor",
+   "type": "format",
+   "description": "Prevod ima samo polja _id, title, text; izvorni item ima i polje n_chunks (2). Polje nije prevodivo, ali je izostavljeno u izlazu.",
+   "suggestion": "Provjeriti traži li pipeline prenos n_chunks; ako traži, dodati \"n_chunks\": 2."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (39), svi tokeni (A.n, PW.n, Ext., Section), citati (AIR 1983 SC 126, 1982 Indlaw SC 152) i brojevi članova (32, 151, 155, 157, 162, 164, 302, 109, 150) očuvani; razlike u brojevima potiču samo od pretvaranja datuma u crnogorski format (npr. 10.12.1987 u 10. decembra 1987. godine). Nema izostavljenih ni dodatih rečenica, strane u postupku su dosljedne, a ekavizama i hrvatskih oblika nema. Registar je prirodan obrazloženju presude uz manje nedosljednosti u deklinaciji imena, upotrebi \"Zakonik\" i nekoliko engleskih glosa u zagradama."
+}

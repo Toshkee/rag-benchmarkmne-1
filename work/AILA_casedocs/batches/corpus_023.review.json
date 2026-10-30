@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "tST18iwItC#4",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'Section 357 of the Code'. Prevod: 'član 357 Zakonika' - nije jasno o kojem je zakoniku riječ; 'Code' ovdje je Code of Criminal Procedure (glosar: Zakonik o krivičnom postupku).",
+   "suggestion": "'razmatrao član 357 Zakonika o krivičnom postupku' (pri prvom pomenu), dalje 'Zakonika'."
+  },
+  {
+   "id": "tST18iwItC#4",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Izvor: 'Our country has a dubious distinction of registering maximum number of deaths'. Prevod: 'ima sumnjivo obilježje da bilježi najveći broj' - 'sumnjivo obilježje' ne prenosi značenje 'dubious distinction' (nezavidno prvenstvo).",
+   "suggestion": "'Naša zemlja ima nezavidno prvenstvo po broju smrtnih slučajeva u saobraćajnim nezgodama.'"
+  },
+  {
+   "id": "tST18iwItC#4",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: 'had no grievance against the appellant'. Prevod: 'nije imala nikakvu pritužbu protiv tamošnjeg žalioca' - 'pritužba' je u stilskom vodiču rezervisana za Beschwerde; prirodnije je 'prigovor'.",
+   "suggestion": "'nije imala nikakav prigovor na račun tamošnjeg žalioca'."
+  },
+  {
+   "id": "tST18iwItC#4",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Izvor: 'we refrain from considering the matter for enhancement'. Prevod: 'uzdržavamo se od razmatranja predmeta u pravcu povećanja kazne' - 'u pravcu' je kalk; takođe 'Sud/sud' i 'ovaj sud' naizmjenično, što je prihvatljivo ali nedosljedno velikim slovom.",
+   "suggestion": "'uzdržavamo se od razmatranja povećanja kazne'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 6 pasusa (81-87) i završna napomena 'Žalbe odbijene' prisutni, broj novih redova (9) isti, svi citati sudske prakse, brojevi, iznosi (Rs. 8,50,000/-, 1,35,000) i tokeni (Rs. x2) doslovni, nema ekavizama ni hrvatizama, odnos riječi 0.92. Terminologija je u skladu sa glosarom (žalilac, Visoki sud, odbijene, optuženi, jemstvo), registar je primjeren obrazloženju presude; nađene su samo manje stilske i terminološke nepreciznosti."
+}

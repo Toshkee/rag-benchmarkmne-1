@@ -1,0 +1,28 @@
+{
+ "n_blocking": 0,
+ "n_minor": 3,
+ "issues": [
+  {
+   "id": "00020",
+   "severity": "minor",
+   "type": "gramatika/registar",
+   "description": "\"po navršenih deset godina rada\" (izvor: \"on completion of ten years of service\") je gramatički nepravilno; \"regularizacija/regularizovao\" je kalk iz engleskog.",
+   "suggestion": "\"po navršetku deset godina rada\"; \"prevođenje u stalni radni odnos\" umjesto \"regularizacija\" (dosljedno u cijelom itemu)."
+  },
+  {
+   "id": "00021",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Division Bench\" preveden kao \"vijeće Visokog suda\" (gubi se oznaka sudskog vijeća); \"investigating officer\" kao \"istražni službenik\"; \"accused persons\" prije optužnice kao \"optuženi\" (glosar: okrivljeni prije optuženja).",
+   "suggestion": "\"dvočlano vijeće Visokog suda\"; \"službeno lice koje je vodilo istragu\"; po potrebi \"okrivljeni\" u dijelu prije optužnice."
+  },
+  {
+   "id": "00022",
+   "severity": "minor",
+   "type": "registar/terminologija",
+   "description": "\"u ovom zahtjevu\" (izvor: \"in this present petition\") nije dosljedno sa \"ustavna tužba\" za writ petition; \"Banke su bile spremne\" (\"The bankers were willing\") i \"ponovno važenje odobrenja\" (\"revival of the sanction\") zvuče neprirodno; \"bavi se djelatnošću građevinara, urbanizatora\" je nezgrapno.",
+   "suggestion": "\"u ovoj ustavnoj tužbi (zahtjevu)\"; \"Banka je bila spremna\"; \"obnavljanje odobrenja\"; \"bavi se poslovima građevinara, urbanizatora (colonizers) i izvođača radova\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: sva tri itema imaju iste _id-ove, isti broj tokena (P1/P2/P3, Rs.) i brojeva, iznosi i datumi su tačni, bez izostavljanja ili dodavanja sadržaja i bez ekavskih ili hrvatskih oblika; odnos dužine 0.85-0.91. Registar je uglavnom primjeren sudskoj naraciji sa dosljednom terminologijom glosara (Visoki sud, žalilac, protivna strana, miraz, krivična prijava), uz manje stilske kalkove."
+}

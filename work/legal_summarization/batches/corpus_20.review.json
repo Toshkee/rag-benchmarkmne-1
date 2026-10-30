@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "NpOSWe9DyF",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Formula 'all right title and interest' prevedena kao 'svih prava, prava svojine i interesa' - nespretno, ponavlja 'prava'.",
+   "suggestion": "'sva prava, pravni osnov i interes' ili 'sva prava i interese' na takvom korisničkom sadržaju."
+  },
+  {
+   "id": "P1uRr6YICt",
+   "severity": "minor",
+   "type": "ortografija",
+   "description": "Izvorno 'www google com policies privacy partners' prevedeno kao URL 'www.google.com/policies/privacy/partners' (rekonstrukcija interpunkcije).",
+   "suggestion": "Prihvatljivo kao normalizacija; ostaviti ako je to politika vodiča za URL-ove. 'veb analitike' uskladiti sa upotrebom 'internet' u ostatku batcha (npr. 'internet analitike')."
+  },
+  {
+   "id": "JzjuxZEOQp",
+   "severity": "minor",
+   "type": "vjernost/stil",
+   "description": "Dodato 'komunikacija' u 'zahtjevima za zakonito presretanje komunikacija' (izvor: 'lawful interception requests'); 'ova informacija' umjesto 'ta informacija' (izvor: 'this information is complete'); 'u skladu s tim' vs 'sa' drugdje.",
+   "suggestion": "'zahtjevima za zakonito presretanje'; 'znamo da je ta informacija potpuna'; 'u skladu sa tim'."
+  },
+  {
+   "id": "uhvPU1S8Lv",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'no responsibility or liability' prevedeno 'nikakvu obavezu niti odgovornost' - 'responsibility' kao 'obavezu' je blagi pomak.",
+   "suggestion": "'nikakvu odgovornost niti obavezu' ili 'nije ni na koji način odgovoran'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se poklapa, tokeni i brojevi (12, 20, 31, 18, 26, 32, 0, 1, 2, 30, 13, 18, 19, 2014, 2012-2013) su identični, odnos riječi je u opsegu, bez ekavizama i hrvatizama. Korpus je u formalnom ugovornom registru sa 'vi/vaš', glosar je poštovan (uslovi korišćenja, nalog, treće lice, privremeno ukinuti/ukinuti, nijeste), a ortografija je normalizovana. Preostale primjedbe su isključivo stilske."
+}

@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "08YMNb5Zql#2",
+   "severity": "minor",
+   "type": "terminologija / glosar",
+   "description": "Naziv vladinih organa u citiranom članu 141 prvo: \"zastraše centralnu vladu ili vladu bilo koje države\" (izvor: \"the Central or any State Government\"). Glosar (dio 3) propisuje \"Vlada\" (veliko slovo); \"State\" -> država je u redu.",
+   "suggestion": "\"zastraše Centralnu vladu ili Vladu bilo koje države\" (ili dosljedno Vladu Unije / Vladu države)."
+  },
+  {
+   "id": "08YMNb5Zql#2",
+   "severity": "minor",
+   "type": "dosljednost naziva zakona",
+   "description": "\"Krivični zakonik Indije\" se ponavlja u pasusima 33, 36 i 44 (\"Krivičnog zakonika Indije\", \"Krivičnom zakoniku Indije\"), dok dio 6 traži puni naziv samo prvi put, a dalje \"Krivični zakonik\" (koristi se i \"Krivičnog zakonika\" u istom pasusu 36).",
+   "suggestion": "Prvo pominjanje u dijelu (pasus 33) \"Krivičnog zakonika Indije\", dalje \"Krivičnog zakonika\" (pasus 36, 44: \"namely, Indian Penal Code\" -> \"odnosno Krivičnom zakoniku\")."
+  },
+  {
+   "id": "08YMNb5Zql#2",
+   "severity": "minor",
+   "type": "dosljednost citata",
+   "description": "Naslovi knjiga se djelimično prevode, a djelimično ne: \"Principles of Statutory Interpretation\" -> \"Načela tumačenja zakona\" (pasus 33) naspram \"Maxwell's Interpretation of Statutes\" i \"Craies Statute Law\" koji ostaju izvorni (pasus 35, 34). Takođe \"p.115\" ostaje a \"p. 109\" -> \"str. 109\".",
+   "suggestion": "Zadržati izvorne naslove knjiga (\"Principles of Statutory Interpretation\") i citatne oznake (\"p. 109\") kao doslovne citate; ili dosljedno prevesti sve."
+  },
+  {
+   "id": "08YMNb5Zql#2",
+   "severity": "minor",
+   "type": "registar / termin",
+   "description": "\"is falsely implicated\" / \"implicate the son-in-law\" prevedeno sa \"lažno okrivljen\" / \"okrivi samo zeta\", dok se isto lice u istom pasusu naziva \"navedeni optuženi\" (the said accused); glosar traži isti termin za isto lice (okrivljeni/optuženi). Takođe \"dejstvo\" (\"da toj svrsi daju dejstvo\") je ekavsko-srpskog odjeka; u propisima CG uobičajenije je \"djelovanje/učinak\".",
+   "suggestion": "\"lažno optužen\" / \"optuži samo zeta\"; \"da toj svrsi daju učinak\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id, isti broj novih redova (32), svi brojevi i citati (npr. 1991 (2) SCC 87, 2008 (4) SCC 755, brojevi članova) identicni izvoru, nijedan pasus ni rečenica nijesu izostavljeni ni dodati, uloge stranaka (žalilac, optuženi, prvostepeni sud) dosljedne. Registar je prirodan sudski, ijekavica dosljedna (nema ekavskih ni hrvatskih oblika); preostali nalazi su sitni stilski/terminološki."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00297",
+   "severity": "minor",
+   "type": "terminologija/registar",
+   "description": "\"daje uvjeravanja da nadzire\" (izvor: \"provide assurances that it oversees\") je nespretno i neprirodno; \"nadzire\" se razlikuje od \"nadgleda\" u 00296 za isti glagol \"oversee\".",
+   "suggestion": "\"Da li Microsoft garantuje da nadgleda funkcionisanje grupa za ćaskanje i sličnih usluga koje pruža?\" (ili \"jemči\"); ujednačiti nadgleda/nadzire sa 00296."
+  },
+  {
+   "id": "00282",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "\"generally\" je u 00282 prevedeno \"u principu\", a u 00283 \"po pravilu\"; ista riječ u parnim upitima treba isti prevod.",
+   "suggestion": "Ujednačiti u \"po pravilu\" (ili \"u pravilu\") u oba upita."
+  },
+  {
+   "id": "00284",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Mogu li jednostavno da dam svoj eBay nalog\" - konstrukcija da+prezent (srpski obrazac); u crnogorskoj normi i razgovornom registru prirodnije je infinitiv.",
+   "suggestion": "\"Mogu li jednostavno dati svoj eBay nalog nekom drugom?\" (isto važi za 00289 \"mora da plati\" -> \"mora platiti\", 00293 \"zabranjeno da ... obezbijede\" -> \"zabranjeno ... obezbijediti\")."
+  },
+  {
+   "id": "00289",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"troškove odlaska na arbitražu\" dobro prenosi \"costs of going to arbitration\", ali \"ko mora da plati\" je da+prezent konstrukcija (vidi 00284).",
+   "suggestion": "\"Da li eBay odlučuje ko mora platiti troškove odlaska na arbitražu?\""
+  },
+  {
+   "id": "00285",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"da li se ikad desi da prođe više od 24 sata dok oglas ne postane dostupan\" - ispravno značenjski, ali razgovorno-srpski (\"desi\"); \"dostupan u pretrazi\" blago odstupa od \"searchable\".",
+   "suggestion": "\"Prema ugovoru, da li ikada može proći više od 24 sata dok oglas ne postane pretraživ?\" (zadržati \"24\")."
+  },
+  {
+   "id": "00293",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"Microsoftova česta pitanja (FAQ)\" - zadržano doslovno uz glosu, prihvatljivo; \"obezbijede\" i \"da ... obezbijede\" je da-konstrukcija.",
+   "suggestion": "Opciono: \"Da li je školama zabranjeno da učenicima na času dijele Microsoftova česta pitanja (FAQ) i slične dokumente?\" - nije obavezno."
+  }
+ ],
+ "overall_quality": "Prevod je potpun, vjeran i bez izmijenjenih brojeva (24), svih 20 _id-ova, title i format su identični izvoru; nema ekavskih ni hrvatskih oblika; odnos riječi 0.80-1.21. Laički upiti ostali su pitanja i razgovorni (00280-00284, 00287, 00289, 00291, 00294, 00298), a formalni su formalni (00281, 00286, 00290, 00292), pri čemu nema prenosa sadržaja iz polja context. Preostale primjedbe su isključivo stilske (da+prezent konstrukcije, 'uvjeravanja' u 00297, nedosljednost u principu/po pravilu)."
+}

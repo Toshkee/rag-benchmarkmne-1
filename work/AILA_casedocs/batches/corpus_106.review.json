@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 3: 'Commission/ Department Promotion Committee' preveden kao 'Komisija/ Komisija odjeljenja za unapređenje' - Committee i Commission su stopljeni u isti termin.",
+      "suggestion": "'Komisija/ Odbor odjeljenja za unapređenje'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Para 2: 'were set aside by this court' -> 'ovaj sud je stavio van snage', dok je isto poništenje u pasusu 8 ('quashed') preneseno kao 'ukinuta'; nedosljedno unutar presude (glosar 9: set aside -> ukinuta).",
+      "suggestion": "'Navedena ad hoc postavljenja ovaj sud je ukinuo ...'; u pasusu 22 'refused to set aside' -> 'odbio da ukine cio izbor'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 4 'Business & Procedure' -> 'o radu i postupku Komisije', a pasus 17 'Conduct of business and Procedure' -> 'o obavljanju poslova i postupku'; isti naziv akta različito preveden.",
+      "suggestion": "Ujednačiti: 'Pravilnik o obavljanju poslova i postupku Komisije za javne službe Džamu i Kašmira iz 1980. godine'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Pasus 18: 'no additional qualification can be attached or added' -> 'ne može vezati niti dodati nikakvu dodatnu kvalifikaciju'; 'vezati' je neprirodno.",
+      "suggestion": "'ne može priložiti niti dodati/pridodati nikakvu dodatnu kvalifikaciju'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Pasus 21: 'no marks had been assigned for ... previous record of work' -> 'za istraživačko iskustvo, objavljene radove ili raniji radni rezultati' - pogrešan padež; takođe 'koji se nijesu mogli zanemariti' ostaje dvosmisleno (odnosi se na bodove umjesto na kriterijume).",
+      "suggestion": "'ili ranije radne rezultate, što se nije moglo zanemariti'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 25 (i 16): 'seniority of the petitioner' / 'seniority benefits' -> 'radni staž'; seniority u službi je starješinstvo (senioritet), radni staž je length of service.",
+      "suggestion": "'imajući u vidu senioritet podnosioca zahtjeva'; u pasusu 16 'pogodnosti po osnovu senioriteta'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 15: 'Two posts were kept in abeyance' -> 'ostavljena nepopunjena' - pomjereno značenje (abeyance = u suspenziji/odloženo).",
+      "suggestion": "'Dva radna mjesta držana su u mirovanju (odložena) jer ...'."
+    },
+    {
+      "id": "850kEnydx9#0",
+      "severity": "minor",
+      "type": "dosljednost",
+      "description": "Isto lice (Inder Parkash Gupta) se naizmjenično zove 'podnosilac ustavne tužbe', 'podnosilac zahtjeva' i 'žalilac'; u citatima Full Bench-a 'petitioner' -> 'podnosilac zahtjeva' (po glosaru), ali zbog toga je nejasno da je riječ o istom licu.",
+      "suggestion": "Prihvatljivo po glosaru; opciono ujednačiti 'podnosilac ustavne tužbe' u citatima pasusa 11 i 21."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (71), svi pasusi 1-27 i svi citati, brojevi, datumi, rezultati bodovanja i oznake predmeta očuvani; automatske provjere (tokeni, brojevi, ekavica, hrvatizmi) bez odstupanja, odnos riječi 0.94. Registar je pravnički i primjeren, glosar (žalilac, protivna strana, Visoki sud, uvaženi zastupnik, ustavna tužba, nijesu) dosljedno primijenjen; nema blokirajućih grešaka, samo manja terminološka i stilska odstupanja."
+}

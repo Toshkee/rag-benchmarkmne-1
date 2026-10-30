@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "Is9hVLXnGB",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "steering committee prevedeno kao \"upravni odbor\" (\"koji savjetuje radnu grupu\", \"Upravni odbor savjetuje\"); upravni odbor je organ upravljanja (board), a ovdje je riječ o savjetodavnom/usmjeravajućem tijelu.",
+   "suggestion": "\"usmjeravajući odbor\" (steering committee) umjesto \"upravni odbor\"; ostalim pojavama u itemu dosljedno."
+  },
+  {
+   "id": "Is9hVLXnGB",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"uređaji za medicinski monitoring\" (medical monitoring devices) i \"pribavi javne komentare\" (seek public comment) - anglicizam i neprirodan glagol za pravni registar.",
+   "suggestion": "\"uređaji za medicinsko praćenje\"; \"prikupi javne komentare\"."
+  },
+  {
+   "id": "oRaFxMPMDE",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"great apes\" prevedeno kao \"velikih majmuna\"; apes nijesu majmuni (monkeys). \"several wildlife conservation programs\" -> \"pojedini programi\" (znači \"određeni\", ne \"nekoliko/više\").",
+   "suggestion": "\"čovjekolikih majmuna\"; \"više programa za očuvanje divljeg svijeta\"."
+  },
+  {
+   "id": "6uMXuuY18i",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"U.S. residents\" -> \"rezidentima SAD-a\"; \"China's enforcement of sanctions against North Korea\" -> \"sankcija ... prema Sjevernoj Koreji\" (pogrešan predlog, sankcije se uvode protiv).",
+   "suggestion": "\"stanovnicima SAD-a\"; \"sankcija protiv Sjeverne Koreje\"."
+  },
+  {
+   "id": "BGjxrzuLWO",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"design and installation of water infrastructure projects\" -> \"projektovanje i izgradnju\"; installation nije izgradnja. Takođe \"task force\" i \"working group\" (Is9hVLXnGB) oba su \"radna grupa\" - nedosljednost u batchu.",
+   "suggestion": "\"projektovanje i ugradnju/postavljanje\"; razmotriti \"radna jedinica\" ili \"međuagencijska radna grupa\" uz jasnu razliku od working group."
+  },
+  {
+   "id": "f7ZJ69PqcU",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"imovinu na biomasno gorivo\" / \"imovinu za grijanje na biomasu\" - nespretno za \"property that uses the burning of biomass fuel\".",
+   "suggestion": "\"imovinu koja koristi biomasno gorivo\"."
+  },
+  {
+   "id": "zHzmA4KR1V",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"koje su medicinski neophodne\" - u izvoru \"any body part that is medically necessary\" odnosi se na dio tijela; prevod to pripisuje uslugama (dvosmislenost). \"Pokriće\" za coverage je neuobičajeno (finansijski termin).",
+   "suggestion": "Preformulisati: \"...bilo koji dio tijela koji je medicinski neophodan za normalne tjelesne funkcije ili izgled\"; \"Osiguranjem moraju biti obuhvaćene usluge...\"."
+  },
+  {
+   "id": "tST18iwItC",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"državna agencija / državne agencije\" za US state agencies može se čitati kao nacionalna agencija u kontekstu gdje je \"savezna\" za federalne. \"prehrambena sigurnost\" (food security) nije dosljedno sa \"bezbjednost\" korišćenim u batchu.",
+   "suggestion": "\"agencije država\" (ili \"agencije savezne jedinice\" pri prvom pomenu); \"prehrambena bezbjednost\"."
+  },
+  {
+   "id": "ILft9SGVZe",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"izvršnim radnjama\" za \"enforcement actions\" (stavovi 13, 14, 17) - u krivičnom pravu \"radnja izvršenja\" ima drugo značenje; neprecizno. \"kreditni skorovi\", \"revolving kreditnih linija\" (open-end) anglicizmi.",
+   "suggestion": "\"mjerama sprovođenja propisa\"; \"kreditni rejting/bodovi\"; \"kreditnih linija bez određenog roka (open-end)\"."
+  },
+  {
+   "id": "ILft9SGVZe",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "\"opšti fond Trezora\" (Treasury) dok se u r4Eh0C3BfQ Department of the Treasury prevodi \"Ministarstvo finansija\"; naslov \"Zakon o prioritetu potrošača\" slobodan prevod za \"Consumers First\".",
+   "suggestion": "\"opšti fond Ministarstva finansija\"; \"Zakon o potrošačima na prvom mjestu\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 11 _id-ova se poklapa, brojevi, procenti, godine i raspored pasusa/novih redova identični su izvoru, bez ekavskih i hrvatskih oblika, dosljedna primjena glosara (Ministarstvo, Predlogom zakona, fiskalna godina, grant, plemenski). Registar je odgovarajući obrazloženju predloga zakona; nalazi su samo manje terminološke i stilske prirode."
+}

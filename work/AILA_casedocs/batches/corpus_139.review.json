@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Pasus 20, 27 i 33 prevode \"order of acquittal\" kao \"rješenje o oslobađanju\" (npr. \"donese rješenje o oslobađanju\", \"PREINAČENJE RJEŠENJA O OSLOBAĐANJU\"), a pasusi 34, 54 i 56 koriste \"oslobađajuća presuda\" (\"ukidanje oslobađajuće presude\"). Isti pojam je preveden na dva načina u istom dijelu.",
+   "suggestion": "Ujednačiti: \"order of acquittal\" -> \"oslobađajuća presuda\" (ili dosljedno \"rješenje o oslobađanju\") u cijelom dijelu."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "oblik odredbi/dosljednost",
+   "description": "Pasus 41: \"po čl. 302, 307 i 323 Krivičnog zakonika Indije (IPC)\" koristi skraćenicu \"čl.\" i dodaje \"(IPC)\"; pasus 43 koristi \"prema članu 302 IPC\"; pasus 55 \"po članu 417\". Vodič traži \"član\" i, nakon prvog pomena, \"Krivični zakonik\".",
+   "suggestion": "\"po članovima 302, 307 i 323 Krivičnog zakonika Indije (IPC)\"; dalje dosljedno \"članu 302 IPC\" ili \"Krivičnog zakonika\"."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "gramatika/registar",
+   "description": "Pasus 52 (citat): \"Visoki sud treba da i uvijek će dati odgovarajući značaj\" je negramatično (izvor: \"should and will always give proper weight\").",
+   "suggestion": "\"Visoki sud treba i uvijek će davati odgovarajući značaj i pažnju pitanjima kao što su ...\""
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "stil/forma obraćanja",
+   "description": "Pasusi 50 i 51: \"G. Sushil Kumar\", \"G. Ratnakar Das\" (izvor: \"Mr.\", \"Shri\") sa velikim slovom izgleda kao inicijal; takođe \"Visoki sud nije bio opravdan da se miješa\" je nezgrapno za \"was not justified in interfering\".",
+   "suggestion": "\"g. Sushil Kumar\", \"g. Ratnakar Das\"; \"Visoki sud nije imao opravdanja da se miješa u presudu\"."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "citat sudske prakse",
+   "description": "Pasus 55: \"Surajpal Singh i drugi protiv države\" prevodi \"& Others\" i \"State\" u naslovu predmeta, dok pasus 53 ostavlja \"Sheo Swarup protiv King Emperor\" i citat \"AIR 1952 SC 52\" doslovno. Nazivi predmeta treba da budu tretirani ujednačeno.",
+   "suggestion": "\"Surajpal Singh & Others protiv države\" (ili \"protiv State\") uz isti pristup kao u pasusu 53; citat ostaje doslovno."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "pravopis",
+   "description": "Pasus 43: \"usljed rasipanja zrna sačme\" (nepravilno), i \"nanijete sa dva hica\" za \"caused by two shots\".",
+   "suggestion": "\"uslijed rasipanja\"; \"nanijete iz dva hica\"."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 18/19: \"perverse\" prevedeno kao \"proizvoljna\"; u indijskoj sudskoj praksi (i u pasusu 54, \"perverse\" -> \"proizvoljna\") znači nerazumna/očigledno pogrešna, \"proizvoljna\" je blaže i nije dosljedno s \"palpably wrong\" -> \"očigledno pogrešna\".",
+   "suggestion": "Razmotriti \"iracionalna/nerazumna\" ili ostaviti \"proizvoljna\" dosljedno (trenutno je dosljedno, pa je samo napomena)."
+  },
+  {
+   "id": "XRvj7uff0L#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 13: \"found force in the plea of right of private defence\" -> \"našao da je osnovan prigovor nužne odbrane\"; \"plea\" je odbrana/tvrdnja, a \"prigovor\" je suženje značenja. Pasus 1: izvorno \"single hot\" (štamparska greška za \"shot\") preneseno kao \"jedno zrno\", prihvatljivo.",
+   "suggestion": "\"našao da je osnovana tvrdnja o pravu na nužnu odbranu koju je istakao optuženi\"."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (57), nijedan pasus ni rečenica nijesu izostavljeni ni dodati, svi brojevi (uključujući mjere, članove, citate AIR/Indlaw) i oznake P.W./C.W./Ex. ostaju identični, bez ekavskih ni hrvatskih oblika; strane su dosljedno označene (žalilac, država, optuženi, preminuli). Registar je prirodan obrazloženju presude uz manje terminološke nedosljednosti (rješenje o oslobađanju / oslobađajuća presuda), jedan negramatičan citat i sitne pravopisne slabosti; nema blokirajućih grešaka."
+}

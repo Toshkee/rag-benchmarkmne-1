@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 142: 'Ovaj sud je to dosljedno zauzimao još od 1953. godine' (izvor: 'This has been consistently held by this Court as far back as 1953') - glagol 'zauzimati' bez objekta 'stanovište'.",
+   "suggestion": "'Ovaj sud je to stanovište dosljedno zauzimao još od 1953. godine' ili 'Ovaj sud je to dosljedno utvrđivao ...'."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 145: 'ako je svečanost vjeridbe žaliočeve sestre ... trebalo da bude održana 13. juna, izabrao dan prije toga' - sintaksa nezgrapna; i 'osim u periodima od nedjelju dana ili nekoliko dana' (izvor: 'except for a week or few days of intervals') - pogrešan oblik 'od nedjelju dana'.",
+   "suggestion": "'... ako je svečanost vjeridbe ... bila zakazana za 13. jun, izabrao dan prije toga ...'; 'osim u razmacima od nedjelju dana ili nekoliko dana' -> 'osim u razmacima od jedne nedjelje ili nekoliko dana'."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 'Hence, as both...': 'morao nje čvrsto držati' (izvor: 'he must have clung to it') - nedostaje povratna zamjenica.",
+   "suggestion": "'morao čvrsto držati te prilike' ili 'morao se nje čvrsto držati'."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Para 146: 'nedozvoljenu vezu sa Ujvalom' za 'illicit connections with Ujvala' (množina, nepravnički izraz).",
+   "suggestion": "'vanbračne veze sa Ujvalom' ili 'nedozvoljene veze'."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Additional Solicitor-General' -> 'zamjenik generalnog pravobranioca' nije u glosaru; nije prilagođeno pojmu 'Solicitor General'. Dosljedno u cijelom itemu, ali netačno po funkciji.",
+   "suggestion": "Dogovoriti jedan termin za batcheve (npr. 'dodatni glavni pravobranilac (Additional Solicitor-General)' pri prvom pomenu) i primijeniti dosljedno."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Para 150: 'trite law' -> 'opštepoznato pravo'; 'conclusive nature' -> 'odlučujuće prirode' (tačnije 'ubjedljive/neoborive'); 'proximity to time and situation' -> 'okolnost je u blizini u pogledu vremena i situacije' - nezgrapno.",
+   "suggestion": "'opšteprihvaćeno pravilo'; 'okolnost je vremenski i situaciono bliska'; razmotriti 'odlučujuće' vs. 'uvjerljive', ali dosljedno."
+  },
+  {
+   "id": "sUkiH8G4Zp#8",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Naseem Ahmed protiv Uprave Delhija' (v. Delhi Administration) - neuobičajena deklinacija/prevod; ostala imena država su u skladu sa vodičem (Utar Pradeš, Pandžab, Bombaj). 'bloodstained' -> 'krvav' (tačnije 'krvlju umrljan').",
+   "suggestion": "'Naseem Ahmed protiv Delhi Administration' ili 'protiv uprave Delhija' dosljedno; 'koji je bio umrljan krvlju'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (39), svi brojevi, tokeni i citati predmeta (Indlaw SC, NZLR, brojevi žalbi i datumi) su očuvani, bez izostavljenih ili dodatih rečenica, uloge stranaka (žalilac, Visoki sud, optužba) dosljedne. Registar je uglavnom primjeren sudskoj naraciji u ijekavici ('nijesu', 'sljedeće'), bez ekavizama i hrvatizama; postoji nekoliko manjih gramatičkih i stilskih nezgrapnosti."
+}

@@ -1,0 +1,65 @@
+{
+  "batch": "corpus_099",
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Pasus 32: 'restrictions on the landlord's right under the common law' preveden kao 'prema common law' - izraz ostavljen neprevedenim (nije latinski izraz).",
+      "suggestion": "'ograničenja pravu zakupodavca prema opštem (običajnom) pravu (common law) ili Zakonu o prenosu imovine'."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Pasus 27: 'public policy' prevedeno kao 'javni poredak' / 'javni poredak (public policy)'. U crnogorskoj pravnoj terminologiji 'javni poredak' je 'public order'; za 'public policy' primjerenije je 'javni interes' / 'javna politika'. Isti pojam dalje: 'politika zakona' (policy of the law).",
+      "suggestion": "'pod uslovom da nije u pitanju javni interes (public policy)'; 'šta je javni interes obuhvaćen navedenim zakonom'; 'javni interes ne ostaje statičan'. Primijeniti dosljedno u pasusu."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "consistency",
+      "description": "Nedosljedna deklinacija/zapis toponima: 'Džamu i Kašmiru' (pasus 15, prvi red) naspram 'Džamua i Kašmira' (pasus 15, drugi red i pasus 16); 'Madhya Pradesh' (pasus 32) naspram 'Madhya Pradesha' (pasus 15); 'Utar Pradešu' (transkribovano) uz neprevedene 'Rajasthanu', 'Madhya Pradesha' (netranskribovano).",
+      "suggestion": "Ujednačiti: 'Džamua i Kašmira' (ili dosljedno 'Džamu i Kašmir') u svim pojavljivanjima; Madhya Pradesh/Rajasthan zadržati izvorno uz isti obrazac deklinacije."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "Pasus 15: 'a notice demanding rent should be served' prevedeno 'dostavi opomena kojom se zahtijeva plaćanje zakupnine'. Glosar za notice daje 'obavještenje'; 'opomena' unosi drugačiji pravni smisao (admonition/reminder).",
+      "suggestion": "'zakupcu dostavi obavještenje kojim se zahtijeva plaćanje zakupnine' (ili 'poziv na plaćanje zakupnine')."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "style",
+      "description": "Pasus 22: 'Sinha, C.J.' preveden kao 'Predsjednik Suda Sinha'. Chief Justice se u crnogorskom pravnom registru ne prevodi kao 'predsjednik Suda'; i u izvoru je 'C.J.' titula sudije.",
+      "suggestion": "'glavni sudija Sinha' (ili 'sudija Sinha, C.J.') te dosljedno 'sudije Ayyangar i Mudholkar'."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "addition",
+      "description": "Pasus 24: u izvoru 'rackrenting (exaction of exorbitant rents)' nema navodnika; prevod dodaje navodnike 'rackrenting' i zadržava englesku riječ. Pasus 20: dodata engleska glosa '(Attorney General)' koju izvor ne sadrži (izvor već ima 'Attorney General', pa je prihvatljivo, ali glosar traži samo prevedeni termin).",
+      "suggestion": "Pasus 24: 'zla, preuzimanja pretjeranih zakupnina (rackrenting) i nerazumnog iseljenja' bez dodatnih navodnika. Pasus 20: 'generalni pravobranilac (Attorney General)' je prihvatljivo, ali treba biti dosljedno."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "style",
+      "description": "Pasus 23: 'Baveći se članom 29 Zakona, ovaj sud je konstatovao' - gerund u nominativu nespretan za propisani sudski registar; pasus 24 'S tog stanovišta' za 'In that view of the matter'. Prevod je inače vjeran, ali na nekoliko mjesta (pasus 26 'ponovo uspostaviti ravnoteža na vagi') je doslovan i neprirodan.",
+      "suggestion": "'U vezi sa članom 29 Zakona, ovaj sud je konstatovao'; 'U tom svjetlu'; 'ponovo uspostaviti ravnotežu između strana'."
+    },
+    {
+      "id": "ZESFqZ8pIx#1",
+      "severity": "minor",
+      "type": "consistency",
+      "description": "'Rent Controller' se prvi put pojavljuje u pasusu 21 sa glosom '(Rent Controller)', ali pasus 19/20 ne koriste taj pojam; dalje 'kontrolor zakupnina' bez glose - prihvatljivo. 'Tamil Nadu Rent Act' prevedeno kao 'Zakon o zakupnini Tamil Nadua' (pasus 24), a drugdje samo 'Zakon' - dosljedno u smislu definicije iz zaglavlja, ali puni naziv je izostavljen pri prvom pomenu u itemu.",
+      "suggestion": "Pri prvom pomenu u pasusu 24 dodati 'Zakon o zakupnini Tamil Nadua (Tamil Nadu Rent Act)'; ostalo ostaviti."
+    }
+  ],
+  "auto_checks": "_id skup isti (ZESFqZ8pIx#1); tokeni P/A/S/W/Section S/Rs. isti (Rs. x1 u oba); brojevi (multiset) identični; novi redovi 18/18; odnos riječi 0.853; nema ekavskih ni hrvatskih oblika.",
+  "overall_quality": "Prevod je potpun i vjeran: nijedan pasus ni rečenica nijesu izostavljeni, citati (S.C.R., SCC, Indlaw), brojevi članova, iznos Rs.250 i broj novih redova su očuvani, a strane (zakupodavac/zakupac, protivne strane) su dosljedno označene. Registar je pretežno primjeren obrazloženju presude, ijekavica i crnogorska norma (nijesu, takođe, ovlašćenje) su dosljedne; nema blokirajućih grešaka, samo sitne terminološke i stilske primjedbe (public policy, common law, notice, Sinha C.J., zapis toponima)."
+}

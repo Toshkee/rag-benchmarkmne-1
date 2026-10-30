@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "WvTMVTucHY",
+   "severity": "minor",
+   "type": "omission (near-duplicate term)",
+   "description": "Izvor: \"enter into the terms conditions obligations affirmations ...\"; prevod: \"prihvatite uslove, obaveze, potvrde, izjave i garancije\" - \"terms\" i \"conditions\" spojeni u jedno \"uslove\". Takođe \"competent\" je preneseno kao \"sposobni\".",
+   "suggestion": "\"...da ste poslovno sposobni da prihvatite odredbe, uslove, obaveze, potvrde, izjave i garancije...\" (ili bar zadržati dva člana nabrajanja)."
+  },
+  {
+   "id": "OjkeaBKsoR",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "\"ukine ili uskrati pristup internet stranici i njeno korišćenje\" - nesklad (pristup ... i njeno korišćenje) za \"access to and use of the website\". Ista rečenica u gJSoFc1pDx.",
+   "suggestion": "\"ukine ili uskrati pristup internet stranici i njeno korišćenje\" -> \"ukine ili uskrati pristup internet stranici i korišćenje te stranice\"; ispraviti u oba itema."
+  },
+  {
+   "id": "gJSoFc1pDx",
+   "severity": "minor",
+   "type": "style/wording",
+   "description": "\"prestane da postoji, odnosno obustavi suštinski cjelokupno svoje poslovanje\" - \"odnosno\" sugeriše istovjetnost, a izvor nabraja alternative (is dissolved OR ceases substantially all of its business); \"suštinski cjelokupno\" je neprirodno.",
+   "suggestion": "\"bude likvidirana ili prestane da postoji, ili obustavi gotovo cjelokupno svoje poslovanje\"."
+  },
+  {
+   "id": "VPEJqzCN2f",
+   "severity": "minor",
+   "type": "terminology consistency",
+   "description": "\"collective arbitration\" -> \"kolektivnoj arbitraži\" iako je \"collective\" u istom itemu preveden \"grupnoj\" (\"kolektivnoj, grupnoj ili predstavničkoj tužbi\", \"kolektivnom ili grupnom postupku\"); \"agreement in this section\" -> \"sporazum\" dok je \"agreement\" drugdje \"ugovor\".",
+   "suggestion": "Dosljedno: class = kolektivna, collective = grupna (\"grupnoj arbitraži\") ili obrnuto; \"sporazum iz ovog odjeljka\" -> \"odredba iz ovog odjeljka\"/\"ugovor\"."
+  },
+  {
+   "id": "TGUDWFgF6c",
+   "severity": "minor",
+   "type": "terminology/orthography",
+   "description": "\"your submitted content\" -> \"sadržaj koji ste podnijeli\" (podnijeti nije prirodno za sadržaj; glosar: korisnički sadržaj/vaš sadržaj). Lista a), b), d) završava tačkama i malim slovom umjesto tačka-zarez.",
+   "suggestion": "\"sadržaj koji ste dostavili\"; stavke odvojiti tačkom i zarezom (npr. \"... usluzi; b) ... ugovora; ... ; d) ...\"). Izostavljeno slovo c) potiče iz izvora, može se ostaviti."
+  },
+  {
+   "id": "giDo1r2zlR",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "\"indirect consequential exemplary incidental special or punitive damages\" -> \"indirektnu, posrednu, primjernu, slučajnu, posebnu ili kaznenu štetu\": \"indirektnu\" i \"posrednu\" su praktično sinonimi (consequential bi bilo \"posljedičnu\"); \"primjernu\" za exemplary je dvosmisleno.",
+   "suggestion": "\"posrednu, posljedičnu, eksemplarnu, slučajnu, posebnu ili kaznenu štetu\" (ili po glosaru zadržati posrednu/slučajnu i dodati posljedičnu)."
+  },
+  {
+   "id": "uNJ0ekotsq",
+   "severity": "minor",
+   "type": "terminology consistency",
+   "description": "\"adresu elektronske pošte\" (uNJ0ekotsq) vs \"adresu e-pošte\" i \"e-poruku\" (sUkiH8G4Zp) za isti pojam unutar batcha; \"Nećemo prodati\" umjesto budućeg/trajnog \"Nećemo prodavati\".",
+   "suggestion": "Ujednačiti na \"adresu e-pošte\"; \"Nećemo prodavati vašu adresu e-pošte nikome.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 16 _id-ova se poklapa, brojevi (30, 1/2/4/5, 13, 15, 7) i tokeni se podudaraju, odnos riječi je 0.76-1.34, nema ekavizama ni hrvatskizama, a nijedna rečenica izvora nije izostavljena ni dodata (uključujući najdužu stavku giDo1r2zlR). Registar je ispravan formalni ugovorni (vi/vaš malim slovom, kompanija, obeštetiti i zaštititi od odgovornosti, u viđenom stanju, kolektivna tužba), ortografija normalna sa obnovljenim velikim slovima i interpunkcijom; ostaju samo sitne stilske i terminološke korekcije, bez blokirajućih problema."
+}

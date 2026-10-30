@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "8GrgmolaHr#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„prosecution case“ / „prosecution story“ prevedeno kao „tezu optužbe“ (\"ne utiče na tezu optužbe\", \"potkrepljuje tezu optužbe\"); „teza“ je neuobičajena u crnogorskom pravnom registru.",
+   "suggestion": "„ne utiče na navode optužbe“ / „potkrepljuje navode optužbe“ (ili „optužnu verziju događaja“ za „prosecution story“)."
+  },
+  {
+   "id": "8GrgmolaHr#1",
+   "severity": "minor",
+   "type": "nedosljednost broja stranke",
+   "description": "„oslobađajuće presude žaliocu i donošenje zaključka o njihovoj osudi“ — jednina „žaliocu“ uz množinu „njihovoj“; stranke su u ovom dijelu (head) tri žalioca. Izvor je takođe nedosljedan („the appellant ... their conviction“), ali prevod može biti ujednačen. Isto: „pravilno je utvrđeno da je žalilac kriv“.",
+   "suggestion": "„u žalbi protiv oslobađajuće presude u odnosu na žaliooce i donošenje zaključka o njihovoj osudi“; razmotriti „da su žalioci krivi“ (ili ostaviti jedninu radi vjernosti izvoru)."
+  },
+  {
+   "id": "8GrgmolaHr#1",
+   "severity": "minor",
+   "type": "registar / preciznost",
+   "description": "„We find no merit in this appeal“ → „Ne nalazimo osnov za ovu žalbu“ (nepravnički, pomjera značenje na „osnov“); „overt acts“ → „konkretne radnje izvršenja“ (dodato „izvršenja“); „surrender to their bonds“ → „predaće se u skladu sa uslovima jemstva“ nejasno (predaja radi izdržavanja kazne).",
+   "suggestion": "„Žalbu ocjenjujemo neosnovanom“ / „Ne nalazimo da je žalba osnovana“; „konkretne radnje koje se pripisuju žaliocima“; „žalioci 1 i 3 ... predaće se radi izdržavanja kazne, shodno obavezama iz jemstva“."
+  },
+  {
+   "id": "8GrgmolaHr#1",
+   "severity": "minor",
+   "type": "izostavljen glagolski subjekat",
+   "description": "„For these rightly found the appellant guilty“ (u izvoru nedostaje subjekat, očigledno Visoki sud) → „pravilno je utvrđeno da je žalilac kriv“ je prihvatljivo, ali „Utvrđeno je da i komadi novina...“ za „were also found to contain“ odstupa od strukture; i „Ne može postojati nikakva mogućnost“ je ojačano u odnosu na „There cannot be any possibility“ (ok). Napomena: izvorne greške (\"mot\", \"sentece\", izostavljena tačka poslije „deceased“) pravilno nijesu popravljane osim očuvane tačke.",
+   "suggestion": "Opciono: „Iz tih razloga je Visoki sud pravilno utvrdio da je žalilac kriv“ — samo ako se želi eksplicitan subjekat; inače ostaviti."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedna rečenica ni pasus nijesu izostavljeni, brojevi, oznake dokaza (Exh. P-3...P-11, MOS 5 i 6), članovi (302, 307, 34, 3) i broj novih redova (4) odgovaraju izvoru, a odnos riječi je 0.93. Registar je uglavnom prirodan i ijekavski, glosar poštovan (žalilac, Visoki sud, jemstvo, osuđujuće/oslobađajuće presude, Krivični zakonik Indije); preostale primjedbe su stilske (\"teza optužbe\", \"osnov za žalbu\", jednina/množina žalioca)."
+}

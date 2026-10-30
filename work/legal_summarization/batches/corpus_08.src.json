@@ -1,0 +1,97 @@
+[
+ {
+  "_id": "WJhaOQtwjO",
+  "title": "",
+  "text": "warranty disclaimer you agree that your use of the services shall be at your sole risk. to the fullest extent permitted by law youtube its officers directors employees and agents disclaim all warranties express or implied in connection with the services and your use thereof. youtube makes no warranties or representations about the accuracy or completeness of this site s content or the content of any sites linked to this site and assumes no liability or responsibility for any i errors mistakes or inaccuracies of content ii personal injury or property damage of any nature whatsoever resulting from your access to and use of our services iii any unauthorized access to or use of our secure servers and or any and all personal information and or financial information stored therein iv any interruption or cessation of transmission to or from our services iv any bugs viruses trojan horses or the like which may be transmitted to or through our services by any third party and or v any errors or omissions in any content or for any loss or damage of any kind incurred as a result of the use of any content posted emailed transmitted or otherwise made available via the services. youtube does not warrant endorse guarantee or assume responsibility for any product or service advertised or offered by a third party through the services or any hyperlinked services or featured in any banner or other advertising and youtube will not be a party to or in any way be responsible for monitoring any transaction between you and third party providers of products or services. as with the purchase of a product or service through any medium or in any environment you should use your best judgment and exercise caution where appropriate 10. limitation of liabilityin no event shall youtube its officers directors employees or agents be liable to you for any direct indirect incidental special punitive or consequential damages whatsoever resulting from any i errors mistakes or inaccuracies of content ii personal injury or property damage of any nature whatsoever resulting from your access to and use of our services iii any unauthorized access to or use of our secure servers and or any and all personal information and or financial information stored therein iv any interruption or cessation of transmission to or from our services iv any bugs viruses trojan horses or the like which may be transmitted to or through our services by any third party and or v any errors or omissions in any content or for any loss or damage of any kind incurred as a result of your use of any content posted emailed transmitted or otherwise made available via the services whether based on warranty contract tort or any other legal theory and whether or not the company is advised of the possibility of such damages. the foregoing limitation of liability shall apply to the fullest extent permitted by law in the applicable jurisdiction you specifically acknowledge that youtube shall not be liable for content or the defamatory offensive or illegal conduct of any third party and that the risk of harm or damage from the foregoing rests entirely with you."
+ },
+ {
+  "_id": "SmNqE40fAr",
+  "title": "",
+  "text": "12. ability to accept terms of serviceyou affirm that you are either more than 18 years of age or an emancipated minor or possess legal parental or guardian consent and are fully able and competent to enter into the terms conditions obligations affirmations representations and warranties set forth in these terms of service and to abide by and comply with these terms of service. in any case you affirm that you are over the age of 13 as the service is not intended for children under 13. if you are under 13 years of age then please do not use the service. there are lots of other great web sites for you. talk to your parents about what sites are appropriate for you."
+ },
+ {
+  "_id": "CizRUsR1S6",
+  "title": "",
+  "text": "13. assignmentthese terms of service and any rights and licenses granted hereunder may not be transferred or assigned by you but may be assigned by youtube without restriction 14. generalyou agree that i the service shall be deemed solely based in california and ii the service shall be deemed a passive website that does not give rise to personal jurisdiction over youtube either specific or general in jurisdictions other than california. these terms of service shall be governed by the internal substantive laws of the state of california without respect to its conflict of laws principles. any claim or dispute between you and youtube that arises in whole or in part from the service shall be decided exclusively by a court of competent jurisdiction located in santa clara county california. these terms of service together with the privacy notice at http www youtube com t privacy and any other legal notices published by youtube on the service shall constitute the entire agreement between you and youtube concerning the service. if any provision of these terms of service is deemed invalid by a court of competent jurisdiction the invalidity of such provision shall not affect the validity of the remaining provisions of these terms of service which shall remain in full force and effect. no waiver of any term of this these terms of service shall be deemed a further or continuing waiver of such term or any other term and youtube s failure to assert any right or provision under these terms of service shall not constitute a waiver of such right or provision. youtube reserves the right to amend these terms of service at any time and without notice and it is your responsibility to review these terms of service for any changes. your use of the service following any amendment of these terms of service will signify your assent to and acceptance of its revised terms. you and youtube agree that any cause of action arising out of or related to the services must commence within one 1 year after the cause of action accrues. otherwise such cause of action is permanently barred."
+ },
+ {
+  "_id": "k3UQrxkJ71",
+  "title": "",
+  "text": "you may not use the sdk for any purpose not expressly permitted by the license agreement. except to the extent required by applicable third party licenses you may not a copy except for backup purposes modify adapt redistribute decompile reverse engineer disassemble or create derivative works of the sdk or any part of the sdk or b load any part of the sdk onto a mobile handset or any other hardware device except a personal computer combine any part of the sdk with other software or distribute any software or device incorporating a part of the sdk."
+ },
+ {
+  "_id": "ePV1AgHR8W",
+  "title": "",
+  "text": "you agree that you will not remove obscure or alter any proprietary rights notices including copyright and trademark notices that may be affixed to or contained within the sdk."
+ },
+ {
+  "_id": "8gOqY4d9n0",
+  "title": "",
+  "text": "you agree to use the sdk and write applications only for purposes that are permitted by a the license agreement and b any applicable law regulation or generally accepted practices or guidelines in the relevant jurisdictions including any laws regarding the export of data or software to and from the united states or other relevant countries."
+ },
+ {
+  "_id": "FyQk8RCQan",
+  "title": "",
+  "text": "you agree that if you use the sdk to develop applications you will protect the privacy and legal rights of users. if users provide you with user names passwords or other login information or personal information you must make the users aware that the information will be available to your application and you must provide legally adequate privacy notice and protection for those users. if your application stores personal or sensitive information provided by users it must do so securely. if users provide you with google account information your application may only use that information to access the user s google account when and for the limited purposes for which each user has given you permission to do so."
+ },
+ {
+  "_id": "ov026aO0Tg",
+  "title": "",
+  "text": "you agree that you are responsible for maintaining the confidentiality of any developer credentials that may be issued to you by google or which you may choose yourself and that you will be solely responsible for all applications that are developed under your developer credentials."
+ },
+ {
+  "_id": "CgkcsXtTfV",
+  "title": "",
+  "text": "6 1 in order to continually innovate and improve the sdk google may collect certain usage statistics from the software including but not limited to a unique identifier associated ip address version number of the software and information on which tools and or services in the sdk are being used and how they are being used. before any of this information is collected the sdk will notify you and seek your consent. if you withhold consent the information will not be collected 6 2 the data collected is examined in the aggregate to improve the sdk and is maintained in accordance with google s privacy policy located at http www google com policies privacy."
+ },
+ {
+  "_id": "PET3xrNikY",
+  "title": "",
+  "text": "if you use any api to retrieve data from google you acknowledge that the data may be protected by intellectual property rights which are owned by google or those parties that provide the data or by other persons or companies on their behalf. your use of any such api may be subject to additional terms of service. you may not modify rent lease loan sell distribute or create derivative works based on this data either in whole or in part unless allowed by the relevant terms of service."
+ },
+ {
+  "_id": "zJ9oQ0O1Vf",
+  "title": "",
+  "text": "if you use any api to retrieve a user s data from google you acknowledge and agree that you shall retrieve data only with the user s explicit consent and only when and for the limited purposes for which the user has given you permission to do so."
+ },
+ {
+  "_id": "AEeppMKmgs",
+  "title": "",
+  "text": "10 1 you expressly understand and agree that your use of the sdk is at your sole risk and that the sdk is provided as is and as available without warranty of any kind from google 10 2 your use of the sdk and any material downloaded or otherwise obtained through the use of the sdk is at your own discretion and risk and you are solely responsible for any damage to your computer system or other device or loss of data that results from such use. without limiting the foregoing you understand that the sdk may contain errors defects and security vulnerabilities that can result in significant damage including the complete irrecoverable loss of use of your computer system or other device."
+ },
+ {
+  "_id": "7iP4XTx6II",
+  "title": "",
+  "text": "google further expressly disclaims all warranties and conditions of any kind whether express or implied including but not limited to the implied warranties and conditions of merchantability fitness for a particular purpose and non infringement."
+ },
+ {
+  "_id": "BaepZITGgr",
+  "title": "",
+  "text": "export restrictions. the sdk is subject to united states export laws and regulations. you must comply with all domestic and international export laws and regulations that apply to the sdk. these laws include restrictions on destinations end users and end use."
+ },
+ {
+  "_id": "TKkwOc2pHd",
+  "title": "",
+  "text": "you agree to comply with the google platform developer policies set forth athttp developers google com policies and the google play content policies set forth at http play google com about developer content policy html or other such urls as google may provide for this purpose from time to time the content of your api client including any content supplied by your users or other content providers must follow the google user content and conduct policy at http www google com intl en policy content html."
+ },
+ {
+  "_id": "AsoaxzIykT",
+  "title": "",
+  "text": "you may not use user data from our apis for advertising purposes unless i you are explicitly authorized by google or ii you are using an advertising solution that google provides for this purpose. you may not and may not permit any third party to sell or transmit any user data received from our apis including anonymized aggregate or derivative data to any third party ad network or service data broker or other advertising or marketing provider."
+ },
+ {
+  "_id": "8EE5GXTeLY",
+  "title": "",
+  "text": "notwithstanding the foregoing or section b 1 of the google platform developer policies and provided that you don t operate as an ad network you may use user data from our apis to target ads within your api client where you have sold the ad slot to the advertiser directly directly sold ads and you may make anonymized user data from our apis available to a third party solely to enable that third party to serve directly sold ads to your api client."
+ },
+ {
+  "_id": "YRsMfihslQ",
+  "title": "",
+  "text": "if you have third party advertising in your api client which is provided by a google advertising solution you must use an approved third party ad serving 3pas provider subject to google s current 3pas policies at http adwords google com support aw bin answer py hl en answer 94230."
+ },
+ {
+  "_id": "8GrgmolaHr",
+  "title": "",
+  "text": "you shall not permit your api client to submit any false gameplay information such as invalid scores for a user in a leaderboard or an achievement that a user did not earn to google. you shall not permit your api client to send or accept an invite to a multiplayer game including automatching requests or to take a turn without an explicit action or request from a user."
+ }
+]

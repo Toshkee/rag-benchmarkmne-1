@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "terminologija/nedosljednost",
+   "description": "Isti token 'Section S' dat u tri oblika: 'iz Section S Zakona A1', 'na osnovu Section S iz A1' (2x). Token je očuvan, ali je veza sa zakonom nedosljedna.",
+   "suggestion": "Ujednačiti: 'iz Section S Zakona A1' na sva tri mjesta (izvor: 'under Section S of Act A1' / 'of A1')."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "izostavljen nijansa",
+   "description": "'issued show cause notice to the appellant to explain' prevedeno kao 'uputila žaliocu poziv da ... obrazloži'; gubi se pojam show cause notice.",
+   "suggestion": "'Banka je 17. decembra 1969. godine uputila žaliocu obavještenje o obrazlaganju razloga (show cause notice) i zatražila da u roku od petnaest dana objasni ...'."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Addl. Chief Presidency Magistrate' -> 'dodatnog glavnog predsjedničkog magistrata'; 'Presidency' je istorijski pojam (presidency town), ne 'predsjednički'.",
+   "suggestion": "'sudu dodatnog glavnog magistrata za predsjedničku oblast (Presidency)'."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "neprecizno značenje",
+   "description": "'serious misconduct ... involving moral turpitude' -> 'tešku povredu radne dužnosti ... koja podrazumijeva nečasno postupanje'; 'moral turpitude' je pravni pojam.",
+   "suggestion": "'teško neprimjereno postupanje koje uključuje moralnu nedostojnost (moral turpitude)'."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "neprecizno značenje",
+   "description": "'terminated the services' -> 'utvrdila prestanak radnog odnosa'; izvor je radnja otkaza/prekida radnog odnosa od strane Banke, ne utvrđivanje.",
+   "suggestion": "'rješenjem od 29. novembra 1971. godine okončala radni odnos žalioca sa dejstvom od 1. decembra 1971. godine, uz isplatu naknade za otkazni rok'."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "izostavljen detalj",
+   "description": "'The appeal was heard by the Division Bench' -> 'Žalbu je razmatralo vijeće' i 'Vijeće Visokog suda'; gubi se 'Division Bench' (dvočlano/veće vijeće).",
+   "suggestion": "'Žalbu je razmatrao Divizioni sud (Division Bench)' odnosno 'vijeće Visokog suda (Division Bench)'."
+  },
+  {
+   "id": "00000",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "'Tribunal' pisan i velikim ('Tribunal je rješenjem...') i malim slovom ('izjavio žalbu tribunalu') u istom tekstu.",
+   "suggestion": "Ujednačiti: 'Tribunalu' / 'Tribunal'."
+  },
+  {
+   "id": "00001",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'conviction under the first charge' -> 'za osudu po prvoj tački optužbe'; 'osuda' nije uobičajeno u CG propisima.",
+   "suggestion": "'za osuđujuću presudu po prvoj tački optužbe ... po drugoj'."
+  },
+  {
+   "id": "00001",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'laying information (Exhibit I)' -> 'podnese obavještenje (dokazni predmet I)'; 'Vigilance' -> 'odjeljenje za suzbijanje korupcije' i 'antikorupcijska policija' (dodat tumačeni sadržaj, izvorno Vigilance).",
+   "suggestion": "'podnese prijavu (dokaz I) načelniku policije (Vigilance)'; 'Vigilance policija' ujednačeno."
+  },
+  {
+   "id": "00003",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "'CC No.307' -> 'CC br. 307' ali 'Complaint Case No. 307' -> 'prijavi br. 307'; gubi se 'Complaint Case' i dva naziva za isti predmet.",
+   "suggestion": "'predmetu po prijavi (Complaint Case) br. 307' ujednačeno sa 'CC br. 307'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: skup _id-ova identičan, svi tokeni (P1-P3, A1, Section S, Rs.) i brojevi se podudaraju, bez ekavizama i kroatizama, odnos riječi 0.83-0.94. Registar je pravnički prirodan i u skladu sa glosarom (žalilac, protivna strana, Visoki sud, zloupotreba povjerenja, uzimanje predmeta u postupak). Nema izostavljenog/dodatog sadržaja ni promijenjenog značenja; samo manje terminološke nedosljednosti."
+}

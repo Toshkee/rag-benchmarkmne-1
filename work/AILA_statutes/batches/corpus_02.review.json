@@ -1,0 +1,77 @@
+{
+ "n_blocking": 0,
+ "n_minor": 10,
+ "issues": [
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "mistranslation/modality",
+   "description": "'is likely to cause his death' prevedeno kao 'može prouzrokovati njegovu smrt' (u (1A) proviso i (1B)). 'Likely' (vjerovatno) je slabije/drugačije od 'može' (mogućnost) i mijenja pravni prag.",
+   "suggestion": "'... kada ga konzumira bilo koje lice, vjerovatno će prouzrokovati njegovu smrt ili takvu povredu njegovog tijela koja bi predstavljala tešku tjelesnu povredu ...'"
+  },
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'cancellation of the licence' / 'stand cancelled' prevedeno kao 'oduzimanje licence' / 'smatra oduzetom'. Oduzimanje nije isto što i poništenje/ukidanje (cancel).",
+   "suggestion": "'naložiti poništenje licence ... ta licenca se time ... smatra poništenom'"
+  },
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "grammar",
+   "description": "'(1D) ... naložiti oduzimanje licence, ako je postoji' je negramatično (izvor: 'the licence, if any').",
+   "suggestion": "'ako postoji' (ili 'ako je ima')"
+  },
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "addition",
+   "description": "'(1AA) ... neovlašćeno mijenja taj proizvod' — dodat kvalifikator 'neovlašćeno' kojeg nema u izvoru ('tampers or in any other manner interferes with such article').",
+   "suggestion": "'... mijenja taj proizvod ili se na bilo koji drugi način upliće u njega' (bez 'neovlašćeno'; ili 'neovlašćeno se upliće')"
+  },
+  {
+   "id": "eNo41eoPni",
+   "severity": "minor",
+   "type": "style",
+   "description": "'(c) spriječi inspektora ... da uzme uzorak kako je to ovlašćen ovim zakonom' — nezgrapno; uz to 'Izuzetno' / 'Izuzetno, takođe' za 'Provided that' / 'Provided further' nije dosljedno sa stavkom 8JHUdKF0j7 gdje se isti izrazi prevode sa 'pod uslovom da' / 'Takođe, pod uslovom da'.",
+   "suggestion": "'kako je ovlašćen ovim zakonom'; ujednačiti proviso u cijelom batchu (npr. 'Pod uslovom da' / 'Pod uslovom, takođe, da' ili dosljedno 'Izuzetno' / 'Izuzetno, takođe')."
+  },
+  {
+   "id": "RBT7qYHDBT",
+   "severity": "minor",
+   "type": "style/agreement",
+   "description": "'krivičnih djela iz člana 480, učinjeno pred njim' — participski oblik ne slaže se sa množinom ('djela'); 'treba kazniti zatvorom koji nije zatvor zbog neplaćanja novčane kazne' je okolišno za 'imprisoned otherwise than in default of payment of fine'.",
+   "suggestion": "'... učinjenih pred njim ili u njegovom prisustvu, treba kazniti zatvorom osim zatvorom zbog neplaćanja novčane kazne'"
+  },
+  {
+   "id": "YUPnmbpD0e",
+   "severity": "minor",
+   "type": "terminology",
+   "description": "'for the time being prohibited' prevedeno kao 'u tom trenutku zabranjena' — 'tom trenutku' nema referenta; pravna formula je 'trenutno na snazi / u datom trenutku'.",
+   "suggestion": "'čija je prodaja trenutno zabranjena od strane Organa za hranu (zdravlje)'"
+  },
+  {
+   "id": "n62tOy4Cqp",
+   "severity": "minor",
+   "type": "register",
+   "description": "'inherentna ovlašćenja' (Naslov i Opis) je kalk 'inherent powers'; u propisima se uobičajeno kaže 'neodvojiva/prirodna ovlašćenja'. Takođe 'any order this Code' (izvor ima izostavljen prijedlog) je ispravljeno u 'na osnovu ovog zakonika' – prihvatljivo, ali treba biti dosljedno.",
+   "suggestion": "'neodvojiva ovlašćenja Visokog suda' (ili zadržati 'inherentna' dosljedno kroz korpus)"
+  },
+  {
+   "id": "8JHUdKF0j7",
+   "severity": "minor",
+   "type": "consistency",
+   "description": "'Provided that such presents are entered ...' -> 'pod uslovom da', a 'Provided that the Court may ...' -> 'Izuzetno, sud može'; 'Provided further' -> 'Takođe, pod uslovom da' dok u eNo41eoPni 'Provided further' -> 'Izuzetno, takođe'. Nedosljedan prevod istog izraza unutar batcha; 'Takođe, pod uslovom da' je nespretno.",
+   "suggestion": "Ujednačiti: 'Provided that' = 'Izuzetno' (odredba o izuzetku) uz glosar, ili dosljedno 'Pod uslovom da'; 'Provided further' = 'Pod uslovom, takođe, da' / 'Izuzetno, takođe'."
+  },
+  {
+   "id": "nFbmOHnKYa",
+   "severity": "minor",
+   "type": "style",
+   "description": "'imprisonment ... and with fine which may extend to' / 'Provided that ...' ok, ali 'Zamijenjeno umjesto prvobitnog člana' je pleonazam ('zamijenjeno ... umjesto').",
+   "suggestion": "'Zamijenjeno članom 4 Zakona o zabrani miraza (izmjene) iz 1984. godine umjesto prvobitnog člana' (u skladu sa obrascem 'Zamijenjeno ..., umjesto ...')"
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 6 _id-ova je prisutno, svaki tekst počinje sa 'Naslov:' i sadrži 'Opis:', brojevi, fusnote i oznake (npr. '1 [(1A)]', '45 iz I860') su sačuvani, odnos riječi je 0.79–1.05, bez ekavizama ili hrvatizama. Nema izostavljenog ni dodatog sadržaja koji bi mijenjao značenje; nalazi su manja terminološka i stilska odstupanja (likely/može, cancellation/oduzimanje, nedosljedan proviso). Registar je pravnički i blizak propisima Crne Gore (kazniće se, shodno, bez obzira na bilo šta što je sadržano)."
+}

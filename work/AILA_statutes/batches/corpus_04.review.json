@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "8GrgmolaHr",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "Proviso preveden slobodno: izvor \"Provided that the Court may for any adequate and special reasons...\" -> \"Izuzetno, sud može, iz bilo kojih odgovarajućih i posebnih razloga...\". Glosar propisuje \"izuzetak / odredba o izuzetku\"; a \"izuzetno\" ne prenosi formu proviso odredbe.",
+   "suggestion": "\"Izuzetak: sud može, iz bilo kojih odgovarajućih i posebnih razloga koji se navode u presudi, izreći kaznu zatvora u trajanju kraćem od 7 [jedne godine]:\""
+  },
+  {
+   "id": "8GrgmolaHr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"officer in charge of ... police station\" -> \"starješinu najbliže policijske stanice\" (starješina je neuobičajen za pravni registar); \"revocation\" -> \"oduzimanju\" (dozvole se obično ukidaju/povlače); \"Omitted\" -> \"Brisano\" (tačnije \"Izostavljeno\").",
+   "suggestion": "\"rukovodioca/načelnika najbliže policijske stanice\"; \"po njenom suspendovanju ili ukidanju\"; \"Izostavljeno\". Koristiti dosljedno kroz cijeli korpus."
+  },
+  {
+   "id": "8GrgmolaHr",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"retroaktivnim dejstvom\" (za w.r.e.f.) i \"dejstvom\" ima srpski prizvuk; \"sa retroaktivnim dejstvom\" je nespretno.",
+   "suggestion": "\"(sa povratnim dejstvom od 22. 06. 1983. godine)\" ili \"(retroaktivno od ...)\"."
+  },
+  {
+   "id": "DO4lKNEfvu",
+   "severity": "minor",
+   "type": "registar",
+   "description": "\"Ko učini smrt zbog miraza\" (izvor: \"Whoever commits dowry death\") je neprirodno kolokacijski; takođe \"nastupi drugačije nego pod normalnim okolnostima\" je kalkirano.",
+   "suggestion": "\"Ko prouzrokuje smrt zbog miraza\" / \"Ko izvrši djelo smrti zbog miraza\"; \"nastupi pod drugačijim nego normalnim okolnostima\"."
+  },
+  {
+   "id": "P9K63LSFZH",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Neslaganje u rodu/broju: \"ona ili bilo koje lice s njom povezano nije ispunilo takav zahtjev\" (izvor: \"failure by her or any person related to her to meet such demand\").",
+   "suggestion": "\"zbog toga što ona ili bilo koje lice s njom povezano nije ispunilo\" -> \"zbog toga što ona ili lice s njom povezano nijesu ispunili takav zahtjev\" (ili preformulisati: \"zbog neispunjenja takvog zahtjeva od strane nje ili lica s njom povezanog\")."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: automatska provjera prolazi (isti _id-ovi, tokeni i brojevi identični, odnos riječi 0.80-1.03, nema ekavizama ni hrvatizama, format Naslov:/Opis: ispravan), a ručno poređenje rečenicu po rečenicu nije otkrilo izostavljanja, dodavanja ni promjene značenja, kazni, rokova ili iznosa. Registar je pravnički i u skladu sa propisima Crne Gore (\"Ko ... kazniće se\", ijekavica, glosar poštovan, termini dosljedni), uz nekoliko manjih stilsko-terminoloških primjedbi."
+}

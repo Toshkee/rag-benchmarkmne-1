@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "hPInRVkLUh",
+   "severity": "minor",
+   "type": "terminologija/stil",
+   "description": "\"harm our community of users\" prevedeno \"naškoditi našoj zajednici korisnika\" - kolokvijalan glagol u pravnom registru; \"objectionable content\" -> \"drugi sporan sadržaj\" - \"sporan\" nije prirodan ekvivalent.",
+   "suggestion": "\"nanijeti štetu našoj zajednici korisnika\"; \"drugi neprihvatljiv sadržaj\"."
+  },
+  {
+   "id": "hPInRVkLUh",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"safe, secure, or error-free\" -> \"sigurni, bezbjedni ili bez grešaka\": safe i secure pretvoreni u gotove sinonime; \"required by law\" -> \"propisane zakonom\" (blago ublaženo).",
+   "suggestion": "\"bezbjedni, zaštićeni ili bez grešaka\"; \"... osim ako zakon zahtijeva izmjene\"."
+  },
+  {
+   "id": "f7ZJ69PqcU",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"the laws of the State of California\" -> \"zakoni Države Kalifornije\": veliko \"Država\" je u glosaru rezervisano za Ustav; \"consequential\" -> \"posrednu\" i \"indirect\" -> \"indirektnu\" blizu-sinonimi.",
+   "suggestion": "\"zakoni savezne države Kalifornije\" (ili \"države Kalifornije\"); razmotriti \"posljedičnu\" za consequential radi razlikovanja."
+  },
+  {
+   "id": "f7ZJ69PqcU",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"personal jurisdiction\" -> \"ličnu nadležnost\" i \"exemplary\" -> \"primjernu\" su doslovni, malo uobičajeni u crnogorskom pravnom jeziku.",
+   "suggestion": "\"nadležnost (in personam) bilo kojeg od ovih sudova\"; \"primjernu (egzemplarnu)\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova, isti brojevi (30, 4.2-4.5, 3, 4) i isti broj novih redova, bez izostavljanja, dodavanja ili promjene značenja; nema ekavizama ni hrvatskih oblika, a glosar je poštovan (uslovi, nalog, odgovornost, ukinuti, mjerodavno pravo, nijesu). Registar je formalan i primjeren opštim uslovima poslovanja (vi/mi, malim slovom), a odjeljak 3 je identičan u oba itema. Preostale primjedbe su isključivo stilske."
+}

@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "00035",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor 'High Court of Delhi' preveden 'Visokom sudu u Delhiju' dok je 'New Delhi' dosljedno 'Nju Delhi'; vodič traži transkripciju (Nju Delhi). Takođe dodate engleske zagrade u prevodu ('(Principal and Controller)', '(Judicial officer)', '(Medical Benefit Rules)') koje u izvoru ne postoje u toj formi.",
+   "suggestion": "Zamijeniti sa 'Visokom sudu u Delhiju' -> 'Visokom sudu u Delhiju (Nju Delhi)' po odluci projekta, ili dosljedno 'Delhi'; razmotriti uklanjanje dodatih engleskih zagrada osim za pojmove iz glosara (writ petition)."
+  },
+  {
+   "id": "00036",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'obscene gesture' -> 'nepristojan gest' ublažava značenje; 'ASI' -> 'Pomoćnik inspektora (ASI)' (Assistant Sub-Inspector); 'delay in lodging the FIR' -> 'došlo je do odlaganja u podnošenju krivične prijave (FIR)'.",
+   "suggestion": "'napravio je vulgaran/nepristojan i uvredljiv gest'; 'pomoćnik podinspektora (ASI)'; 'došlo je do kašnjenja u podnošenju krivične prijave (FIR)'."
+  },
+  {
+   "id": "00037",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Fertilizer (Control) Order' preveden 'Naredba o kontroli vještačkog đubriva'; glosar za Ordinance je 'uredba', a ovdje je riječ o podzakonskom aktu (Order). Takođe 'sub-standard' -> 'ne odgovara propisanom standardu' (dodato 'propisanom').",
+   "suggestion": "Razmotriti 'Uredba/Naredba o kontroli đubriva (Fertilizer (Control) Order)' i dosljedno koristiti jedan termin; 'je ispod standarda/nekvalitetno'."
+  },
+  {
+   "id": "00038",
+   "severity": "minor",
+   "type": "tačnost",
+   "description": "'M dollar (M.0.38)' -> 'privjeska \"M\"' izostavlja riječ 'dollar' (privjesak-dolar); 'key chain with key chain in' -> 'privjeska za ključeve sa umetkom' unosi značenje ('umetak') koje izvor ne sadrži; 'blood seeping through the front door' -> 'curila ispod ulaznih vrata' ('through' -> 'ispod'); 'different college' -> 'drugom fakultetu'.",
+   "suggestion": "'\"M\" dolar (privjesak) (M.0.38)', 'privjeska za ključeve (key chain in) (M.0.39)'; 'krv koja je curila kroz ulazna vrata'; 'drugom koledžu'."
+  },
+  {
+   "id": "00038",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Isti subjekt naizmjenično označen kao 'optuženi' i 'protivna strana' ('oglasio protivnu stranu krivom'); u izvoru je to 'respondent'/'accused'. Prihvatljivo po glosaru, ali čitljivost trpi.",
+   "suggestion": "Uvesti jedinstven izraz u tom pasusu: 'optuženog (protivnu stranu)'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti _id-ovi, svi tokeni (P*, Rs.) i brojevi se podudaraju (razlike u brojevima potiču samo od pretvaranja datuma u crnogorski format), nema ekavizama ni kroatizama, odnos riječi 0.85-0.94. Registar je prirodan i pravnički (ijekavica, 'nijesu', 'uvaženi zastupnik', 'Visoki sud'), glosar poštovan; nalazi su samo sitna terminološka odstupanja. Ne očekuju se blokirajući problemi."
+}

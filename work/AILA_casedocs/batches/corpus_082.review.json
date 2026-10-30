@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "6JDWYlgAAC#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"hostile\" (witnesses have turned hostile) preneseno opisno kao \"postao neprijateljski nastrojen prema optužbi\"; gubi se pravni termin.",
+   "suggestion": "\"postali su neprijateljski svjedoci (hostile witnesses)\" ili \"promijenili su iskaz na štetu optužbe\"."
+  },
+  {
+   "id": "6JDWYlgAAC#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Nedosljedan prevod \"set aside\": u st. 29 i 35 \"ukidanje oslobađajuće presude\" / \"ukine\", a za osuđujuću presudu \"stavljaju se van snage\"; glosar daje \"ukinuta\" za set aside.",
+   "suggestion": "Ujednačiti: \"osuđujuća presuda i kazna ... se ukidaju\"."
+  },
+  {
+   "id": "6JDWYlgAAC#1",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Neprirodne/neodgovarajuće riječi: \"koji su već ishodovali oslobađajuću presudu\" (accused who had already secured an acquittal), \"bio instruisan\" (tutored), \"tretirati kao nepostojeća\".",
+   "suggestion": "\"kojima je već izrečena oslobađajuća presuda\"; \"da je Animesh bio podučen (naveden šta da iskaže)\"; \"smatrati nepostojećom\"."
+  },
+  {
+   "id": "6JDWYlgAAC#1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"Sharad Birdhi Chand Sarda protiv države Maharashtra\" / \"Majenderan Langeswaran protiv države (NCT of Delhi)\": naziv predmeta preveden, ali citat ostaje doslovan; dosljedno je, ali \"drugog\" u \"i drugog\" je blago neprirodno.",
+   "suggestion": "Ostaviti ili \"i drugih/drugog\" kako zahtijeva izvor (and Another -> i drugog) - prihvatljivo."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: istih 16 novih redova, svi pasusi 26-35 prisutni, brojevi i citati (SCC, Indlaw, godine) identični, omjer riječi 0.87, nema ekavizama ni hrvatizama. Glosar je uglavnom dosljedan (Visoki sud, prvostepeni sud, uvaženi zastupnik, službenik koji vodi istragu, nijesu, oslobađajuća presuda), registar je prirodan sudski; manje zamjerke su stilske i terminološke (hostile, set aside, par neobičnih izraza)."
+}

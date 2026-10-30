@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "dodat sadržaj",
+   "description": "Pasus 16: izvor \"the learned Attorney-General\"; prevod \"uvaženog generalnog pravobranioca (Attorney-General)\" dodaje englesku zagradu koja ne postoji u izvoru.",
+   "suggestion": "\"uvaženog generalnog pravobranioca\" (bez zagrade), ili zadržati zagradu samo ako je tako dogovoreno za nazive funkcija."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 11, Explanation: \"The discharge-\" preveden kao \"Prestanak službe-\"; riječ \"službe\" ne postoji u izvoru, a \"discharge\" je otpust/razrješenje obaveze iz ugovora.",
+   "suggestion": "\"Otpust-\" ili \"Razrješenje-\" (npr. \"Otpust lica angažovanog po ugovoru ... ne predstavlja razrješenje ni otpuštanje\"), bez dodavanja \"službe\"."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasusi 5-6: \"notice\" (\"termination ... by notice in writing\", \"This notice was given\") preveden kao \"otkaz\" (\"pisanim otkazom\", \"Ovaj otkaz je dat\"), dok glosar za notice daje \"obavještenje\"; \"otkaz\" pomjera akcenat na samu radnju prestanka.",
+   "suggestion": "\"pisanim obavještenjem o otkazu\" / \"Ovo obavještenje je dato 25. novembra 1950. godine\"; \"otkazni rok\" za period of notice je prihvatljiv."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 5(b): \"osim ako se Vlada i državni službenik drugačije ne dogovore\" - suvišna negacija u odnosu na izvor \"unless otherwise agreed\".",
+   "suggestion": "\"osim ako se Vlada i državni službenik drugačije dogovore\"."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 13: \"nije bio prinuđen\" prevedeno kao \"ni na koji način nije bio prinuđen\" - dodat intenzifikator koji izvor nema (\"There was no compulsion\").",
+   "suggestion": "\"Podnosilac zahtjeva nije bio prinuđen da zaključi ugovor koji je zaključio.\""
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 13: \"The remedy of a writ is misconceived\" -> \"Pravno sredstvo naloga (writ) pogrešno je odabrano\"; \"misconceived\" znači neosnovano/pogrešno zasnovano, a ne pogrešno odabrano.",
+   "suggestion": "\"Zahtjev za nalog (writ) je neosnovan\" ili \"Pravno sredstvo naloga (writ) je pogrešno zasnovano\"."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Pasus 1: \"Podnosilac zahtjeva ga je lično i veoma opširno obrazložio\" - zamjenica \"ga\" je nejasna (izvor: \"It was argued at considerable length by the petitioner in person\"); \"opširno\" nije dovoljno precizno za \"at considerable length\".",
+   "suggestion": "\"Podnosilac zahtjeva je lično, veoma opširno, iznosio argumente.\" (ili \"o zahtjevu je lično raspravljao vrlo dugo\")."
+  },
+  {
+   "id": "5eZffTYIKI#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 10: \"Government of India Act, 1935\" -> \"Zakon o upravi Indije iz 1935. godine\"; \"Government\" je u glosaru Vlada, pa je u nazivu nedosljedno \"uprava\" (u istom tekstu \"Vlada Indije\" za Government of India).",
+   "suggestion": "\"Zakon o Vladi Indije iz 1935. godine\" radi dosljednosti u okviru dijela."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: svih 27 redova (isti broj novih redova), svih 16 numerisanih pasusa i zaglavlje su prisutni, _id i format su ispravni, svi brojevi (članovi, godine, datumi, br. predmeta) tačno se poklapaju, odnos riječi 0,91, bez ekavizama i kroatizama; nema izostavljenih rečenica niti pogrešne strane u postupku. Registar je prirodan obrazloženju presude, stranke dosljedno (podnosilac zahtjeva, Vlada, Država), glosar uglavnom poštovan (nalog (writ) sa glosom, nijesu, troškovi postupka); preostala odstupanja su stilske ili manje terminološke prirode."
+}

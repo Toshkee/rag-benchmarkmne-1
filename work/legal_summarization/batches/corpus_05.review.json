@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "QR6FEecAtp",
+   "severity": "minor",
+   "type": "gramatika/registar",
+   "description": "Drugi spisak počinje sa \"ne smijete, niti smijete ovlastiti drugo lice, da: 1 uokviruje ili koristi tehnike uokviravanja ... 2 automatizovano preuzima ...\". Glagoli su u 3. licu jednine, a uvod je u 2. licu množine (vi), pa rečenica nije gramatički usklađena. Izvor: \"you may not and may not authorize another to party to 1 frame or utilize framing techniques\".",
+   "suggestion": "\"... da: 1. uokvirujete ili koristite tehnike uokviravanja (framing) ...; 2. automatizovano preuzimate (scraping) ili aktivno ili dinamički koristite ...; 3. vršite zajedničko brendiranje ...; 4. povezujete ...; 5. koristite ...; 6. koristite ...; ili 7. prikrivate ...\""
+  },
+  {
+   "id": "QR6FEecAtp",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"post libelous or defamatory material\" je preveden kao \"klevetnički ili uvredljiv materijal\". \"Libelous\" i \"defamatory\" su oba klevetnički, a \"uvredljiv\" (offensive) pomjera značenje. Isto u stavci 3: \"nije klevetnički, uvredljiv ili nezakonit\" za \"is not defamatory libelous or unlawful\". Takođe \"password mining\" → \"otkrivanjem lozinki\" je približno.",
+   "suggestion": "\"objavljivali klevetnički ili ocrnjujući materijal\" (stavka 3: \"nije klevetnički ili ocrnjujući\"). \"password mining\" → \"prikupljanjem lozinki\"."
+  },
+  {
+   "id": "ndZ4szi6sE",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"you warrant represent and assert\" prevedeno kao \"Jemčite, izjavljujete i tvrdite\". Glosar za warranty daje \"garancija\"; \"jemčiti\" je više ustavni/zakonski registar.",
+   "suggestion": "\"Garantujete, izjavljujete i tvrdite da imate pravo da dostavite doprinos ...\""
+  },
+  {
+   "id": "JXke1Mo4iC",
+   "severity": "minor",
+   "type": "ortografija/format",
+   "description": "Oznake stavki ostale su bez interpunkcije kao u izvoru: \"... bezbjednosti vašeg naloga. c TLDR se izričito odriče ...\", \"d TLDR poštuje\"; isto u stavci ndZ4szi6sE (\"c Ovim određujete\", \"d Razumijete\", \"člana 4 b licence\", \"e\", \"f\", \"g\", \"h\") i u QR6FEecAtp (\"1 uokviruje\", \"2 automatizovano\", \"ili 7 prikriva\"). Stil vodi traži normalnu ortografiju, a ovo je artefakt normalizacije.",
+   "suggestion": "Pisati \"(c) TLDR se izričito odriče ...\", \"(d) ...\", \"člana 4(b) licence CC BY\", \"1. uokviruje\", \"2. ...\", \"7. prikriva\" (broj i slovo ostaju isti)."
+  },
+  {
+   "id": "ndZ4szi6sE",
+   "severity": "minor",
+   "type": "stil",
+   "description": "\"svaki doprinos izvornim kodom projektu koji se nalazi na sajtovima\" (izvor: \"any source code contribution to a project hosted on the sites\") je teško čitljivo zbog niza padeža.",
+   "suggestion": "\"svaki doprinos u vidu izvornog koda projektu koji se nalazi na sajtovima\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: sva tri itema su prevedena rečenicu po rečenicu, sa svim stavkama 1-11, 1-7 i a-h, brojevima, CC BY i URL-om, bez izostavljanja, dodavanja ili promjene značenja. Registar korpusa je formalni ugovorni (vi/vaš, TLDR u 3. licu), ortografija normalna, ijekavica dosljedna, a glosar (nalog, uslovi, politika privatnosti, treće lice, odgovornost, ukinuti, licenca) poštovan. Preostalo su sitne stilske i terminološke nepreciznosti, pa batch ne treba ponovo prevoditi, dovoljne su ciljane ispravke."
+}

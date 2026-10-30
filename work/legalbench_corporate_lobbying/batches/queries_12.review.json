@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "00222",
+   "severity": "minor",
+   "type": "gramatika/struktura",
+   "description": "Nizanje glagola nedosljedno: „kojim se unapređuju ... i odobravaju ..., ponovo odobrava Zakon ..., zaustavlja masovni pokolj ...“. Posljednja dva glagola nemaju „se“ pa predlog zakona postaje aktivni subjekt, za razliku od prvog dijela rečenice. Izvor: „to reauthorize ... and to halt the wholesale slaughter of the Syrian people“.",
+   "suggestion": "„... odobravaju budžetska sredstva za Izrael, ponovo se odobrava Zakon o saradnji Sjedinjenih Država i Jordana u oblasti odbrane iz 2015. godine, zaustavlja se masovni pokolj sirijskog naroda i uređuju druga pitanja.“ (ili „ponovo odobrava“ → „produžava važenje“ ako se želi preciznije)."
+  },
+  {
+   "id": "00224",
+   "severity": "minor",
+   "type": "dvosmislenost",
+   "description": "„roditeljima i bračnim drugovima državljana Sjedinjenih Država koji su stranci“ — relativna rečenica se gramatički vezuje za „državljana“, pa ispada da su državljani SAD stranci. Izvor: „previously removed alien parents and spouses of citizens of the United States“. Takođe „prethodno udaljenim“ je neprecizno za „previously removed“.",
+   "suggestion": "„... da stranim roditeljima i bračnim drugovima državljana Sjedinjenih Država koji su prethodno udaljeni iz zemlje dodijeli status zakonitog stalnog rezidenta i uređuju druga pitanja.“"
+  },
+  {
+   "id": "00236",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„državljanima i pripadnicima Sjedinjenih Država“ za „United States citizens and nationals“: „pripadnik“ se u crnogorskom čita kao član (npr. vojske), a ne kao „national“. Takođe „neopravdano zadržani“ za „wrongfully detained“ je blago odstupanje (wrongful = protivpravno).",
+   "suggestion": "„državljanima i nacionalcima (nationals) Sjedinjenih Država koji su uzeti za taoce ili su nezakonito ili protivpravno zadržani u inostranstvu“; dosljedno u cijelom korpusu."
+  },
+  {
+   "id": "00238",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„posrednicima na tržištu rada“ za „workforce intermediaries“ — dodaje značenje tržišta rada; izvor govori o posrednicima za radnu snagu/radnu snagu kao oblast.",
+   "suggestion": "„posrednicima u oblasti radne snage (workforce intermediaries)“ ili „posrednicima za razvoj radne snage“; uskladiti sa korpusom."
+  }
+ ],
+ "overall_quality": "Batch je vjeran i potpun: svih 20 _id-ova je očuvano, brojevi i datumi se podudaraju, nema ekavizama ni kroatizama, a obrasci „Predlog zakona kojim se...“ odnosno „Kojim se...“ su ispravno primijenjeni uz jednu rečenicu po upitu i bez sadržaja iz polja context. Glosar (budžetska sredstva, indijansko pleme, država, ministar za pitanja veterana) je dosljedno poštovan; registar je prikladan zakonodavnom naslovu. Preostale primjedbe su sitne (sintaksa u 00222, dvosmislenost u 00224, termin „nationals“ u 00236)."
+}

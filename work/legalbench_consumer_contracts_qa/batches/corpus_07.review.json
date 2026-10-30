@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "PNLbWphJeV",
+      "severity": "minor",
+      "type": "glossary",
+      "description": "\"Virtual Goods\" je preveden kao \"Virtuelna dobra\" (i \"Ugovorom o usluzi Reddit Premium i Virtuelnim dobrima\"), a glosar propisuje \"virtuelni predmeti\". Naziv ugovora \"Reddit Premium and Virtual Goods Agreement\" dobio je i dodatak \"o usluzi\" kojeg nema u izvoru.",
+      "suggestion": "\"Virtuelni predmeti\"; \"Ugovorom o Reddit Premium i Virtuelnim predmetima\" (bez \"o usluzi\")."
+    },
+    {
+      "id": "PNLbWphJeV",
+      "severity": "minor",
+      "type": "register",
+      "description": "\"sve troškove koje napravite\" (izvor: \"all costs that you incur\") je razgovorni izraz, neprikladan za registar opštih uslova poslovanja.",
+      "suggestion": "\"sve troškove koji vam nastanu\"."
+    },
+    {
+      "id": "ZESFqZ8pIx",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"you acknowledge and agree\" preveden je kao \"vi prihvatate i saglasni ste\"; \"acknowledge\" znači uzeti na znanje. Takođe \"Vaš sadržaj\" (Your Content) pisano velikim V usred rečenice, dok glosar propisuje \"vaš sadržaj\" i vi/vaš malim slovom.",
+      "suggestion": "\"uzimate na znanje i saglasni ste\"; \"uključujući vaš sadržaj\" (ili dosljedno velikim slovom samo ako se tretira kao definisan termin)."
+    },
+    {
+      "id": "DIq2AnHTmt",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"objectionable\" je preveden kao \"spornim\" (\"Neki materijal možete smatrati spornim ili pogrešnim\", \"...ili na drugi način spornim\"); \"sporan\" znači osporavan, a ne neprihvatljiv/uvredljiv.",
+      "suggestion": "\"neprihvatljivim ili netačnim\" / \"ili na drugi način neprihvatljivim\"."
+    },
+    {
+      "id": "nuVxUZpfbH",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"Soliciting personally identifiable information\" preveden kao \"Pribavljanje podataka\"; \"solicit\" je traženje/izmamljivanje, a ne pribavljanje. Ponovljeno u obje stavke (za svrhe uznemiravanja i od lica mlađih od 18 godina).",
+      "suggestion": "\"Traženje podataka na osnovu kojih se može utvrditi identitet lica ...\"."
+    },
+    {
+      "id": "nuVxUZpfbH",
+      "severity": "minor",
+      "type": "redundancy",
+      "description": "\"Svjesno pristupanje, neovlašćeno mijenjanje ili korišćenje bilo kog nejavnog dijela ... bez ovlašćenja\": \"neovlašćeno\" je dodato uz \"mijenjanje\" (tampering), a \"bez ovlašćenja\" pokriva cijelu radnju, pa je dupliranje.",
+      "suggestion": "\"Svjesno pristupanje nejavnim dijelovima naših računarskih sistema, njihovo neovlašćeno mijenjanje ili korišćenje bez ovlašćenja\" ili \"...mijenjanje ili korišćenje ... bez ovlašćenja\"."
+    },
+    {
+      "id": "nuVxUZpfbH",
+      "severity": "minor",
+      "type": "terminology",
+      "description": "\"libel or defamation\" preveden kao \"pisanu ili drugu klevetu\"; \"pisanu\" je dodato tumačenje. \"objelodanjivanje\" (disclosure) je arhaično/nenaravno u ugovornom registru; naslov \"Committing Infringement\" sveden na \"Povreda prava\".",
+      "suggestion": "\"klevetu\" (ili \"klevetu i povredu ugleda\" ako se želi odraziti libel/defamation); \"otkrivanje\"/\"obavještavanje\" umjesto \"objelodanjivanje\"; \"Povreda prava (vršenje povrede)\"."
+    },
+    {
+      "id": "YkBzPoBrUB",
+      "severity": "minor",
+      "type": "consistency",
+      "description": "Definisani termini pisani velikim slovom (\"Politici privatnosti\", \"Sadržaj\", \"Nalog\") dok glosar daje \"politika privatnosti\"; manji stilski odmak, ali dosljedan unutar batcha (item 4 \"Politike sadržaja\", item 5 \"Politike privatnosti\"), u item 5 \"usluge\"/\"naše usluge\" malim slovom, a u itemima 1-4 \"Usluge\" velikim, što odražava izvor.",
+      "suggestion": "Prihvatljivo; po želji ujednačiti pisanje \"politika privatnosti\" malim slovom izvan naslova."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 6 _id-ova se poklapa, broj redova je identičan izvoru u svakom itemu, nijedan broj ili token nije izmijenjen, odnos riječi je 0,92-1,02, a nema ekavskih ni hrvatskih oblika (nijesmo, mjerodavno pravo, treće lice, nalog, privremeno ukinuti i ukinuti, uslovi su dosljedni sa glosarom). Registar je odgovarajući formalan ugovorni, bez zakonodavnih formula, uz normalnu ortografiju i obraćanje sa vi/vaš. Nema izostavljenog ni dodatog sadržaja ni promijenjenog značenja; preostale primjedbe su sitne terminološke i stilske."
+}

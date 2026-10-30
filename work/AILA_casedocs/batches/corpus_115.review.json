@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "JnOng0wVJY#0",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "Para 8: \"arbitar je trebalo izričito da se bavi pitanjem zastarjelosti\" (izvor: \"the arbitrator should have specifically dealt with\") - nesklad roda i oblika glagola.",
+   "suggestion": "\"arbitar je trebalo izričito da se pozabavi pitanjem zastarjelosti\" ili \"arbitar je trebao izričito da se pozabavi ...\"."
+  },
+  {
+   "id": "JnOng0wVJY#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Zaglavlje: \"Žalba protiv presude i presude u parnici (dekreta)\" (izvor: \"judgment and decree\") - nezgrapno ponavljanje \"presude\". Para 4: \"Zakonu U.P. 2 iz 1916\" bez \"br.\" (izvor: \"U.P. Act 2 of 1916\").",
+   "suggestion": "\"Žalba protiv presude i dekreta (presude u parnici) ...\"; \"Zakona U.P. br. 2 iz 1916. godine\"."
+  },
+  {
+   "id": "JnOng0wVJY#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Para 1: \"kojom je preinačeno rješenje građanskog sudije\" (izvor: \"reversing the order of the Civil Judge\") - glosar za ovaj kontekst nije dosljedan; Para 2/3: ista strana naizmjenično \"protivna strana\" i \"tužilac\" (izvor također koristi respondent/plaintiff, pa je prihvatljivo, ali treba paziti na dosljednost).",
+   "suggestion": "Opcionalno \"kojom je ukinuto rješenje\"; ostaviti \"tužilac\" kad izvor kaže plaintiff i \"protivna strana\" kad kaže respondent."
+  },
+  {
+   "id": "SmNqE40fAr#3",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Para 48: \"ortaci\" / \"ugovor o ortakluku\" za partners/partnership agreement - ispravno, ali pravni registar CG češće koristi \"partneri\"/\"ugovor o partnerstvu\"; \"stavimo van snage\" za \"supersede\" malo odstupa.",
+   "suggestion": "Opcionalno \"partneri\", \"ugovor o partnerstvu\"; \"supersede\" -> \"zamijenimo/stavimo van snage\" je prihvatljivo."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: oba _id-a se poklapaju, nijedan pasus ni rečenica nijesu izostavljeni, tokeni (Rs., brojevi, citati sudske prakse, brojevi članova) i broj novih redova su identični izvoru, nema ekavizama ni hrvatizama. Terminologija prati glosar (žalilac, protivna strana, Visoki sud, Vrhovni sud, član, dekret uz glosu), registar je primjeren sudskom obrazloženju. Nađene su samo sitne stilske i gramatičke primjedbe."
+}

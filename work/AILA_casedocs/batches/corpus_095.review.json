@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "dodate_glose",
+   "description": "Prevodilac umeće dodatne glose u zagradama kojih nema u izvoru: '(clerk)' (pasusi 3,4,5,6,7,13), '(reference)' (para 3: 'Upućen je zahtjev za odlučivanje (reference)'), '(award)' (para 3: 'odluku (award)'), '(Chowkidar)', '(Constitution Bench)', '(locus standi)'. Stilski vodič (dio 5) zabranjuje dodavanje objašnjenja; glosa je propisana samo za writ/Division Bench/decree itd. Takođe 'aktivnoj legitimaciji (locus standi)' dodaje pojam koji izvor ne sadrži.",
+   "suggestion": "Ukloniti glose '(clerk)', '(reference)', '(award)'; 'Upućen je zahtjev Sudu za radne sporove'; 'odluku Suda za radne sporove'; 'ustavnog vijeća'; 'u pogledu locus standi podnosilaca ustavne tužbe'."
+  },
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "imena_predmeta",
+   "description": "Nazivi predmeta (case names) su prevođeni/dopunjavani: 'Workmen v. Bhurkunda Colliery of Central Coalfields Limited' -> 'Radnici protiv Bhurkunda Colliery preduzeća Central Coalfields Limited' (dodato 'preduzeća', prevedeno 'Workmen', 'of'); 'Secretary, State of Karnataka' -> 'sekretar, država Karnataka'. Citati ostaju doslovni po dijelu 9, a nazivi institucija se zadržavaju.",
+   "suggestion": "'Workmen protiv Bhurkunda Colliery of Central Coalfields Limited (1983 (4) SCC 582)' ili barem bez umetnutog 'preduzeća'; 'Secretary, State of Karnataka i drugi protiv Uma Devi i drugih'."
+  },
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor para 12 'the name of the respondent claimant' preveden 'ime protivne strane kao podnosioca zahtjeva' - 'podnosilac zahtjeva' je glosarski termin za petitioner i unosi zabunu u označavanje stranke (protivna strana = podnosilac zahtjeva).",
+   "suggestion": "'ime protivne strane kao tražioca/tužioca u postupku nije predložio biro za zapošljavanje' ili jednostavno 'ime protivne strane'."
+  },
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "dodati_navodnici",
+   "description": "Para 12: izvor 'There was a mere back- door entry' preveden 'pukom ulasku na „zadnja vrata“' - dodati navodnici koje izvor nema.",
+   "suggestion": "'Radilo se o pukom ulasku na zadnja vrata.'"
+  },
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "neprecizan_prevod",
+   "description": "Header 'State of Himachal Pradesh and Another' -> 'Država Himachal Pradesh i drugi' (množina umjesto 'i još jedan/jedna'); 'daily-paid labourer' -> 'radnik plaćen po danu' dok se 'daily-rated/daily wager' dosljedno prevodi 'radnik na dnevnicu'; 'Bhagwati, C.J.' -> 'predsjednik Vrhovnog suda Bhagwati' (prihvatljivo, ali nije u glosaru); 'šest nedjelja' (prihvatljivo, ali 'sedmica' je neutralnije).",
+   "suggestion": "'Država Himachal Pradesh i još jedan protiv Ravinder Singha' (ili ostaviti 'i drugi'); 'radnik na dnevnicu angažovan radi obavljanja hortikulturnih poslova'."
+  },
+  {
+   "id": "tUeC99enq5#0",
+   "severity": "minor",
+   "type": "format_polje",
+   "description": "Prevod nema polje 'n_chunks' koje postoji u izvornom zapisu (_id, title, text, n_chunks). Skup _id-ova je identičan, tekst ima isti broj novih redova (27), svi tokeni i brojevi se podudaraju.",
+   "suggestion": "Ako pipeline zahtijeva, prepisati 'n_chunks' iz izvora; inače ignorisati."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: nijedan pasus ni rečenica nijesu izostavljeni (14 pasusa, 27 novih redova kao u izvoru), brojevi, datumi, citati sudske prakse i članovi (33, 142, 14, 16, 226) su doslovni, a stranke su dosljedno označene (protivna strana, žalioci za državu u para 13, država). Registar je prirodan i pravnički, ijekavica uz 'nijesu', bez ekavizama i hrvatizama, glosar se poštuje (Visoki sud, Sud za radne sporove, ustavna tužba (writ petition), osporeno rješenje, ukinuti, usvojena); jedini nalazi su sitne umetnute glose i imena predmeta."
+}

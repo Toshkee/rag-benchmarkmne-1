@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "00012",
+   "severity": "minor",
+   "type": "gramatika/značenje",
+   "description": "Dangling participle: 'Odgovarajući na drugi zahtjev upućen glavnom komesaru, protivna strana je ... obaviještena' sugeriše da je protivna strana odgovarala, dok izvor ('In reply to another application ... the respondent was informed') znači da je ona bila obaviještena kao odgovor na svoj zahtjev.",
+   "suggestion": "'Kao odgovor na drugi zahtjev upućen glavnom komesaru, protivna strana je dopisom od 26. maja 1958. godine obaviještena ...'"
+  },
+  {
+   "id": "00012",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'appeal with a certificate granted by the judicial Commissioner' preveden kao 'žalba izjavljena na osnovu uvjerenja koje je izdao sudski komesar'; 'uvjerenje' je preslabo za certificate o dozvoli žalbe.",
+   "suggestion": "'Ovo je žalba izjavljena na osnovu potvrde (certifikata) koju je izdao sudski komesar.'"
+  },
+  {
+   "id": "00012",
+   "severity": "minor",
+   "type": "izostavljena nijansa/latinizam",
+   "description": "'termination simpliciter' preveden kao 'prosti prestanak radnog odnosa' – latinski izraz se po vodiču čuva; ('prosti' je neuobičajen u propisima).",
+   "suggestion": "'... kao prestanak radnog odnosa simpliciter ili kao otpuštanje koje povlači kaznene posljedice'."
+  },
+  {
+   "id": "00012",
+   "severity": "minor",
+   "type": "registar",
+   "description": "'rejoinder' -> 'u odgovoru navela'; 'nevažeće' za 'invalid'; 'sa dejstvom' (za 'with effect' / 'retrospective effect') – nije u duhu crnogorske pravne norme.",
+   "suggestion": "'u replici navela'; 'nezakonito/nevaljano'; 'koje proizvodi pravno dejstvo od ...' ili 'sa važenjem od 6-1-58' (po izboru, ali dosljedno)."
+  },
+  {
+   "id": "00013",
+   "severity": "minor",
+   "type": "terminologija/značenje",
+   "description": "'being aggrieved by and dissatisfied with' -> 'budući da je oštećen i nezadovoljan'. 'Oštećen' je u krivičnom postupku termin za oštećenog (žrtvu), što ovdje (žalilac je optuženi) može zavarati.",
+   "suggestion": "'P1 se obratio ovom sudu jer je nezadovoljan presudom i rješenjem ... (nezadovoljan i pogođen)' – izbjegavati 'oštećen'."
+  },
+  {
+   "id": "00014",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "'(a chowkidar)' preveden kao '(čuvar – chowkidar)' – dodata je glosa koja nije u izvoru ('čuvar'); stilski vodič zabranjuje dodavanje objašnjenja.",
+   "suggestion": "'PW 13 (chowkidar)' ili samo 'PW 13 (čuvar)'."
+  },
+  {
+   "id": "00014",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'hostile witness' -> 'neprijateljski svjedok' i 'It is not safe' -> 'Nije sigurno' – doslovno, nije ustaljeno u pravnom jeziku; glosar nema unos pa je potrebna dosljednost u cijelom korpusu.",
+   "suggestion": "'svjedok koji je promijenio iskaz (hostile witness)' ili dosljedno 'neprijateljski svjedok (hostile witness)'; 'Nije opravdano/bezbjedno odbaciti iskaz ...'."
+  },
+  {
+   "id": "00015",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "'counsel' prevedeno kao 'advokat' ('sastao se sa svojim advokatom') a 'learned senior counsel' kao 'uvaženi stariji zastupnik'; glosar propisuje 'zastupnik / uvaženi zastupnik'. Takođe 'sentenced to death subject to confirmation' -> 'uz uslov potvrđivanja' je nezgrapno.",
+   "suggestion": "'sastao se sa svojim zastupnikom'; 'osuđen na smrtnu kaznu, koja podliježe potvrdi Visokog suda'."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: automatska provjera ne pokazuje razlike u _id-ovima, tokenima (P*, Rs.), brojevima ni ekavizmima/hrvatizmima, a odnos riječi je 0.87–0.98. Ručno poređenje nije otkrilo izostavljen ili dodat sadržaj, promijenjeno značenje, pogrešnu stranu u postupku niti pogrešan broj/datum. Registar je prirodan i pravnički (ijekavica, glosar uglavnom poštovan); preostale su samo manje stilske i terminološke primjedbe."
+}

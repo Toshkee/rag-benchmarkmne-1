@@ -1,0 +1,84 @@
+{
+ "n_blocking": 0,
+ "n_minor": 11,
+ "issues": [
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Odjeljak B: izvor 'usage terms set forth in the applicable third-party beneficiarys terms of service' preveden 'uslovima upotrebe utvrđenim u uslovima korišćenja odgovarajućeg trećeg lica'. 'Usage terms' i 'terms of service' dobijaju različite termine (upotrebe/korišćenja), a 'treće lice' je nepotpuno u odnosu na 'third-party beneficiary'.",
+   "suggestion": "'... podlijegati uslovima korišćenja utvrđenim u uslovima korišćenja odgovarajućeg trećeg lica u čiju korist je ugovor zaključen' ili 'pravilima korišćenja utvrđenim u ...'; uskladiti sa glosarom (terms → uslovi korišćenja)."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Odjeljak B: 'Apple iOS, Android or Microsoft Windows-powered device' → 'uređaja sa operativnim sistemom Apple iOS, Android ili Microsoft Windows'; dodata sintagma 'operativnim sistemom' kojoj nema ekvivalenta u izvoru (powered).",
+   "suggestion": "'uređaja pokretanog sistemom Apple iOS, Android ili Microsoft Windows' (ili ostaviti kako jeste, kao blagu eksplikaciju)."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Odjeljak A: 'možda ćemo morati i da privremeno ukinemo, ograničimo ili ukinemo vaš pristup' - glagol 'ukinemo' se ponavlja, a 'terminate' je po glosaru 'raskinuti/ukinuti'; 'suspend' → 'privremeno ukinuti' je tačno, ali ponavljanje djeluje nezgrapno.",
+   "suggestion": "'možda ćemo morati i da privremeno ukinemo, ograničimo ili trajno ukinemo vaš pristup Disney Proizvodima'."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "registar",
+   "description": "Odjeljak H: 'ili kojim se od drugih nešto traži (uključujući traženje priloga ili donacija)' za 'solicit others (including solicitations for contributions or donations)' - kolokvijalno i nejasno za ugovorni registar.",
+   "suggestion": "'ili kojim se od drugih lica vrši prikupljanje sredstava ili podrške (uključujući traženje priloga ili donacija)' ili 'kojim se druga lica pozivaju na ... '."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Odjeljak I: 'nećete svjesno ili nesmotreno unijeti virus ... niti ... neovlašćeno mijenjati, narušiti ili oštetiti' - miješanje svršenog futura i infinitiva; 'recklessly' prevedeno 'nesmotreno' (blaže od 'bezobzirno/krajnje nepažljivo'); 'tamper with' → 'neovlašćeno mijenjati'.",
+   "suggestion": "'nećete svjesno ili bezobzirno unositi virus ili drugu štetnu komponentu, niti na drugi način neovlašćeno mijenjati, narušavati ili oštećivati ...'."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Odjeljak K: 'affiliate advertising programs' → 'programi partnerskog oglašavanja'; glosar za 'affiliates' propisuje 'povezana lica', a 'partneri' je glosar za 'partners'. Takođe 'Disney Proizvod/Proizvodi' piše se velikim slovom i kad stoji samo 'Products' ('Proizvod'), što je nedosljedno u odnosu na 'proizvodi trećih lica'.",
+   "suggestion": "Zadržati 'partnersko' kao ustaljen naziv, ali dosljedno pisati 'Proizvod' velikim slovom samo kao definisani pojam (Disney Proizvod) ili usvojiti jedan način u cijelom batchu."
+  },
+  {
+   "id": "E4rXLvNMQS",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Odjeljak E: 'YOU ACKNOWLEDGE THAT YOU ARE NOT REQUIRED' → 'PRIZNAJETE DA NIJESTE DUŽNI'; 'acknowledge' u ugovornom kontekstu prirodnije je 'potvrđujete/prihvatate na znanje'.",
+   "suggestion": "'POTVRĐUJETE DA NIJESTE DUŽNI DA DATE SAGLASNOST ...'."
+  },
+  {
+   "id": "YxPY8EcFK1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Podnaslov 'Digital Movie Code Returns' preveden 'Povraćaj digitalnih kodova za filmove'. 'Povraćaj' u glosaru znači refund (povraćaj sredstava), a ovdje se radi o vraćanju paketa/povraćaju robe, pa naslov sugeriše povraćaj samih kodova.",
+   "suggestion": "'Vraćanje digitalnih kodova za filmove' ili 'Vraćanje kombinovanog pakovanja i povraćaj sredstava'; prvo je vjernije izvoru."
+  },
+  {
+   "id": "YxPY8EcFK1",
+   "severity": "minor",
+   "type": "značenje",
+   "description": "Odjeljak D: 'we will provide you with reasonable notice of changes' → 'u razumnom roku ćemo vam dostaviti obavještenje'; 'reasonable notice' (razumno obavještenje) pomjereno u priloški izraz o roku; semantički blisko, ali blago mijenja formulaciju. 'prior to such change' → 'prije takve izmjene' ok.",
+   "suggestion": "'blagovremeno ćemo vam dostaviti razumno obavještenje o izmjenama naknada ili načina naplate prije datuma njihovog stupanja na snagu' ili 'obavijestićemo vas na razuman način i u razumnom roku'."
+  },
+  {
+   "id": "YxPY8EcFK1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Odjeljak E: 'typographical errors' → 'štamparske greške' i 'credit or fraud departments' → 'odjeljenja za kreditne poslove ili sprječavanje prevara' - blaga parafraza ('odjeljenja za kreditnu kontrolu ili otkrivanje prevara' bliže izvoru); 'Kontaktiraćemo' je anglicizam.",
+   "suggestion": "'tipografske (štamparske) greške'; 'odjeljenja za kredite ili prevare' / 'odjeljenja za kreditnu kontrolu ili otkrivanje prevara'; 'Obratićemo vam se'."
+  },
+  {
+   "id": "YxPY8EcFK1",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Nedosljedna veličina slova za definisani 'Agreement/agreement': item 1 'ovaj ugovor' (this contract), item 2 'ovim Ugovorom' (this Agreement) - odgovara izvoru; ali 'uslovima i odredbama pružaoca' (terms and conditions) uvodi par 'uslovi i odredbe' van glosara koji koristi 'uslovi'.",
+   "suggestion": "Zadržati; opciono 'uslovima pružaoca digitalnog sadržaja' radi dosljednosti sa glosarom."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: broj pasusa/novih redova je isti, _id-ovi se poklapaju, nema izostavljenih ili dodatih rečenica, brojevi i imena (Apple Inc., Google, Inc., Microsoft Corporation, Xbox One, 4K/UHD) su očuvani, nema ekavskih ni hrvatskih oblika. Registar je dosljedno formalan, ugovorni ('vi/mi', 'nijesu', 'saglasni ste'), uz pravilnu primjenu glosara (nalog, treće lice, licenca, pretplata, povraćaj sredstava, politika privatnosti). Preostale primjedbe su isključivo stilske i terminološke i nijedna nije blokirajuća."
+}

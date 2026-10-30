@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "ZESFqZ8pIx#2",
+   "severity": "minor",
+   "type": "terminologija/titula",
+   "description": "Izvor: 'Chandrachud, C.J.speaking for the Court'; prevod: 'predsjednik suda Chandrachud'. C.J. je Chief Justice (glavni sudija), a 'predsjednik suda' je nepreciznije.",
+   "suggestion": "'glavni sudija Chandrachud, govoreći u ime Suda'."
+  },
+  {
+   "id": "ZESFqZ8pIx#2",
+   "severity": "minor",
+   "type": "glosar (nalog)",
+   "description": "Izvor: 'the Constitutional command for a state to afford equal protection'; prevod: 'ustavni nalog da država pruži jednaku zaštitu'. Riječ 'nalog' je u glosaru rezervisana za 'writ'; stvara zabunu u retrieval-u.",
+   "suggestion": "'ustavni imperativ' ili 'ustavni zahtjev da država pruži jednaku zaštitu zakona'."
+  },
+  {
+   "id": "ZESFqZ8pIx#2",
+   "severity": "minor",
+   "type": "citati sudske prakse",
+   "description": "Nazivi predmeta prevedeni, što odstupa od pravila da citati ostaju doslovni: 'Re The Special Courts Bill, 1978' -> 'Re Predlog zakona o specijalnim sudovima iz 1978. godine'; 'The Asstt. Collector of Central Excise' -> 'pomoćnika kolektora centralne akcize'; 'Hale and company' i sl. Istovremeno 'Punjab Tin Supply Co.' ostaje, a 'Punjab Pre-emption Act' -> 'Pandžab' (nedosljedno unutar itema).",
+   "suggestion": "Nazive predmeta ostaviti izvorno (ili dosljedno prevoditi samo imena zakona); u nazivima predmeta ostaviti 'Punjab', u nazivu zakona 'Pandžab' je u skladu sa vodičem."
+  },
+  {
+   "id": "ZESFqZ8pIx#2",
+   "severity": "minor",
+   "type": "terminologija/dosljednost",
+   "description": "Završna linija: izvor 'Petition dismissed'; prevod 'Zahtjev odbijen'. U pasusu 46 isti postupak je preveden kao 'ustavne tužbe (writ petition)', pa je 'Zahtjev' nedosljedno (glosar: petition = zahtjev, ali ovdje je u pitanju writ petition).",
+   "suggestion": "'Ustavne tužbe odbijene' (ili 'Zahtjev odbijen' ako se želi doslovnost, ali tada uskladiti pasus 46)."
+  },
+  {
+   "id": "ZESFqZ8pIx#2",
+   "severity": "minor",
+   "type": "stil/registar",
+   "description": "Pojedini slobodni izrazi: 'Vidjeti u vezi s tim' (ok), 'podstrek ili podsticaj' redundantno, 'ne tražim bogatstvo... žudim za domom' ok; 'Zakupci nijesu u svim slučajevima slabiji slojevi' i 'uhvate u koštac' su razgovorniji nego registar presude; 'Uvaženi sudija pojedinac' je neobično.",
+   "suggestion": "'sudija pojedinac' (bez 'uvaženi' kod sudije pojedinca) i neutralnije 'da se suoče sa problemom'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: sva 14 pasusa (33-46) i završna linija 'Petition dismissed' su prisutni, broj novih redova je isti (18), svi brojevi, citati (S.C.R., SCC, Indlaw) i pozivanja na članove su identični izvoru, odnos riječi je 0.85, nema ekavizama ni kroatizama, a glosar (država, vijeće/tribunal, Visoki sud, bona fide, nijesu, dozvoljen) je dosljedno primijenjen. Registar je primjeren obrazloženju presude, uz nekoliko manjih stilskih i terminoloških primjedbi (nalog, C.J., prevedeni nazivi predmeta, završna linija). Nema blokirajućih nalaza."
+}

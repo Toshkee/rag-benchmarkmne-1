@@ -1,0 +1,77 @@
+{
+ "n_blocking": 1,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "nabsPHGZpv",
+   "severity": "blocking",
+   "type": "pogrešno značenje",
+   "description": "Prevod „subjekat od primarnog značaja u pogledu pranja novca“ za „a primary money-laundering concern“ mijenja značenje: „concern“ je pravni termin (jurisdikcija/institucija koja izaziva primarnu zabrinutost zbog pranja novca), a ne subjekat „od primarnog značaja“.",
+   "suggestion": "„da utvrdi da li Centralna banka Sirije predstavlja primarni problem u pogledu pranja novca (primary money-laundering concern)“ ili „subjekat primarne zabrinutosti zbog pranja novca“."
+  },
+  {
+   "id": "nabsPHGZpv",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Inostrano vojno finansiranje“ za „Foreign Military Financing“ i „do fiskalne 2028. godine“ / „do fiskalne 2023. godine“ (glosar: „fiskalna 2019. godina“) zvuče nepravilno.",
+   "suggestion": "„Strano vojno finansiranje“; „do fiskalne 2028. godine“ ostaviti ili „zaključno sa fiskalnom 2028. godinom“ dosljedno."
+  },
+  {
+   "id": "uhvPU1S8Lv",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Naziv „Zakon o ponovnom ulasku i ponovnom spajanju porodica“ dodaje „porodica“, kojeg nema u izvoru („Reentry and Reunification Act“).",
+   "suggestion": "„Zakon o ponovnom ulasku i ponovnom spajanju“."
+  },
+  {
+   "id": "uhvPU1S8Lv",
+   "severity": "minor",
+   "type": "stil/sintaksa",
+   "description": "Nabrajanje uslova: „takođe (1) mora biti dobrog moralnog karaktera; (2) ne podliježe ... (3) nije učestvovao ... (4) nije osuđen“ – nepodudarna sintaksa (mora biti / ne podliježe / nije), „A qualifying alien shall also ... (be / not be / not have)“.",
+   "suggestion": "Ujednačiti: „(1) mora biti dobrog moralnog karaktera; (2) ne smije podlijegati deportaciji ...; (3) ne smije biti učestvovao ...; (4) ne smije biti osuđen ...“."
+  },
+  {
+   "id": "riLRc3uoU5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Utaha“ za „Utah“ (država): glosar traži „država Novi Meksiko“ obrazac; „crpljenje“ za „depletions“ (iscrpljivanje/smanjenje količine vode); „raspoređuje, raspodjeljuje“ za „allocate, distribute“ gotovo sinonimno; nedosljedno „Nacija Navajo“ / „naroda Navajo“.",
+   "suggestion": "„države Utah“; „smanjenje količine vode (depletions) ne smije godišnje prelaziti ...“; „dodjeljuje, raspodjeljuje“; ujednačiti „Nacija Navajo“ svuda (i u naslovu: „Nacije Navajo“)."
+  },
+  {
+   "id": "BnD3XkfFNu",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Native American tribes“ → „plemenima američkih domorodaca“ odstupa od glosara (Indian tribe → indijansko pleme); „rudarskih zajednica uglja“ je nezgrapno za „coal communities“.",
+   "suggestion": "„indijanskim plemenima“; „zajednica u kojima se eksploatiše ugalj“ / „ugljarskih zajednica“."
+  },
+  {
+   "id": "SmNqE40fAr",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„design“ prevedeno kao „projekat“ („nestandardni projekat“, „u kojem bi se koristio standardni projekat“) – brka se sa „project“ (isto i „choice to use such a design“).",
+   "suggestion": "„nestandardno projektno rješenje“ / „standardno projektno rješenje“, a „project“ ostaje „projekat“."
+  },
+  {
+   "id": "xIdakEAWJ1",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„državni subjekti“ za „government entities“ je dvosmisleno u odnosu na glosar (state → država); isto u O4ZektUJrh („koje državni subjekti koriste“). „građanski postupci“ za „civil actions“.",
+   "suggestion": "„subjekti javne vlasti“ / „organi vlasti“ dosljedno u batchu; „građanske tužbe“."
+  },
+  {
+   "id": "wmq6OLkTkx",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Obrazac sažetka: „Predlogom zakona mijenja se postupak“ umjesto „mijenja se i dopunjuje“; „javni skupovi“ za „public meetings“ (uobičajeno „javne rasprave/javna saslušanja“).",
+   "suggestion": "„Ovim predlogom zakona mijenja se i dopunjuje postupak ...“; „javne rasprave“."
+  },
+  {
+   "id": "ZFfPliupqo",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„u skladu s tim“ – vodič preferira „sa“ (u skladu sa).",
+   "suggestion": "„ne postupe u skladu sa tim“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj redova, brojevi i datumi se podudaraju, bez ekavskih i hrvatskih oblika, odnos riječi 0.97–1.08. Registar je dosljedno zakonodavni („Ovim predlogom zakona...“, „Predlogom zakona se nalaže...“) i u skladu sa glosarom. Jedna značenjska greška (money-laundering concern) i nekoliko manjih terminoloških odstupanja."
+}

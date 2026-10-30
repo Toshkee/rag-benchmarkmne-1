@@ -1,0 +1,42 @@
+{
+  "n_blocking": 0,
+  "n_minor": 5,
+  "issues": [
+    {
+      "id": "sUkiH8G4Zp#9",
+      "severity": "minor",
+      "type": "ekavizam",
+      "description": "Ekavski oblik u pasusima 162 i (7): \"koje je, čini se, Visoki sud potpuno prevideo\" i \"potpuno prevideo dobro utvrđena pravna načela\" (izvor: \"completely missed\" / \"completely overlooked\"). Regex ga nije uhvatio.",
+      "suggestion": "Zamijeniti sa \"previdio\" na oba mjesta."
+    },
+    {
+      "id": "sUkiH8G4Zp#9",
+      "severity": "minor",
+      "type": "izostavljena nijansa",
+      "description": "Pasus 176: izvor \"This was a fit case in which High Court should have given at least benefit of doubt\"; prevod \"Ovo je bio predmet u kojem je Visoki sud trebalo da žaliocu prizna makar korist od sumnje\" izostavlja \"fit\" i ima gramatički neslaganje (Visoki sud ... trebalo).",
+      "suggestion": "\"Ovo je bio podoban predmet u kojem je Visoki sud trebalo da žaliocu prizna makar korist od sumnje\" -> bolje: \"... u kojem je Visoki sud trebao da žaliocu prizna makar korist od sumnje\"."
+    },
+    {
+      "id": "sUkiH8G4Zp#9",
+      "severity": "minor",
+      "type": "slabljenje značenja",
+      "description": "Tačka (2) u pasusu 175: izvor \"It may be very likely that the appellant may have administered the poison\"; prevod \"Veoma je moguće da je žalilac dao otrov\" - \"very likely\" je preslabo preneseno kao \"moguće\".",
+      "suggestion": "\"Veoma je vjerovatno da je žalilac dao otrov (kalijum-cijanid) Manju\"."
+    },
+    {
+      "id": "sUkiH8G4Zp#9",
+      "severity": "minor",
+      "type": "dodavanje / slobodan prevod",
+      "description": "Pasus 168: izvor \"covered by the ratio of the aforesaid decisions\"; prevod \"ratio decidendi navedenih odluka\" dodaje \"decidendi\". Tačka (3): \"has miserably failed\" preneseno kao \"ni izdaleka uspjela\" (slobodno, gubi se \"miserably\").",
+      "suggestion": "\"obuhvaćene ratiom navedenih odluka\" (ili \"ratio decidendi\" uz zadržavanje izvornog izraza); \"optužba je potpuno propustila / nije uspjela, i to žalosno\" -> \"optužba nije uspjela da dokaže, na jadan način,\" ili jednostavno \"potpuno nije uspjela da dokaže\"."
+    },
+    {
+      "id": "sUkiH8G4Zp#9",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Tačka (9): \"to što su, iako su Rameshwar Birdichand i ostali članovi njegove porodice ... bili obuhvaćeni kao optuženi, oni morali biti oslobođeni\" - suvišno \"oni\" i teško čitljiva konstrukcija. Pasus 171: \"Zatim je bilo oslanjanja na predmet\" je nezgrapno za \"Reliance was then placed on\".",
+      "suggestion": "\"... iako su Rameshwar Birdichand i ostali članovi njegove porodice ... bili optuženi, Visoki sud ih je morao osloboditi zbog nedostatka zakonitih dokaza\"; \"Zatim se Visoki sud oslonio na predmet\" (ili \"Oslanjanje je zatim izvršeno na predmet\" -> \"Zatim je navedena odluka u predmetu ...\")."
+    }
+  ],
+  "overall_quality": "Prevod je potpun i vjeran: svih 39 redova/pasusa je prisutno, _id i broj novih redova se poklapaju, tokeni (Indlaw, P.W., brojevi pasusa, brojevi predmeta i datumi) su očuvani, a automatske provjere brojeva i tokena nisu našle razlike. Registar je odgovarajući sudskoj naraciji, terminologija (žalilac, Visoki sud, optužba, korist od sumnje, posredni dokazi, nijesu) je dosljedna i u skladu sa glosarom. Jedini nalazi su manji: ekavizam \"prevideo\" (2x), izostavljeno \"fit\" u pasusu 176 i blago oslabljeno \"very likely\" u tački (2). Izvorni tekst sadrži i vlastite greške (npr. \"does survive\" u tački (10)), koje je prevod vjerno prenio."
+}

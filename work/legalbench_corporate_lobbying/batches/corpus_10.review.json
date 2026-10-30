@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "LVOkVEUVB5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„alien children“ je preveden kao „djeca stranci“ / „djecom strancima bez pratnje“ (stav 2, 6, 10, 12), što je nezgrapno i nije pravnički registar; „aggravated felonies“ je preveden kao „otežanim teškim krivičnim djelima (aggravated felonies)“ (redundantan pridjev).",
+   "suggestion": "„djeca stranih državljana bez pratnje“ (ili dosljedno „strana djeca bez pratnje“); „teškim krivičnim djelima (aggravated felonies)“."
+  },
+  {
+   "id": "LVOkVEUVB5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„in DHS or HHS custody“ preveden kao „pod nadzorom DHS-a ili HHS-a“; „custody“ je smještaj/zadržavanje, ne nadzor.",
+   "suggestion": "„u nadležnosti (na čuvanju) DHS-a ili HHS-a“ odnosno „koja se nalaze u pritvoru ili smještaju DHS-a ili HHS-a“."
+  },
+  {
+   "id": "3npgW2zMj5",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„state, local, and tribal law enforcement agencies“ → „organima za sprovođenje zakona na nivou država, lokalne samouprave i plemena“; „tribal“ je izgubilo odrednicu „indijansko“ (glosar: Indian tribe → indijansko pleme / plemenski) i struktura je nedosljedna (množina/jednina).",
+   "suggestion": "„organima za sprovođenje zakona država, lokalnih samouprava i indijanskih plemena“."
+  },
+  {
+   "id": "piAMozPf8e",
+   "severity": "minor",
+   "type": "stil",
+   "description": "U nabrajanju budžetskih stavki padeži nijesu usklađeni: „Generalnog inspektora za odbranu“ (genitiv) uz nominativ/akuzativ ostalih stavki („Zdravstveni program odbrane“, „fondove obrtnog kapitala“).",
+   "suggestion": "„Kancelariju generalnog inspektora za odbranu“ ili „program generalnog inspektora za odbranu“ (isti oblik kao ostale stavke), ili uskladiti padeže cijele liste."
+  },
+  {
+   "id": "48JkxisEdA",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„all U.S. residents“ → „sva lica sa prebivalištem u SAD-u“ (prebivalište je uži pravni pojam od „residents“); „mental health ... treatment“ → „liječenje mentalnih poremećaja“ sužava značenje.",
+   "suggestion": "„sva lica koja borave u SAD-u (rezidenti)“; „usluge mentalnog zdravlja i liječenje bolesti zavisnosti“."
+  },
+  {
+   "id": "Rx8ffiYeJA",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„advanced ... degrees“ → „višim akademskim zvanjima“; „degree“ je diploma/stepen obrazovanja, a ne zvanje.",
+   "suggestion": "„diplomama višeg stepena iz oblasti nauke, tehnologije, inženjerstva ili matematike (STEM)“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun, vjeran i bez izostavljanja ili dodavanja: svih 11 _id-ova je isto, broj novih redova i brojevi (50,000, 75,000, 7%, 15%, 2019/2020/2022/2024, rokovi) se poklapaju, nema ekavskih ni hrvatskih oblika, glosar (Ministarstvo X, DHS/HHS u zagradi, budžetska sredstva, fiskalna godina, shall → prezent) je dosljedno primijenjen, a kratki naziv zakona je sam u prvom redu. Registar odgovara obrazloženju predloga zakona; preostale primjedbe su isključivo manja terminološka i stilska odstupanja."
+}

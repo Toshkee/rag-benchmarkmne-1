@@ -1,0 +1,56 @@
+{
+  "n_blocking": 0,
+  "n_minor": 7,
+  "issues": [
+    {
+      "id": "Fvbgz7h6it",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "Druga nabrojana stavka nema glagol uz \"da će\": \"da će (i) usluga ispuniti vaše zahtjeve, (iv) kvalitet bilo kojih proizvoda ... ispuniti vaša očekivanja\" (izvor: \"iv the quality of any products ... will meet your expectations\"). Značenje je očuvano.",
+      "suggestion": "\"... da će (i) usluga ispuniti vaše zahtjeve, (iv) da će kvalitet bilo kojih proizvoda, usluga, informacija ili drugog materijala koje ste kupili ili pribavili putem usluge ispuniti vaša očekivanja.\""
+    },
+    {
+      "id": "CKEVm3Vpaz",
+      "severity": "minor",
+      "type": "interpunkcija/terminologija",
+      "description": "Izvorni artefakt tačke između stavki preuzet je doslovno: \"usluge. (ii) troškova ... (iv) izjava ... trećeg lica na usluzi. ili (v)\" — tačka praćena malim slovom nije normalna ortografija. Takođe \"indirektnu\" i \"posrednu\" (indirect / consequential) su gotovo sinonimi, pa se razlika izvornih termina gubi.",
+      "suggestion": "Zamijeniti tačke tačkom-zarezom: \"usluge; (ii) ... usluzi; ili (v)\". Za consequential upotrijebiti \"posljedičnu\" (ili indirect → \"posrednu\", consequential → \"posljedičnu\")."
+    },
+    {
+      "id": "59CIsegSEu",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "\"vaš korisnički generisan sadržaj\" (user generated content) odstupa od glosara (user content → korisnički sadržaj) i zvuči nespretno; isto u fMXSfjSNTt (3 pojavljivanja).",
+      "suggestion": "\"korisnički sadržaj\" ili \"sadržaj koji generišu korisnici\", dosljedno u oba itema: \"da Discogs ima pravo da nastavi da koristi vaš korisnički sadržaj\"."
+    },
+    {
+      "id": "fMXSfjSNTt",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "\"korisnički generisan sadržaj\" / \"anonimizovani korisnički generisan sadržaj\" — isto odstupanje od glosara kao u 59CIsegSEu.",
+      "suggestion": "\"korisnički sadržaj\" / \"anonimizovani korisnički sadržaj\"."
+    },
+    {
+      "id": "6ygsij6X7O",
+      "severity": "minor",
+      "type": "nedosljednost",
+      "description": "Naslov odredbe odvojen dvotačkom: \"Odricanje od garancija: (ii) da će usluga...\", dok se u ostalim itemima naslovi odvajaju tačkom (\"Odricanje od garancija. Izričito...\", \"Raskid.\"). Izvorni naslov \"disclaimer of warranties\" je samo početak odredbe.",
+      "suggestion": "\"Odricanje od garancija. (ii) da će usluga biti neprekidna, pravovremena, bezbjedna ili bez grešaka.\""
+    },
+    {
+      "id": "Y9AiexTgt2",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "\"zakonima države Oregon, Sjedinjene Američke Države\" — apozicija nije u genitivu.",
+      "suggestion": "\"zakonima države Oregon, Sjedinjenih Američkih Država,\""
+    },
+    {
+      "id": "T1UIoWXrP5",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "Za \"website/site\" se unutar batcha i čak unutar istog itema miješaju \"internet stranica\" (\"linkove ka drugim internet stranicama\", GitHub item u8zF9OHzlw) i \"sajt\" (\"takvim sajtovima\", mn1uj3a1ii \"ovaj sajt\").",
+      "suggestion": "Odabrati jedan termin za cijeli batch (npr. \"internet stranica\" / \"sajt\") i primijeniti ga dosljedno."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova i format su identični, nema izostavljenih ni dodatih rečenica, brojevi/oznake (1)–(4), (i)–(v) se poklapaju, a automatske provjere (tokeni, brojevi, odnos riječi, ekavizmi, hrvatizmi) nisu ništa označile. Registar je korektan za ugovorni korpus (vi/vaš malim slovom, formalno, bez zakonodavnog tona), ortografija je normalna uprkos normalizovanom izvoru, a glosar je uglavnom poštovan (nalog, uslovi korišćenja, treće lice, odgovornost, nijesu). Preostaju samo sitne stilske i gramatičke primjedbe."
+}

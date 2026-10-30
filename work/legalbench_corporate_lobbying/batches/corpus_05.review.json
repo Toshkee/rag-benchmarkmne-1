@@ -1,0 +1,77 @@
+{
+  "n_blocking": 0,
+  "n_minor": 10,
+  "issues": [
+    {
+      "id": "kxTH3fKMDb",
+      "severity": "minor",
+      "type": "pravopis (ijekavica)",
+      "description": "Ortografska greška: \"kao djelovi Nacionalnog sistema očuvanja područja divljine\" (izvor: \"as components of the National Wilderness Preservation System\"). Množina od \"dio\" je \"dijelovi\", ne \"djelovi\".",
+      "suggestion": "Zamijeniti sa \"kao dijelovi Nacionalnog sistema očuvanja područja divljine\"."
+    },
+    {
+      "id": "kxTH3fKMDb",
+      "severity": "minor",
+      "type": "nedosljednost termina",
+      "description": "Nazivi područja u nabrajanju pisani su različito: \"Područje upravljanja rekreacijom Tenmile\", \"Nacionalni istorijski predio Camp Hale\", ali \"područja posebnog upravljanja Sheep Mountain i Liberty Bell East\" (izvor: \"Special Management Areas\" - dio naziva).",
+      "suggestion": "\"Područja posebnog upravljanja Sheep Mountain i Liberty Bell East\" (veliko slovo, kao ostali nazivi)."
+    },
+    {
+      "id": "kxTH3fKMDb",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"od strane grada Minturn\" za \"by the town of Minturn\"; \"town\" je manje naselje, ne \"grad\".",
+      "suggestion": "\"od strane naselja Minturn\" (ili \"opštine Minturn\")."
+    },
+    {
+      "id": "W1GC7dDyQE",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"prikazuje troškove i koristi pametnih zgrada\" i \"DOE prikazuje politike i pristupe\" za \"demonstrate\"; značenje je praktično pokazati/demonstrirati. Takođe \"istraživanje\" je upotrijebljeno i za \"survey\" i za \"research\" u istoj rečenici (\"sprovodi (1) istraživanje o pametnim zgradama ... i (2) istraživanje i razvoj\").",
+      "suggestion": "\"demonstrira\"; \"survey\" prevesti kao \"pregled\" ili \"anketu\" (\"sprovodi (1) pregled pametnih zgrada u privatnom vlasništvu ...\")."
+    },
+    {
+      "id": "FCIX3BYOtD",
+      "severity": "minor",
+      "type": "dodavanje",
+      "description": "Dodate riječi kojih nema u izvoru: \"za stavku Zgrade i objekti Ministarstva poljoprivrede\" (izvor: \"for Agriculture Buildings and Facilities\") te skraćenice \"(USDA)\" i \"(FDA)\" koje izvor ne navodi.",
+      "suggestion": "\"za Zgrade i objekte poljoprivrede\"; skraćenice ostaviti samo ako se tolerišu glosarom (dio 8 ih dozvoljava pri prvom pomenu, pa je ovo na granici)."
+    },
+    {
+      "id": "NAp0mxDoJJ",
+      "severity": "minor",
+      "type": "redoslijed riječi / registar",
+      "description": "Naslov: \"Zakon Sjedinjenih Država o recipročnoj trgovini\" (izvor: \"United States Reciprocal Trade Act\") nije uobičajen obrazac naziva zakona. Takođe \"Predsjednik posebno može preduzeti te radnje\" za \"Specifically, the President may take these actions\" - \"posebno\" znači \"naročito\", a ne \"konkretno\".",
+      "suggestion": "\"Zakon o recipročnoj trgovini Sjedinjenih Država\"; \"Predsjednik konkretno može preduzeti te radnje\"."
+    },
+    {
+      "id": "VPEJqzCN2f",
+      "severity": "minor",
+      "type": "registar",
+      "description": "\"uz konsultacije sa nadležnim saveznim agencijama\" za \"in consultation with relevant federal agencies\" je nezgrapno za pravni registar.",
+      "suggestion": "\"u konsultaciji sa nadležnim saveznim agencijama\"."
+    },
+    {
+      "id": "7nvdE2ODH0",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"međuresornu radnu grupu\" za \"interagency working group\"; u američkom kontekstu riječ je o agencijama, a glosar koristi \"savezna agencija\".",
+      "suggestion": "\"međuagencijsku radnu grupu\"."
+    },
+    {
+      "id": "zgEz6cwB61",
+      "severity": "minor",
+      "type": "stil",
+      "description": "Naslov: \"kroz inovacije za prirodni gas\" - \"kroz\" je kalk iz engleskog (\"through\"). Takođe \"komercijalno isplativih\" za \"commercially viable\" blago pomjera značenje (isplativ vs. održiv).",
+      "suggestion": "\"putem inovacija za prirodni gas\"; \"komercijalno održivih\"."
+    },
+    {
+      "id": "IWxHwqFEg8",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "\"mijenja i potvrđuje sporazum\" za \"modifies and ratifies\"; \"ratifies\" je tehnički termin.",
+      "suggestion": "\"mijenja i ratifikuje sporazum\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: skup _id-ova je isti, broj novih redova i tokeni/brojevi se podudaraju, odnos riječi je 0.91-1.30, nema ekavizama ni hrvatizama, a glosar (predlog zakona, ministarstvo, budžetska sredstva, fiskalna godina, indijansko pleme) je dosljedno primijenjen. Registar je primjeren obrazloženju predloga zakona (\"Ovim predlogom zakona...\", normativni prezent); nađene su samo sitne stilske i terminološke nepreciznosti, uključujući jednu pravopisnu grešku (\"djelovi\")."
+}

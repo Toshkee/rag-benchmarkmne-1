@@ -1,0 +1,49 @@
+{
+  "n_blocking": 0,
+  "n_minor": 6,
+  "issues": [
+    {
+      "id": "x9MGSL6YNB",
+      "severity": "minor",
+      "type": "ekavica",
+      "description": "Ekavski oblik \"iz razloga celishodnosti\" (izvor: \"for convenience\"); automatska provjera ga nije uhvatila jer nije na listi.",
+      "suggestion": "Zamijeniti sa \"iz razloga cjelishodnosti\"."
+    },
+    {
+      "id": "x9MGSL6YNB",
+      "severity": "minor",
+      "type": "stil",
+      "description": "\"uz otkazni rok od trideset (30) dana o kojem vas obavještava e-poštom\" je nezgrapno (izvor: \"by giving you thirty (30) days notice via email\").",
+      "suggestion": "\"uz otkazni rok od trideset (30) dana, o čemu će vas obavijestiti e-poštom na vašu registrovanu adresu e-pošte\"."
+    },
+    {
+      "id": "CKbheN9Pot",
+      "severity": "minor",
+      "type": "gramatika",
+      "description": "\"osim ako se obje strane ne dogovorimo o nekom drugom mjestu\" nije gramatički usklađeno (strane ... dogovorimo); izvor: \"unless we both agree to some other location\".",
+      "suggestion": "\"osim ako se oboje ne dogovorimo o nekom drugom mjestu\" ili \"osim ako se obje strane ne dogovore o nekom drugom mjestu\"."
+    },
+    {
+      "id": "EOfHl2wBqC",
+      "severity": "minor",
+      "type": "pravopis",
+      "description": "\"preostalih djelova\" (genitiv množine od \"dio\" je \"dijelova\"; \"djelova\" je od \"djelo\"). Izvor: \"remaining portions\".",
+      "suggestion": "\"preostalih dijelova\"."
+    },
+    {
+      "id": "nRx0rliJog",
+      "severity": "minor",
+      "type": "pravopis/gramatika",
+      "description": "\"po vašim intimnim djelovima\" (treba \"dijelovima\"); \"Nema nikakve skripte, kolačiće, oglase, programe za praćenje, Facebook linkove\" - poslije odričnog \"nema\" objekti treba da su u genitivu.",
+      "suggestion": "\"Nema nikakvih skripti, kolačića, oglasa, programa za praćenje, Facebook linkova niti bilo čega drugog što bi moglo da čeprka po vašim intimnim dijelovima.\""
+    },
+    {
+      "id": "zF3Rth4sMn",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Za \"cancel account\" koristi se \"ugasite\" (zF3Rth4sMn, dql7LIbSPr, MUKRe5gWsf), a za \"close account\" \"zatvorim\" (1FAjfDMcWF); glosar predviđa raskinuti/ukinuti nalog. Značenje se ne gubi, ali je termin nedosljedan u batchu.",
+      "suggestion": "Ujednačiti, npr. \"ukinete svoj Airbnb nalog\" / \"ukine se vaš Airbnb nalog\" za cancel i \"zatvorite\" samo za close."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 25 _id-ova se poklapa, brojevi (15.1-15.7, 21.1-21.3, 30, 13, 19) i nazivi nijesu izmijenjeni, nema izostavljenih ni dodatih rečenica, a omjer riječi je u dozvoljenom rasponu. Registar je dosljedno formalno-ugovorni (vi/mi, uslovi, nalog, treće lice, mjerodavno pravo, nadležnost), ortografija je normalna uprkos normalizovanom izvoru, a ijekavica je dosljedna osim jednog ekavizma (\"celishodnosti\"). Preostalo je samo šest sitnih jezičkih ispravki (dijelova/djelova, gramatičko slaganje, terminološko ujednačavanje)."
+}

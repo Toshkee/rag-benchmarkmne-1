@@ -1,0 +1,63 @@
+{
+  "n_blocking": 0,
+  "n_minor": 8,
+  "issues": [
+    {
+      "id": "FCIX3BYOtD#2:p5-authorities",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 24: \"A large number of authorities were cited before us\" prevedeno kao \"Pred nama je citiran veliki broj izvora prava\". \"Authorities\" ovdje znači sudsku praksu (presedane); \"izvori prava\" je drugi pojam i neprecizan, iako sljedeća rečenica kaže \"ti izvori odluke ovog suda\".",
+      "suggestion": "\"Pred nama je citiran veliki broj odluka (presedana) ...\"; dalje \"Budući da su te odluke odluke ovog suda\" ili \"Budući da je riječ o odlukama ovog suda, moramo nužno proći kroz čitav njihov raspon\"; \"ispitivanje tih odluka\"."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p5-sjc",
+      "severity": "minor",
+      "type": "terminologija",
+      "description": "Pasus 24: \"Associate Justice of the Massachusetts Supreme Judicial Court\" -> \"pridruženog sudiju Vrhovnog sudskog suda Masačusetsa\". \"Vrhovnog sudskog suda\" je neprirodno i kolidira sa glosarom (Supreme Court -> Vrhovni sud).",
+      "suggestion": "\"pridruženog sudiju Vrhovnog sudskog vijeća Masačusetsa (Supreme Judicial Court)\" ili \"sudiju Vrhovnog suda Masačusetsa\"; takođe \"a koja je knjiga objavljena\" -> \"a knjiga je objavljena\"."
+    },
+    {
+      "id": "FCIX3BYOtD#2:djelovi",
+      "severity": "minor",
+      "type": "pravopis / ijekavica",
+      "description": "Oblik \"djelovi\" / \"djelova\" za \"parts\" (\"djelovi III i IV uneseni\", \"sastavnih djelova\", \"unijeli djelove III i IV\") nije ispravan ijekavski oblik od \"dio\"; množina je \"dijelovi\". \"Djelo\" (work) i \"dio\" (part) se miješaju. Pojavljuje se u pasusima 7, 13 i 22.",
+      "suggestion": "\"dijelovi III i IV\", \"sastavnih dijelova\", \"unijeli dijelove III i IV\"."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p10-rjesenost",
+      "severity": "minor",
+      "type": "pravopis / ijekavica",
+      "description": "Pasus 26: \"uz čvrstu rješenost da joj se ne podlegne\" (\"a firm resolve\"). Oblik \"rješenost\" je pogrešna ijekavizacija od \"rešenost\".",
+      "suggestion": "\"uz čvrstu odlučnost da joj se ne podlegne\" (ili \"riješenost\")."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p6-holmes",
+      "severity": "minor",
+      "type": "stil / registar",
+      "description": "Pasus 24 (citat Holmesa): \"pravila po kojima ljudi treba da se upravljaju\" je gramatički nespretno (\"men should be governed\"); \"intuicije javnog interesa\" za \"intuitions of public policy\" pomjera značenje (public policy = javna politika); \"Osjećane potrebe\" za \"felt necessities\" neprirodno.",
+      "suggestion": "\"pravila po kojima ljudima treba upravljati\" (ili \"po kojima ljudi treba da budu vođeni\"); \"intuicije o javnoj politici, priznate ili nesvjesne\"; \"Osjetne potrebe vremena\" / \"Potrebe vremena koje se osjećaju\"."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p33-shall-not",
+      "severity": "minor",
+      "type": "registar",
+      "description": "Citat člana 14: \"The State shall not deny to any person...\" -> \"Država neće uskratiti nijednom licu...\". Futur \"neće\" ne odgovara ustavnoj/normativnoj formulaciji (stil vodič: \"Niko ne može biti...\", normativni prezent).",
+      "suggestion": "\"Država ne može uskratiti nijednom licu jednakost pred zakonom ili jednaku zaštitu zakona na teritoriji Indije.\" (isto razmotriti za \"Država će nastojati\" u članu 38(1) -> \"Država nastoji da unapređuje ...\")."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p21-p34-citation-forms",
+      "severity": "minor",
+      "type": "glosar",
+      "description": "Pasus 29: \"s. 8 of Art. 1\" -> \"odjeljak 8 člana 1\" odstupa od glosara (s./Section -> član); pasus 31: \"Arts. 37 and 38(1)\" -> \"čl. 37 i 38(1)\" koristi skraćenicu umjesto punog \"član\" kao ostatak teksta (\"Član 41\", \"člana 39\").",
+      "suggestion": "\"odjeljak 8 člana 1\" je prihvatljivo za Ustav SAD ali treba dosljednost sa glosarom (\"stav 8 člana 1\" ili \"član 1, odjeljak 8\"); \"članovi 37 i 38(1)\" umjesto \"čl. 37 i 38(1)\"."
+    },
+    {
+      "id": "FCIX3BYOtD#2:p21-p40-wording",
+      "severity": "minor",
+      "type": "stil / terminologija",
+      "description": "Pasus 29: \"the levying of taxes\" -> \"uvođenje poreza\" (levying = ubiranje/nametanje); pasus 32: \"This duty ... is not enforceable in law\" -> \"nije pravno utuživa\" (utuživ = može se tužbom tražiti, što nije isto što i enforceable).",
+      "suggestion": "\"ubiranje poreza\"; \"nije pravno izvršiva (primjenjiva sudskim putem)\"."
+    }
+  ],
+  "overall_quality": "Prevod je vjeran i potpun: svih 41 pasus je prisutan (40 novih redova kao u izvoru), svi brojevi, godine, datumi i citati (npr. [1625] W.Jo. 96, 101; 82 E.R. 50, 53) su doslovni, nema izostavljenog ni dodatog sadržaja, nema ekavskih ni hrvatskih oblika, glosar (Država, član, Zakon o izmjeni Ustava, nijesu) je uglavnom poštovan, a stray OCR artefakti iz izvora (n, G, A) su doslovno sačuvani. Registar je prirodan i primjeren obrazloženju presude i ustavnom tekstu; zamjerke se svode na nekoliko sitnih terminoloških i pravopisnih nedosljednosti (djelovi/dijelovi, rješenost, authorities -> izvori prava, neće umjesto ne može u ustavnoj odredbi). Zaključak: prevod je spreman za upotrebu uz sitne stilske ispravke, bez blokirajućih grešaka."
+}

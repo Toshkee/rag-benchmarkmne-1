@@ -1,0 +1,35 @@
+{
+ "n_blocking": 0,
+ "n_minor": 4,
+ "issues": [
+  {
+   "id": "2BR4cXsxjG",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Izvor: \"Subject to section 2.1(2)\"; prevod: \"U skladu sa odjeljkom 2.1(2)\". \"Subject to\" znači podložnost izuzetku iz 2.1(2), ne usklađenost.",
+   "suggestion": "\"Podložno odjeljku 2.1(2),\" ili \"Uz uslove iz odjeljka 2.1(2),\"."
+  },
+  {
+   "id": "2BR4cXsxjG",
+   "severity": "minor",
+   "type": "dodavanje",
+   "description": "Izvor: \"bound by the Apple Pay Platform Web Merchant Terms and Conditions\"; prevod: \"obavezani dokumentom Apple Pay Platform Web Merchant Terms and Conditions\" (riječ \"dokumentom\" i kasnije \"izmjene dokumenta\" nije u izvoru; naziv ostaje neprevedeno ali je pojašnjen). Ista konstrukcija za Google Payment API Terms of Service.",
+   "suggestion": "Prihvatljivo; ako se želi strogo držanje izvora: \"obavezani Apple Pay Platform Web Merchant Terms and Conditions\"."
+  },
+  {
+   "id": "YTH8xIZM1J",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Izvor: \"was already in the public domain\"; prevod: \"su već bile javno dostupne\" - pravni pojam \"public domain\" sveden na dostupnost.",
+   "suggestion": "\"su već bile u javnom domenu\" ili \"opšte poznate javnosti\"."
+  },
+  {
+   "id": "SmNqE40fAr",
+   "severity": "minor",
+   "type": "dosljednost",
+   "description": "Izvor miješa \"its sole discretion\" i \"our sole discretion\"; prevod prati to (\"prema sopstvenoj isključivoj procjeni\" / \"prema našoj isključivoj procjeni\"), pa je u istom itemu nedosljedno lice, ali je vjerno izvoru.",
+   "suggestion": "Opciono ujednačiti u \"prema sopstvenoj isključivoj procjeni\"."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup _id-ova, svi brojevi, novi redovi i numeracija se podudaraju, bez ekavizama i hrvatskih oblika, odnos riječi 0.87-1.01. Registar je odgovarajuće formalan ugovorni (vi/mi, \"nijesu/nijeste\", glosar poštovan: Uslovi korišćenja, Nalog, Usluga trećeg lica, odgovornost, saglasni ste). Nema blokirajućih grešaka, samo sitna terminološka preciznost."
+}

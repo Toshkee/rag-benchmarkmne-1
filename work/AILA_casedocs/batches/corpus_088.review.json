@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "BnD3XkfFNu#2",
+   "severity": "minor",
+   "type": "dodato objašnjenje",
+   "description": "Stav 53: prevod dodaje englesku glosu u zagradi: \"službenik za nekretnine (Estate Officer)\"; izvor ima samo \"the Estate Officer\". Stav 54 isti termin daje bez glose, pa je nedosljedno i krši zabranu dodavanja.",
+   "suggestion": "Ukloniti \"(Estate Officer)\" u stavu 53; u oba stava koristiti \"službenik za nekretnine\"."
+  },
+  {
+   "id": "BnD3XkfFNu#2",
+   "severity": "minor",
+   "type": "odstupanje od izvora",
+   "description": "Stav 40: izvor \"The respondents were entitled to pay interest on the unpaid amount @ 7% p.a.\" preveden je \"Protivnim stranama pripadala je kamata na neplaćeni iznos\". Izvor je očigledno nezgrapan, ali se prevod udaljio od doslovnog smisla (\"entitled to pay\").",
+   "suggestion": "Držati se izvora: \"Protivne strane imale su pravo da naplaćuju kamatu na neplaćeni iznos po stopi od 7% godišnje\"."
+  },
+  {
+   "id": "BnD3XkfFNu#2",
+   "severity": "minor",
+   "type": "rod/registar",
+   "description": "Stav 49: \"žalilac je bila državljanka Nigerije\" i \"Ako bi žalilac i njena djeca\" - neusklađen rod uz ženskog žalioca; \"rođene sa britanskim državljaninom\" je kalk od \"born to\".",
+   "suggestion": "\"žaliteljka je bila državljanka Nigerije\"; \"Ako bi žaliteljka i njena djeca bili vraćeni\"; \"rođene sa britanskim državljaninom\" -> \"koje je imala sa britanskim državljaninom\"."
+  },
+  {
+   "id": "BnD3XkfFNu#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Stav 45: \"Court of Appeals\" prevedeno \"Apelacioni sud\" (pogrešno množina izvora, a nije u glosaru). Stav 47: \"doctrine of primary view\" (izvor, očigledna omaška za review) tiho ispravljeno u \"doktrina primarne kontrole\". Stav 40/52/53: \"penalty\" -> \"penal\" umjesto glosarskog \"kazna\"/\"kazneni iznos\", a \"penal rate\" -> \"kaznena stopa\" (miješanje).",
+   "suggestion": "\"Žalbeni sud (Court of Appeal)\" ili \"Apelacioni sud\" uz dosljednost; u 47 doslovno \"doktrina primarnog pogleda (primary view)\" ili zadržati \"kontrole\" svjesno; ujednačiti \"penal\" kroz cijeli tekst."
+  },
+  {
+   "id": "BnD3XkfFNu#2",
+   "severity": "minor",
+   "type": "stil/kalk",
+   "description": "Stav 46: \"tested on the anvil of the proportionality\" -> \"na nakovnju srazmjernosti\" (kalk, neprirodno); \"the main legislation\" -> \"samog zakona\" (blago pomjeranje); stav 54: \"meet the ends of justice\" -> \"zadovoljilo ciljeve pravde\" (uobičajeno: \"ostvarilo pravdu\"); \"adjudikator\" (stav 49) je prepisan iz engleskog.",
+   "suggestion": "\"provjeravale prema načelu srazmjernosti\"; \"osnovnog zakonodavstva\"; \"bi bilo u interesu pravde\"; \"adjudikator\" -> \"sudija koji odlučuje (adjudicator)\" pri prvom pomenu."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, svih 24 novih redova, svi pasusi 39-54, ZAKLJUČAK i završna formula su prisutni; tokeni (Rs. x2), brojevi, citati (SCC, AIR, All ER) i članovi (8(1), 14, 19(1)) su doslovni, a omjer riječi je 0,86. Registar je uglavnom primjeren obrazloženju presude, glosar dosljedno primijenjen (žalilac, protivna strana, Visoki sud, nijesu, lakh), bez ekavskih i hrvatskih oblika; preostala odstupanja su stilska ili terminološka."
+}

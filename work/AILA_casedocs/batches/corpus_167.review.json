@@ -1,0 +1,63 @@
+{
+ "n_blocking": 0,
+ "n_minor": 8,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "gramatika/registar",
+   "description": "Pasus 103: 'Visoki sud, stoga, nije bio opravdan da vrijeme dolaska ... utvrdi' (izvor: 'The High Court was, therefore, not justified in fixing the time') - nepravilna konstrukcija.",
+   "suggestion": "'Visoki sud, stoga, nije bio opravdan u tome što je vrijeme dolaska ... utvrđivao gotovo matematičkom preciznošću' ili 'nije imao osnova da ... utvrđuje'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "terminologija/trajanje",
+   "description": "Pasus 103: 'vrijeme smrti preminule bilo između 18 i 36 časova, što nas vodi čak i s onu stranu 12 časova noću' (izvor: 'between 18 to 36 hours which takes us to even beyond 12 in the night') - 'časova' za trajanje je dvosmisleno (zvuči kao doba dana), a 's onu stranu' je neprirodno.",
+   "suggestion": "'između 18 i 36 sati (prije pregleda), što nas vodi čak i preko ponoći' / 'čak i iza 12 časova noću'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "ortografija/ijekavica",
+   "description": "Pasusi 113-114: 'izuzimajući djelove od A do F' i 'Djelovi označeni kao ...' (izvor: 'portions') - ijekavski oblik od 'dio' je 'dijelovi', a 'djelo/djelovi' je druga riječ (i kosi se sa djelo = krivično djelo).",
+   "suggestion": "'izuzimajući dijelove od A do F' i 'Dijelovi označeni kao ...'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "stil/sintaksa",
+   "description": "Pasus 120: 'umjesto da korist ove važne okolnosti da optuženom, tu korist dao optužbi' (izvor: 'instead of giving the benefit of this important circumstance to the accused') - 'da ... da' je teško čitljivo.",
+   "suggestion": "'umjesto da korist ove važne okolnosti pruži optuženom, tu korist je dao optužbi'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "sintaksa",
+   "description": "Pasus 116: 'i kada je on sam, otišavši u stambenu zgradu oko 4.15 časova ujutru, vrlo dobro znao' (izvor: 'when he himself having gone to the apartments near about 4.15 a.m. knew full well') - nepravilan gerund 'otišavši' i nespretan veznik.",
+   "suggestion": "'i kada je on sam, pošto je otišao u stambenu zgradu oko 4.15 časova ujutru, vrlo dobro znao ...'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "preciznost",
+   "description": "Pasus 111: 'protiv njega pred sudom vodi nekoliko postupaka' (izvor: 'some proceedings ... were pending against him') - 'some' je preneseno kao broj ('nekoliko'), čime se unosi kvantifikacija koje u izvoru nema.",
+   "suggestion": "'protiv njega pred sudom vodi određeni postupak/postupci zbog izbjegavanja plaćanja oktroa'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 117: 'prihvatljiva prema članu 154 ili članu 174' (izvor: 'admissible u/s. 154 or S. 174') - 'prihvatljiv' nije uobičajen pravni termin za 'admissible'; u glosaru je 'permissible' = 'dozvoljen'.",
+   "suggestion": "'dozvoljena (dopuštena u dokaznom smislu) prema članu 154 ili članu 174 Zakonika o krivičnom postupku' - po glosaru 'dozvoljena'."
+  },
+  {
+   "id": "sUkiH8G4Zp#6",
+   "severity": "minor",
+   "type": "rod/stil",
+   "description": "Pasus (2) u 122-123: 'budući da je i sama bila hemičar' (izvor: 'she being a chemist herself') - neslaganje roda; pasus 115(a): 'policijski kontakt-službenik (police contact constable)' - 'constable' nije precizno preveden (policajac nižeg čina, konstabl).",
+   "suggestion": "'bila hemičarka'; 'policijski kontakt-konstabl (police contact constable)' ili 'policajac za vezu (police contact constable)'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (30), svi brojevi, vremena, brojevi dokaza, oznake A-n/PW-n i navodnici se poklapaju, nema izostavljenih ni dodatih rečenica, a nema ni ekavizama ni hrvatskih oblika. Registar je prirodan i primjeren obrazloženju presude (ijekavica, 'nijesu', 'optuženi', 'žalilac', 'Visoki sud', 'službenik koji je vodio istragu'), uz izdvojena sitna stilska i sintaktička odstupanja koja ne mijenjaju značenje."
+}

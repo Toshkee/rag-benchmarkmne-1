@@ -1,0 +1,56 @@
+{
+ "n_blocking": 0,
+ "n_minor": 7,
+ "issues": [
+  {
+   "id": "td26fEeVVh",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "U odredbi o ograničenju odgovornosti: „NEĆE PREMAŠITI VEĆI OD SLJEDEĆIH IZNOSA: STO AMERIČKIH DOLARA (100 $) ILI BILO KOJI IZNOS...“ — gramatički neskladno (premašiti veći od). Izvor: „WILL ... EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS ($100) OR ANY AMOUNT YOU PAID...“. Značenje je očuvano.",
+   "suggestion": "„NI U KOM SLUČAJU UKUPNA ODGOVORNOST SUBJEKATA REDDITA NEĆE PREMAŠITI VEĆI OD DVA IZNOSA: ...“ ili „...NEĆE PREMAŠITI VEĆI IZNOS OD: STO AMERIČKIH DOLARA (100 $) ILI IZNOSA KOJI STE PLATILI REDDITU...“"
+  },
+  {
+   "id": "td26fEeVVh",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„PRIMJERNU ... ŠTETU“ za „EXEMPLARY ... DAMAGES“ nije ustaljen pravni termin; „naknade za advokate“ za „attorneys fees“ je nezgrapno; „rukovodioce“ za „officers“.",
+   "suggestion": "„EGZEMPLARNU (PRIMJERNU) ŠTETU“ ili „ŠTETU KAO SANKCIJU“; „advokatske troškove/naknade“; „službenike/funkcionere“ za officers."
+  },
+  {
+   "id": "RCQ5WMO5AH",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„protivčinidbe, poklona ili protivusluge“ za „consideration, gift, or favor“ — „favor“ je usluga/povlastica, a „protivusluga“ je tehnički pojam koji nije potpuno adekvatan; ostatak tačan.",
+   "suggestion": "„naknade, protivčinidbe, poklona ili usluge/pogodnosti od trećih lica“."
+  },
+  {
+   "id": "uhvPU1S8Lv",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Tačka 2: „morate imati onoliko godina koliko iznosi viši od sljedećih uzrasta“ — nespretno i gramatički nejasno za „You must be the older of: (i) 18 years, or (ii) at least the age of majority...“. Značenje je očuvano.",
+   "suggestion": "„Da biste otvorili Nalog, morate imati godina onoliko koliko iznosi veća od sljedeće dvije vrijednosti: (i) 18 godina ili (ii) uzrast punoljetstva...“ ili „morate biti stariji od: (i)...“."
+  },
+  {
+   "id": "Y7gbtP7ySe",
+   "severity": "minor",
+   "type": "stil",
+   "description": "„povratnim informacijama i zabrinutostima“ za „feedback and concerns“ — „zabrinutosti“ je kalk; „subjekte javne vlasti“ za „government entities“ je prihvatljivo, ali neuobičajeno u odnosu na „državni organ“.",
+   "suggestion": "„sa povratnim informacijama i primjedbama“; razmotriti „državni organi/subjekti“ dosljedno."
+  },
+  {
+   "id": "SstzyshA6P",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Anglicizmi „hostovanju“, „hostujemo“, „usluga hostinga“ za „hosting“; takođe „internet sajtova“.",
+   "suggestion": "„smještanju (ugošćavanju) na serverima“, „pružamo uslugu smještaja sadržaja“; „internet stranica“ (dosljedno u itemima SstzyshA6P i YsP6ihgIqL)."
+  },
+  {
+   "id": "YsP6ihgIqL",
+   "severity": "minor",
+   "type": "nedosljednost",
+   "description": "„politike zajednice ili Fondacije“ i „sama Wikimedia Foundation“ — izvorno ime je u istom tekstu jednom zadržano, a jednom skraćeno/prevedeno; „sankcije utvrđene politikom“ ok. Blaga nedosljednost naziva.",
+   "suggestion": "Dosljedno „Wikimedia Foundation (u daljem tekstu: Fondacija)“ ili uvijek „Wikimedia Foundation“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id-ovi, isti broj novih redova, brojevi (7, 10, 11, 12, 13, 18, 100) i svi tokeni očuvani, nema ekavizama ni hrvatizama, omjer riječi 0.87–1.02. Terminologija prati glosar (Uslovi korišćenja, nalog, odgovornost, treće lice, mjerodavno pravo, nijesmo/nijeste), registar je formalan ugovorni; preostale primjedbe su stilske."
+}

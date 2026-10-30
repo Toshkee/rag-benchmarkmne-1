@@ -1,0 +1,42 @@
+{
+ "n_blocking": 0,
+ "n_minor": 5,
+ "issues": [
+  {
+   "id": "s9BvYB9WoY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "„Statutory Pay-As-You-Go Act of 2010“ preveden kao „Zakon o obaveznom pravilu „plati kako trošiš“ iz 2010. godine (PAYGO)“ (član 102 i član 308). „Statutory“ nije vjerno prenijeto kao „obavezno“, a konstrukcija „Zakon o ... pravilu“ je nezgrapna. Prevod je dosljedan na oba mjesta.",
+   "suggestion": "„Zakon o zakonskom pravilu „plati kako trošiš“ iz 2010. godine (PAYGO)“ na oba mjesta."
+  },
+  {
+   "id": "s9BvYB9WoY",
+   "severity": "minor",
+   "type": "gramatika",
+   "description": "„$2.1 milijardi za plate i troškove sprovođenja programa“ (izvor: „$2.1 billion for salaries and expenses“). Uz decimalni iznos pravilan je genitiv jednine „milijarde“.",
+   "suggestion": "„$2.1 milijarde za plate i troškove sprovođenja programa u vezi sa bolešću COVID-19“ (iznos „$2.1“ zadržati kao u izvoru)."
+  },
+  {
+   "id": "s9BvYB9WoY",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "„states, localities, territories, and tribes“ → „države, lokalne zajednice, teritorije i plemena“. Glosar (dio 8) predviđa „lokalna samouprava“ i „indijansko pleme“; „plemena“ bez odrednice je neodređeno.",
+   "suggestion": "„države, jedinice lokalne samouprave, teritorije i indijanska plemena“."
+  },
+  {
+   "id": "s9BvYB9WoY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Član 306: „(or rescinded, if applicable)“ → „(odnosno poništeni, ako je primjenjivo)“. „Poništeni“ nije uobičajen budžetski izraz za rescinded sredstava.",
+   "suggestion": "„(odnosno povučeni, ako je primjenjivo)“ ili „stavljeni van snage“."
+  },
+  {
+   "id": "s9BvYB9WoY",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Član 103: „funds appropriated to HHS“ → „sredstvima odobrenim HHS“. Glosar za appropriations je „budžetska sredstva“; ostatak teksta dosljedno koristi taj termin, pa je ovdje blago odstupanje.",
+   "suggestion": "„sredstvima budžetskih sredstava obezbijeđenih HHS“ ili „budžetskim sredstvima obezbijeđenim HHS“."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, isti broj novih redova (56), svi brojevi i oznake (članovi 101-103 i 301-308, $100/75/25/2.1/50/10 milijardi, 2010, 2019, 2020) tačno očuvani; nema izostavljenih ni dodatih rečenica, ekavizama ni kroatizama, a odnos riječi je 1.06. Registar odgovara obrazloženju predloga zakona („Ovim dijelom...“, „Ovim članom propisuje se...“) i dosljedno primjenjuje glosar (fiskalna godina, budžetska sredstva, Ministarstvo, HHS/SBA); preostale primjedbe su samo manje terminološke i gramatičke."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "smisao/frazeologija",
+   "description": "Pasus 'If this goes on, I will not come to sleep' preveden 'neću dolaziti da spavam' — to znači 'neću dolaziti na spavanje', dok indijsko-engleski idiom znači da joj san neće doći.",
+   "suggestion": "'Ako se ovo nastavi, neću moći da zaspim.' (ili 'san mi neće doći')."
+  },
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "smisao",
+   "description": "'my status is only that of a maid-servant without pay as of right' preveden 'sluškinje bez plate, kao da je to po pravu' — 'kao da' unosi nijansu koje u izvoru nema; 'as of right' znači bez zakonskog prava na platu.",
+   "suggestion": "'... samo položaj sluškinje bez plate, bez ikakvog prava na nju.'"
+  },
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "smisao",
+   "description": "'If something has to go it may be the person himself, not the perhaps excessively high standards by which the judgment has been made' preveden 'to može biti samo lice ... prema kojima je sud donesen' — 'himself' je preneseno kao 'samo' (ograničenje), a 'judgment' kao 'sud' (u pravnom tekstu se čita kao 'court').",
+   "suggestion": "'to može biti sama ta osoba/to lice, a ne ... standardi prema kojima je data ocjena (donesena prosudba)'."
+  },
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "pravopis",
+   "description": "Neopravdano veliko slovo preuzeto iz izvora/greškom: 'svoju Ženu' (izvor 'his Wife') i 'osjećala Nelagodno' (izvor 'feeling Uneasy'); u izvoru je to artefakt, prevod treba normalan pravopis.",
+   "suggestion": "'svoju ženu'; 'osjećala nelagodno'."
+  },
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "'Exhibit 32' / 'Ext. 33' prevedeno 'Dokaz 32' / 'dokaza 33' — 'dokaz' je u glosaru evidence i može se miješati sa dokazima u smislu iskaza; 'chattel' → 'pokretna stvar' je doslovno ali neprirodno u kontekstu ('treated as nothing but a chattel').",
+   "suggestion": "Dosljedno 'dokazni predmet 32' ili 'Prilog 32' (ili ostaviti 'Ext.'); 'chattel' → 'kao prema stvari/pokretnoj imovini'."
+  },
+  {
+   "id": "sUkiH8G4Zp#2",
+   "severity": "minor",
+   "type": "stil",
+   "description": "Dva uzastopna sinonima u 'Hopelessness, despair, lousy and miserable' → 'bijedno' i 'jadno' (lousy i miserable nijesu razlikovani); 'rezignacije' i 'psihotična filozofija' su prihvatljivi, ali 'moglo tvrditi' u '...one could claim all suicides...' blago mijenja modalnost.",
+   "suggestion": "'lousy' → 'grozno'/'užasno', 'miserable' → 'jadno'; 'može se tvrditi'."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: isti _id, 48 novih redova kao u izvoru, svi brojevi i numeracija pasusa podudarni, nema izostavljenih ni dodatih rečenica, nema ekavizama ni hrvatskih oblika, terminologija (Visoki sud, optuženi, član 32 Zakona o dokazima, uvaženi autor) dosljedna glosaru. Registar je prirodan i primjeren obrazloženju presude; preostale su samo manje nijanse značenja i pravopisa."
+}

@@ -1,0 +1,49 @@
+{
+ "n_blocking": 0,
+ "n_minor": 6,
+ "issues": [
+  {
+   "id": "00122/00139",
+   "severity": "minor",
+   "type": "nedosljednost termina",
+   "description": "Isti izraz \"fiscal year ending September 30, 2019\" preveden različito: 00122 \"koja se završava 30. septembra 2019. godine\", 00139 \"koja ističe 30. septembra 2019. godine\".",
+   "suggestion": "Ujednačiti u 00139: \"za fiskalnu godinu koja se završava 30. septembra 2019. godine\"."
+  },
+  {
+   "id": "00125",
+   "severity": "minor",
+   "type": "dodavanje / terminologija",
+   "description": "\"substance use disorder\" preveden kao \"poremećajem upotrebe psihoaktivnih supstanci\"; \"psihoaktivnih\" nema u izvoru. Takođe \"Zakon o Službi javnog zdravlja\" (Public Health Service Act) ima nepotrebno veliko slovo.",
+   "suggestion": "\"pacijentima sa poremećajem upotrebe supstanci\"; \"Zakon o službi javnog zdravlja\"."
+  },
+  {
+   "id": "00127",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"reauthorize activities\" -> \"ponovo odobravaju aktivnosti Pomorske uprave\" zvuči nepravnički; naziv \"Pomorska uprava\" ne nosi skraćenicu MARAD koja se pojavljuje u korpusu (glosar dio 8, skraćenice).",
+   "suggestion": "\"Predlog zakona kojim se produžava ovlašćenje za aktivnosti Pomorske uprave (MARAD) i uređuju druga pitanja.\" (ili uskladiti sa prevodom korpusa)."
+  },
+  {
+   "id": "00129",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "\"sole source contracts\" -> \"ugovori sa jednim izvorom\" i \"award price\" -> \"vrijednost dodijeljenog ugovora\" su kalkovi; \"Small Business Act\" -> \"Zakon o malim preduzećima\" prihvatljivo.",
+   "suggestion": "\"ugovori zaključeni neposrednom pogodbom (sa jednim ponuđačem)\"; \"cijena dodjele ugovora\"; uskladiti sa korpusom (\"sole source contracts (tj. ugovori dodijeljeni bez konkurentskog postupka)\")."
+  },
+  {
+   "id": "00136",
+   "severity": "minor",
+   "type": "terminologija / registar",
+   "description": "\"entities\" -> \"subjektima\" i \"security breach\" -> \"povrede bezbjednosti\" su preširoki; \"da se podvrgnu arbitraži\" je nezgrapno.",
+   "suggestion": "\"Kojim se pravnim licima zabranjuje da od lica zahtijevaju da prihvate arbitražu za sporove proistekle iz narušavanja bezbjednosti podataka i uređuju druga pitanja.\" (uskladiti sa korpusom)."
+  },
+  {
+   "id": "00124",
+   "severity": "minor",
+   "type": "stil / dosljednost veznika",
+   "description": "Za \"to require...\" koristi se \"kako bi se ... naložilo\", dok ostali upiti u batchu (00120, 00126, 00129, 00131, 00135, 00137) koriste \"radi\". Samo \"Secretary of HHS\" -> \"ministru zdravlja i socijalnih usluga\" odgovara glosaru.",
+   "suggestion": "\"...radi naloga ministru zdravlja i socijalnih usluga da pregovara o cijenama ljekova na recept koji se obezbjeđuju u okviru dijela D programa Medicare.\""
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: svih 20 _id-ova je prisutno, nema izostavljenih ni dodatih klauza, brojevi (24-mjesečni, 30. septembar 2019, glave 17/49/XVIII, dio D) i datumi su očuvani, a obrasci „Predlog zakona kojim se...“ odnosno „Kojim se...“ pravilno primijenjeni uz jednu rečenicu po upitu, bez prenosa iz polja context. Ijekavica i glosar (država, ministar, fiskalna godina, i uređuju druga pitanja) dosljedni; automatske provjere ne pokazuju ekavizme ni kroatizme. Preostale primjedbe su isključivo stilske/terminološke (nepravnički kalkovi u 00127, 00129, 00136 i jedna nedosljednost u 00122/00139)."
+}

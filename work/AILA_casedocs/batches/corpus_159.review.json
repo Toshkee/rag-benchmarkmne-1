@@ -1,0 +1,70 @@
+{
+ "n_blocking": 0,
+ "n_minor": 9,
+ "issues": [
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "vjernost (oštećen citat)",
+   "description": "Pasus 8, citat iz Doshi: izvor je oštećen ('the more fact that the trial court can be legitimately arrived at by the appellate court on reappraisal of the evidence'), a prevod ga je tiho 'popravio': 'sama činjenica da žalbeni sud prilikom ponovne ocjene dokaza može zakonito doći do zaključka različitog od zaključka prvostepenog suda'. Frazu 'različitog od zaključka prvostepenog suda' izvor ne sadrži (dodata je radi smisla); vodič zabranjuje 'poboljšavanje'. Smisao je očigledno namjeravani smisao originala, pa nije klasifikovano kao blokirajuće.",
+   "suggestion": "Prevesti bliže izvoru, npr. 'sama činjenica da do zaključka prvostepenog suda žalbeni sud može zakonito doći ponovnom ocjenom dokaza ne može predstavljati valjan i dovoljan osnov...', ili ostaviti kao jeste uz svjesnu odluku da se oštećenje izvora ispravlja."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "terminološka nedosljednost",
+   "description": "'order of acquittal' se prevodi kao 'rješenje o oslobađanju' (pasusi 8, 9, 10, 11, 14, u citatu), a 'acquittal/judgment of acquittal' kao 'oslobađajuća presuda' (pasusi 1, 7, 8 'žalba protiv oslobađajuće presude', 'Kada odlučuje o oslobađajućoj presudi'). Isti pojam ima dva termina u istom itemu; u pasusu 8 su u susjednim rečenicama 'oslobađajuće presude' i 'rješenje o oslobađanju'.",
+   "suggestion": "Ujednačiti na 'oslobađajuća presuda' svuda (npr. 'intervenisati u oslobađajuću presudu', 'preinačena oslobađajuća presuda'), jer je oslobađanje u indijskom postupku odluka o meritumu."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "glosar",
+   "description": "'set aside' preveden sa 'stavljena van snage' (pasus 1: 'kojom je stavljena van snage oslobađajuća presuda prvostepenog suda'; pasus 9: 'stavljanje van snage presude'; pasus 11: 'mora biti stavljena van snage'). Dio 9 stilskog vodiča propisuje 'set aside → ukinuta'.",
+   "suggestion": "'kojom je ukinuta oslobađajuća presuda'; 'ukidanje presude koja se pobija žalbom'; 'presuda žalbenog suda mora biti ukinuta'."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "pravopis",
+   "description": "Pasus 13: 'Djelovi izjava iz dnevnika istrage' za 'The portions in the case diary statements' - 'djelovi' (od 'djelo') umjesto 'dijelovi' (od 'dio').",
+   "suggestion": "'Dijelovi izjava iz dnevnika istrage, označeni kao dokazi D-1 i D-1(a)...'."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "registar / značenje",
+   "description": "Pasus 13: 'we are not concerned with point Nos. 4,5 and 6' preveden kao 'pitanja br. 4,5 i 6 nas ne zanimaju' - kolokvijalno za presudu i semantički pomjereno ('ne zanima' umjesto 'nije predmet razmatranja').",
+   "suggestion": "'pitanja br. 4, 5 i 6 nijesu predmet našeg razmatranja' (ili 'nijesu od značaja za nas')."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "registar (titule i imena)",
+   "description": "'Mr. U.R. Lalit' → 'G. U.R. Lalit' (pasus 6), 'Shri G. Prakash' → 'G. G. Prakash' (pasus 7), 'Mr. Lalit' → 'G. Lalit' (pasus 14): veliko 'G.' na početku rečenice se čita kao inicijal, a 'G. G. Prakash' djeluje kao dupli inicijal. 'learned senior counsel' → 'uvaženi viši zastupnik' je neuobičajeno. U pasusu 8 'MR. Lalit' → 'g. Lalit' (malim slovom), pa je pisanje nedosljedno.",
+   "suggestion": "Ujednačiti: 'Gospodin U. R. Lalit' / 'Shri G. Prakash' na početku rečenice, 'g. Lalit' u sredini; 'uvaženi stariji zastupnik' ili 'uvaženi viši zastupnik' dosljedno."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "terminologija",
+   "description": "Pasus 3: 'hatched a conspiracy to murder' → 'skovali su zavjeru da ubiju', dok se 'conspiracy punishable under Section 120B' (pasus 12, tačka 4) prevodi sa 'zločinačko udruživanje' (glosar: 'zločinačko udruživanje (dogovor)'). Isti pojam (conspiracy) dobija dva termina u itemu. Takođe 'A-23 had agreed to supply' → 'pristao da ... nabavi' (supply = isporuči/dostavi, ne nabavi).",
+   "suggestion": "'sklopili su zločinački dogovor da ubiju...'; 'A-23 je pristao da isporuči bombe domaće izrade 20. aprila 1983. godine'."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "izostavljena sitnica",
+   "description": "Pasus 4: 'issued wound certificates Ext. P- 3, P-4 and P-5 respectively' → 'izdao potvrde o povredama, dokaze P- 3, P-4 i P-5' - izostavljeno 'respectively' (odnos PW-1→P-3, PW-2→P-4, PW-4→P-5). Pasus 7: 'Visoki sud ... nije trebalo da ukine' (gramatički neusaglašeno, treba 'nije trebalo' → 'nije trebao').",
+   "suggestion": "'... izdao potvrde o povredama, dokaze P-3, P-4 i P-5, redom'; 'Visoki sud ... nije trebao da ukine oslobađajuću presudu'."
+  },
+  {
+   "id": "8GrgmolaHr#0",
+   "severity": "minor",
+   "type": "stil / imena",
+   "description": "Pasus 14: 'iako ne govore o prisustvu optuženih na mjestu događaja, a to je iz razloga što su došli...' - nezgrapna konstrukcija za 'that is for the reason that'. Imena: 'Visokog suda Kerale' (pasus 1) naspram 'države Kerala' (naslov); 'u Trivandrumu' dekliniran iako vodič traži zadržavanje manje poznatih mjesta u izvornom obliku; 'a.m.' svuda 'časova' (gubi se oznaka prije podne, bez uticaja na značenje).",
+   "suggestion": "'iako ne govore o prisustvu optuženih na mjestu događaja, to je zato što su došli nakon što su...'; ujednačiti oblik Kerala/Kerale (npr. 'Visoki sud države Kerala')."
+  }
+ ],
+ "overall_quality": "Prevod je potpun i vjeran: sva 29 novih redova je očuvano, svih 15 pasusa i 8 tačaka za odlučivanje preveden je rečenicu po rečenicu, tokeni (A-1..A-23, P-, D-, Rs.), brojevi, datumi i citati ((1996) 9 SCC 225, 1996 Indlaw SC 2602) tačno se poklapaju; odnos riječi je 0.92, nema ekavizama ni hrvatizama. Registar je odgovarajući ijekavski sudski, a glosar (žalilac, Visoki sud, vijeće (Division Bench), uvaženi zastupnik, optuženi) se uglavnom poštuje; preostaju samo terminološke nedosljednosti (rješenje o oslobađanju / oslobađajuća presuda, stavljena van snage umjesto ukinuta), jedan pravopisni lapsus (djelovi) i tiha dopuna oštećenog citata u pasusu 8."
+}

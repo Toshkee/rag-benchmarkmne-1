@@ -1,0 +1,21 @@
+{
+ "n_blocking": 0,
+ "n_minor": 2,
+ "issues": [
+  {
+   "id": "00199",
+   "severity": "minor",
+   "type": "terminologija/značenje",
+   "description": "Izvor: 'for reasons not enforced by the terms'. Prevod: 'iz razloga koje uslovi ne predviđaju' je prihvatljiv, ali 'uslovi' bez 'korišćenja' odstupa od glosara (uslovi korišćenja).",
+   "suggestion": "'...iz razloga koji nijesu propisani uslovima korišćenja, i to bez navođenja tog razloga.'"
+  },
+  {
+   "id": "00192",
+   "severity": "minor",
+   "type": "format",
+   "description": "Izvor 'good dropbox allows you to leave the service'. Prevod 'Dobro: Dropbox vam dozvoljava...' dodaje dvotačku koje u izvoru nema; ocjena u TOS;DR stilu, ali upit treba ostati kratak.",
+   "suggestion": "'Dobro: Dropbox vam omogućava da napustite uslugu.' (dvotačka prihvatljiva) ili bez dvotačke."
+  }
+ ],
+ "overall_quality": "Prevod je vjeran i potpun: isti skup od 25 _id-ova, brojevi (13, 30, 6) i nazivi očuvani, bez ekavizama i hrvatizama, odnos dužine u granicama. Upiti su zadržali razgovorni, kratak registar uz normalnu ortografiju i obraćanje 'vi'; nema blokirajućih grešaka."
+}
